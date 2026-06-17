@@ -1,0 +1,8 @@
+name = "better-end-21.0.11"
+filename = "better-end-21.0.11.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/better-end-21.0.11.jar"
+hash-format = "sha256"
+hash = "b6300dad6b92eb5810008695e55b615f724b4d082a711c94f0d9941a1784cfd6"

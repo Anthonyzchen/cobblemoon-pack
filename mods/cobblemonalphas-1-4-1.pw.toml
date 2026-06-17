@@ -1,0 +1,8 @@
+name = "cobblemonalphas-1.4.1"
+filename = "cobblemonalphas-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemonalphas-1.4.1.jar"
+hash-format = "sha256"
+hash = "46824524556e227bc2e87c67fa905c491076921595e6aabbfdaefb42a87e2055"

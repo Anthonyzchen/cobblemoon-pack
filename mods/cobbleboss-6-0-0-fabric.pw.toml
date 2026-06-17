@@ -1,0 +1,8 @@
+name = "cobbleboss-6.0.0-fabric"
+filename = "cobbleboss-6.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobbleboss-6.0.0-fabric.jar"
+hash-format = "sha256"
+hash = "a4df1ba41334227fab754509908c74eedd956a97040b7a5898c7536907a48969"

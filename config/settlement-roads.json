@@ -1,0 +1,25 @@
+{
+  "maxLocatingCount": 100,
+  "structureToLocate": "#minecraft:village",
+  "initialLocatingCount": 7,
+  "distanceBetweenBuoys": 25,
+  "averagingRadius": 1,
+  "allowArtificial": true,
+  "allowNatural": true,
+  "placeWaypoints": false,
+  "additionalStructures": [
+    "#cobblemon:gimmi_tower",
+    "#terralith:mage_towers",
+    "terralith:spire",
+    "terralith:desert_outpost",
+    "terralith:valley_lodge",
+    "mega_showdown:observatory",
+    "#kattersstructures:village",
+    "kattersstructures:trader_outposts",
+    "kattersstructures:graveyard"
+  ],
+  "maxElevationPerStep": 8,
+  "maxTerrainInstability": 6,
+  "elevationCostMultiplier": 20,
+  "seaLevelY": 63
+}

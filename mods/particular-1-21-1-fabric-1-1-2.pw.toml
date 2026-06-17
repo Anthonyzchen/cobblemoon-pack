@@ -1,0 +1,8 @@
+name = "particular-1.21.1-Fabric-1.1.2"
+filename = "particular-1.21.1-Fabric-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/particular-1.21.1-Fabric-1.1.2.jar"
+hash-format = "sha256"
+hash = "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"

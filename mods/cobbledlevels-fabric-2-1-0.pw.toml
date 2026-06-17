@@ -1,0 +1,8 @@
+name = "CobbledLevels-fabric-2.1.0"
+filename = "CobbledLevels-fabric-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/CobbledLevels-fabric-2.1.0.jar"
+hash-format = "sha256"
+hash = "60833c4c1bc26e8185e50068e716a94795a53e4120111607a1c17d3a2b811069"

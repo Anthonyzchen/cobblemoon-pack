@@ -1,0 +1,8 @@
+name = "bclib-21.0.13"
+filename = "bclib-21.0.13.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/bclib-21.0.13.jar"
+hash-format = "sha256"
+hash = "c1507799e31b55264197431f1b6139650303b430093c89bb0a2d9901740b5a7c"

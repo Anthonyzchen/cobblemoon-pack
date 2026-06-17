@@ -1,0 +1,1389 @@
+{
+	chapter.01881685805A1C0E.title: "&7Getting Started"
+	chapter.456BE7DE8743E97F.title: "&cTrainer Challenge"
+	chapter.5BAD1A77E2C0B70A.title: "&aDaily Grind"
+	chapter.5FA5FE29E7FA80EC.title: "&6Pokemon Mastery"
+	chapter.72706C1C269B04AC.title: "&bAdventure  Exploration"
+	chapter_group.190153377FA92B55.title: "Pokemon Trainer"
+	chapter_group.193D1970C2DCC96B.title: "Foundation"
+	quest.004DB45E4D12F3AE.quest_desc: [
+		"&f&lGrand Champion &7- Truth is forged on the battlefield. Defeat 100 trainers and Reshiram, the Vast White, will answer."
+		""
+		"&aReward: &fLight Stone&a - use it to summon &fReshiram&a."
+	]
+	quest.004DB45E4D12F3AE.quest_subtitle: "Defeat 100 NPC trainers to claim the Light Stone"
+	quest.004DB45E4D12F3AE.title: "&f&lGrand Champion"
+	quest.0134547D7BF16962.quest_desc: [
+		"Obtain: space helmet, space suit, space pants, space boots."
+		""
+		"&7Gear up. The cold of space is unforgiving to the unprepared."
+		""
+		"&eRewards:&r 8x Great Ball, 5x Sitrus Berry"
+	]
+	quest.0134547D7BF16962.quest_subtitle: "Craft the full Space Suit"
+	quest.0134547D7BF16962.title: "&7Suit Up"
+	quest.02F2E93574CF0D5A.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r 5x Rare Candy, Ability Capsule, Rare Key"
+	]
+	quest.02F2E93574CF0D5A.quest_subtitle: "Register 300 species"
+	quest.02F2E93574CF0D5A.title: "&630% Pokedex"
+	quest.0369F99208AB3922.quest_desc: [
+		"Defeat 10 players in PvP."
+		""
+		"&7Sharpened in the heat of player combat — your tactics evolve with every duel."
+		""
+		"&eRewards:&r 3x Super Potion, 3x Poke Ball"
+	]
+	quest.0369F99208AB3922.quest_subtitle: "Win 10 player battles"
+	quest.0369F99208AB3922.title: "&5PvP Veteran"
+	quest.0670A05E8A334743.quest_desc: [
+		"Catch a wild Ditto."
+		""
+		"&dDitto&r is the universal breeder — transforms into any Pokemon and breeds with nearly any other."
+		""
+		"&eRewards:&r Ditto Residue"
+	]
+	quest.0670A05E8A334743.quest_subtitle: "Catch the shapeshifter for Ditto Residue. Repeatable."
+	quest.0670A05E8A334743.title: "&dCatch a Ditto"
+	quest.07565397A78BC8D0.quest_desc: [
+		"Defeat 50 trainers."
+		""
+		"&7A respected battler. Trainers across the regions know your name."
+		""
+		"&eRewards:&r 1x Bottle Cap"
+	]
+	quest.07565397A78BC8D0.quest_subtitle: "Defeat 50 NPC trainers"
+	quest.07565397A78BC8D0.title: "&cChampion's Path"
+	quest.081FB0920EAE9C57.quest_desc: [
+		"Submit Azelf, Mesprit, and Uxie."
+		""
+		"In return, receive the &8Griseous Orb&r — use it in a mountain biome to summon &8Giratina&r, the lord of antimatter."
+		""
+		"&cThe submitted Pokemon will be consumed. Repeatable.&r"
+	]
+	quest.081FB0920EAE9C57.quest_subtitle: "Submit the Lake Trio for Giratina's orb"
+	quest.081FB0920EAE9C57.title: "&8Lake Trio: Griseous Orb"
+	quest.08EB0D2F9FDEC931.quest_desc: [
+		"Submit Azelf, Mesprit, and Uxie."
+		""
+		"In return, receive the &6Adamant Orb&r — use it in a mountain biome to summon &bDialga&r, the lord of time."
+		""
+		"&cThe submitted Pokemon will be consumed. Repeatable.&r"
+	]
+	quest.08EB0D2F9FDEC931.quest_subtitle: "Submit the Lake Trio for Dialga's orb"
+	quest.08EB0D2F9FDEC931.title: "&bLake Trio: Adamant Orb"
+	quest.094B857933311841.quest_desc: [
+		"&6Unova Gym Challenge&r — &eDifficulty: 6/10&r"
+		""
+		"&7Unova Region&r — The largest gym roster with 13 leaders!"
+		""
+		"Cilan/Chili/Cress > Lenora > Burgh > Elesa > Clay > Skyla > Brycen > Drayden > Cheren > Roxie > Marlon"
+		""
+		"&eStarting level: ~25 | Final level: 92&r"
+		""
+		"&cUse Pokemon around level 25 to start!&r"
+	]
+	quest.094B857933311841.title: "&7Unova Gyms"
+	quest.095BEC0D39088407.quest_desc: [
+		"Catch 100 ice-type."
+		""
+		"&eRewards:&r 8x Dive Ball, Never Melt Ice, 3x Yache Berry"
+	]
+	quest.095BEC0D39088407.quest_subtitle: "Catch 100 Ice-type Pokemon"
+	quest.095BEC0D39088407.title: "&bIce Specialist"
+	quest.0A1B19879380FB60.quest_desc: [
+		"Defeat 25 Pokemon in battle."
+		""
+		"&7Each victory tempers you and your team."
+		""
+		"&eRewards:&r 3x Potion, 2x Revive"
+	]
+	quest.0A1B19879380FB60.quest_subtitle: "Defeat 25 wild Pokemon"
+	quest.0A1B19879380FB60.title: "&7Recruit"
+	quest.0A2B3C4D5E6F7A21.quest_desc: [
+		"&6Unova League&r — &eDifficulty: 7/10&r"
+		""
+		"&7Unova Region&r — Elite Four and Champions!"
+		""
+		"Shauntal/Grimsley/Caitlin/Marshal (83-85) > Champion Alder (90) > Champion Iris (98)"
+		""
+		"&eStarting level: ~83 | Final level: 98&r"
+		""
+		"&cUse Pokemon around level 83 to start!&r"
+	]
+	quest.0A2B3C4D5E6F7A21.title: "&6Unova League"
+	quest.0A2B3C4D5E6F7A31.quest_desc: [
+		"&6Paldea Elite Four&r — &4Difficulty: 9/10&r"
+		""
+		"&7Paldea Region&r — The final challenge! All level 100."
+		""
+		"Rika > Poppy > Larry > Hassel > Champion Geeta"
+		""
+		"&eAll Pokemon: Level 100&r"
+		""
+		"&cThe ultimate test!&r"
+	]
+	quest.0A2B3C4D5E6F7A31.title: "&6Paldea Elite Four"
+	quest.0A2B3C4D5E6F7A40.quest_desc: [
+		"&6Team Plasma&r — &eDifficulty: 6/10&r"
+		""
+		"&7Unova Region&r — We, Team Plasma, stand for liberation!"
+		""
+		"Grunts (50-75) > N (53-90) > Whitley (75)"
+		""
+		"&eStarting level: ~50 | Final level: 90&r"
+		""
+		"&cUse Pokemon around level 50 to start!&r"
+	]
+	quest.0A2B3C4D5E6F7A40.title: "&fTeam Plasma"
+	quest.0D725D39DED24C4B.quest_desc: [
+		"Submit Azelf, Mesprit, and Uxie."
+		""
+		"In return, receive the &dLustrous Orb&r — use it in a mountain biome to summon &dPalkia&r, the lord of space."
+		""
+		"&cThe submitted Pokemon will be consumed. Repeatable.&r"
+	]
+	quest.0D725D39DED24C4B.quest_subtitle: "Submit the Lake Trio for Palkia's orb"
+	quest.0D725D39DED24C4B.title: "&dLake Trio: Lustrous Orb"
+	quest.0E74D84A13119885.quest_desc: [
+		"Defeat 2000 Pokemon in battle."
+		""
+		"&7A true Conqueror. The bond between you and your team is unmatched."
+		""
+		"&eRewards:&r Eternatus Core"
+	]
+	quest.0E74D84A13119885.quest_subtitle: "Defeat 2000 wild Pokemon"
+	quest.0E74D84A13119885.title: "&4&lI Have No Enemies"
+	quest.0FE71451D75C09C3.quest_desc: [
+		"Catch a wild Dragonite."
+		""
+		"&eRewards:&r Jade Orb"
+	]
+	quest.0FE71451D75C09C3.quest_subtitle: "Obtain Dragonite, Garchomp, Salamence, Hydreigon, and Haxorus"
+	quest.0FE71451D75C09C3.title: "&2&lDragon Fan Favs"
+	quest.0FF270D64354AE40.quest_desc: ["Level a Pokémon up to 50."]
+	quest.0FF270D64354AE40.quest_subtitle: "Train a Pokemon to level 50"
+	quest.0FF270D64354AE40.title: "Seasoned Trainer"
+	quest.10B3D679D4682C66.quest_desc: ["Push a Pokémon all the way to 75."]
+	quest.10B3D679D4682C66.quest_subtitle: "Train 6 Pokemon to level 50"
+	quest.10B3D679D4682C66.title: "Elite Powerhouse"
+	quest.112C6128A44CFE13.quest_desc: [
+		"Throw 100 Poke Balls."
+		""
+		"&7A precise throw is the difference between a catch and an escape."
+		""
+		"&eRewards:&r 8x Poke Ball"
+	]
+	quest.112C6128A44CFE13.quest_subtitle: "Throw 100 Poke Balls"
+	quest.112C6128A44CFE13.title: "&bBall Tosser"
+	quest.11B66F230EE94D74.quest_desc: [
+		"Catch every Glacio-exclusive Pokemon to prove mastery of the frozen frontier."
+		""
+		"&fFrigibax, Arctibax, Baxcalibur — Frosmoth — Guzzlord — Roaring Moon."
+		""
+		"&eReward:&r 1x &dMaster Ball"
+	]
+	quest.11B66F230EE94D74.quest_subtitle: "Catch all 6 Glacio Exclusives"
+	quest.11B66F230EE94D74.title: "&bGlacial Apex"
+	quest.144F3A969C9B3377.quest_desc: [
+		"Catch 100 normal-type."
+		""
+		"&eRewards:&r 8x Premier Ball, Silk Scarf, 3x Chilan Berry"
+	]
+	quest.144F3A969C9B3377.quest_subtitle: "Catch 100 Normal-type Pokemon"
+	quest.144F3A969C9B3377.title: "&7Normal Specialist"
+	quest.15FD3B734E9B5FCC.quest_desc: [
+		"&6Pokemon Adventures&r — &eDifficulty: 7/10&r"
+		""
+		"Battle manga protagonists! 17 heroes from Yellow to Red."
+		""
+		"Yellow (50) > Whitley (60) > Crystal/Diamond/Ruby/White (60) > Gold/Pearl/Sapphire/Blake (70) > Silver/Emerald/Platinum/Black (80) > Green (90) > Blue (96) > Red (95)"
+		""
+		"&eStarting level: ~50 | Final level: 96&r"
+		""
+		"&cUse Pokemon around level 50 to start!&r"
+	]
+	quest.15FD3B734E9B5FCC.title: "&aPokemon Adventures"
+	quest.170EF541F71BCCFF.quest_desc: [
+		"Catch 100 rock-type."
+		""
+		"&eRewards:&r 8x Repeat Ball, Hard Stone, 3x Charti Berry"
+	]
+	quest.170EF541F71BCCFF.quest_subtitle: "Catch 100 Rock-type Pokemon"
+	quest.170EF541F71BCCFF.title: "&6Rock Specialist"
+	quest.17E38641F41C069C.quest_desc: [
+		"Complete the quest objective."
+		""
+		"&eRewards:&r 16x Ultra Ball, 3x Rare Candy"
+	]
+	quest.17E38641F41C069C.quest_subtitle: "Obtain Snorlax, Chansey, Lapras, Gengar, Gyarados, and Alakazam"
+	quest.17E38641F41C069C.title: "&6Fan Favorites"
+	quest.185DF13C414B005A.quest_desc: [
+		"Catch 100 psychic-type."
+		""
+		"&eRewards:&r 8x Luxury Ball, Twisted Spoon, 3x Payapa Berry"
+	]
+	quest.185DF13C414B005A.quest_subtitle: "Catch 100 Psychic-type Pokemon"
+	quest.185DF13C414B005A.title: "&dPsychic Specialist"
+	quest.18D08BC59253AB10.quest_desc: [
+		"Trade for 10 Pokemon with other players."
+		""
+		"&7Trading is the heart of the Pokemon community. Build bonds, share rarities."
+	]
+	quest.18D08BC59253AB10.quest_subtitle: "Trade for 10 Pokemon"
+	quest.18D08BC59253AB10.title: "&6Trade Master"
+	quest.18FD53A1836194B1.quest_desc: [
+		"&6&lKanto Champion &7- You have bested the Kanto gyms, the Elite Four, and Champion Terry. Radical Red has been conquered."
+		""
+		"Dr. Fuji's creation stirs. Mewtwo awaits a worthy challenger."
+		""
+		"&aReward: &fDr. Fuji's Diary&a - use it to summon &dMewtwo&a."
+	]
+	quest.18FD53A1836194B1.quest_subtitle: "Defeat Champion Terry to claim Mewtwo's key"
+	quest.18FD53A1836194B1.title: "&c&lKanto Champion"
+	quest.19D2D4A79F186C11.quest_desc: [
+		"Use a Z-move 20 times."
+		""
+		"&7The mark of a true tactician — knowing when to unleash your Pokemon's full power."
+		""
+		"&eRewards:&r 3x Max Revive"
+	]
+	quest.19D2D4A79F186C11.quest_subtitle: "Use Z-Moves 20 times"
+	quest.19D2D4A79F186C11.title: "&eZ-Move Master"
+	quest.1C64C06ABDF44600.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.1C64C06ABDF44600.quest_subtitle: "Register 800 species"
+	quest.1C64C06ABDF44600.title: "&680% Pokedex"
+	quest.1F99F18D4D775D7B.quest_desc: [
+		"Obtain: skeleton skull, zombie head, creeper head, wither skeleton skull, piglin head, dragon head."
+		""
+		"&eRewards:&r Cocoon Of Destruction"
+	]
+	quest.1F99F18D4D775D7B.quest_subtitle: "Collect every mob head"
+	quest.1F99F18D4D775D7B.title: "&4Cocoon of Destruction"
+	quest.1FCE73E6CE0AC333.quest_desc: [
+		"&6Paldea Gym Challenge&r — &4Difficulty: 9/10&r"
+		""
+		"&7Paldea Region&r — All teams at level 100. Pure skill challenge."
+		""
+		"Katy > Brassius > Iono > Kofu > Larry > Ryme > Tulip > Grusha"
+		""
+		"&eAll Pokemon: Level 100&r"
+		""
+		"&cBring your best level 100 team!&r"
+	]
+	quest.1FCE73E6CE0AC333.title: "&ePaldea Gyms"
+	quest.205A75F2377D2582.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.205A75F2377D2582.quest_subtitle: "Register 600 species"
+	quest.205A75F2377D2582.title: "&660% Pokedex"
+	quest.240EDD73333E4ADB.quest_desc: [
+		"Hatch 25 eggs."
+		""
+		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
+		""
+		"&eRewards:&r Exp Share, 8x Love Ball"
+	]
+	quest.240EDD73333E4ADB.quest_subtitle: "Hatch 25 eggs"
+	quest.240EDD73333E4ADB.title: "&fBreeder Pro"
+	quest.244DEB7F6FCFCC98.quest_desc: [
+		"Dynamax a Pokemon 20 times."
+		""
+		"&7The mark of a true tactician — knowing when to unleash your Pokemon's full power."
+		""
+		"&eRewards:&r 3x Max Revive"
+	]
+	quest.244DEB7F6FCFCC98.quest_subtitle: "Dynamax 20 times"
+	quest.244DEB7F6FCFCC98.title: "&dDynamax Master"
+	quest.250225B9028E1E82.quest_desc: [
+		"Obtain: aeternium sword, aeternium pickaxe, aeternium axe."
+		""
+		"&eRewards:&r 1x Exp Candy L, 8x Ultra Ball, 1x Full Restore"
+	]
+	quest.250225B9028E1E82.quest_subtitle: "Craft full Aeternium tools"
+	quest.250225B9028E1E82.title: "&5End Forgemaster"
+	quest.2583117E03F62A92.quest_desc: [
+		"Catch 25 Pokemon by fishing."
+		""
+		"&7A patient angler reels in the rare ones."
+		""
+		"&eRewards:&r 5x Lure Ball, Moomoo Milk, Bottle Cap"
+	]
+	quest.2583117E03F62A92.quest_subtitle: "Catch 25 by fishing"
+	quest.2583117E03F62A92.title: "&9Reel Master"
+	quest.26444C6E558E4616.quest_desc: [
+		"Defeat 1 Elder Guardian."
+		""
+		"&7The deep-sea sentinel falls. Ocean treasures are yours."
+		""
+		"&eRewards:&r 6x Dive Ball, 1x Full Restore, 1x Milk Bucket"
+	]
+	quest.26444C6E558E4616.quest_subtitle: "Defeat an Elder Guardian"
+	quest.26444C6E558E4616.title: "&9Ocean Monument"
+	quest.279E1E91E9AA4EF8.quest_desc: [
+		"&3&lThe Trader's Codex &7- Master every Pokemon that cannot evolve alone. The Sea Crown answers to those who walk this path."
+		""
+		"&7Trade for all 25 trade-locked Pokemon - the species that can only fully evolve through trading."
+		""
+		"&aReward: &fManaphy&a (Lv 50)"
+	]
+	quest.279E1E91E9AA4EF8.quest_subtitle: "Trade for every trade-locked Pokemon"
+	quest.279E1E91E9AA4EF8.title: "&3&lThe Trader's Codex"
+	quest.297A897EAF1CD237.quest_desc: [
+		"Defeat 1 player in PvP."
+		""
+		"&7Sharpened in the heat of player combat — your tactics evolve with every duel."
+		""
+		"&eRewards:&r 3x Red Apricorn, 2x Potion"
+	]
+	quest.297A897EAF1CD237.quest_subtitle: "Defeat another player in battle"
+	quest.297A897EAF1CD237.title: "&eRival Battle"
+	quest.29BACC3A3FD375E3.quest_desc: [
+		"Catch 250 Pokemon by fishing."
+		""
+		"&7The sea has shown you its deepest secrets."
+		""
+		"&eRewards:&r Blue Orb, 16x Dive Ball"
+	]
+	quest.29BACC3A3FD375E3.quest_subtitle: "Fish 250 Pokemon from the deep"
+	quest.29BACC3A3FD375E3.title: "&1&lLeviathan's Lure"
+	quest.2A7DE0CABE5A0001.quest_desc: [
+		"&7A lone Grass/Dark Mythical that guards the deep jungle, fiercely territorial toward intruders."
+		""
+		"&fDefeat &a10,000 zombies&f to prove your dominance over the wild and earn &aZarude's Cape&f — the key that draws Zarude out of hiding."
+	]
+	quest.2A7DE0CABE5A0001.title: "&2The Rogue Monkey's Hunt"
+	quest.2B13CB57BC736BA4.quest_desc: [
+		"Obtain a trident."
+		""
+		"&eRewards:&r 3x Rare Candy, 8x Dive Ball"
+	]
+	quest.2B13CB57BC736BA4.quest_subtitle: "Obtain a trident from the depths"
+	quest.2B13CB57BC736BA4.title: "&bTrident Hunter"
+	quest.2B22E897381CC79D.quest_desc: [
+		"Catch 100 ground-type."
+		""
+		"&eRewards:&r 8x Level Ball, Soft Sand, 3x Shuca Berry"
+	]
+	quest.2B22E897381CC79D.quest_subtitle: "Catch 100 Ground-type Pokemon"
+	quest.2B22E897381CC79D.title: "&6Ground Specialist"
+	quest.2B7227B44F25F454.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.2B7227B44F25F454.quest_subtitle: "Register 500 species"
+	quest.2B7227B44F25F454.title: "&650% Pokedex"
+	quest.2C3B0F840CEDEF75.quest_desc: ["Build a Tier 2 Rocket to cross the asteroid belt and reach the Red Planet."]
+	quest.2C3B0F840CEDEF75.quest_subtitle: "Reach Mars"
+	quest.2C3B0F840CEDEF75.title: "&cMartian Frontier"
+	quest.2D6F043B471E4C9A.quest_desc: [
+		"Catch 100 dark-type."
+		""
+		"&eRewards:&r 8x Luxury Ball, Black Glasses, 3x Colbur Berry"
+	]
+	quest.2D6F043B471E4C9A.quest_subtitle: "Catch 100 Dark-type Pokemon"
+	quest.2D6F043B471E4C9A.title: "&8Dark Specialist"
+	quest.2DCD0C337A6EBA4C.quest_desc: [
+		"Catch 100 water-type."
+		""
+		"&eRewards:&r 8x Net Ball, Mystic Water, 3x Passho Berry"
+	]
+	quest.2DCD0C337A6EBA4C.quest_subtitle: "Catch 100 Water-type Pokemon"
+	quest.2DCD0C337A6EBA4C.title: "&9Water Specialist"
+	quest.2E690E4813A99989.quest_desc: [
+		"Catch 10 Pokemon."
+		""
+		"&eRewards:&r 5x Repeat Ball, 5x Sitrus Berry"
+	]
+	quest.2E690E4813A99989.quest_subtitle: "Catch 10 Pokemon on Mars"
+	quest.2E690E4813A99989.title: "&cIron Dunes"
+	quest.2EA9BDABAB3E332B.quest_desc: [
+		"Throw 500 Poke Balls."
+		""
+		"&7A precise throw is the difference between a catch and an escape."
+		""
+		"&eRewards:&r 16x Great Ball"
+	]
+	quest.2EA9BDABAB3E332B.quest_subtitle: "Throw 500 Poke Balls"
+	quest.2EA9BDABAB3E332B.title: "&bBall Veteran"
+	quest.312D610C0880B58B.quest_desc: [
+		"Complete the quest objective."
+		""
+		"&eRewards:&r Genesect Drive, Shiny Swapper"
+	]
+	quest.312D610C0880B58B.quest_subtitle: "Obtain all 9 Eeveelutions"
+	quest.312D610C0880B58B.title: "&3Eeveelution"
+	quest.319C324E37FC0B2E.quest_desc: [
+		"Revive 15 fossils."
+		""
+		"&7Ancient Pokemon, restored to life. Cradle their bones and they'll fight by your side."
+		""
+		"&eRewards:&r 5x Ancient Ultra Ball, 5x Rare Candy"
+	]
+	quest.319C324E37FC0B2E.quest_subtitle: "Revive 15 fossils"
+	quest.319C324E37FC0B2E.title: "&2Paleontologist"
+	quest.322095744799424A.quest_desc: [
+		"Step through the End Portal and catch 50 Pokemon among the floating isles."
+		""
+		"&eRewards:&r 12x Dream Ball, 5x Payapa Berry, 5x Relic Coin Sack"
+	]
+	quest.322095744799424A.quest_subtitle: "Catch 50 Pokemon in the End"
+	quest.322095744799424A.title: "&5End Wanderer"
+	quest.3490419718BF56B7.quest_desc: ["Reach the level cap — get a Pokémon to 100."]
+	quest.3490419718BF56B7.quest_subtitle: "Max out a Pokemon's level"
+	quest.3490419718BF56B7.title: "Peak Potential"
+	quest.352CD994376CA09F.quest_desc: [
+		"Defeat 1 Wither."
+		""
+		"&7A wither-skull horror, slain. The Nether's deepest fears thin against your blade."
+		""
+		"&eRewards:&r 3x Exp Candy M, 6x Dusk Ball"
+	]
+	quest.352CD994376CA09F.quest_subtitle: "Defeat the Wither"
+	quest.352CD994376CA09F.title: "&8Wither Hunter"
+	quest.35F00C8BB75199B3.quest_desc: [
+		"Catch 10 Pokemon."
+		""
+		"&eRewards:&r 5x Timer Ball, 5x Sitrus Berry"
+	]
+	quest.35F00C8BB75199B3.quest_subtitle: "Catch 10 Pokemon on Venus"
+	quest.35F00C8BB75199B3.title: "&eAcid Skies"
+	quest.378365B7621ABD6C.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.378365B7621ABD6C.quest_subtitle: "Register 400 species"
+	quest.378365B7621ABD6C.title: "&640% Pokedex"
+	quest.3CC76918F57E4F63.quest_desc: [
+		"Obtain: netherite helmet, netherite chestplate, netherite leggings, netherite boots."
+		""
+		"&eRewards:&r 8x Ultra Ball, 1x Bottle Cap, 8x Heavy Ball"
+	]
+	quest.3CC76918F57E4F63.quest_subtitle: "Forge a full set of Netherite armor"
+	quest.3CC76918F57E4F63.title: "&8Netherite Armor"
+	quest.3DDAEC39111B8793.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.3DDAEC39111B8793.quest_subtitle: "Register 700 species"
+	quest.3DDAEC39111B8793.title: "&670% Pokedex"
+	quest.3EDDF140AB06097D.quest_desc: [
+		"Receive 100 Pokemon through trades."
+		""
+		"&6A true Trade Legend. Players come from far to deal with you."
+	]
+	quest.3EDDF140AB06097D.quest_subtitle: "Receive 100 trades"
+	quest.3EDDF140AB06097D.title: "&6&lTrade Legend"
+	quest.3F9A1BAFECB1CE0B.quest_desc: [
+		"Catch 10 Pokemon by fishing."
+		""
+		"&7Cast your line and see what the waters give back."
+		""
+		"&eRewards:&r 3x Blue Apricorn, 3x Sitrus Berry"
+	]
+	quest.3F9A1BAFECB1CE0B.quest_subtitle: "Catch 10 by fishing"
+	quest.3F9A1BAFECB1CE0B.title: "&9Angler"
+	quest.3FFCCBCEE4BD14AB.quest_desc: [
+		"Obtain: 1 beacon, 164 emerald blocks."
+		""
+		"&eRewards:&r Lillies Bag"
+	]
+	quest.3FFCCBCEE4BD14AB.quest_subtitle: "Build a top-tier Emerald Beacon (164 blocks)"
+	quest.3FFCCBCEE4BD14AB.title: "&eBeacon Builder"
+	quest.421F0E365EDDC554.quest_desc: [
+		"Obtain a Zygarde Cube and combine cells + cores to summon &aZygarde&r."
+		""
+		"&aZygarde&r monitors the world's order. Assemble its body — cells and cores will form into the Order Pokemon."
+	]
+	quest.421F0E365EDDC554.quest_subtitle: "Obtain the Zygarde Cube"
+	quest.421F0E365EDDC554.title: "&a&lZygarde Assembly"
+	quest.46D825E6EE4BDF17.quest_desc: [
+		"Defeat 500 Pokemon in battle."
+		""
+		"&7Battle-hardened. Your Pokemon move like extensions of your will."
+		""
+		"&eRewards:&r 3x Full Heal, 3x Max Revive"
+	]
+	quest.46D825E6EE4BDF17.quest_subtitle: "Defeat 500 wild Pokemon"
+	quest.46D825E6EE4BDF17.title: "&cBerserker"
+	quest.482E97E6EE1BC0DD.quest_desc: [
+		"The red planet holds many secrets."
+		""
+		"Catch 50 Pokemon on Mars to prove you've adapted to the Martian frontier."
+		""
+		"&eRewards:&r 12x Repeat Ball, 1x Relic Coin Sack"
+	]
+	quest.482E97E6EE1BC0DD.quest_subtitle: "Catch 50 Pokemon on Mars"
+	quest.482E97E6EE1BC0DD.title: "&cRusted Wastes"
+	quest.48CE2895DB4F83C7.quest_desc: [
+		"&6Radical Red&r — &cDifficulty: 9/10&r"
+		""
+		"Kanto region. Competitive teams, perfect IVs, held items, smart AI. Team Rocket is built into the storyline."
+		""
+		"Brock > Archer > Terry > Misty > Surge > Erika > Koga > Sabrina > Blaine > E4 > Champion"
+		""
+		"&eStarting level: ~14 | Final level: 100&r"
+		""
+		"&cUse Pokemon around level 14 to start!&r"
+	]
+	quest.48CE2895DB4F83C7.title: "&cRadical Red (Kanto)"
+	quest.4960DAF51537E564.quest_desc: ["Register 900 Pokemon in your Pokedex. The Azure Flute will summon Arceus from beyond."]
+	quest.4960DAF51537E564.quest_subtitle: "Register 900 Pokemon"
+	quest.4960DAF51537E564.title: "&6&lThe Original One"
+	quest.4965A7626BA869DF.quest_desc: [
+		"Submit Regirock, Regice, Registeel, Regieleki, and Regidrago."
+		""
+		"In return, receive the &6Ancient Tablet&r — use it in a savanna or Deep Dark biome to summon &eRegigigas&r, the colossal titan."
+		""
+		"&cThe submitted Pokemon will be consumed. Repeatable.&r"
+	]
+	quest.4965A7626BA869DF.quest_subtitle: "Submit all 5 Regis for the Ancient Tablet"
+	quest.4965A7626BA869DF.title: "&6Regi Collector"
+	quest.49BDD106B186298A.quest_desc: [
+		"Defeat 25 trainers."
+		""
+		"&7Build your reputation by challenging trainers wherever you find them."
+		""
+		"&eRewards:&r 3x Full Heal"
+	]
+	quest.49BDD106B186298A.quest_subtitle: "Defeat 25 NPC trainers"
+	quest.49BDD106B186298A.title: "&cTrainer Slayer"
+	quest.4A8C3B5D9F2E1A77.quest_desc: [
+		"&a&lHarvest King &7— Calyrex, the lord of bountiful harvests, demands tribute."
+		""
+		"&7Submit a stack of every crop:"
+		"  &e- 64 Wheat, Carrot, Potato, Beetroot"
+		"  &7- 16 Pumpkin, 16 Melon"
+		"  &d- 64 Sweet Berries, Sugar Cane, Cocoa Beans, Kelp, Nether Wart"
+		""
+		"&aReward: &fReins of Unity&a — use it to summon &dCalyrex&a."
+		""
+		"&cAll crops will be consumed."
+	]
+	quest.4A8C3B5D9F2E1A77.quest_subtitle: "Submit every crop to Calyrex"
+	quest.4A8C3B5D9F2E1A77.title: "&a&lHarvest King"
+	quest.4B93D33B9EE42815.quest_desc: [
+		"Revive 5 fossils."
+		""
+		"&7Ancient Pokemon, restored to life. Cradle their bones and they'll fight by your side."
+		""
+		"&eRewards:&r 5x Ancient Great Ball, 3x Rare Candy"
+	]
+	quest.4B93D33B9EE42815.quest_subtitle: "Revive 5 ancient Pokemon"
+	quest.4B93D33B9EE42815.title: "&2Fossil Reviver"
+	quest.4C12C18FF68CDCFB.quest_desc: [
+		"&6Hoenn Gym Challenge&r — &eDifficulty: 5/10&r"
+		""
+		"&7Hoenn Region&r — 8 Gym Leaders from Ruby/Sapphire."
+		""
+		"Roxanne > Brawly > Wattson > Flannery > Norman > Winona > Liza > Wallace"
+		""
+		"&eStarting level: ~28 | Final level: 70&r"
+		""
+		"&cUse Pokemon around level 28 to start!&r"
+	]
+	quest.4C12C18FF68CDCFB.title: "&9Hoenn Gyms"
+	quest.4CAA0C42D9F878DC.quest_desc: [
+		"Mega-evolve a Pokemon 20 times."
+		""
+		"&7The mark of a true tactician — knowing when to unleash your Pokemon's full power."
+		""
+		"&eRewards:&r 3x Max Revive"
+	]
+	quest.4CAA0C42D9F878DC.quest_subtitle: "Mega Evolve 20 times"
+	quest.4CAA0C42D9F878DC.title: "&5Mega Master"
+	quest.4CF38712A6C7622A.quest_desc: [
+		"&6Kalos Gym Challenge&r — &4Difficulty: 8/10&r"
+		""
+		"Endgame gauntlet! All leaders at level 90-99 with competitive teams."
+		""
+		"Viola (90) > Grant (94) > Korrina (95) > Ramos (96) > Clemont (97) > Valerie (98) > Olympia (98) > Wulfric (99)"
+		""
+		"&eStarting level: ~90 | Final level: 99&r"
+		""
+		"&cEndgame series. Use Pokemon around level 90!&r"
+	]
+	quest.4CF38712A6C7622A.title: "&dKalos Gyms"
+	quest.4D76A414AED0679B.quest_desc: [
+		"Catch 100 fire-type."
+		""
+		"&eRewards:&r 8x Timer Ball, Charcoal Stick, 3x Occa Berry"
+	]
+	quest.4D76A414AED0679B.quest_subtitle: "Catch 100 Fire-type Pokemon"
+	quest.4D76A414AED0679B.title: "&cFire Specialist"
+	quest.4DC83CC8EEDDFD4E.quest_desc: [
+		"&6Team Magma&r — &eDifficulty: 6/10&r"
+		""
+		"&7Hoenn Region&r — Team Magma operates in the Nether!"
+		""
+		"Grunts (65-75) > Admins (78-80) > Leader Maxie (85)"
+		""
+		"&eStarting level: ~65 | Final level: 85&r"
+		""
+		"&cUse Pokemon around level 65 to start!&r"
+	]
+	quest.4DC83CC8EEDDFD4E.title: "&4Team Magma"
+	quest.4DEEE9973F766536.quest_desc: [
+		"Catch 100 flying-type."
+		""
+		"&eRewards:&r 8x Fast Ball, Sharp Beak, 3x Coba Berry"
+	]
+	quest.4DEEE9973F766536.quest_subtitle: "Catch 100 Flying-type Pokemon"
+	quest.4DEEE9973F766536.title: "&7Flying Specialist"
+	quest.4E4FE0C64551E44B.quest_desc: [
+		"Collect 10 Zygarde Cells."
+		""
+		"&aCells&r are scattered across underground biomes — caves, deep dark, strongholds. Each one is a fragment of Zygarde."
+	]
+	quest.4E4FE0C64551E44B.quest_subtitle: "Collect 10 Zygarde Cells"
+	quest.4E4FE0C64551E44B.title: "&aCell Seeker"
+	quest.4EDCC7C43DEB669B.quest_desc: ["Level a Pokémon up to 15. Progress tracks the highest level any single Pokémon reaches — battling or candy both count."]
+	quest.4EDCC7C43DEB669B.quest_subtitle: "Train a Pokemon to level 15"
+	quest.4EDCC7C43DEB669B.title: "Rising Star"
+	quest.4F1803C3763A25AB.quest_desc: [
+		"Obtain: aeronos mushroom, strophar mushroom, glacian leaves, glacian fur."
+		""
+		"&7Catalog the strange life that thrives where Earth's seeds cannot."
+		""
+		"&eRewards:&r 1x Relic Coin Sack, 8x Safari Ball, 5x Sitrus Berry"
+	]
+	quest.4F1803C3763A25AB.quest_subtitle: "Collect alien plants from Moon and Glacio"
+	quest.4F1803C3763A25AB.title: "&aSpace Botanist"
+	quest.4FE12C0922860255.quest_desc: [
+		"Obtain all 4 trade-evolution Pokemon: Kadabra, Machoke, Graveler, Haunter."
+		""
+		"&7Some Pokemon only evolve when traded. Show your friends — or trade with yourself via a shared world."
+	]
+	quest.4FE12C0922860255.quest_subtitle: "Get all 4 trade-evolve Pokemon"
+	quest.4FE12C0922860255.title: "&6Trade Evolutions"
+	quest.501CCCA03C79F9BA.quest_desc: [
+		"&7Meloetta is drawn to song. Trace every melody buried in dungeons, traded by villagers, and dropped by Creepers struck by Skeleton arrows."
+		""
+		"&7Bring all 18 music discs to the Daycare to summon the Melody Pokemon."
+		""
+		"&8(Discs are not consumed — keep your collection.)"
+	]
+	quest.501CCCA03C79F9BA.quest_subtitle: "Collect every Minecraft music disc"
+	quest.501CCCA03C79F9BA.title: "&dThe Melody Maker"
+	quest.513871E7A8DC804B.quest_desc: [
+		"The scorching surface of Venus is home to resilient Pokemon."
+		""
+		"Catch 50 to prove you can handle the heat."
+		""
+		"&eRewards:&r 12x Timer Ball, 1x Relic Coin Sack"
+	]
+	quest.513871E7A8DC804B.quest_subtitle: "Catch 50 Pokemon on Venus"
+	quest.513871E7A8DC804B.title: "&eSulfur Bloom"
+	quest.525F086327BE0BDC.quest_desc: [
+		"Complete 25 Pokemon trades."
+		""
+		"&7An active member of the trading community. Your collection grows through exchange."
+	]
+	quest.525F086327BE0BDC.quest_subtitle: "Trade 25 Pokemon"
+	quest.525F086327BE0BDC.title: "&7Social Trader"
+	quest.543B3B609C60F40C.quest_desc: [
+		"Brave the heat of the Nether and catch 50 native Pokemon."
+		""
+		"&eRewards:&r 12x Dusk Ball, 5x Occa Berry, 2x Relic Coin Sack"
+	]
+	quest.543B3B609C60F40C.quest_subtitle: "Catch 50 Pokemon in the Nether"
+	quest.543B3B609C60F40C.title: "&4Nether Scorched"
+	quest.54F51AFE6C5F7936.quest_desc: [
+		"Obtain all 19 flowers: dandelion, poppy, blue orchid, allium, azure bluet, 4 tulips (red/orange/white/pink), oxeye daisy, cornflower, lily of the valley, wither rose, sunflower, lilac, rose bush, peony, torchflower, pitcher plant."
+		""
+		"&eRewards:&r Oaks Letter"
+	]
+	quest.54F51AFE6C5F7936.quest_subtitle: "Collect every flower in the world"
+	quest.54F51AFE6C5F7936.title: "&aFlower Bouquet"
+	quest.5509368A75B28DD6.quest_desc: [
+		"Defeat 200 Pokemon in battle."
+		""
+		"&7Each victory tempers you and your team."
+		""
+		"&eRewards:&r 3x Moomoo Milk, Max Revive"
+	]
+	quest.5509368A75B28DD6.quest_subtitle: "Defeat 200 wild Pokemon"
+	quest.5509368A75B28DD6.title: "&cVeteran"
+	quest.5846C86EB65458D8.quest_desc: [
+		"Master null-gravity travel. Equip the Jet Suit set, ankle to crown."
+		""
+		"&eRewards:&r 3x Beast Ball"
+	]
+	quest.5846C86EB65458D8.quest_subtitle: "Equip the full Jet Suit set"
+	quest.5846C86EB65458D8.title: "&8Zero-G Pioneer"
+	quest.5A511A6500000000.quest_desc: [
+		"&7The Fairy legend said to share eternal life with the forest, its antlers shining in seven colors."
+		""
+		"&fGather a sapling of every tree &7(and every Apricorn)&f to receive the &aSapling of Life&f and call upon Xerneas."
+	]
+	quest.5A511A6500000000.title: "&dSaplings of Life"
+	quest.5BAD1A77AAAA0001.quest_desc: [
+		"&a&lDefeat any NPC trainer to unlock today's daily quests.&r"
+		""
+		"&c&lResets every 24h.&r &7You must defeat a trainer each day before today's grind unlocks. RCT-mod trainers count automatically."
+		""
+		"&7Relic Coins are the currency of trainers — earn them through daily activities, trainer battles, and looting. Spend them at various merchants around the map or save up for crate keys!"
+		""
+		"&6&lStorage tip:&r &7Compact 9 coins → 1 &6Relic Coin Pouch&7, and 9 pouches → 1 &6Relic Coin Sack&7. A single sack-stack holds 5,184 coins. Decompact before spending."
+	]
+	quest.5BAD1A77AAAA0001.quest_subtitle: "Defeat any trainer to unlock today's grind"
+	quest.5BAD1A77AAAA0001.title: "&a&lDaily Trainer Check-in"
+	quest.5BAD1A77AAAA0003.quest_desc: [
+		"&aDefeat 3 trainers."
+		""
+		"&7+25 Relic Coins"
+		"&7Resets daily."
+	]
+	quest.5BAD1A77AAAA0003.quest_subtitle: "+25 Coins (Daily)"
+	quest.5BAD1A77AAAA0003.title: "&aDaily Battle"
+	quest.5BAD1A77AAAA0004.quest_desc: [
+		"&aDefeat 10 wild Pokemon."
+		""
+		"&7+20 Relic Coins"
+		"&7Resets daily."
+	]
+	quest.5BAD1A77AAAA0004.quest_subtitle: "+20 Coins (Daily)"
+	quest.5BAD1A77AAAA0004.title: "&aWild Sweep"
+	quest.5BAD1A77AAAA0007.quest_desc: [
+		"&6The big haul."
+		""
+		"&aCatch 75 Pokemon."
+		""
+		"&7+200 Relic Coins"
+		"&7Resets weekly."
+	]
+	quest.5BAD1A77AAAA0007.quest_subtitle: "+200 Coins (Long grind)"
+	quest.5BAD1A77AAAA0007.title: "&6Weekly Mega-Catch"
+	quest.5BAD1A77AAAA0008.quest_desc: [
+		"&aCatch 5 wild Pokemon."
+		""
+		"&7+25 &6Relic Coins"
+		"&7Resets daily."
+	]
+	quest.5BAD1A77AAAA0008.quest_subtitle: "+25 Coins (Daily)"
+	quest.5BAD1A77AAAA0008.title: "&aDaily Catch"
+	quest.5BAD1A77AAAA0009.quest_desc: [
+		"&dWin 1 PvP battle."
+		""
+		"&7+30 &6Relic Coins"
+		"&7Resets daily."
+	]
+	quest.5BAD1A77AAAA0009.quest_subtitle: "+30 Coins (Daily)"
+	quest.5BAD1A77AAAA0009.title: "&dDaily PvP Win"
+	quest.5BAD2A77AAAA0001.quest_desc: [
+		"&aTrade 1 Relic Coin Sack (81 coins) for a Common shadowcrate key."
+		""
+		"&7Compact 9 coins → pouch, 9 pouches → sack."
+	]
+	quest.5BAD2A77AAAA0001.quest_subtitle: "Trade 1 Relic Coin Sack for a Common Key"
+	quest.5BAD2A77AAAA0001.title: "&aCommon Key Exchange"
+	quest.5BAD2A77AAAA0002.quest_desc: [
+		"&2Trade 2 Relic Coin Sacks (162 coins) for an Uncommon shadowcrate key."
+		""
+		"&7Compact 9 coins → pouch, 9 pouches → sack."
+	]
+	quest.5BAD2A77AAAA0002.quest_subtitle: "Trade 2 Relic Coin Sacks for an Uncommon Key"
+	quest.5BAD2A77AAAA0002.title: "&2Uncommon Key Exchange"
+	quest.5BAD2A77AAAA0004.quest_desc: [
+		"&9Trade 6 Relic Coin Sacks (486 coins) for a Rare shadowcrate key."
+		""
+		"&c&lRequires 30% Pokedex (300 species caught).&r"
+		""
+		"&7Compact 9 coins → pouch, 9 pouches → sack."
+	]
+	quest.5BAD2A77AAAA0004.quest_subtitle: "Trade 6 Relic Coin Sacks for a Rare Key"
+	quest.5BAD2A77AAAA0004.title: "&9Rare Key Exchange"
+	quest.5BAD2A77AAAA0006.quest_desc: [
+		"&5Trade 15 Relic Coin Sacks (1,215 coins) for an Epic shadowcrate key."
+		""
+		"&c&lRequires 60% Pokedex (600 species caught).&r"
+		""
+		"&7Compact 9 coins → pouch, 9 pouches → sack."
+	]
+	quest.5BAD2A77AAAA0006.quest_subtitle: "Trade 15 Relic Coin Sacks for an Epic Key"
+	quest.5BAD2A77AAAA0006.title: "&5Epic Key Exchange"
+	quest.5BAD2A77AAAA0008.quest_desc: [
+		"&6Trade 40 Relic Coin Sacks (3,240 coins) for a Legendary shadowcrate key."
+		""
+		"&c&lRequires Arceus capstone (900 species caught).&r"
+		""
+		"&7Compact 9 coins → pouch, 9 pouches → sack."
+	]
+	quest.5BAD2A77AAAA0008.quest_subtitle: "Trade 40 Relic Coin Sacks for a Legendary Key"
+	quest.5BAD2A77AAAA0008.title: "&6Legendary Key Exchange"
+	quest.5BAD3A77AAAA0001.quest_desc: [
+		"&aThe Daycare opens its doors."
+		""
+		"&7Some Pokemon are too young to be found in the wild. Earn them as gifts here."
+		""
+		"&aCatch 10 unique species to qualify."
+	]
+	quest.5BAD3A77AAAA0001.quest_subtitle: "Catch 10 species"
+	quest.5BAD3A77AAAA0001.title: "&aTrainer's Daycare License"
+	quest.5BAD3A77AAAA0002.quest_desc: [
+		"&7An old Daycare ritual — pass your starter's lineage forward."
+		""
+		"&7The keeper accepts a trainer's first companion in exchange for a &ePichu egg&7."
+		""
+		"&cWarning: submission is permanent."
+	]
+	quest.5BAD3A77AAAA0002.quest_subtitle: "Submit any starter Pokemon for a Pichu egg"
+	quest.5BAD3A77AAAA0002.title: "&dBaby Pichu"
+	quest.5BAD3A77AAAA0003.quest_desc: [
+		"&7Mr. Mime moves through the world unheard, every step a quiet performance."
+		""
+		"&7Walk &e500 blocks while sneaking&7 to earn a &dMime Jr. egg&7."
+	]
+	quest.5BAD3A77AAAA0003.quest_subtitle: "Sneak 500 blocks"
+	quest.5BAD3A77AAAA0003.title: "&dBaby Mime Jr."
+	quest.5BAD3A77AAAA0004.quest_desc: [
+		"&7Tyrogue trains relentlessly. Win a &c6-on-6 PvP battle&7 against another player &cwithout losing a single Pokemon&7."
+		""
+		"&7Post a screenshot to claim your &6Tyrogue egg&7."
+		""
+		"&8(Honor system.)"
+	]
+	quest.5BAD3A77AAAA0004.quest_subtitle: "Win a flawless 6v6 PvP — post a screenshot"
+	quest.5BAD3A77AAAA0004.title: "&dBaby Tyrogue"
+	quest.5BAD3A77AAAA0005.quest_desc: ["&7Munchlax devours anything within reach. Match its dedication."]
+	quest.5BAD3A77AAAA0005.quest_subtitle: "Eat 100 cake slices"
+	quest.5BAD3A77AAAA0005.title: "&dBaby Munchlax"
+	quest.5BAD3A77AAAA0006.quest_desc: [
+		"&dToxtricity has two evolutions: Amped (Adamant) and Low Key (Calm)."
+		""
+		"&7Submit:"
+		"  &e- 1 Lightning Rod (Amped/electric energy)"
+		"  &5- 1 Potion (Low Key/toxic essence)"
+		""
+		"&aIn return, receive a Toxel egg."
+	]
+	quest.5BAD3A77AAAA0006.quest_subtitle: "Submit a Lightning Rod and a Potion for a Toxel egg"
+	quest.5BAD3A77AAAA0006.title: "&dBaby Toxel"
+	quest.5BAD3A77AAAA0007.quest_desc: [
+		"&7Meltan is the &fHex Nut Pokemon&7 — it dissolves and consumes metal to grow."
+		""
+		"&7Slay 100 Iron Golems and offer their iron remnants. Meltan will be drawn to your hoard."
+		""
+		"&aReward: &dMystery Box&a — use it in any biome to summon &fMeltan&a."
+	]
+	quest.5BAD3A77AAAA0007.quest_subtitle: "Kill 100 Iron Golems for the Mystery Box"
+	quest.5BAD3A77AAAA0007.title: "&7&lHex Nut Hunger"
+	quest.5BAD4B77AAAA0001.quest_desc: [
+		"&d&lProject Mewtwo &7— Dr. Fuji's research has resumed in secret."
+		""
+		"&7Submit:"
+		"  &d- 1 Mew (the genetic source)"
+		"  &7- 10 Ditto Residue (cloning samples)"
+		""
+		"&aReward: &fDr. Fuji's Diary&a — use it to summon &dMewtwo&a."
+		""
+		"&cThe Mew and Ditto Residue will be consumed. Repeatable."
+	]
+	quest.5BAD4B77AAAA0001.quest_subtitle: "Clone a Mewtwo from Mew + 10 Ditto Residue"
+	quest.5BAD4B77AAAA0001.title: "&d&lProject Mewtwo"
+	quest.5BAD4C77AAAA0001.quest_desc: [
+		"&eA Shine in the Sky &7— catch 100 shiny Pokemon and your wish will be granted."
+		""
+		"&7Jirachi, the Wish Pokemon, awakens once every thousand years. Each shiny you catch is a star in its sleeping eye."
+		""
+		"&aReward: &fBonus Disk&a — use it in a magical biome to summon &eJirachi&a."
+	]
+	quest.5BAD4C77AAAA0001.quest_subtitle: "Catch 100 shiny Pokemon to summon Jirachi"
+	quest.5BAD4C77AAAA0001.title: "&e&lA Shine in the Sky"
+	quest.5BAD4D77AAAA0001.quest_desc: [
+		"&d&lGenesis of All &7- Mew is the ancestor of every Pokemon and contains the DNA of all types. Feed it one of each elemental family to awaken it."
+		""
+		"&7Submit one Pokemon of each of the 18 types, each at level 50 or higher."
+		""
+		"&aReward: &fOld Sea Map&a - sail to Faraway Island and meet &dMew&a."
+		""
+		"&cAll submitted Pokemon will be consumed. Repeatable."
+	]
+	quest.5BAD4D77AAAA0001.quest_subtitle: "Submit one level 50+ Pokemon of each of the 18 types"
+	quest.5BAD4D77AAAA0001.title: "&d&lGenesis of All"
+	quest.5BAD4E77AAAA0001.quest_desc: [
+		"Defeat 1000 Pokemon in battle."
+		""
+		"&7A true Conqueror. The bond between you and your team is unmatched."
+		""
+		"&eRewards:&r 6x Max Revive, 6x Max Potions"
+	]
+	quest.5BAD4E77AAAA0001.quest_subtitle: "Defeat 1000 wild Pokemon"
+	quest.5BAD4E77AAAA0001.title: "&4Conqueror"
+	quest.5BAD4F77AAAA0001.quest_desc: [
+		"Defeat 5 Pokemon in battle."
+		""
+		"&7Each victory tempers you and your team."
+		""
+		"&eRewards:&r 3x Berry Juice, Revive"
+	]
+	quest.5BAD4F77AAAA0001.quest_subtitle: "Defeat 5 wild Pokemon"
+	quest.5BAD4F77AAAA0001.title: "&cFirst Blood"
+	quest.5BAD5577AAAA0001.quest_desc: [
+		"&5&lSweet Subjugation &7— Pecharunt's mochi controls all who taste it."
+		""
+		"&7Submit:"
+		"  &d- 100 Rare Candies (the sweetest tribute)"
+		""
+		"&aReward: &fMythical Pecha Berry&a — use it to summon &5Pecharunt&a."
+		""
+		"&cAll 100 Rare Candies will be consumed."
+	]
+	quest.5BAD5577AAAA0001.quest_subtitle: "Trade 100 Rare Candies to summon Pecharunt"
+	quest.5BAD5577AAAA0001.title: "&5&lSweet Subjugation"
+	quest.5BAD5C77AAAA0001.quest_desc: [
+		"Submit all 71 Cobblemon berries."
+		""
+		"&eRewards:&r GS Ball"
+	]
+	quest.5BAD5C77AAAA0001.quest_subtitle: "Collect every Cobblemon berry"
+	quest.5BAD5C77AAAA0001.title: "&2Forest Guardian"
+	quest.5BAD6177AAAA0001.quest_desc: [
+		"&c&lContinental Carve &7— Groudon's body emerged from the earth's depths, carving the continents from molten stone."
+		""
+		"&7Submit:"
+		"  &8- 100,000 Cobblestone"
+		""
+		"&aReward: &fRed Orb&a — use it to summon &cGroudon&a."
+		""
+		"&cAll cobblestone will be consumed."
+	]
+	quest.5BAD6177AAAA0001.quest_subtitle: "Mine 100,000 cobblestone to summon Groudon"
+	quest.5BAD6177AAAA0001.title: "&c&lContinental Carve"
+	quest.5BAD6277AAAA0001.quest_desc: [
+		"&f&lThe Unearthed Truth &7- Reshiram is the truth of the original dragon. To claim its stone, witness the ancient past made flesh."
+		""
+		"&7Catch all 10 Ancient Paradox Pokemon:"
+		"  &8- Great Tusk, Brute Bonnet, Flutter Mane, Scream Tail, Slither Wing"
+		"  &8- Sandy Shocks, Roaring Moon, Walking Wake, Gouging Fire, Raging Bolt"
+		""
+		"&aReward: &fLight Stone&a - use it to summon &fReshiram&a."
+	]
+	quest.5BAD6277AAAA0001.quest_subtitle: "Catch all 10 Ancient Paradox Pokemon"
+	quest.5BAD6277AAAA0001.title: "&f&lThe Unearthed Truth"
+	quest.5BAD6377AAAA0001.quest_desc: [
+		"&8&lThe Forged Future &7- Zekrom is the ideal of the original dragon. To claim its stone, gather the machines of a future yet to come."
+		""
+		"&7Catch every obtainable Future Paradox Pokemon:"
+		"  &8- Iron Treads, Iron Bundle, Iron Moth, Iron Thorns"
+		"  &8- Iron Valiant, Iron Leaves, Iron Crown"
+		""
+		"&aReward: &fDark Stone&a - use it to summon &8Zekrom&a."
+	]
+	quest.5BAD6377AAAA0001.quest_subtitle: "Catch all 7 Future Paradox Pokemon"
+	quest.5BAD6377AAAA0001.title: "&8&lThe Forged Future"
+	quest.5BAD6477AAAA0001.quest_desc: [
+		"&b&lThrough the Wormhole &7- Necrozma hungers for the light of Ultra Space. Hunt down every Ultra Beast that has crossed into this world."
+		""
+		"&7Catch every obtainable Ultra Beast:"
+		"  &8- Blacephalon, Buzzwole, Guzzlord, Kartana, Naganadel"
+		"  &8- Nihilego, Poipole, Stakataka, Xurkitree"
+		""
+		"&aReward: &fNecrozma Prism&a - use it to summon &bNecrozma&a."
+	]
+	quest.5BAD6477AAAA0001.quest_subtitle: "Catch all 9 Ultra Beasts"
+	quest.5BAD6477AAAA0001.title: "&b&lThrough the Wormhole"
+	quest.5BAD6577AAAA0001.quest_desc: [
+		"&3&lThe Original Dragon &7- Kyurem is the empty husk of the dragon that Reshiram and Zekrom broke away from. Feed it the whole fractured timeline to make the husk whole again."
+		""
+		"&7Submit every obtainable Paradox Pokemon - all 10 Ancient and all 7 Future."
+		""
+		"&cThe submitted Paradox Pokemon will be consumed."
+		""
+		"&aReward: &fDNA Splicer&a - carry it to find &3Kyurem&a in frozen biomes, then make your own dna splicers to fuse Black or White Kyurem."
+	]
+	quest.5BAD6577AAAA0001.quest_subtitle: "Submit all 17 Paradox Pokemon to revive the husk"
+	quest.5BAD6577AAAA0001.title: "&3&lThe Original Dragon"
+	quest.5BAD6677AAAA0001.quest_desc: [
+		"&c&lWhere Fire Meets Water &7- Volcanion is the only Fire and Water Pokemon, born where the two extremes collide. Prove you can conquer both realms."
+		""
+		"&7Submit:"
+		"  &8- 16 Wet Sponge &7(from an Ocean Monument)"
+		"  &8- 16 Wither Skeleton Skulls &7(from a Nether Fortress)"
+		""
+		"&aReward: &fSteam Valve&a - use it to summon &cVolcanion&a."
+		""
+		"&cAll submitted items will be consumed."
+	]
+	quest.5BAD6677AAAA0001.quest_subtitle: "Submit 16 Wet Sponge and 16 Wither Skeleton Skulls to summon Volcanion"
+	quest.5BAD6677AAAA0001.title: "&c&lWhere Fire Meets Water"
+	quest.5BAD6777AAAA0001.quest_desc: [
+		"&b&lThe Synthetic Heart &7- Magearna was built five hundred years ago, a Pokemon of pure machinery given a soul. Assemble its body from the finest engineering."
+		""
+		"&7Submit:"
+		"  &8- 1 Gravity Normalizer"
+		"  &8- 1 Energizer"
+		"  &8- 1 Cryo Freezer"
+		""
+		"&aReward: &fSoul-Heart&a - use it to summon &bMagearna&a."
+		""
+		"&cAll submitted machines will be consumed."
+	]
+	quest.5BAD6777AAAA0001.quest_subtitle: "Submit 3 advanced Ad Astra machines to assemble Magearna"
+	quest.5BAD6777AAAA0001.title: "&b&lThe Synthetic Heart"
+	quest.5BAD6877AAAA0001.quest_desc: [
+		"&8&lThe Shadow's Brood &7- Marshadow is the smallest of legendaries, a shadow that slips into the spaces between. To call it from hiding, gather every Pokemon still young enough to fit in those spaces."
+		""
+		"&7Obtain all 19 Baby Pokemon: Pichu, Cleffa, Igglybuff, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut, Budew, Chingling, Bonsly, Mime Jr., Happiny, Munchlax, Riolu, Mantyke, Toxel. Any source counts - wild catches, breeding, trades, crates."
+		""
+		"&aReward: &fMarshadow Hood&a - use it to summon &8Marshadow&a."
+	]
+	quest.5BAD6877AAAA0001.quest_subtitle: "Obtain all 19 Baby Pokemon"
+	quest.5BAD6877AAAA0001.title: "&8&lThe Shadow's Brood"
+	quest.5C994F5D37A935BE.quest_desc: [
+		"Obtain a NASA Workbench."
+		""
+		"&7Gear up. The cold of space is unforgiving to the unprepared."
+		""
+		"&eRewards:&r Exp Candy S, 5x Great Ball"
+	]
+	quest.5C994F5D37A935BE.quest_subtitle: "Craft the key to the cosmos"
+	quest.5C994F5D37A935BE.title: "&7NASA Workbench"
+	quest.5D1515BCB7D31EC2.quest_desc: [
+		"&6Team Aqua&r — &eDifficulty: 6/10&r"
+		""
+		"&7Hoenn Region&r — Team Aqua terrorizes the seas! Find them near water and beaches."
+		""
+		"Grunts (65-75) > Admins (79-80) > Leader Archie (85)"
+		""
+		"&eStarting level: ~65 | Final level: 85&r"
+		""
+		"&cUse Pokemon around level 65 to start!&r"
+	]
+	quest.5D1515BCB7D31EC2.title: "&3Team Aqua"
+	quest.5D4A0E1100000002.quest_subtitle: "Catch 10 Pokemon on Verdara"
+	quest.5D4A0E1100000002.title: "&aVerdara Forager"
+	quest.5D4A0E1100000003.quest_subtitle: "Catch 50 Pokemon on Verdara"
+	quest.5D4A0E1100000003.title: "&2Verdara Naturalist"
+	quest.5DC9F1733B1A4065.quest_desc: [
+		"Throw 2000 Poke Balls."
+		""
+		"&7A precise throw is the difference between a catch and an escape."
+		""
+		"&eRewards:&r Master Ball"
+	]
+	quest.5DC9F1733B1A4065.quest_subtitle: "Throw 2000 Poke Balls"
+	quest.5DC9F1733B1A4065.title: "&3&lMaster Pitcher"
+	quest.5DD89FF9EF4B12B2.quest_desc: [
+		"&6Starfall Street&r — &4Difficulty: 8/10&r"
+		""
+		"&7Paldea Region&r — Take on the bosses of Team Star!"
+		""
+		"Mela (92) > Atticus (92) > Giacomo (95) > Ortega (95) > Eri (96) > Cassiopeia (100)"
+		""
+		"&eStarting level: ~92 | Final level: 100&r"
+		""
+		"&cEndgame series. Bring a strong team!&r"
+	]
+	quest.5DD89FF9EF4B12B2.title: "&5Starfall Street"
+	quest.5E13BA37B2BD32DB.quest_desc: [
+		"Catch 100 grass-type."
+		""
+		"&eRewards:&r 8x Nest Ball, Miracle Seed, 3x Rindo Berry"
+	]
+	quest.5E13BA37B2BD32DB.quest_subtitle: "Catch 100 Grass-type Pokemon"
+	quest.5E13BA37B2BD32DB.title: "&aGrass Specialist"
+	quest.5F1FE90A031AA2FA.quest_desc: [
+		"Catch 3 Pokemon by fishing."
+		""
+		"&7Cast your line and see what the waters give back."
+		""
+		"&eRewards:&r 3x Blue Apricorn Seed, 3x Oran Berry"
+	]
+	quest.5F1FE90A031AA2FA.quest_subtitle: "Catch 3 by fishing"
+	quest.5F1FE90A031AA2FA.title: "&9Caster"
+	quest.5F8B2E91A7C4D63E.quest_desc: [
+		"If the Ender Dragon was already slain before you arrived - or by another player - and you want your own chance to face it, take these supplies."
+		""
+		"Place one End Crystal on each of the four central obsidian pillars surrounding the bedrock fountain. The dragon will respawn."
+		""
+		"§7Honor system: only claim this quest if you have not yet defeated the Ender Dragon yourself.§r"
+	]
+	quest.5F8B2E91A7C4D63E.quest_subtitle: "Get a second chance at the Ender Dragon fight"
+	quest.5F8B2E91A7C4D63E.title: "Respawn the Dragon"
+	quest.616506C6DBCB447E.quest_desc: [
+		"&6&lUnova Champion &7- Champion Iris and all of Unova have fallen to your team. The dragon of ideals stirs."
+		""
+		"The dragon of ideals awakens."
+		""
+		"&aReward: &fDark Stone&a - use it to summon &8Zekrom&a."
+	]
+	quest.616506C6DBCB447E.quest_subtitle: "Defeat Champion Iris to claim Zekrom's key"
+	quest.616506C6DBCB447E.title: "&8&lUnova Champion"
+	quest.635C39AF71BB4FC0.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r 3x IV Randomizer, 5x Rare Candy, Uncommon Key"
+	]
+	quest.635C39AF71BB4FC0.quest_subtitle: "Register 200 species"
+	quest.635C39AF71BB4FC0.title: "&620% Pokedex"
+	quest.668B92821BCBD8A0.quest_desc: [
+		"&6Sinnoh Gym Challenge&r — &eDifficulty: 5/10&r"
+		""
+		"&7Sinnoh Region&r — Classic Diamond/Pearl gym run."
+		""
+		"Roark > Gardenia > Fantina > Maylene > Crasher Wake > Byron > Candice > Volkner"
+		""
+		"&eStarting level: ~30 | Final level: 72&r"
+		""
+		"&cUse Pokemon around level 30 to start!&r"
+	]
+	quest.668B92821BCBD8A0.title: "&bSinnoh Gyms"
+	quest.66E9CAD579B06209.quest_desc: [
+		"Catch a wild version of the other two starters."
+		""
+		"&eRewards:&r 3x Premier Ball"
+	]
+	quest.66E9CAD579B06209.quest_subtitle: "Catch the original three starters"
+	quest.66E9CAD579B06209.title: "&aKanto Starters"
+	quest.676F2D0E09DC8467.quest_desc: [
+		"Catch 100 steel-type."
+		""
+		"&eRewards:&r 8x Lure Ball, Metal Coat, 3x Babiri Berry"
+	]
+	quest.676F2D0E09DC8467.quest_subtitle: "Catch 100 Steel-type Pokemon"
+	quest.676F2D0E09DC8467.title: "&7Steel Specialist"
+	quest.67E648F584C7297A.quest_desc: [
+		"Defeat 50 Pokemon in battle."
+		""
+		"&7Each victory tempers you and your team."
+		""
+		"&eRewards:&r 3x Super Potion, 3x Revive"
+	]
+	quest.67E648F584C7297A.quest_subtitle: "Defeat 50 wild Pokemon"
+	quest.67E648F584C7297A.title: "&cWarrior"
+	quest.680C409BC3D221BF.quest_desc: [
+		"Obtain: earth globe, moon globe, mars globe, venus globe, glacio globe."
+		""
+		"&7Deoxys awaits at the edge of the visited worlds. Show that you've seen them all."
+		""
+		"&eRewards:&r Aurora Ticket"
+	]
+	quest.680C409BC3D221BF.quest_subtitle: "Collect a globe from every planet"
+	quest.680C409BC3D221BF.title: "&dGlobe Collector"
+	quest.681697C651D74B5C.quest_desc: [
+		"Catch 100 bug-type."
+		""
+		"&eRewards:&r 8x Sport Ball, Silver Powder, 3x Tanga Berry"
+	]
+	quest.681697C651D74B5C.quest_subtitle: "Catch 100 Bug-type Pokemon"
+	quest.681697C651D74B5C.title: "&2Bug Specialist"
+	quest.68C15E2AED08BC14.quest_desc: [
+		"Catch 100 dragon-type."
+		""
+		"&eRewards:&r 8x Dream Ball, Dragon Fang, 3x Haban Berry"
+	]
+	quest.68C15E2AED08BC14.quest_subtitle: "Catch 100 Dragon-type Pokemon"
+	quest.68C15E2AED08BC14.title: "&1Dragon Specialist"
+	quest.695E60AF278DB9BA.quest_desc: [
+		"Collect 3 Zygarde Cores."
+		""
+		"&aCores&r hold Zygarde's consciousness — far rarer than cells. Found in the deepest chests and most ancient ruins."
+	]
+	quest.695E60AF278DB9BA.quest_subtitle: "Collect 3 Zygarde Cores"
+	quest.695E60AF278DB9BA.title: "&aCore Hunter"
+	quest.6C4222380892684B.quest_desc: [
+		"Catch 100 poison-type."
+		""
+		"&eRewards:&r 8x Heavy Ball, Poison Barb, 3x Kebia Berry"
+	]
+	quest.6C4222380892684B.quest_subtitle: "Catch 100 Poison-type Pokemon"
+	quest.6C4222380892684B.title: "&5Poison Specialist"
+	quest.6CA2DABF8F1178D0.quest_desc: [
+		"Catch 100 ghost-type."
+		""
+		"&eRewards:&r 8x Dusk Ball, Spell Tag, 3x Kasib Berry"
+	]
+	quest.6CA2DABF8F1178D0.quest_subtitle: "Catch 100 Ghost-type Pokemon"
+	quest.6CA2DABF8F1178D0.title: "&5Ghost Specialist"
+	quest.705A1DF2E6CBA96C.quest_desc: ["The Tier 4 Rocket carries you to the frozen edge of the colony's reach."]
+	quest.705A1DF2E6CBA96C.quest_subtitle: "Reach Glacio"
+	quest.705A1DF2E6CBA96C.title: "&bFar Reach"
+	quest.70FA84DFDAB9BEA0.quest_desc: [
+		"Hatch 1 egg."
+		""
+		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
+		""
+		"&eRewards:&r 3x Cherish Ball"
+	]
+	quest.70FA84DFDAB9BEA0.quest_subtitle: "Hatch your first egg"
+	quest.70FA84DFDAB9BEA0.title: "&fFirst Hatch"
+	quest.7115EFDAE6BAB99C.quest_desc: [
+		"Catch 100 fighting-type."
+		""
+		"&eRewards:&r 8x Safari Ball, Black Belt, 3x Chople Berry"
+	]
+	quest.7115EFDAE6BAB99C.quest_subtitle: "Catch 100 Fighting-type Pokemon"
+	quest.7115EFDAE6BAB99C.title: "&4Fighting Specialist"
+	quest.7211D46FCA402A06.quest_desc: [
+		"Hatch 10 eggs."
+		""
+		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
+		""
+		"&eRewards:&r 5x Friend Ball, Lucky Egg"
+	]
+	quest.7211D46FCA402A06.quest_subtitle: "Hatch 10 eggs"
+	quest.7211D46FCA402A06.title: "&fBreeder"
+	quest.74A67574E7A6F59F.quest_desc: [
+		"Catch 1 shiny Pokemon."
+		""
+		"&eRewards:&r Rare Candy"
+	]
+	quest.74A67574E7A6F59F.quest_subtitle: "Catch a shiny Pokemon"
+	quest.74A67574E7A6F59F.title: "&e&lShiny Hunter"
+	quest.74CADA4EF171CB4A.quest_desc: [
+		"Catch 100 electric-type."
+		""
+		"&eRewards:&r 8x Quick Ball, Magnet, 3x Wacan Berry"
+	]
+	quest.74CADA4EF171CB4A.quest_subtitle: "Catch 100 Electric-type Pokemon"
+	quest.74CADA4EF171CB4A.title: "&eElectric Specialist"
+	quest.74D7F80ACE874A1C.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r 16x Ultra Ball, Caught Ball Swapper, Uncommon Key"
+	]
+	quest.74D7F80ACE874A1C.quest_subtitle: "Register 100 species"
+	quest.74D7F80ACE874A1C.title: "&610% Pokedex"
+	quest.74D9894BD10DAEAA.quest_desc: [
+		"Defeat 25 players in PvP."
+		""
+		"&7Sharpened in the heat of player combat — your tactics evolve with every duel."
+		""
+		"&eRewards:&r 5x Full Heal, 5x Great Ball"
+	]
+	quest.74D9894BD10DAEAA.quest_subtitle: "Win 25 player battles"
+	quest.74D9894BD10DAEAA.title: "&5&lPvP Champion"
+	quest.757E74D484069170.quest_desc: [
+		"Terastallize a Pokemon 50 times."
+		""
+		"&7The mark of a true tactician — knowing when to unleash your Pokemon's full power."
+		""
+		"&eRewards:&r 3x Max Revive"
+	]
+	quest.757E74D484069170.quest_subtitle: "Terastallize 50 times"
+	quest.757E74D484069170.title: "&dTera Master"
+	quest.76092C5C363F163F.quest_desc: [
+		"Trade for Pokemon of 5 different types."
+		""
+		"&7A diverse roster builds a strong team. Variety beats specialization."
+	]
+	quest.76092C5C363F163F.quest_subtitle: "Trade for 5 different types"
+	quest.76092C5C363F163F.title: "&dType Exchange"
+	quest.769A06A47D36272F.quest_desc: [
+		"Win 25 raid battles."
+		""
+		"&7Raids reward those who fight together. Each victory hones the team."
+		""
+		"&eRewards:&r 3x Max Revive, 6x Max Revive"
+	]
+	quest.769A06A47D36272F.quest_subtitle: "Win 25 raids"
+	quest.769A06A47D36272F.title: "&4Raid Specialist"
+	quest.782DE8808AD5FE6C.quest_desc: [
+		"Hatch 50 eggs."
+		""
+		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
+		""
+		"&eRewards:&r Gender Swapper, Gold Bottle Cap, Eviolite"
+	]
+	quest.782DE8808AD5FE6C.quest_subtitle: "Hatch 50 Pokemon eggs"
+	quest.782DE8808AD5FE6C.title: "&7Master Breeder"
+	quest.78A0BC6FE21CA01E.quest_desc: [
+		"Catch 10 Pokemon."
+		""
+		"&eRewards:&r 3x Moon Ball, 5x Leppa Berry"
+	]
+	quest.78A0BC6FE21CA01E.quest_subtitle: "Catch 10 Pokemon on the Moon"
+	quest.78A0BC6FE21CA01E.title: "&fMoonlit Hunter"
+	quest.79B6E73C505B8909.quest_desc: [
+		"Catch 50 Pokemon."
+		""
+		"&eRewards:&r 12x Moon Ball, 1x Relic Coin Sack"
+	]
+	quest.79B6E73C505B8909.quest_subtitle: "Catch 50 Pokemon on the Moon"
+	quest.79B6E73C505B8909.title: "&fMare Tranquillitatis"
+	quest.79D6614EF42A693E.quest_desc: [
+		"&6Hoenn League&r — &eDifficulty: 7/10&r"
+		""
+		"&7Hoenn Region&r — Elite Four and Champion Steven!"
+		""
+		"Sidney (80) > Phoebe (85) > Glacia (89) > Drake (93) > Champion Steven (100)"
+		""
+		"&eStarting level: ~80 | Final level: 100&r"
+		""
+		"&cUse Pokemon around level 80 to start!&r"
+	]
+	quest.79D6614EF42A693E.title: "&6Hoenn League"
+	quest.7C2A9F0E10000001.quest_desc: ["A &dHealing Machine&r fully restores your party's HP, PP, and status conditions. No more trekking back to a Pokemon Center."]
+	quest.7C2A9F0E10000001.quest_subtitle: "Heal your whole team at home"
+	quest.7C2A9F0E10000001.title: "&dCraft a Healing Machine"
+	quest.7C2A9F0E10000002.quest_desc: ["A &bPC&r lets you store, withdraw, and organize every Pokemon you catch. Essential once your party fills up."]
+	quest.7C2A9F0E10000002.quest_subtitle: "Store and organize your caught Pokemon"
+	quest.7C2A9F0E10000002.title: "&bCraft a PC"
+	quest.7C2A9F0E10000003.quest_desc: ["A &cPokedex&r records every species you have seen and caught. Your field guide to the whole region."]
+	quest.7C2A9F0E10000003.quest_subtitle: "Track every Pokemon you have seen and caught"
+	quest.7C2A9F0E10000003.title: "&cCraft a Pokedex"
+	quest.7C2A9F0E10000004.quest_desc: ["A &aPasture&r is where breeding happens. Place two compatible Pokemon, or any Pokemon plus a Ditto, to produce an Egg."]
+	quest.7C2A9F0E10000004.quest_subtitle: "Place two compatible Pokemon to breed Eggs"
+	quest.7C2A9F0E10000004.title: "&aCraft a Pasture"
+	quest.7CA72E0A6CB443B8.quest_desc: [
+		"Receive 50 Pokemon through trades."
+		""
+		"&7Trading defines your collection. Few have your appetite for the exchange."
+	]
+	quest.7CA72E0A6CB443B8.quest_subtitle: "Receive 50 trades"
+	quest.7CA72E0A6CB443B8.title: "&6Trade Addict"
+	quest.7CB323D4ACCDF896.quest_desc: [
+		"Catch 100 fairy-type."
+		""
+		"&eRewards:&r 8x Moon Ball, Fairy Feather, 3x Roseli Berry"
+	]
+	quest.7CB323D4ACCDF896.quest_subtitle: "Catch 100 Fairy-type Pokemon"
+	quest.7CB323D4ACCDF896.title: "&dFairy Specialist"
+	quest.7DACC61463E85703.quest_desc: [
+		"Defeat 1 Ender Dragon."
+		""
+		"&7The Dragon falls — and with it, the End yields its rarest treasures."
+		""
+		"&eRewards:&r Master Ball"
+	]
+	quest.7DACC61463E85703.quest_subtitle: "Slay the Ender Dragon"
+	quest.7DACC61463E85703.title: "&bDragon Slayer"
+	quest.7E0C1A2B3C4D0001.quest_desc: [
+		"&6&lHoenn Champion &7- Champion Steven and all of Hoenn have fallen to your team."
+		""
+		"&aReward: &fMarshadow Hood&a - use it to summon &fMarshadow&a."
+	]
+	quest.7E0C1A2B3C4D0001.quest_subtitle: "Defeat Champion Steven to claim Marshadow's key"
+	quest.7E0C1A2B3C4D0001.title: "&a&lHoenn Champion"
+	quest.7E0C1A2B3C4D0011.quest_desc: [
+		"&6&lSinnoh Champion &7- Champion Cynthia and all of Sinnoh have fallen to your team."
+		""
+		"&aReward: &fClear Bell&a - use it to summon &fHo-Oh&a."
+	]
+	quest.7E0C1A2B3C4D0011.quest_subtitle: "Defeat Champion Cynthia to claim Ho-Oh's key"
+	quest.7E0C1A2B3C4D0011.title: "&9&lSinnoh Champion"
+	quest.7E0C1A2B3C4D0021.quest_desc: [
+		"&6&lKalos Champion &7- Champion Diantha and all of Kalos have fallen to your team."
+		""
+		"&aReward: &fTidal Bell&a - use it to summon &fLugia&a."
+	]
+	quest.7E0C1A2B3C4D0021.quest_subtitle: "Defeat Champion Diantha to claim Lugia's key"
+	quest.7E0C1A2B3C4D0021.title: "&e&lKalos Champion"
+	quest.7E0C1A2B3C4D0031.quest_desc: [
+		"&6&lPaldea Champion &7- Champion Geeta and all of Paldea have fallen to your team. The hardest road is behind you."
+		""
+		"&aReward: &fKubfu's Band&a - use it to summon &fKubfu&a."
+	]
+	quest.7E0C1A2B3C4D0031.quest_subtitle: "Defeat Champion Geeta to claim Kubfu's key"
+	quest.7E0C1A2B3C4D0031.title: "&5&lPaldea Champion"
+	quest.7E59BB92460DB70B.quest_desc: [
+		"Catch 1 more Pokemon."
+		""
+		"&eRewards:&r 3x Poke Ball, 3x Oran Berry"
+	]
+	quest.7E59BB92460DB70B.quest_subtitle: "Catch your first Pokemon"
+	quest.7E59BB92460DB70B.title: "&bFirst Catch"
+	quest.7EA0DC056EFF4748.quest_desc: ["Craft a Tier 1 Rocket and break the bonds of Earth's gravity."]
+	quest.7EA0DC056EFF4748.quest_subtitle: "Reach the Moon"
+	quest.7EA0DC056EFF4748.title: "&fLunar Expedition"
+	quest.7F67AFD929AD32B4.quest_desc: [
+		"Catch an iconic Pokemon on each planet: Moon, Mars, Venus, Mercury, Glacio."
+		""
+		"&5The galaxy is your training ground. Every world hosts species shaped by its environment — claim them all."
+	]
+	quest.7F67AFD929AD32B4.quest_subtitle: "Catch an iconic Pokemon on each planet"
+	quest.7F67AFD929AD32B4.title: "&5&lInterplanetary Trainer"
+	task.345ED08EDFA98924.title: "Pyramid base — 164 Emerald Blocks (consumed each completion)"
+}

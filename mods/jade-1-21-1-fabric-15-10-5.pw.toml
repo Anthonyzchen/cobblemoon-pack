@@ -1,0 +1,8 @@
+name = "Jade-1.21.1-Fabric-15.10.5"
+filename = "Jade-1.21.1-Fabric-15.10.5.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Jade-1.21.1-Fabric-15.10.5.jar"
+hash-format = "sha256"
+hash = "b78e8f6e0e3d0148ae3b042c484d11bc5c53a81fbe71a9dcbc750338f4dce386"

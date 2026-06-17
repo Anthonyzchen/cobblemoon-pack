@@ -1,0 +1,8 @@
+name = "c2me-fabric-mc1.21.1-0.3.0+alpha.0.364"
+filename = "c2me-fabric-mc1.21.1-0.3.0+alpha.0.364.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.364.jar"
+hash-format = "sha256"
+hash = "ff1c39f9b8fac6a21628e38265ef0ffbb64e2dc89215fa4dc66908d150510401"

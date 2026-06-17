@@ -1,0 +1,13 @@
+name = "Cobblemoon"
+author = "AZC Studios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "139ec3a77d64d1d2e2918c5af5f06a4bb05ea92966c151dfd0fe50090173dab3"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"

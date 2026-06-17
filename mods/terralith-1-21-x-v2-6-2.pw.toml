@@ -1,0 +1,8 @@
+name = "Terralith_1.21.x_v2.6.2"
+filename = "Terralith_1.21.x_v2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Terralith_1.21.x_v2.6.2.jar"
+hash-format = "sha256"
+hash = "9cd4d402fde0f523e5b430ac8fd479ce05aea7a50fe0c8c26901f5f769272214"

@@ -1,0 +1,8 @@
+name = "Default-Dark-Mode-1.20.2+-2025.5.0"
+filename = "Default-Dark-Mode-1.20.2+-2025.5.0.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/Default-Dark-Mode-1.20.2%2B-2025.5.0.zip"
+hash-format = "sha256"
+hash = "3f168a0a354a4f703ebc22b0bf011df4f2211b3e8b4b561e527c699bb7356ab2"

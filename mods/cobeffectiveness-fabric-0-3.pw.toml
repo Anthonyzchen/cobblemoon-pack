@@ -1,0 +1,8 @@
+name = "cobeffectiveness-fabric-0.3"
+filename = "cobeffectiveness-fabric-0.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobeffectiveness-fabric-0.3.jar"
+hash-format = "sha256"
+hash = "229628172c239f3e7c13612db709e46b23528c5c6881162ccb1c214bfaf4dc22"

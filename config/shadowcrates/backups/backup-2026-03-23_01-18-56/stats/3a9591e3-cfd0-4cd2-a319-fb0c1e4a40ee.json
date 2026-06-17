@@ -1,0 +1,11 @@
+{
+  "totalOpened": 4,
+  "totalPrizesWon": 4,
+  "cratesOpened": {
+    "leg": 2,
+    "legendary": 2
+  },
+  "lastOpenedCrate": "legendary",
+  "lastWonPrize": "mythsandlegends:zeraoras_thunderclaw",
+  "lastCrateTime": "2026-03-21 12:14:40"
+}

@@ -1,0 +1,8 @@
+name = "catchrate-display-fabric-2.8.22"
+filename = "catchrate-display-fabric-2.8.22.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/catchrate-display-fabric-2.8.22.jar"
+hash-format = "sha256"
+hash = "0a2c2ae61e6796a3b524556022c28dada75da73d6391613849cfd98230d91210"

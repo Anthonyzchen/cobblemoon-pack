@@ -1,0 +1,8 @@
+name = "AllTheMons-R3.3"
+filename = "AllTheMons-R3.3.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/AllTheMons-R3.3.zip"
+hash-format = "sha256"
+hash = "cf93ccdbed3c92c1e631444ad484c6b0d7057724a6978676927f0c9098dcdc96"

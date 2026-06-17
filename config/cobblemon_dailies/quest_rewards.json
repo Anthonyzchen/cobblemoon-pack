@@ -1,0 +1,172 @@
+{
+  "questTiers": {
+    "catch_pokemon": {
+      "easy": {
+        "requirement": 1,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 5,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "medium": {
+        "requirement": 3,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 15,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "hard": {
+        "requirement": 5,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 25,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      }
+    },
+    "gain_pokemon_experience": {
+      "easy": {
+        "requirement": 500,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 5,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "medium": {
+        "requirement": 1250,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 12,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "hard": {
+        "requirement": 2500,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 25,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      }
+    },
+    "win_pvp_battle": {
+      "easy": {
+        "requirement": 1,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 15,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "medium": {
+        "requirement": 2,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 30,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "hard": {
+        "requirement": 3,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 60,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      }
+    },
+    "trade_pokemon": {
+      "easy": {
+        "requirement": 1,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 10,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "medium": {
+        "requirement": 2,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 20,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      },
+      "hard": {
+        "requirement": 3,
+        "rewards": [
+          {
+            "itemId": "cobblemon:relic_coin",
+            "count": 40,
+            "enableScaling": false,
+            "scalingType": "linear",
+            "baseRequirement": 500,
+            "maxScaling": 4.0
+          }
+        ]
+      }
+    }
+  },
+  "enableDailyLimits": true,
+  "dailyResetHour": 6,
+  "timeZone": "UTC",
+  "enableDebugLogging": false
+}

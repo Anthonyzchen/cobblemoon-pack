@@ -1,0 +1,8 @@
+name = "cobblemodels-v2"
+filename = "cobblemodels-v2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemodels-v2.jar"
+hash-format = "sha256"
+hash = "762c7a1af6cb1a54814cf5b588bee99d862950d99d5492f7e78eb0a63350e0c4"

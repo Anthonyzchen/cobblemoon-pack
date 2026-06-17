@@ -1,0 +1,8 @@
+name = "fabric-language-kotlin-1.13.12+kotlin.2.4.0"
+filename = "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar"
+hash-format = "sha256"
+hash = "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832"

@@ -1,0 +1,8 @@
+name = "midnightlib-fabric-1.9.3+1.21.1"
+filename = "midnightlib-fabric-1.9.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/midnightlib-fabric-1.9.3%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "ec05a4c29789cc7fd44489eecc368bc3993b95182f2028cefbed705804a27433"

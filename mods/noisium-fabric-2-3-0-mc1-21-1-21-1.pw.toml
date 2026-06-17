@@ -1,0 +1,8 @@
+name = "noisium-fabric-2.3.0+mc1.21-1.21.1"
+filename = "noisium-fabric-2.3.0+mc1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar"
+hash-format = "sha256"
+hash = "c32c163861e936b7786995ebe1209eb7a4c6e7bb493e7cc75747ddac3340cf85"

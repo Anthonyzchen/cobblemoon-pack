@@ -1,0 +1,8 @@
+name = "wanteditems-1.1.9+1.7.3"
+filename = "wanteditems-1.1.9+1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/wanteditems-1.1.9%2B1.7.3.jar"
+hash-format = "sha256"
+hash = "7471887b2a8c280ecb7b4bad32fef7c74ab06c6114fcc2aaf2c1b184931aa0ff"

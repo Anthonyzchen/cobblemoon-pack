@@ -1,0 +1,61 @@
+{
+  "messages": {
+    "crateCreated": "&aCrate &6%crate% &ahas been created!",
+    "crateRemoved": "&cCrate &6%crate% &chas been removed!",
+    "crateNotFound": "&cCrate &6%crate% &cdoes not exist!",
+    "noPermission": "&cYou do not have permission to use this command!",
+    "cratesReloaded": "&aShadowCrates configuration reloaded!",
+    "playerNotFound": "&cPlayer not found!",
+    "crateSet": "&aYou have turned this block into a crate: &6%crate%",
+    "crateUnsetBreak": "&cYou broke the crate block for &6%crate%&c; it is now removed!",
+    "invalidKeyItem": "&cYou are not holding the correct key item for crate &6%crate%!",
+    "noKeyInHand": "&cYou must hold a crate key in your hand to open this crate!",
+    "noPrizeFound": "&cNo prize found in crate &6%crate%!",
+    "inventoryFull": "&cYour inventory is full, cannot receive the crate rewards!",
+    "notEnoughKeys": "&cYou do not have enough keys to open crate &6%crate%!",
+    "inUse": "&cSomeone else is already using this crate!",
+    "alreadyOpening": "&cYou are already opening this crate. Please wait!",
+    "gaveKey": "&aGave &6%amount% &a keys for crate &6%crate% to &6%player%!",
+    "gaveKeyMany": "&aGave &6%amount% &a keys for crate &6%crate% to &6%count% players&a!",
+    "inventoryFullStored": "&cInventory full! The prize has been saved in your storage. Use /crate storage to claim it later.",
+    "storageCleared": "&aYour stored rewards have been cleared!",
+    "storageClaim": "&aYou claimed a stored crate reward!",
+    "virtualKeyCleared": "&aCleared all virtual keys for crate &6%crate% &afrom player &6%player%!",
+    "virtualKeyClearedMany": "&aCleared all virtual keys for crate &6%crate% &afrom &6%count% players&a!",
+    "virtualKeyClearedAll": "&aCleared all virtual keys for &6%player%&a!",
+    "virtualKeyClearedAllMany": "&aCleared all virtual keys for &6%count% players&a!",
+    "virtualKeyCount": "&e%player% &ahas &6%amount% &avirtual keys for crate &6%crate%!",
+    "gaveAllKeys": "&aGave &e%amount% &akeys for each of &7%count% &acrates to &e%player%&a!",
+    "gaveAllKeysMany": "&aGave &e%amount% &akeys for each of &7%crates% &acrates to &e%count% players&a!",
+    "backupCreated": "&a✅ Backup created successfully!",
+    "backupRestored": "&e♻ Backup restored successfully!",
+    "noBackupFound": "&c⚠ No backup found to restore!",
+    "crateInvalidAnimation": "&cThat crate does not support remote open!",
+    "crateOpenedForPlayer": "&aOpened &6%crate% &afor &e%player%&a!",
+    "crateOpenedForPlayers": "&aOpened &6%crate% &afor &e%count% players&a!",
+    "notEnoughMoney": "&cYou don't have enough %currency% to open &6%crate%&c! Price: &e%price%",
+    "missingCostItem": "&cYou need &6%amount%x %item% &cto open &6%crate%&c!",
+    "mustHoldCostItem": "&cYou must hold &6%item% &cin your main hand to open &6%crate%&c!"
+  },
+  "database": {
+    "enabled": true,
+    "type": "sqlite",
+    "mysql": {
+      "host": "localhost",
+      "port": 3306,
+      "database": "shadowcrates",
+      "username": "root",
+      "password": "password"
+    },
+    "mongodb": {
+      "host": "localhost",
+      "port": 27017,
+      "database": "shadowcrates",
+      "authDb": "admin"
+    }
+  },
+  "autoBackUPs": true,
+  "logSystems": {
+    "logCrates": true
+  }
+}

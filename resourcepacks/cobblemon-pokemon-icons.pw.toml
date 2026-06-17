@@ -1,0 +1,8 @@
+name = "cobblemon_pokemon_icons"
+filename = "cobblemon_pokemon_icons.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/cobblemon_pokemon_icons.zip"
+hash-format = "sha256"
+hash = "bbacbedd3261ba4c3c617871f42dfb78bbd8106b0a6b4671c8477e903008167a"

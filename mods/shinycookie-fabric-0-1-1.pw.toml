@@ -1,0 +1,8 @@
+name = "shinycookie-fabric-0.1.1"
+filename = "shinycookie-fabric-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/shinycookie-fabric-0.1.1.jar"
+hash-format = "sha256"
+hash = "d9aea2bc1a154255031cbe4a0cc36c47be8a2b1dd7f09e68624005a63885368f"

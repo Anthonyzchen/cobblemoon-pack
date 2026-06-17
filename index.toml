@@ -1,0 +1,3808 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "845b003ad8902a4732249ac93b8b568ddd007f65c8eebcdd34344223861dad17"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = "config/ad_astra-client.jsonc"
+hash = "fe28a36f7872fc820172a4b6ede540b3d5ccfd7d10d2f2dd1839a4bf9ea9bdf6"
+
+[[files]]
+file = "config/ad_astra.jsonc"
+hash = "fad4ca69e7da7c29736145c867bbe17eb414cf20cff2bbdd490dd32b78cafb08"
+
+[[files]]
+file = "config/awesomedungeonocean_1.properties"
+hash = "1854163c0574bc7175128e55e8cf03910c9a4067384eb8df74e996065ceacd4d"
+
+[[files]]
+file = "config/axiom/.axiom.json.backup"
+hash = "9aa2fb59b4fcd7fe289370e71ff7ed2b99d0a3a9d2d4835d10a537d7a069c332"
+
+[[files]]
+file = "config/axiom/axiom.json"
+hash = "2e5fd5f743a8f4cdec865ce29db1fe1b7c4d0651cffbb26a65dec9634e8671fd"
+
+[[files]]
+file = "config/axiom/imgui.ini"
+hash = "792eb3209ce7c4ba44ed990018ddbc0f7eefcf7ac8418fc67b836c973e63ab81"
+
+[[files]]
+file = "config/azc_seasonhud.properties"
+hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "ea70b76bc3e875a81c5bcefc59a4a192a6797c635924f65326cd5707c3361b19"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "55f7d96d30aec2f4b45436fe6e8788aa18840154072f81681d2dd797270b45c9"
+
+[[files]]
+file = "config/betterdeserttemples-fabric-1_21.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "65f27b868cd42591c8c0be68c73f95490a409e90c3005baa809c4b907a6a03c3"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_21/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_21/armorstands.json"
+hash = "4377dcdb5cc6af812f5e35b97e3d5c1a6fa6a2a6a48db71b52a24c8c53cfde7a"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_21/itemframes.json"
+hash = "1e1b45fca316d24f2b0d3566045fae75068e8b077ebb742b316fbacb3beda8e4"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_21.toml"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "e20a87ba923156585ccaeeea10b11af3ab9590afcdb40261ebe70ae98cd975c9"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "5c7ae7dd2d7c200f9f875619b5b0228c87580ff40e63088b4d47786bffe1b0b5"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterendisland-fabric-1_21.toml"
+hash = "6469ab87a66387d64bfc51ffe2fb1365fcda9a28121a8fa9227626430c0c3505"
+
+[[files]]
+file = "config/betterfortresses-fabric-1_21.toml"
+hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "3efc54726c0702d0a4d4a91eb6436acdd3842598460e5781ffe365353ee36cc2"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_21/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_21/itemframes.json"
+hash = "2d1d124fb0de669cab734baef1139bd0b668827c4b8fa8a9ea0e1f9690e42995"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_21.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_21.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "config/betterwitchhuts-fabric-1_21.toml"
+hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "a657a1355f8ff6f23bd5daf5ddec8137e2f87a496685c1c4a941f142c34b0f9e"
+
+[[files]]
+file = "config/capture_xp.json"
+hash = "88cb0dd772721fe3099294e9a72d75706b386fa91d27f9a4fa62b0f45bbf0893"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/catchrate-display.json"
+hash = "58ef6267cb77a541130f858dcb25533161b0d322bc7aaf31010e1ee18fd3af16"
+
+[[files]]
+file = "config/cavedust.json"
+hash = "d5f568bdd70921c45aac2687b677cd4da1a8a720c11bb79e93dd50f442fb3a6d"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "10d40a6bdbbf776bcb6f8a04a0631116689c29a4551bcd01f2f51d2b93f6a464"
+
+[[files]]
+file = "config/cobbleboss/boss-battle-check.toml"
+hash = "b03957b547ac1723a94b6e6f4845cf735735134a8c887fb3b5341d19e5f2be7a"
+
+[[files]]
+file = "config/cobbleboss/boss-capture.toml"
+hash = "00a0580243746e56b43f3acc9968ee8f50113b4c4ba637a5a4780f11e2476461"
+
+[[files]]
+file = "config/cobbleboss/boss-immune.toml"
+hash = "f1836c129dac6663597267d3e8f5282734f21821952ee3bf0e699a673d815d88"
+
+[[files]]
+file = "config/cobbleboss/boss-level.toml"
+hash = "2e2331ac283e0d81c6b49350fc411ab62e3b5be1288336e70147e605225fb228"
+
+[[files]]
+file = "config/cobbleboss/boss-music.toml"
+hash = "ea5a2cdf6f3df42f1a175106df3bbb8f9f5ae0a5045b6e258980b4fc1477e07c"
+
+[[files]]
+file = "config/cobbleboss/boss-penalty.toml"
+hash = "e6589121bd8b27f39c97ef4f27c2f7050e44889fc2f0eb231b0e385d8886f7bc"
+
+[[files]]
+file = "config/cobbleboss/boss-reward.toml"
+hash = "b3b1cec2548f87d1d09d4e4425b940bdb087df20ee780b52cd83cc91dab9ed05"
+
+[[files]]
+file = "config/cobbleboss/boss-shield.toml"
+hash = "a8da45f065ceae0ec19240caefd3219be0e342e9ccabf158c6b5a2b3d0e6f06e"
+
+[[files]]
+file = "config/cobbleboss/boss-spawn.toml"
+hash = "6cc7e22bdf64c5d8decf2662a6070194fea59b51fbefc93979d3b674b45347e4"
+
+[[files]]
+file = "config/cobbleboss/level-mapping.json"
+hash = "93546778ecbf839503f13c9d0e32b12ef4d41078c89c6ed9d453f61942451bc7"
+
+[[files]]
+file = "config/cobbleboss/player-level-limit.toml"
+hash = "2094af30e70fb0699a38afec0b1d353ddc653059540fbe1273aacae8d0fa0a5b"
+
+[[files]]
+file = "config/cobbleboss/pokemon-max-level.json"
+hash = "81e16243192f59342c10dc3962e194df5eafcd39b72c4274760b9be72166cead"
+
+[[files]]
+file = "config/cobbled_counter.json"
+hash = "0563af57150ac2f032dd9212f28c8e189d9fbef92fb3fd55915099ff155deb3b"
+
+[[files]]
+file = "config/cobbledlevels.json"
+hash = "3bd02e1b6e36a8d9a1f3c48eabf5ff3474bf0943c7571a90e1f07e1652efc654"
+
+[[files]]
+file = "config/cobbleloots.json"
+hash = "f10d1f2557ec8cb3404fc831c51ec68fff35e5e3fc21de9af67d9d4939ecebda"
+
+[[files]]
+file = "config/cobblemon/main.json"
+hash = "4af63d09fa48c452de00972b22be8e62f2da82b1ef4065595d5f9c54249ffd53"
+
+[[files]]
+file = "config/cobblemon/starters.json"
+hash = "019c8c490d6b4f5386d06f256f8af31654881edd882ea99eb9b815b36e746319"
+
+[[files]]
+file = "config/cobblemon_dailies/quest_rewards.json"
+hash = "9bfa5cb9c0eb122031de744c1395451906588b2b0fb17dee84ce7d7a8b408111"
+
+[[files]]
+file = "config/cobblemon_quests/cobblemon_quests.config"
+hash = "0b594cb89cb7b08f9ba40d2aadbc1ecc87bc0397761fe04829fe061ce62f41db"
+
+[[files]]
+file = "config/cobblemon_quests/trainers.json"
+hash = "8ee66be3069eab95c1e03ce9b782092390f7925be0ce39c730e268d5bced5ac7"
+
+[[files]]
+file = "config/cobblemonalphas/config.json"
+hash = "6c4417019a8354480d1b6411b3c7c884cec813db2633e1e3d43c90333471ddf1"
+
+[[files]]
+file = "config/cobblemonboss/boss-battle-check.toml"
+hash = "b03957b547ac1723a94b6e6f4845cf735735134a8c887fb3b5341d19e5f2be7a"
+
+[[files]]
+file = "config/cobblemonboss/boss-capture.toml"
+hash = "00a0580243746e56b43f3acc9968ee8f50113b4c4ba637a5a4780f11e2476461"
+
+[[files]]
+file = "config/cobblemonboss/boss-immune.toml"
+hash = "f1836c129dac6663597267d3e8f5282734f21821952ee3bf0e699a673d815d88"
+
+[[files]]
+file = "config/cobblemonboss/boss-level.toml"
+hash = "2e2331ac283e0d81c6b49350fc411ab62e3b5be1288336e70147e605225fb228"
+
+[[files]]
+file = "config/cobblemonboss/boss-penalty.toml"
+hash = "e6589121bd8b27f39c97ef4f27c2f7050e44889fc2f0eb231b0e385d8886f7bc"
+
+[[files]]
+file = "config/cobblemonboss/boss-reward.toml"
+hash = "b3b1cec2548f87d1d09d4e4425b940bdb087df20ee780b52cd83cc91dab9ed05"
+
+[[files]]
+file = "config/cobblemonboss/boss-spawn.toml"
+hash = "6cc7e22bdf64c5d8decf2662a6070194fea59b51fbefc93979d3b674b45347e4"
+
+[[files]]
+file = "config/cobblemonboss/level-mapping.json"
+hash = "93546778ecbf839503f13c9d0e32b12ef4d41078c89c6ed9d453f61942451bc7"
+
+[[files]]
+file = "config/cobblemonboss/player-level-limit.toml"
+hash = "2094af30e70fb0699a38afec0b1d353ddc653059540fbe1273aacae8d0fa0a5b"
+
+[[files]]
+file = "config/cobblemonboss/pokemon-max-level.json"
+hash = "81e16243192f59342c10dc3962e194df5eafcd39b72c4274760b9be72166cead"
+
+[[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "752ee230df2eab63d0366f4f382c501058703b56f4e608becc2eebbfac54d227"
+
+[[files]]
+file = "config/cobblemonraiddens/blacklist.json5"
+hash = "61245aa75e8e02952033ae2ac9e9da686d3d9f6a6a38fbab8c171f7826bf69dd"
+
+[[files]]
+file = "config/cobblemonraiddens/client.json5"
+hash = "3b30e36007d2165569247e9060ca1b6cbf597ad3c4802c493b89a91bdb8e3aa2"
+
+[[files]]
+file = "config/cobblemonraiddens/common.json5"
+hash = "c51fdcca49e1599da5003489c01c4512fcf6e53af9dc4fe83321f5a7dc72dcd8"
+
+[[files]]
+file = "config/cobblemonraiddens/conditions.json5"
+hash = "ddc73b1a539e1f78e8daed69e4795734a19dc5fc511d5309e8b34b4585baed49"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_five.json5"
+hash = "2a95f406dbef75b2d19f94c55eeb55e54c96d91483a3ca96f53bdc9bcc9457cf"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_four.json5"
+hash = "1ad2d8f85cbf05f03e2438d51f38cd2193b9598caaeb399b4306ddeb7687cd6f"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_one.json5"
+hash = "ea9d48eef470c481f8148a7eb73ef58ba51739fe28bd7d7d814a82bd1f00fdbf"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_seven.json5"
+hash = "c53e2bb516e76fcb89d5a192107a34aa74c21f516c58ffe3737dc2594e22a55e"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_six.json5"
+hash = "f6d867c6c41d920b3dee68acd33d07e46bece91abe2f81d2442ed7d869e49194"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_three.json5"
+hash = "de610921a37b9a865f5bdc40b730b5ae1095846a9640f2db4fcf3d6592719958"
+
+[[files]]
+file = "config/cobblemonraiddens/tier_two.json5"
+hash = "8ba55c35c61200e64dd9c5103de66aad7c7453775ef9647396f7ceb48eca9a91"
+
+[[files]]
+file = "config/cobblenav/client-config.json"
+hash = "4640a6bc027d3e9c1275a7e07af656784d38d4d3664bb185f2d34acb7b4094d5"
+
+[[files]]
+file = "config/cobblenav/server-config.json"
+hash = "fe6418a16c21427d4b07f6dfafb3c64e6ff7cb1f748fb3cc90de820aa9b53b65"
+
+[[files]]
+file = "config/cobbleoptimizer.toml"
+hash = "5fed33edbe35dc78a68ba3d0feca50b57750d5ed29d95493f32761d2a0cb1dab"
+
+[[files]]
+file = "config/cobbreeding/encryption"
+hash = "eb693acc65391e1d284d61f9243bf2f01a88c30637e57f930c4ba835d37c65d2"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "444b12a455b859cd7c3afdc48126cffabce18b5b71d09a3177c4b4135533c747"
+
+[[files]]
+file = "config/comforts-common.toml"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e"
+
+[[files]]
+file = "config/creativecore-client.json"
+hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
+
+[[files]]
+file = "config/creativecore.json"
+hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "7874b4dfb29692f01421e33dd70a45e1a12562c7a00afa4c85b02d0bee682d16"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "464e0efc17ee4cb86ee1d7f720ef856197b86cb0dce8c6549f27f947eb1185ff"
+
+[[files]]
+file = "config/droploottables.json"
+hash = "1131840fcd1b61a0aa5ae0050ddfd7106dd462c8f26621cabceb95469ff9b34c"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "9f67c27dc72f8e48a91fa81cec3a0a078930cd434f0913196d8815feadcd1f2a"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "da13c5bbd33e17050270f49fd151443f7aa8d16115c038c8d047c8844615b4d8"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "24d97de693877f20c4c79a6c1b1e0a410ef42c551b1a5d423697c5432d804b15"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "d3b1d95d9f4e7304d79202b0b26f51e5d33f461e1416ecda25cb9a2bc8effbe3"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
+
+[[files]]
+file = "config/fightorflight.json5"
+hash = "791b7111edb04631e300b57143f22d0a84f121830fd3ed94def40ae2cbd35caa"
+
+[[files]]
+file = "config/fightorflight_moves.json5"
+hash = "8f060d7ca6b48492c9f28565d07c33d20218dc3ecfda1b32d5e3b4c49b5366f0"
+
+[[files]]
+file = "config/fightorflight_visual_effect.json5"
+hash = "1968fe408691b02837f80aedb9c1009b913d4eb482a6d8a590eeca57703a50cb"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "db84f50d55dd94a86f05332635c6b901d5f663d1bdbe494a45a5071230ea6d21"
+
+[[files]]
+file = "config/ftbchunks-world.snbt"
+hash = "9d6d919fe43265be680dfc600bef96ce56e081d9450c8473b1706fbe39f424a1"
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "f9e68cb4dfef189e837d75392a88c8c4bba9e5e36324219f16b5cefd598ec389"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "8c7f68c75e6d19e9449db18f4ce39e2339861fefe80af34a78d72acf1913e053"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "4c560f78a0dae367bda8ba116debf92a2ad3897cfb39c0ce1c676e9e9c6227c7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/adventure_exploration.snbt"
+hash = "a9adb493d1318304b2d6c20b79fd8a50f3ee4217f664ebfe8c5f55837bc4f91a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/daily_grind.snbt"
+hash = "5525030ba1c5c7d7e9ec1c5a9674a9018b24e0c0094c8de9717e2ef180faa8a8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
+hash = "dd9c7ec45dd1dbc1577a7e913ab8eda1425bc991ba064ef96e69bc8fad585b1a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
+hash = "8039005f2710975ea5782b5f7aa33d475e0374ad3769ad824860698da55aa8ca"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "cb03a0529db6e5c2ba1368526860309d48d0afb6077c785c91ae25d46512131e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "07e4f56883017a0f47618d22923543cb1e00f272bce1c7aa27d80f0348f4f122"
+
+[[files]]
+file = "config/ftbteams-server.snbt"
+hash = "0cb54f6b7568ca7fff6b6a1320eb4ef455941c83a932f5dd8c6ad1c5741e0458"
+
+[[files]]
+file = "config/hold-my-items.json"
+hash = "d8e89791c9e1f33b84eb694ebd306d836d9bd19ef6f040f155e0ace7e1b785f9"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "611a76ee3e0fd646035f6395de7d0daf1139bd970091c278941138f3eefa1bd6"
+
+[[files]]
+file = "config/item_descriptions.toml"
+hash = "2996ecefef03cf03c51bd1b2926a5be944d8c7aa98f55b36eda6369ad61ba8d2"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "b318777c550f0e0e1469ffdaf6d3694c626bce8c610c0e580d87b1b7ef3c819d"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "a3cdcfd5f6f301491348f88a274d6fe3475b1d5fbd7309bf012e1d0b40b486dd"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "3a055043b08789faaf0883c9964e00dc2e855c6eac36d15a3b4dfcd3f0ccabf1"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "f9f72b1adbe4a73381772cdb9e94757a4a8e5a4da093e1f77085e41eea4819b3"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "5064fb08f3a4af3321de4746ac60fe83ac464732b684a38c68d97ad2c4bce440"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "c0445d995f73785077c73253527dba55dc18f2886e6c4586160445eec0dfd777"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "04251b6360e5dcaee5b180b7c7d71f53a0713ebb5b9d6c010e80bfd26a1c6d7a"
+
+[[files]]
+file = "config/jei/world/local/Cobblemon_Whole_Gen_and_Builds/bookmarks.json"
+hash = "dae20eb3a89e58ae68c5aeb5406fcf0f2f91d9555f5f8b1ce02d869c6cf43b01"
+
+[[files]]
+file = "config/jei/world/local/Cobblemon_Whole_Gen_and_Builds/lookupHistory.json"
+hash = "64312198e29b727a6c50138b41476483148b516da8d8c0f16b7224ce19f5bbda"
+
+[[files]]
+file = "config/jei/world/local/New_World/bookmarks.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/world/local/New_World/lookupHistory.json"
+hash = "cff7f19406a987cf38c63b37023be41e7550d4fa18d11fdda04d1f70668bb8f4"
+
+[[files]]
+file = "config/jei/world/local/New_World_-_Test/lookupHistory.json"
+hash = "f87695a507a93373f94732e54733ff46b5b6bc8cbb324129e6f3314d96a195b2"
+
+[[files]]
+file = "config/jei/world/local/New_World__1/lookupHistory.json"
+hash = "2670d67e8f9e00ef6c04b5e54c3e76f52ad6359295aea86ace35b21e98b88b78"
+
+[[files]]
+file = "config/jei/world/local/New_World__2/lookupHistory.json"
+hash = "e21dcd0390e41b09e8a6bf422b260d63279fa014cf84e9d1f7c62f3dbb4f1031"
+
+[[files]]
+file = "config/jei/world/local/New_World__3/bookmarks.json"
+hash = "72e5af51e6e16520ac2b0119b6c678ead44f6e735ee2f425582b4f9b1c303ab6"
+
+[[files]]
+file = "config/jei/world/local/New_World__3/lookupHistory.json"
+hash = "a2fe7d2c8df4a026d8edd6f6ac19e35715575dc033b325bec85d5c34908b7f27"
+
+[[files]]
+file = "config/jei/world/local/New_World__4/lookupHistory.json"
+hash = "b1bd5e26b7354f1693e2cf8bf838e317db07072294dd01b1139fb32df0e653c8"
+
+[[files]]
+file = "config/jei/world/local/Server_World/lookupHistory.json"
+hash = "4c0091b4cd016f88a94083e3e3e80eb56df236f8ae12c206f23d4886ab21b89b"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
+file = "config/libraryferret_1.properties"
+hash = "abc2ef963528c6f454fb780df2ffd44f69e2273c977e2063268c7ec5a9a03f19"
+
+[[files]]
+file = "config/litematica.json"
+hash = "300471b6f64ffa262ff47c982032ee17fdcaeb97f8f5d68f474a5339131f493f"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_earth_orbit.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_glacio.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_mars.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_mars_orbit.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_mercury.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_mercury_orbit.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_moon.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_venus.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_ad_astra_venus_orbit.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_Full Gen + Builds_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_New World.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_New World_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_ad_astra_glacio.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_ad_astra_mars.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_ad_astra_moon.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_ad_astra_venus.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_minecraft_the_end.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/litematica/litematica_azc-cobblemon.duckdns.org_dim_minecraft_the_nether.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "1b2e45dfb236c80f80d8b80df23e94027e4817102ce96d82fc95dea1dab44d98"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/lootintegrations.json"
+hash = "a1416b282511a48ccf3f3fb138da5f9bb14cf2a2b0f4d267c3d6b90fde0ec1c3"
+
+[[files]]
+file = "config/lootr.json"
+hash = "97fd6741fbd614069a38efafc5b343a80aebf7b4dfcd68eae1ab5c9782192294"
+
+[[files]]
+file = "config/malilib.json"
+hash = "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0"
+
+[[files]]
+file = "config/mega_showdown/config.json"
+hash = "edf079eee3de601ceb9a7e155ecb4a9790d78402aca02d4fd4fb6a52f165a80c"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "8c8f9e91dae76745c9c798d28e515824b0db5b6db9485a68c8710e53e02446d7"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "config/more_cobblemon_tweaks.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+
+[[files]]
+file = "config/mythsandlegends/config.toml"
+hash = "e45cc66e35e4ad19ea8ea6f6f0488f3a24434eb5cfb4eca9bffbc0124254952e"
+
+[[files]]
+file = "config/mythsandlegends/cooldowns.json"
+hash = "e54a497d441d830ad043f02dc348c1a8cd6b143d83c3d3522cfe791dd30c7469"
+
+[[files]]
+file = "config/mythsandlegends/debts.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/mythsandlegends/loot_tables_config.json"
+hash = "1b504600fedd6c24c4f7903305533e44b057f57c9d20a71423bb58a4575bf890"
+
+[[files]]
+file = "config/mythsandlegends/transformations.json"
+hash = "da08df15c0e8d2e9e7db06a515f075d96a5f6b9964dae44b0d0480cc276d0737"
+
+[[files]]
+file = "config/particular.json5"
+hash = "2ef28c4cf7a2e6d8316f665219b7c8e307931734e02ba1dc05a9ff6f35bb07a0"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
+
+[[files]]
+file = "config/playerxp/playerxp.json"
+hash = "c91e64cea27de8e63b295075e14ae42c7515465e55af93b4f168b665780a5efd"
+
+[[files]]
+file = "config/pokebike-client.json"
+hash = "48da125c3085b6c668f04cda90b54084aafd390dab9d845512dd72b9b152bda3"
+
+[[files]]
+file = "config/pokebike-server.json"
+hash = "335ba74971cbd4ae85800162f4f7ea480ed585911bfa4535842de4d371b64476"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "d8a4e36c8c4df8c5612aa9485d6a2e7a43cb2aa7f1584a52bb6373d6c94037c4"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "d090d3e43853c3a73645893be8c25a956f02e56b98e6aec61a2dcd13064fbdfb"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "233d56a8a7228e1d85fec9080a0821e92c910807a3a80c4c7392f29f80850558"
+
+[[files]]
+file = "config/punchy/merged_animation_selection.json"
+hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
+
+[[files]]
+file = "config/punchy/punchy_config.json"
+hash = "8606be5c43ae38dc88d0e6293d4d641af4c59e8d35e9d24ce179e44b7e989673"
+
+[[files]]
+file = "config/rctmod-client.toml"
+hash = "0229d13cf6220cae855ccd45f916c1488713eaea032539f5627053695042ae19"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "410966294777d120ccb65a1305bb1e6f79874d6b651d41cbd7f519f10063d77a"
+
+[[files]]
+file = "config/releaserewards.json"
+hash = "cb978f89bd44e1aaad1cdb52754fcc7c7ef8926961f9422bab9feedc2574b757"
+
+[[files]]
+file = "config/ridetraining.json"
+hash = "d707eb51bee703efa6dd03b7ac3c25a05f4190c10d02564076b8f156f2442002"
+
+[[files]]
+file = "config/scoremons_config.json"
+hash = "ef3200dc3a663e6bfb185e572117ac92f3316c4c61ece2e1a68f497127bcf7d9"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "cc11d09d07f6a3675f525a4b1b05c93ab94255a5f7e4baa48b7cbe7c44dfb71e"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "1a6ebf3bada0cec710dd431c83c5418ad384e2409b38ef524436f6c262ce072b"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+
+[[files]]
+file = "config/settlement-roads.json"
+hash = "778c7bb64c210bc634fe57a2d198e93306b82853d8c6f7d49b6655e9bcd27c1d"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-01-37/crate_locations.json"
+hash = "1f3f258b013cbabcc2eb77c4ea99a9e501fa073eeeadb9967bd184a23df91a3e"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-01-37/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "a3f9efacaba62199f44111e293b98fa76c6e0322abfbf852d9355a8346072a4d"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-05-15/crate_locations.json"
+hash = "e71e99d902708a43a3616840ffbc433cad656c2c2d9e5eda02bb582ac1993897"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-05-15/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "a3f9efacaba62199f44111e293b98fa76c6e0322abfbf852d9355a8346072a4d"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-09-50/crate_locations.json"
+hash = "71f1205bc9483f983c7358a175292381b855c7ccb1ac8da0266ccc14fb024bcd"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-09-50/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "11838862778cde3bf691109058e0f3a548e1a3ea844796a7630b95a5705074fb"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-10-31/crate_locations.json"
+hash = "94441616adaf7fc06f0f13d271269c25762f29be3385aabc34863560b1c33e10"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-10-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "11838862778cde3bf691109058e0f3a548e1a3ea844796a7630b95a5705074fb"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-12-10/crate_locations.json"
+hash = "b1861058ee5c6e482639a26fe1e3ff474b7423330ef08935db678d4cceec1d95"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-12-10/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "11838862778cde3bf691109058e0f3a548e1a3ea844796a7630b95a5705074fb"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-12-52/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-12-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "11838862778cde3bf691109058e0f3a548e1a3ea844796a7630b95a5705074fb"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-15-25/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-15-25/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-20-39/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-20-39/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-27-59/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-27-59/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-37-22/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-37-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-39-39/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-39-39/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-42-06/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-42-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-47-59/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-47-59/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-52-01/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-52-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-57-31/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_12-57-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-04-16/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-04-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-04-58/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-04-58/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-05-18/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-05-18/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-07-08/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-07-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-30-05/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-30-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-32-39/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-32-39/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-54-47/crate_locations.json"
+hash = "45b43906ef64d14ac5897a540ea25aa815e998fe7ff3df70040c02cd94fc5fd2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_13-54-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_18-45-37/crate_locations.json"
+hash = "42724988b72e704036d6b9d950aba9649d59b171018acef7ed81fb7b58a605de"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_18-45-37/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-08-40/crate_locations.json"
+hash = "42724988b72e704036d6b9d950aba9649d59b171018acef7ed81fb7b58a605de"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-08-40/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-12-48/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-12-48/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-50-26/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_20-50-26/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_21-39-00/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_21-39-00/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-13-38/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-13-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-17-07/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-17-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-19-22/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-19-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-22-54/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-22-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-23-49/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-23-49/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-26-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-26-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-27-03/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-27-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-30-18/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-30-18/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-53-01/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-53-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-55-54/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-55-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-59-46/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_22-59-46/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-14-57/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-14-57/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-31-22/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-31-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-36-02/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-36-02/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-57-49/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-21_23-57-49/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-09-04/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-09-04/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-21-35/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-21-35/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-30-41/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_00-30-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-10-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-10-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-22-38/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-22-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-33-26/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-33-26/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-38-54/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_01-38-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-02-17/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-02-17/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-13-04/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-13-04/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-51-08/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_02-51-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_03-24-09/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_03-24-09/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_03-53-22/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_03-53-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_04-20-57/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_04-20-57/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-24-24/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-24-24/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-24-41/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-24-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-29-27/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-29-27/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-37-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_22-37-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_23-58-26/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-22_23-58-26/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_00-30-07/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_00-30-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_01-18-56/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_01-18-56/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_03-22-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_03-22-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_03-35-33/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_03-35-33/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-27-06/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-27-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-51-18/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-51-18/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-55-47/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_12-55-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_13-15-10/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_13-15-10/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_13-57-51/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_13-57-51/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_14-26-53/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_14-26-53/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_15-11-36/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_15-11-36/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_15-41-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_15-41-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_16-25-56/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-03-23_16-25-56/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-43-23/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-43-23/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-51-36/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-51-36/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-59-02/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_08-59-02/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_09-21-33/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_09-21-33/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_19-46-42/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-03_19-46-42/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_21-38-53/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_21-38-53/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_22-02-54/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_22-02-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_22-16-15/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-10_22-16-15/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-11_01-28-03/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-11_01-28-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-50-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-50-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-52-51/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-52-51/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-56-44/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_13-56-44/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-36-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-36-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-43-29/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-43-29/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-53-11/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-53-11/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-57-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-04-30_23-57-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_00-37-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_00-37-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_00-55-51/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_00-55-51/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-05-59/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-05-59/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-11-47/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-11-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-40-05/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_01-40-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-12-42/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-12-42/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-20-44/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-20-44/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-27-15/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_10-27-15/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-29-30/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-29-30/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-36-16/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-36-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-40-47/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-40-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-43-40/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_11-43-40/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_12-22-08/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_12-22-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_12-39-06/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_12-39-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-12-33/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-12-33/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-19-19/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-19-19/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-24-07/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-24-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-30-06/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-30-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-33-11/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-33-11/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-49-03/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-01_13-49-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-03_22-05-49/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-03_22-05-49/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-05_23-53-16/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-05_23-53-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_12-01-38/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_12-01-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-05-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-05-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-28-01/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-28-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-37-42/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_13-37-42/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-36-36/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-36-36/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-41-32/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-41-32/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-48-47/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-06_14-48-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_14-42-41/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_14-42-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_14-52-08/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_14-52-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_15-03-45/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_15-03-45/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_17-02-08/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_17-02-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_19-18-11/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-08_19-18-11/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-09_18-51-44/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-09_18-51-44/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-10_13-08-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-10_13-08-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-10_13-55-43/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-10_13-55-43/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-07-07/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-07-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-43-11/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-43-11/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-48-03/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_12-48-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-01-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-01-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-16-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-16-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-33-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-33-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-46-54/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_13-46-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-00-28/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-00-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-37-29/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-37-29/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-46-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_14-46-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-09-58/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-09-58/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-29-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-29-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-38-38/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-38-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-42-04/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-42-04/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-55-41/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_15-55-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-06-05/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-06-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-15-31/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-15-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-40-26/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-40-26/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-48-37/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-48-37/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-58-35/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-11_16-58-35/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-12_19-00-38/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-12_19-00-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-12_22-33-36/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-12_22-33-36/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_00-43-39/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_00-43-39/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_01-04-45/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_01-04-45/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_01-23-46/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_01-23-46/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_11-18-06/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_11-18-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_12-52-16/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_12-52-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_13-08-39/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_13-08-39/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-03-07/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-03-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-40-22/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-40-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-42-58/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-42-58/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-59-37/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_14-59-37/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_15-24-29/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_15-24-29/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_15-39-24/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_15-39-24/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_16-13-42/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_16-13-42/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_22-56-03/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-13_22-56-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_12-29-25/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_12-29-25/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_12-49-49/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_12-49-49/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_14-15-44/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_14-15-44/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_21-56-56/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-15_21-56-56/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-26_15-20-29/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-26_15-20-29/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-26_15-34-47/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-26_15-34-47/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_12-20-05/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_12-20-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-13-58/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-13-58/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-27-57/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-27-57/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-30-52/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-30-52/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-42-05/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_15-42-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_20-46-21/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_20-46-21/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_22-01-15/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_22-01-15/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_22-45-44/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_22-45-44/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_23-26-05/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_23-26-05/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_23-52-16/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-27_23-52-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_01-02-43/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_01-02-43/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_12-10-56/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_12-10-56/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_13-16-35/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_13-16-35/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_17-24-13/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_17-24-13/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_17-39-29/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_17-39-29/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_20-49-14/crate_locations.json"
+hash = "e4baad088e45796b173dc363f35ee07e94ed67da2921446855e449b837a65e98"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_20-49-14/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_22-52-35/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-28_22-52-35/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_10-05-54/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_10-05-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-13-50/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-13-50/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-27-31/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-27-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-29-14/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-29-14/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-29-43/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_11-29-43/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_12-34-38/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_12-34-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_13-07-19/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_13-07-19/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_13-30-22/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_13-30-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-00-51/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-00-51/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-03-42/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-03-42/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-14-37/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-14-37/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-20-07/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-20-07/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-34-01/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-34-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-35-28/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-05-29_14-35-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_00-02-48/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_00-02-48/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_11-19-30/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_11-19-30/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_11-25-04/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_11-25-04/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_13-08-11/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_13-08-11/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_13-59-54/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_13-59-54/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-30-15/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-30-15/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-36-45/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-36-45/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-45-03/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_14-45-03/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_15-07-21/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_15-07-21/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_15-25-38/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_15-25-38/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-32-48/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-32-48/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-36-51/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-36-51/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-51-31/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-51-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-55-46/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_20-55-46/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-05-16/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-05-16/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-16-49/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-16-49/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-38-22/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-38-22/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-44-00/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-44-00/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-48-12/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-48-12/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-51-08/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-01_21-51-08/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_18-59-46/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_18-59-46/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_21-59-00/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_21-59-00/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-14-06/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-14-06/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-17-24/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-17-24/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-29-01/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-02_22-29-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-08_00-03-01/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-08_00-03-01/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-08_18-35-58/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-08_18-35-58/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-09_12-49-41/crate_locations.json"
+hash = "bc1698abfe294a1dbdc92bdaf3e8e8a0593f65076c7881a587957e58ee3c72ea"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-09_12-49-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_15-51-50/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_15-51-50/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_16-12-28/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_16-12-28/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_18-05-30/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-14_18-05-30/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-15_00-37-26/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-15_00-37-26/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-16_22-39-41/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-16_22-39-41/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-16_22-39-48/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-16_22-39-48/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/config.json"
+hash = "533e6101ce2e34ea4b3457480a0031e7b319e6a3871717ef2302da17b839cad3"
+
+[[files]]
+file = "config/shadowcrates/crate_logs/crate-2026-03-21.txt"
+hash = "c3f51477b6931d4dfe968405726269ced445f30cf535c8f937a75eb6200b0c49"
+
+[[files]]
+file = "config/shadowcrates/crate_logs/crate-2026-05-13.txt"
+hash = "47cd537474c892ef8b8acaff310776682e2379c06c10c8750b26348d2eb64748"
+
+[[files]]
+file = "config/shadowcrates/crate_logs/crate-2026-05-26.txt"
+hash = "ff85592267b031ef663e9287c9acb8030e54c0cf884f90bc3faaebde24110174"
+
+[[files]]
+file = "config/shadowcrates/crate_logs/crate-2026-05-27.txt"
+hash = "8c23dd37aa3c463354fe2f0ed6a5e006361020e41649f809c0d4249bbf163227"
+
+[[files]]
+file = "config/shadowcrates/crate_logs/crate-2026-05-28.txt"
+hash = "c5ac52c8f2350125b975ceaedc8ddb47290e353b8afb29b53fe73a1afea1023b"
+
+[[files]]
+file = "config/shadowcrates/crates/.json"
+hash = "4ab2cbb31314f963e1047871b2426d1160ee6c6dae03ab179313a1660d8612a7"
+
+[[files]]
+file = "config/shadowcrates/crates/common.json"
+hash = "3f7623bc52fbad4b0ff7506772479556b0be4fdff97384dea7edfd4f6a6ea654"
+
+[[files]]
+file = "config/shadowcrates/crates/epic.json"
+hash = "7b6cad86a683139b93e536ce61c513f3b5f202e2d7673bf851f8a962d4b9eee4"
+
+[[files]]
+file = "config/shadowcrates/crates/legendary.json"
+hash = "0c1c8f2ea6763f083a602acac0dd35443ee132cde94e188679700252747d907a"
+
+[[files]]
+file = "config/shadowcrates/crates/rare.json"
+hash = "06313ff1d6e6f389410bef9df7fda3d46379ae38cd1afe55b41d84c7435fc6ed"
+
+[[files]]
+file = "config/shadowcrates/crates/uncommon.json"
+hash = "b2e7b008c18123cd274545d8f1322d6d684b1eb70bb022dd2736d9a17a5aa455"
+
+[[files]]
+file = "config/shadowcrates/data/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/data/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
+file = "config/shadowcrates/menu_keys.json"
+hash = "5fcad59103b2692033881c2818b11544ec5719c58c9cba84528c25c1f8b4c609"
+
+[[files]]
+file = "config/shadowcrates/menu_preview.json"
+hash = "cb08ec13850d82584ce2d4e002a3315470f3dbf8d058b038291d65bab758fe88"
+
+[[files]]
+file = "config/shadowcrates/menu_storage.json"
+hash = "d9aab6e953a5881c409fc7d6aa730971f605326b3a32328246c9980ecb5b9c36"
+
+[[files]]
+file = "config/shinyboosters.nbt"
+hash = "174ed3edabbd9912792f6bdffdacb5edb055f9e6651ffd38821344d6545b0d99"
+
+[[files]]
+file = "config/shinycookie/main.json"
+hash = "859646c847909817328e65775a4dd16f98faa6e7887d83afd65c45baec9fbfc6"
+
+[[files]]
+file = "config/simpletms/main.json"
+hash = "24f8689336c04db23312f4019adfdb3587b7e3d4403b695adbc6653789db9250"
+
+[[files]]
+file = "config/simpletms/moves/default_tm_moves.json"
+hash = "5483714eef85f1939060b1f2ddf29b73096a92556b0e092e06d447540ae79156"
+
+[[files]]
+file = "config/simpletms/moves/default_tr_moves.json"
+hash = "5483714eef85f1939060b1f2ddf29b73096a92556b0e092e06d447540ae79156"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_blank_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_pokemon_drops.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_tmtr_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/snowundertrees.config.json"
+hash = "986573e2d506b09609b4e0f11915230e5725ef64b56249656a208001e93e4d1f"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "0846431b1587374f38743234d6e1a1b9e6bb2d3726c955a5632d7ffff73eab8c"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "e635aeb4d04466b5dafe1d6da7e8b996bc599a9d1f2074a259597970c1c0cb8c"
+
+[[files]]
+file = "config/spawn_notification.json"
+hash = "51e1c52485994a1bf2edace388886872d926649dee07676264961bc3b01ad574"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "b61845575b5de15b55f5f058e185bbfad54ec2440d858a8c9a53e63b8e24e8d2"
+
+[[files]]
+file = "config/terralith.json"
+hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
+
+[[files]]
+file = "config/tim_core.json"
+hash = "f2682026483bfb843c5110e7c52ebccaded478b4f974f009001a9c70e18b1672"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "75fa92f768ca9920ee8f2f7d829792b405bf72e163457b5e45a07ff1d53d2624"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "ffc1a7e9ff53a47a30ab571c536c78c77ad3899ebb81fe3bb736e1198c2027b8"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "28bbffcc749f481097618fd75d4222ae6573477d1daca2b6e9e84042ae39cc36"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "53f6726c5a8de12cc5114f80d3c4812a0a9e49aeff759f26e9329b10255b43d7"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "6fedc782177b208adbe6f7004ab89721b2c1f3c97f9eddf8f93671d22e09bb48"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "c7541f5ca9542c69a8d79378476f2f1d9caaa43acc5635935e5546b790469dfd"
+
+[[files]]
+file = "config/visuality.json"
+hash = "1561b99ae57ede995dfb64a91ac5b53dd877f57e4a8f1859526da84511bcec07"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "1890069f63baa9eca78bf5013ea591d70f8a29eb8d95437b4094b6de4b14abd1"
+
+[[files]]
+file = "config/visualworkbench-common.toml"
+hash = "db3a2a559ddbdb5a40c2e7e1b3afd88dd5def2fd35c0af17a1ba4bb967d9be88"
+
+[[files]]
+file = "config/vote2sleep/vote2sleep.json"
+hash = "2f6a70a1c5a6714b5a7d564e2114fc1eb93ac3ff2b941956cc2ea0e775e899be"
+
+[[files]]
+file = "config/vote2sleep/worlds.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/wakes.json"
+hash = "4204bfeb01243e433358234d17287c6aec951fd24de5722c3191d40c7d30e9e2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "5c0b64c0763c32e1b57ae60ad0e3da4fc2f2a8e521c2b9f37b72c3a5a68e401a"
+
+[[files]]
+file = "config/waystones_client_save.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/wover/cached.json"
+hash = "921f3f788991180610cfb7fdd5d472f9f48975bf73de52e8d799d8be64a15063"
+
+[[files]]
+file = "config/wover/client.json"
+hash = "09d53e45cd3500e25562e0dba4efd521c3a7aee0c7571612c4eb875a05f5087d"
+
+[[files]]
+file = "config/wover/main.json"
+hash = "50e9b9c108e2e40a33fa61248cedb32737a58b5bb828a1bee14599baed859507"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "67f8359fe837711c2114abbfd940a28f75af76adf9372a9e785deceb307bad48"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "700887e002e7197ca80389638d322b4139c2f1d92a4621d102f24fdded9ca851"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "ca306afe17dd039a569c0f4e0e7cc5249a4a2cb6cd3d7823c4493489ec19b102"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xmxw.json"
+hash = "fc8a171e6ede1d420e5bbda9039d9cb15479b32952cfe8218f34b5836c1ec930"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "mods/accessories-fabric-1-1-0-beta-53-1-21-1.pw.toml"
+hash = "21f17587ccd23f011a3c3700889bbc959f78ba97a0eaedd42cc28db099f21f97"
+metafile = true
+
+[[files]]
+file = "mods/adastra-fabric-1-21-1-1-16-6.pw.toml"
+hash = "6ed9a7c998699b0ec230255560f22091ec467cf5b3782a4695b8fbe1cbba16de"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds-fabric-v6-3-8-mc1-21-1.pw.toml"
+hash = "a2c7081af36b704d68190c4a0394aafb49e41cf5e95ba3919906c1b7e97ece75"
+metafile = true
+
+[[files]]
+file = "mods/antiquetradingship-1-0-0-fabric-1-21-1.pw.toml"
+hash = "41fd36804f9397286e676cf0ffb796828555f670685fe03cdac1da294655a2dc"
+metafile = true
+
+[[files]]
+file = "mods/architectury-13-0-8-fabric.pw.toml"
+hash = "91aa0ef0131985b9b18a00e48e76186d4277799976e7fad6cd6926b576b42ce3"
+metafile = true
+
+[[files]]
+file = "mods/awesomedungeonocean-fabric-1-21-1-3-3-0.pw.toml"
+hash = "021e32d333fa8776f9bb2d9c5efcf64744af526beb1a7376fe1bcbda3b80448f"
+metafile = true
+
+[[files]]
+file = "mods/azc-tooltips-1-0-0.pw.toml"
+hash = "e131c82a75b0ed673051cec28095a39dbd9ee651318bd30693da8d1f49228d29"
+metafile = true
+
+[[files]]
+file = "mods/azcbattleguard-1-0-0.pw.toml"
+hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
+metafile = true
+
+[[files]]
+file = "mods/azcseasonhud-1-0-0.pw.toml"
+hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric-1-21-1-21-0-59.pw.toml"
+hash = "8400968f45d714751b2cfae85da6cccf45b6dcd619b2c5e1e9227e1771e73b43"
+metafile = true
+
+[[files]]
+file = "mods/bclib-21-0-13.pw.toml"
+hash = "0659b4cda52e8dee0aa28496755c84ba10bd18a6a95664433b7f6d64df802d61"
+metafile = true
+
+[[files]]
+file = "mods/better-end-21-0-11.pw.toml"
+hash = "efbefda9ba82b1a698edc857b1190388f5110b4742bb0390878a7eb41a436d39"
+metafile = true
+
+[[files]]
+file = "mods/betterend-crashed-ships-1-1-0.pw.toml"
+hash = "48202bfb3d106d68495bbc7ad2dcd8b02ae9241ca63e8cc259bc19ecacbecab5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric-mc1-21-1-0-3-0-alpha-0-364.pw.toml"
+hash = "eea365b17f7ef2d0084dddfdb384ca4ef80d78f8d76455e2ea76b20d4a3f4955"
+metafile = true
+
+[[files]]
+file = "mods/capturexp-fabric-1-7-3-1-3-0.pw.toml"
+hash = "6aa44ae9285f4cc99cdb51212a73a7c9709cfa52aa5dc2abc95f1889a7ce0acc"
+metafile = true
+
+[[files]]
+file = "mods/catchrate-display-fabric-2-8-22.pw.toml"
+hash = "78fc36ecbde48057997f09917be8319b4bcbd2464da2b3cfbcc2f16355be41e4"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust-3-0-1.pw.toml"
+hash = "8e25cf410fcfe0a58b2cc0eca828f4b1ad267589911c5190016cd8f9e89563be"
+metafile = true
+
+[[files]]
+file = "mods/chunky-fabric-1-4-23.pw.toml"
+hash = "e94e7b4e0f0838e3bd4477e89ad6eef18f6cccfb8a48fa81e235ac7dffe79569"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-15-0-140-fabric.pw.toml"
+hash = "233e11c03b77c550d5b5583d86ee1583a3d4c5e07404b61e78e1cdde54fc0b51"
+metafile = true
+
+[[files]]
+file = "mods/cobbleboss-6-0-0-fabric.pw.toml"
+hash = "33fe85589eb642861b687605d2eebe634ea0fa19ce6478c009ce5ea40cb833e3"
+metafile = true
+
+[[files]]
+file = "mods/cobbledlevels-fabric-2-1-0.pw.toml"
+hash = "73d87a9b1ec567f8a66060f035ca0dd5aa048ee00acaff50263042391f8748e7"
+metafile = true
+
+[[files]]
+file = "mods/cobbleloot-jei-1-0-0.pw.toml"
+hash = "2078a68d972ab8f3a952f104ceeea76f56e0300e20709df354d80012cbcf183b"
+metafile = true
+
+[[files]]
+file = "mods/cobbleloots-fabric-2-3-0.pw.toml"
+hash = "16fda7e92caf9f0d24334b1b622db91d1f5a0a301f2f502c0d674891134b9fce"
+metafile = true
+
+[[files]]
+file = "mods/cobblemodels-v2.pw.toml"
+hash = "f4bdd12bd60658b55b31968f7bdb0fc66e2424c13d2a5641ea6492009fd0e7c9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fabric-1-7-3-1-21-1.pw.toml"
+hash = "f8736526ac93c76fb5a61eff6f2ca1632806bf342c5990f12151c5c345d6282c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mount-mastery-0-2-2.pw.toml"
+hash = "10fc6e86a4cb93943bedace10c0d42a5ada7bf9910fdb339daa1345ef8c1eb9f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quest-icons-0-1-0.pw.toml"
+hash = "ceb7ca6882e6a3d6ee13ff410ef16ad1fe48903b836fed696e6d7ce1a9960202"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests-reloaded-1-21-1-fabric-1-3-5.pw.toml"
+hash = "80c3e2dd2302eb5c0f61c4308fcc54b553a34ac5e06a359347522324f5b42de9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonalphas-1-4-1.pw.toml"
+hash = "cc2232b0e7a1e56e6cffdff6080937bd02f737b669ff89b21be5f7b606cf3877"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonintegrations-fabric-1-21-1-1-1-6.pw.toml"
+hash = "5ffa98b4635518eb6cfdcdba82df3bcd980f10574dddb3b3a5eedc99b85ea369"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonpokemonbadges-fabric-0-1-1.pw.toml"
+hash = "33929a8811322ab6fa408c87fd0a6120c81dad73097da9af26bc8cb31f7ad712"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens-fabric-0-11-1-1-21-1.pw.toml"
+hash = "6984a76f89fe8c5843c6538f9b0dbe29894f38b43e5001f3fbb5336925fda389"
+metafile = true
+
+[[files]]
+file = "mods/cobblenav-fabric-2-3-3.pw.toml"
+hash = "cf6eaf14957d67bc872f0ab9bc80400fabbc02dad414d8006acacd4252fea8f7"
+metafile = true
+
+[[files]]
+file = "mods/cobbleoptimizer-4-6-0.pw.toml"
+hash = "32a6078bffd8d9d78efe022582e66290c9528c86ddc7f4bc179fdae9f559ccf2"
+metafile = true
+
+[[files]]
+file = "mods/cobblethemes-0-9-3-beta.pw.toml"
+hash = "420d60eb34c8a9e813cc56faff877ed9a6f07d3320f7ca3ffcf5f205c46cf5f4"
+metafile = true
+
+[[files]]
+file = "mods/cobbreeding-fabric-2-2-1.pw.toml"
+hash = "aaa8d03be925f8e5c75a80eb6c10de46426caa383980a5d985fba2770f61369f"
+metafile = true
+
+[[files]]
+file = "mods/cobeffectiveness-fabric-0-3.pw.toml"
+hash = "27f32c574dfd3f5d41417d898772057363568d19649f325d5d1aa7f9086a9b33"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric-9-0-5-1-21-1.pw.toml"
+hash = "473beea61d11a97866569b551743cf1679a8318e99593734ac22903abcb4157f"
+metafile = true
+
+[[files]]
+file = "mods/common-storage-lib-data-fabric-1-21-1-0-0-7.pw.toml"
+hash = "cd10bf02250bbbf91ad6e130a66c602736b11a37cfeec30f3a26035371cc3889"
+metafile = true
+
+[[files]]
+file = "mods/common-storage-lib-fabric-1-21-1-0-0-7.pw.toml"
+hash = "ea93db41a849634e40f2e1f1e4cb216aefe0adedac989e5b5017b018c78e290b"
+metafile = true
+
+[[files]]
+file = "mods/common-storage-lib-lookup-fabric-1-21-1-0-0-7.pw.toml"
+hash = "101597725807c5a1569c10f167e04267ec269bc983a0bb33d11aa567667fff33"
+metafile = true
+
+[[files]]
+file = "mods/counter-fabric-1-7-3-1-9-0.pw.toml"
+hash = "31a76d3cbed0fe81c98cbd608a45a70faea4df693dc01374d7a01885bde15576"
+metafile = true
+
+[[files]]
+file = "mods/creativecore-fabric-v2-13-39-mc1-21-1.pw.toml"
+hash = "f0ef141fe12a9278c98143576ab5a19068ec212cb5268b93a0544e7dc67e1efc"
+metafile = true
+
+[[files]]
+file = "mods/cupboard-fabric-1-21-3-7.pw.toml"
+hash = "f353b0a91ff79f455b34110ad4c304652ff2680ee7548c0aaa6e1e03ca00212c"
+metafile = true
+
+[[files]]
+file = "mods/defaultoptions-fabric-1-21-1-21-1-6.pw.toml"
+hash = "bcdebb2fce0acc26959169126747b604aa8ee376ea0ef3ef6b7c78e0d509c816"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons-3-0-3-b-1-21-1-fabric-neoforge.pw.toml"
+hash = "3da0f9c8a84534395d14ce51a4997c5cafa4b5d4022777cd7835e631046e6714"
+metafile = true
+
+[[files]]
+file = "mods/droploottables-fabric-1-7-3-1-9-1.pw.toml"
+hash = "b8ebcffee36f31e8004421231306f3600baad8968da95571cf13f2fe9066af2f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps-3-11-4-minecraft-1-21-0-fabric.pw.toml"
+hash = "80b5ec7d3f0a8dcef91d0ec7f26bfc2dec00c7062251820c31c58ed04a94d5bb"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-1-21-1-9-72.pw.toml"
+hash = "86090f88abdd9fcdb0f0d8fdc67805b6d2f2660d8051c3129c13cec5c97367e9"
+metafile = true
+
+[[files]]
+file = "mods/enhancedblockentities-0-10-2-1-21.pw.toml"
+hash = "c3dd576d581fffd318ceec52dacf20f1daec1ad765b00e449db7368effa580f1"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1-10-3-mc1-21-1.pw.toml"
+hash = "f9eedc897f211c508cb41ad923095b0db9821298cbbee2f73a1de045da1053b1"
+metafile = true
+
+[[files]]
+file = "mods/extra-move-anims-cobblemon-1-7v1-0-2.pw.toml"
+hash = "ef94323d839cc590a114f138426bfaf0e4a973e96b57c48ca39daf0da37fd26c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0-116-12-1-21-1.pw.toml"
+hash = "ade42145b8e89dcc8e81c6b41d0ba7a67f81f3f54b784e52f272062c00dbec12"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1-13-12-kotlin-2-4-0.pw.toml"
+hash = "90d832c952a5f64ec235d1e0a75f4d1fa3960a4fda29ebc2a50ebd89036a8008"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves-1-17-1-1-21-1.pw.toml"
+hash = "10c529b4db9b261295346ca5061e579f21a63dcdb05b8a1a02780754ab4439ab"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7-0-3-fabric.pw.toml"
+hash = "0875ef3bfc47d53b64072bf26903069cad617b887cd8ef8b5b949074b452813d"
+metafile = true
+
+[[files]]
+file = "mods/fightorflight-fabric-0-10-7.pw.toml"
+hash = "31f7eac468caa86ca966e51f8ae4e595e650c251dcdc828e03c5c35f81d0ec90"
+metafile = true
+
+[[files]]
+file = "mods/forgeconfigapiport-v21-1-6-1-21-1-fabric.pw.toml"
+hash = "158594b69e620ab5994d28c49ec662c23e9dd46bb7e440d6acf41c8850aee07c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric-2101-1-18.pw.toml"
+hash = "fbe6079afa00635ecaaed05345f5055dd92cc5e613f39923fc4eb7836a9c3fc1"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric-2101-1-32.pw.toml"
+hash = "401ee5caf905f36c71943a32fa8f2935e586334a9f3cfaf32881b494797c0440"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric-2101-1-27.pw.toml"
+hash = "26fceea553c20df1082635eafa5dee7f06336765aa2938ff6ad1b31bf806026c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-fabric-2101-1-3.pw.toml"
+hash = "ca6111a293fbc39945a959e775130701d5583a5b78ce784e1973b3584ae38fc4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric-2101-1-10.pw.toml"
+hash = "d7aa12722c35560d69459cfcf3e4088b603370c069c0b2719e7d6417a04e475b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-fabric-1-21-1-4-8-4.pw.toml"
+hash = "215528d1a18fea1f4589dc6955b111df301b091a5a6ea834a75b90292de1af8a"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore-fabric-1-21-1-2-1-0-2.pw.toml"
+hash = "40f355a929e70ff92019b091c4a707c013212881628d39597e90b877ed1830fd"
+metafile = true
+
+[[files]]
+file = "mods/graves-3-4-4-1-21.pw.toml"
+hash = "e76aeccc4b3209549b77052cc9c9db3b22aa0d3342de49c10444cd413db6873f"
+metafile = true
+
+[[files]]
+file = "mods/hopobettermineshaft-1-21-1-21-3-1-3-0b.pw.toml"
+hash = "bceacd7fc06c157d8a49172c03147b13ef9298d45408897b5fa01e085829b38f"
+metafile = true
+
+[[files]]
+file = "mods/hopobetterruinedportals-1-21-1-1-21-3-1-4-4b.pw.toml"
+hash = "bf8cffc022af2e16e4ca73b37e49ef06188ca0df2c1fb438333e9b84a4937aa2"
+metafile = true
+
+[[files]]
+file = "mods/hopobetterunderwaterruins-1-21-1-1-21-3-1-2-1b.pw.toml"
+hash = "acea3147457d8e4ebc538cdb21cf71b9a533a889c17d89f25290f32b074168aa"
+metafile = true
+
+[[files]]
+file = "mods/incendium-1-21-x-v5-4-4.pw.toml"
+hash = "5417fc5afca932be3fc0fb0517c273640083da634c0e0238824e62333c0f659b"
+metafile = true
+
+[[files]]
+file = "mods/iris-fabric-1-8-7-mc1-21-1.pw.toml"
+hash = "7758b699d491a0ae0bdb064887eeea42cc399b379ed0a4b45202d8895e01b87d"
+metafile = true
+
+[[files]]
+file = "mods/jade-1-21-1-fabric-15-10-5.pw.toml"
+hash = "4334a790e14cd4f63862d8d6a1923cb786a5dbe52476264ee2b631e8769485d1"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-21-1-fabric-19-27-0-340.pw.toml"
+hash = "d068af73317a66bb76aafa6d8301b3e4a42074df150642a85424405e0467431b"
+metafile = true
+
+[[files]]
+file = "mods/katters-structures-2-1.pw.toml"
+hash = "3c6882b0d2275bc26296926d4dd45cd5439cb6f6d4941a782e9e67ca5edcb949"
+metafile = true
+
+[[files]]
+file = "mods/krypton-0-2-8.pw.toml"
+hash = "44c1b3456a6a615517d6f3177418fa864558605faa389bb847e8688c10d8aafb"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-4-8-9-1-21-1.pw.toml"
+hash = "73c4cd534b0d8c3aa584d2d831e3c3d084a84dfa2d2cabe6c6e10481f313e7f4"
+metafile = true
+
+[[files]]
+file = "mods/libraryferret-fabric-1-21-1-4-0-0.pw.toml"
+hash = "ebff65ef341a266d6a950b409976dc26fe46b928cd22b3523871146474e66c3a"
+metafile = true
+
+[[files]]
+file = "mods/litematica-fabric-1-21-0-19-60.pw.toml"
+hash = "5ffd9e114a03c7b2359fa45c64478476e89d685cf8afc7a9b2cdf30e6e0675cf"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-0-15-3-mc1-21-1.pw.toml"
+hash = "e17551e079d6e8af00e39e39840a3f9d4de9b8744b7a3067530e9a2d556ec009"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched-1-7-9-fabric-21-1.pw.toml"
+hash = "27c2721a86d30894bf30c1d3e67c723071d549243983bc5da3095c4cd32e180d"
+metafile = true
+
+[[files]]
+file = "mods/lootintegrations-fabric-1-21-4-7.pw.toml"
+hash = "b7c6088875dcc66d0ba62c4591e1404923dcf7a23421153fe1346617a8cf2fdf"
+metafile = true
+
+[[files]]
+file = "mods/lootintegrations-hopo-1-5.pw.toml"
+hash = "434788debf37896ee555797eab94a61897a0606428af816279363fbc5f36b92f"
+metafile = true
+
+[[files]]
+file = "mods/lootintegrations-yungs-1-5.pw.toml"
+hash = "113478acd671ba1dbc77decb32daf0934cd85a6ed8c9349cc2e4ef26c42f33e6"
+metafile = true
+
+[[files]]
+file = "mods/lootr-fabric-1-21-1-1-11-37-120.pw.toml"
+hash = "f1db1996ecc82e8b96af99d3a9a54f2ccbc4ead02dab1a6c37c3342bb82b8020"
+metafile = true
+
+[[files]]
+file = "mods/lootrmon-fabric-1-21-1-0-0-0-1.pw.toml"
+hash = "90962cc50d6e20605e6b08f328944b9322786245c000969ff4b2bfa275814ee0"
+metafile = true
+
+[[files]]
+file = "mods/lukis-ancient-cities-v1-2.pw.toml"
+hash = "485fb1a1fcb45f47169982c2dea4a5196ed5f612f93eb6ca02fe98de6351bfcd"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers-1-0-3.pw.toml"
+hash = "044b499d3c388e5c30e392ca5c386c33ed85287d0d1b9eca861d7ed9927c561e"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals-1-1-3.pw.toml"
+hash = "3e0b890eabf88fd4b46e008b506c5b3cf9030aec4bd1c989eb8c034767c00ef1"
+metafile = true
+
+[[files]]
+file = "mods/lukis-strongholds-v1-0-1-21-1-21-4.pw.toml"
+hash = "313a38adb616a7244bac3654a409db1a0b68da9d870cf521d109bc59cb647bba"
+metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-1-21-0-21-10.pw.toml"
+hash = "1453c48549a188cb2a8dad31c5969da778757599ee187cd8ce9ed0058233582b"
+metafile = true
+
+[[files]]
+file = "mods/mega-showdown-fabric-1-8-4-1-7-3-1-21-1.pw.toml"
+hash = "9e20792872a0cab27f492cfa47960d6536809436f77ea9c80f8520332fcc8591"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib-fabric-1-9-3-1-21-1.pw.toml"
+hash = "5efb28d49a19a1261fd658c5d918d149c91cf0002b8a7afaad6f1fd50e8c0427"
+metafile = true
+
+[[files]]
+file = "mods/mixinextras-fabric-0-5-4.pw.toml"
+hash = "0141a1861aeeac5359f76567230d1b56e0bc97bc8828d249a4271022a64966ab"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5-25-1-mc1-21-1.pw.toml"
+hash = "fc295324c223c686b4de593b363a98c0919fd6d20e69c3bacd3cd55a2c6178ab"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-11-0-4.pw.toml"
+hash = "5166490ecf0854915342acfa874e43c59aca77c0ebe012bca596625ecafc6d7e"
+metafile = true
+
+[[files]]
+file = "mods/more-radical-trainers-1-8-fixed.pw.toml"
+hash = "c89025060f9e47fc2b05e635088dd3c564b4a06ffbedda5ea220bc5af8653443"
+metafile = true
+
+[[files]]
+file = "mods/morecobblemontweaks-fabric-1-3-3.pw.toml"
+hash = "d97ae2e439bfaee3a54519d07d739246e7b274ff0077a81cb10cb52ed43f5586"
+metafile = true
+
+[[files]]
+file = "mods/moreculling-fabric-1-21-1-1-0-7.pw.toml"
+hash = "ee43914d9f4db96db096d677daa8cf8fd6b866c64a2a4ea089b20a7a0a801c83"
+metafile = true
+
+[[files]]
+file = "mods/mru-1-0-19-lts-1-21-1-fabric.pw.toml"
+hash = "eca2e31df44504a2cab1abc885529c043a222282c35c7c9fc6c378f14108ddd4"
+metafile = true
+
+[[files]]
+file = "mods/mythsandlegends-fabric-1-9-0.pw.toml"
+hash = "335df2c77932a7df9d66c6e69756ca3ad3bc1d6fb40c8a30c7063f44ff3939de"
+metafile = true
+
+[[files]]
+file = "mods/no-mon-in-boats-1-0-0.pw.toml"
+hash = "49dd582830de7da7c44996505844d434173063a5fb2ae5f11f374d6454f863d4"
+metafile = true
+
+[[files]]
+file = "mods/noisium-fabric-2-3-0-mc1-21-1-21-1.pw.toml"
+hash = "9a58758fd06799efeb72c23a17f179827177f2268285b0f809ad9c91d7810081"
+metafile = true
+
+[[files]]
+file = "mods/ocean-lily-pad-village-1-0-0-fabric-1-21-1.pw.toml"
+hash = "f9fda3c1bd3d2288512c19345e2c1757d8dbe2a1fb32701dfa831fcf385a3397"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib-0-12-15-4-1-21.pw.toml"
+hash = "c1a9a5eb0449a0127f92a457096a54f45392afd24f501d7b1a452df9ab2b76ba"
+metafile = true
+
+[[files]]
+file = "mods/particular-1-21-1-fabric-1-1-2.pw.toml"
+hash = "60c2377518d14b38b5b103815b7790b804c0bc3a446c17144bb78ab5ca2d3354"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-1-21-1-93-fabric.pw.toml"
+hash = "4397142d40a2446e94634fcff348bb6fb41e63944d8deaa5534fe3abafdd48d0"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api-2-4-2-1-21.pw.toml"
+hash = "c6b6c7b35d156f4bc9b5fbfd827fc4e6d4e7e7ceca4ec99985789b171d1e6a00"
+metafile = true
+
+[[files]]
+file = "mods/playerxp-fabric-1-0-9-1-21-1.pw.toml"
+hash = "4b51878265520c46c62e697bd378fa4a0cf1530f0e9eab212fd1e3acefb9229d"
+metafile = true
+
+[[files]]
+file = "mods/pokebike-fabric-1-7.pw.toml"
+hash = "846ee9a9adf796984cffff55ff291564d6d17b08451b974a7f0ba2451b0b1989"
+metafile = true
+
+[[files]]
+file = "mods/polymer-bundled-0-9-19-1-21-1.pw.toml"
+hash = "5e57030d56d866b674d562434011854c7db2e7513dc03e9f753acf662a4d8b7b"
+metafile = true
+
+[[files]]
+file = "mods/punchy-2-5-6-fabric-1-21-1.pw.toml"
+hash = "2116ef2fed5c3b307db71d51d9cf0bad01d117e9890d03d7f39e2615022675bb"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v21-1-52-1-21-1-fabric.pw.toml"
+hash = "aa43f8cd1d1fb4a575ab8dab4c0c8524e1009bc77d1de392b471be89c42e472d"
+metafile = true
+
+[[files]]
+file = "mods/rctapi-fabric-1-21-1-0-15-2-beta.pw.toml"
+hash = "b8db42dbfceb54e4d3928c3bc62dedc2dbabc1daba154230075a755fcdb11d9e"
+metafile = true
+
+[[files]]
+file = "mods/rctcapturecap-fabric-1-21-1-1-2-0.pw.toml"
+hash = "878857cda50fbaff4d11a429ced743ff7a1a281e0531dda44c6802b83cd37ef0"
+metafile = true
+
+[[files]]
+file = "mods/rctmod-fabric-1-21-1-0-18-1-beta.pw.toml"
+hash = "9e2f80954b27f37cf7ab43c03cb3a1925d233a34227f0c5bfd36ed7d8e1533d1"
+metafile = true
+
+[[files]]
+file = "mods/releaserewards-fabric-3-0-1.pw.toml"
+hash = "5f0b7f37f7e8a787b771b78bc5fb6f64125bc11586085171a5ac3ba1b9b9e310"
+metafile = true
+
+[[files]]
+file = "mods/resourcefulconfig-fabric-1-21-3-0-11.pw.toml"
+hash = "33628b3462c762b28826c7495f86011e7fda511fd201d3f35923e82e539e0ecb"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-fabric-1-21-3-0-12.pw.toml"
+hash = "ad898d787de7db2e0e5597fefc9a7402e691f5441bfed7471fc057bbf4c874e8"
+metafile = true
+
+[[files]]
+file = "mods/scoremons-3-2-cobblemon-1-7-3.pw.toml"
+hash = "93831474e311fea25c04f56be84645f8c1c9a0a700025a0cbdb10765b80560b5"
+metafile = true
+
+[[files]]
+file = "mods/sereneseasons-fabric-1-21-1-10-1-0-3.pw.toml"
+hash = "c19453f665e54c126ce4b8543dea60ad78f22ff6ecad7cc00b62ea621e54df9d"
+metafile = true
+
+[[files]]
+file = "mods/servercore-fabric-1-5-17-1-21-1.pw.toml"
+hash = "70a62b306b953c0a40f886bf04f83df03a59e1a946958e78e1e9dbdde64cc52f"
+metafile = true
+
+[[files]]
+file = "mods/settlement-roads-2-0-1.pw.toml"
+hash = "3fa1515327e1b3abe01e96c1a0d06b03d6aa58df1a5d4a7a98d84a7e50ffc90e"
+metafile = true
+
+[[files]]
+file = "mods/shadowcrates-2-3.pw.toml"
+hash = "10fb48fe7e745bb0fb5d1deca36fdc7be7ac9acc5511f8ba4a90e0aef5762bb1"
+metafile = true
+
+[[files]]
+file = "mods/shiny-boosters-1-1-0-1-21-1.pw.toml"
+hash = "3537fd55234dd62fe8e984145e3b261d88c818b008c92b6de340b74d4715ea93"
+metafile = true
+
+[[files]]
+file = "mods/shinycookie-fabric-0-1-1.pw.toml"
+hash = "fef1707e4c67a8d4a2d23bda52382769b34d3ba243fbd2c7c9d914176e93a4da"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-fabric-2-3-3.pw.toml"
+hash = "65af99516d78553fca71de4a7b8e19fbec05918f8d2d60cb14432585ddb69f08"
+metafile = true
+
+[[files]]
+file = "mods/snowundertrees-2-7-4-1-21-1.pw.toml"
+hash = "abc1f96a2b7c8da24496fbb1527e54061e547fbc61011b6c78a9b7e4cbb5580c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0-6-9-mc1-21-1.pw.toml"
+hash = "7ec202f9ac51629902c59cd16082cc2f607a9fec4ecae0309e781311c0867248"
+metafile = true
+
+[[files]]
+file = "mods/spawnnotification-fabric-1-7-3-2-3-0.pw.toml"
+hash = "35919019cc18ebc7b43cfdd533ce38516a3cc74e1f306429931ef96176332907"
+metafile = true
+
+[[files]]
+file = "mods/tectonic-3-0-22-fabric-21-1.pw.toml"
+hash = "0c67ab2463baa07a95c9787343fbd23e9a6f4e1b37782f36a2a4a729e0c63538"
+metafile = true
+
+[[files]]
+file = "mods/terralith-1-21-x-v2-6-2.pw.toml"
+hash = "0403ee74e135a61a65b097fd9f75259c5df71c698c9c50e231cccdf3d698c111"
+metafile = true
+
+[[files]]
+file = "mods/timcore-fabric-1-7-3-1-32-0.pw.toml"
+hash = "80e1fc6ec925526c98573622a649f736183feef9934a62fce9f08a70b407883e"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack-fabric-1-21-1-10-1-36.pw.toml"
+hash = "a0908056023563a29047d2d389a0597a053e8a43b68fcc1cbfc91dc44d3a3969"
+metafile = true
+
+[[files]]
+file = "mods/treechop-1-21-1-fabric-0-19-3a.pw.toml"
+hash = "7de4120af48581c72e26efc679e9d05c8d85d81d8c2a1026ca77923091ceea3c"
+metafile = true
+
+[[files]]
+file = "mods/veinmining-fabric-5-0-0-beta-1-21.pw.toml"
+hash = "8f581647967518202d3ba618363b45ec5e195d5ed8d97cb03b3989f7af38a326"
+metafile = true
+
+[[files]]
+file = "mods/visuality-0-7-7-1-21.pw.toml"
+hash = "4498acb92ac5a3578b280b75d1a1d52e2b21e3a97e1cf7102717da610ded951c"
+metafile = true
+
+[[files]]
+file = "mods/visualworkbench-v21-1-1-1-21-1-fabric.pw.toml"
+hash = "08f66ef93535e84c499a01330242593000ae5263b41a8c4c3f9a05837da259c4"
+metafile = true
+
+[[files]]
+file = "mods/vote2sleep-fabric-1-21-1-1-0-0.pw.toml"
+hash = "167f6f4f325d347e01a54d870af45dda5055ea72240c44a98048154e786fc0c9"
+metafile = true
+
+[[files]]
+file = "mods/wakes-0-2-2-1-21.pw.toml"
+hash = "8574e001695b4bc7a961ad9f743693aa2c5df860b088100a11b37a706d589f76"
+metafile = true
+
+[[files]]
+file = "mods/wanteditems-1-1-9-1-7-3.pw.toml"
+hash = "f820c9344a12999b78e0c253878aae288d4c16279f181b38a4a8418e40c615cc"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric-1-21-1-21-1-34.pw.toml"
+hash = "298cd359b142ebcbf80f169a469f6371cdece1b0efe2ef260275af966aacfe58"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-21-0-13.pw.toml"
+hash = "2c02af764188f2bef665408318fb08fbd1666951209ffbf93f6ded1b762aa6c0"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-fabric-1-21-1-26-1-0.pw.toml"
+hash = "0ae0cbcdf325ad43f6ff62b286511a77e62bdc6e355c3ce49b5c51ed158f0e91"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-1-21-1-1-41-0.pw.toml"
+hash = "4e42da76280870157c40ee858743bf29c6cf1b5f7fedfec9dbc585fc6f56d368"
+metafile = true
+
+[[files]]
+file = "mods/xmxw-2-10-1-1-21-1-fabric.pw.toml"
+hash = "84413f683fc2bd43845d32ca47694d440bf260142e8ac9abea4a71b4b652054d"
+metafile = true
+
+[[files]]
+file = "mods/yet-another-config-lib-v3-3-8-2-1-21-1-fabric.pw.toml"
+hash = "b200464c54c1712444cce0746291c91c6ee2d30e854400570928f8e23a39dc54"
+metafile = true
+
+[[files]]
+file = "mods/yungsapi-1-21-1-fabric-5-1-6.pw.toml"
+hash = "3abf00eeca3d94181cd4befc7f23e1b9ca747c15bbc01ef60b0d32f3d0e59c70"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetterdeserttemples-1-21-1-fabric-4-1-5.pw.toml"
+hash = "de762183b8b5b1fd7a96f24d0c366fefe6af196f2f7cdacd418aa5d12f64f636"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetterdungeons-1-21-1-fabric-5-1-4.pw.toml"
+hash = "9769d3e15ff4c94f99d1e6a70db6671dd0ae3c08e7760555e80c824712f7b578"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetterendisland-1-21-1-fabric-3-1-2.pw.toml"
+hash = "bdba2646bbed7c164ba662c16a1e65558b473e76d5e9c17a89696cd94f83f670"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetterjungletemples-1-21-1-fabric-3-1-2.pw.toml"
+hash = "de688592892a9adefa76ed1062ce654d488cdfb9c3a75f69a5c160075c46439b"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetternetherfortresses-1-21-1-fabric-3-1-5.pw.toml"
+hash = "80dc23ff7669b3563fd1e870e45fd4285b4f63551242cde16e884e1cfc126c0c"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetteroceanmonuments-1-21-1-fabric-4-1-2.pw.toml"
+hash = "62b5401f3572fdf7f1707376b597debcc7f564d2631320b984207782bd839d04"
+metafile = true
+
+[[files]]
+file = "mods/yungsbetterwitchhuts-1-21-1-fabric-4-1-1.pw.toml"
+hash = "f4f7db047c1702c7b64782fdfad6321326c47e8acd42fc9382a6c46bf741b179"
+metafile = true
+
+[[files]]
+file = "mods/yungsextras-1-21-1-fabric-5-1-1.pw.toml"
+hash = "921f40e651e5f8e16aacefd25296ce2fab343d63b5e7693e264ff9635768ee00"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "0870236df4db60fb9e4ceed059a3ebe3f4150d3c9ea95b02f661cf3a3d04a840"
+
+[[files]]
+file = "resourcepacks/allthemons-r3-3.pw.toml"
+hash = "4bae199c2a9fb05f6fc869e1db9dd63238301df5f990fcde8557f60afd986cb9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/atm-x-msd-3-4-0.pw.toml"
+hash = "1d61cb8cbc47033ce45da5980a13a557cede37551905a5d0193fec095fbee22e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-adastra-renames.pw.toml"
+hash = "18eab1a48ada3553a5784b283ac17546a5645956284f9004ad229a46a4a9389b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-pokemon-icons.pw.toml"
+hash = "1264a473015f5179806617af3e67d8f692a51167eef5e9ec73f719f048c7e6c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblesounds-complete-v1-4-1.pw.toml"
+hash = "12d8b6f6ecfba75cc2af669d69012edba7229be805ae6795a5b2080ea8ce8e1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode-1-20-2-2025-5-0.pw.toml"
+hash = "1a8d00a061e09b8d28dff72b096d0aa74f7a3b73b5e1ed2997c84c7f7d794fff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rct-trainers-plus.pw.toml"
+hash = "164ffd62b40e02946123d27b5a727b9c65657195d5ab60b0566de9fc5eaec815"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
+hash = "3399c627c430fa8bc690523b68d6983ba54174344f20ede93cd307ff49f05388"
+metafile = true

@@ -1,0 +1,8 @@
+name = "krypton-0.2.8"
+filename = "krypton-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/krypton-0.2.8.jar"
+hash-format = "sha256"
+hash = "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"

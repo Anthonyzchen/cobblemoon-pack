@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:barrier","components":{"minecraft:custom_name":"{\"extra\":[{\"color\":\"red\",\"text\":\"Close\"}],\"italic\":false,\"text\":\"\"}"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

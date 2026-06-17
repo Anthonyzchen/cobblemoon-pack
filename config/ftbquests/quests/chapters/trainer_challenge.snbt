@@ -1,0 +1,772 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trainer_challenge"
+	group: "190153377FA92B55"
+	icon: {
+		id: "cobblemon:premier_ball"
+	}
+	id: "456BE7DE8743E97F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:fire_stone"
+			}
+			id: "48CE2895DB4F83C7"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series radicalred @p"
+				id: "3C1A394B54F4B59B"
+				type: "command"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "4E3DF09879A82076"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["094B857933311841"]
+			icon: {
+				id: "cobblemon:water_stone"
+			}
+			id: "4C12C18FF68CDCFB"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series hoenngymchallenge @p"
+				id: "7B021A88B55337FA"
+				type: "command"
+			}]
+			tasks: [{
+				id: "32A63FEF055022FB"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["4C12C18FF68CDCFB"]
+			icon: {
+				id: "cobblemon:leaf_stone"
+			}
+			id: "668B92821BCBD8A0"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series sinnohgymchallenge @p"
+				id: "6FF3AC69511DE816"
+				type: "command"
+			}]
+			tasks: [{
+				id: "1F313B1B943DF30F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["18FD53A1836194B1"]
+			icon: {
+				id: "cobblemon:moon_stone"
+			}
+			id: "094B857933311841"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series unovagymchallenge @p"
+				id: "710927612C079AB3"
+				type: "command"
+			}]
+			tasks: [{
+				id: "796B3FC77AB5D586"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["668B92821BCBD8A0"]
+			icon: {
+				id: "cobblemon:shiny_stone"
+			}
+			id: "4CF38712A6C7622A"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series kalosgymchallenge @p"
+				id: "040D8CB0B2764492"
+				type: "command"
+			}]
+			tasks: [{
+				id: "31D744E2B47F3FFD"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["4CF38712A6C7622A"]
+			icon: {
+				id: "cobblemon:ice_stone"
+			}
+			id: "1FCE73E6CE0AC333"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series paldeagymchallenge @p"
+				id: "47222CEC1CC585A1"
+				type: "command"
+			}]
+			tasks: [{
+				id: "67D540796B69541E"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 16.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["4C12C18FF68CDCFB"]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "cobblemon:thunder_stone"
+			}
+			id: "79D6614EF42A693E"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series hoennleague @p"
+				id: "14D6D717D39EAEDC"
+				type: "command"
+			}]
+			tasks: [{
+				id: "3555752E959E501B"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["094B857933311841"]
+			icon: {
+				id: "cobblemon:dusk_stone"
+			}
+			id: "0A2B3C4D5E6F7A21"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series unovaleague @p"
+				id: "0A2B3C4D5E6F7A22"
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A2B3C4D5E6F7A23"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1FCE73E6CE0AC333"]
+			icon: {
+				id: "cobblemon:dawn_stone"
+			}
+			id: "0A2B3C4D5E6F7A31"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series paldeaelitefour @p"
+				id: "0A2B3C4D5E6F7A32"
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A2B3C4D5E6F7A33"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0A2B3C4D5E6F7A40"]
+			icon: {
+				id: "minecraft:magma_cream"
+			}
+			id: "4DC83CC8EEDDFD4E"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series teammagma @p"
+				id: "127FFC1F2229C496"
+				type: "command"
+			}]
+			tasks: [{
+				id: "26A35F7D76B4F780"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["4DC83CC8EEDDFD4E"]
+			icon: {
+				id: "minecraft:heart_of_the_sea"
+			}
+			id: "5D1515BCB7D31EC2"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series teamaqua @p"
+				id: "5F661BBD226849EA"
+				type: "command"
+			}]
+			tasks: [{
+				id: "7C0C288782C537BB"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["18FD53A1836194B1"]
+			icon: {
+				id: "cobblemon:oval_stone"
+			}
+			id: "0A2B3C4D5E6F7A40"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series teamplasma @p"
+				id: "0A2B3C4D5E6F7A41"
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A2B3C4D5E6F7A42"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5D1515BCB7D31EC2"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "5DD89FF9EF4B12B2"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series starfallstreet @p"
+				id: "05737A1983ADB240"
+				type: "command"
+			}]
+			tasks: [{
+				id: "0CDE5DA637CB96AE"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0A2B3C4D5E6F7A40"]
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "15FD3B734E9B5FCC"
+			rewards: [{
+				auto: "enabled"
+				command: "/rctmod player set series pokespe @p"
+				id: "0D4B732075138DE3"
+				type: "command"
+			}]
+			tasks: [{
+				id: "3908C09D5F5DA144"
+				type: "checkmark"
+			}]
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:wooden_axe"
+			}
+			id: "49BDD106B186298A"
+			rewards: [{
+				count: 3
+				id: "573B0AE5D761B8F4"
+				item: {
+					count: 1
+					id: "cobblemon:full_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "defeat_trainer"
+				amount: 25L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "6AEA103469690BB5"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["49BDD106B186298A"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "07565397A78BC8D0"
+			rewards: [{
+				id: "3FCF0481FF6B2940"
+				item: {
+					count: 1
+					id: "wanteditems:bottle_cap"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "defeat_trainer"
+				amount: 50L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "78BF6B5139A0AED3"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["07565397A78BC8D0"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:reshiram"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "004DB45E4D12F3AE"
+			rewards: [{
+				id: "5BAD7077BBBB0001"
+				item: {
+					count: 1
+					id: "mythsandlegends:light_stone"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				abilities: ""
+				action: "defeat_trainer"
+				amount: 100L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "6545107AD56E1F2C"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 10.0d
+		}
+		{
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "297A897EAF1CD237"
+			rewards: [
+				{
+					count: 3
+					id: "5495ADD32D17BFE0"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5D3948EF015F8045"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "defeat_player"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3E61FF686FBC6E20"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["297A897EAF1CD237"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "0369F99208AB3922"
+			rewards: [
+				{
+					count: 3
+					id: "63C8772D37316510"
+					item: {
+						count: 1
+						id: "cobblemon:super_potion"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "28F35FBE6785F39E"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "defeat_player"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "28ADA364CA889CAC"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0369F99208AB3922"]
+			icon: {
+				id: "minecraft:trident"
+			}
+			id: "74D9894BD10DAEAA"
+			rewards: [
+				{
+					count: 5
+					id: "7E64FFA4038F29FA"
+					item: {
+						count: 1
+						id: "cobblemon:full_heal"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "67208E45F126BFF3"
+					item: {
+						count: 1
+						id: "cobblemon:great_ball"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				abilities: ""
+				action: "defeat_player"
+				amount: 25L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "752BC64BCC42C0CD"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["48CE2895DB4F83C7"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:mewtwo"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "18FD53A1836194B1"
+			rewards: [{
+				id: "0566033BB7C09BA4"
+				item: {
+					count: 1
+					id: "mythsandlegends:dr_fujis_diary"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_terry"
+				criterion: ""
+				id: "73EA5D56874DA161"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["094B857933311841"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:zekrom"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "616506C6DBCB447E"
+			rewards: [{
+				id: "71AF0E7EDEE8CF35"
+				item: {
+					count: 1
+					id: "mythsandlegends:dark_stone"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovachampion_iris"
+				criterion: ""
+				id: "5CC0AB72E2CE208E"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4C12C18FF68CDCFB"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:marshadow"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "7E0C1A2B3C4D0001"
+			rewards: [{
+				id: "7E0C1A2B3C4D0003"
+				item: {
+					count: 1
+					id: "mythsandlegends:marshadow_hood"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennchampion_steven"
+				criterion: ""
+				id: "7E0C1A2B3C4D0002"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["668B92821BCBD8A0"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:hooh"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "7E0C1A2B3C4D0011"
+			rewards: [{
+				id: "7E0C1A2B3C4D0013"
+				item: {
+					count: 1
+					id: "mythsandlegends:clear_bell"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohchampion_cynthia"
+				criterion: ""
+				id: "7E0C1A2B3C4D0012"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["4CF38712A6C7622A"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:lugia"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "7E0C1A2B3C4D0021"
+			rewards: [{
+				id: "7E0C1A2B3C4D0023"
+				item: {
+					count: 1
+					id: "mythsandlegends:tidal_bell"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloschampion_diantha"
+				criterion: ""
+				id: "7E0C1A2B3C4D0022"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1FCE73E6CE0AC333"]
+			icon: {
+				components: {
+					"cobblemon_quest_icons:species": "cobblemon:kubfu"
+				}
+				id: "cobblemon_quest_icons:pokemon_icon"
+			}
+			id: "7E0C1A2B3C4D0031"
+			rewards: [{
+				id: "7E0C1A2B3C4D0033"
+				item: {
+					count: 1
+					id: "mythsandlegends:kubfus_band"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_paldeachampion_geeta"
+				criterion: ""
+				id: "7E0C1A2B3C4D0032"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 16.0d
+		}
+	]
+}

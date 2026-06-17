@@ -1,0 +1,8 @@
+name = "lukis-strongholds-v1.0 -1.21-1.21.4"
+filename = "lukis-strongholds-v1.0 -1.21-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lukis-strongholds-v1.0%20-1.21-1.21.4.jar"
+hash-format = "sha256"
+hash = "2837d1ee9799831c810f1eb4c4c09fdb42d0b9ddfab937c472d64acc9c312148"

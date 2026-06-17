@@ -1,0 +1,8 @@
+name = "modernfix-fabric-5.25.1+mc1.21.1"
+filename = "modernfix-fabric-5.25.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"

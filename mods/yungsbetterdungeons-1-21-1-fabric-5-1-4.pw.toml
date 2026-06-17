@@ -1,0 +1,8 @@
+name = "YungsBetterDungeons-1.21.1-Fabric-5.1.4"
+filename = "YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar"
+hash-format = "sha256"
+hash = "69fe7d93afa1803d7658df3f861213f8255f68d4e976d66ddce66fba08d120bc"

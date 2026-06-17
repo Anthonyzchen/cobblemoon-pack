@@ -1,0 +1,3 @@
+enableBossShield = true
+superEffectiveLayers = 2
+moveLayerOverrides = ["sheercold=3", "fissure=3", "guillotine=3", "horndrill=3", "superfang=1", "naturesmadness=1", "ruination=1", "finalgambit=1", "endeavor=1", "painsplit=1", "perishsong=2", "destinybond=2", "saltcure=1", "leechseed=1", "curse=1", "nightmare=1", "bind=1", "clamp=1", "firespin=1", "whirlpool=1", "wrap=1", "infestation=1", "magmastorm=1", "sandtomb=1", "snaptrap=1", "thundercage=1"]

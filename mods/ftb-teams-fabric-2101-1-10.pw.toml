@@ -1,0 +1,8 @@
+name = "ftb-teams-fabric-2101.1.10"
+filename = "ftb-teams-fabric-2101.1.10.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ftb-teams-fabric-2101.1.10.jar"
+hash-format = "sha256"
+hash = "bc398b9f7837447c701ed3cae2dffadb35270340d82abdb72e97265c3583386f"

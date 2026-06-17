@@ -1,0 +1,8 @@
+name = "YungsBetterJungleTemples-1.21.1-Fabric-3.1.2"
+filename = "YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar"
+hash-format = "sha256"
+hash = "8b6ac004345da935b5b9bcb70624f4a3197411f9420d6459a302524f8dea42dc"

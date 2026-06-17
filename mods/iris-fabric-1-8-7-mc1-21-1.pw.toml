@@ -1,0 +1,8 @@
+name = "iris-fabric-1.8.7+mc1.21.1"
+filename = "iris-fabric-1.8.7+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/iris-fabric-1.8.7%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "d7d8e29d62493611a8b1f151bb12bc109e37d2770910d11b18d84eedd61d3bc5"

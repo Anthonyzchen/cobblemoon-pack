@@ -1,0 +1,8 @@
+name = "visuality-0.7.7+1.21"
+filename = "visuality-0.7.7+1.21.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/visuality-0.7.7%2B1.21.jar"
+hash-format = "sha256"
+hash = "c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372"

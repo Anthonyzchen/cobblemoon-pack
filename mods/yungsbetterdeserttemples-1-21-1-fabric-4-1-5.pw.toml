@@ -1,0 +1,8 @@
+name = "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5"
+filename = "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar"
+hash-format = "sha256"
+hash = "2bb73eef278c277657b27f72d2fa1d917a17c14052bf526a2ba175f6e9a63012"

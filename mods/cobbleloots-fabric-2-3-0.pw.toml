@@ -1,0 +1,8 @@
+name = "cobbleloots-fabric-2.3.0"
+filename = "cobbleloots-fabric-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobbleloots-fabric-2.3.0.jar"
+hash-format = "sha256"
+hash = "36a53bcec0880bf34f5240ac0d707579eecbe527a93cfa3e202f20d166c68c24"

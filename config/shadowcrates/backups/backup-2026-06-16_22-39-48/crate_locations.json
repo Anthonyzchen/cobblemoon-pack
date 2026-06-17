@@ -1,0 +1,93 @@
+[
+  {
+    "x": 567,
+    "y": 84,
+    "z": -200,
+    "dimension": "minecraft:overworld",
+    "crateName": "leg"
+  },
+  {
+    "x": 565,
+    "y": 84,
+    "z": -196,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": -645,
+    "y": 80,
+    "z": -901,
+    "dimension": "minecraft:overworld",
+    "crateName": "common"
+  },
+  {
+    "x": -643,
+    "y": 80,
+    "z": -901,
+    "dimension": "minecraft:overworld",
+    "crateName": "uncommon"
+  },
+  {
+    "x": -641,
+    "y": 80,
+    "z": -901,
+    "dimension": "minecraft:overworld",
+    "crateName": "rare"
+  },
+  {
+    "x": -639,
+    "y": 80,
+    "z": -901,
+    "dimension": "minecraft:overworld",
+    "crateName": "epic"
+  },
+  {
+    "x": -637,
+    "y": 80,
+    "z": -901,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": -646,
+    "y": 80,
+    "z": -898,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": 781,
+    "y": 71,
+    "z": -22,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": 779,
+    "y": 71,
+    "z": -21,
+    "dimension": "minecraft:overworld",
+    "crateName": "epic"
+  },
+  {
+    "x": 777,
+    "y": 71,
+    "z": -21,
+    "dimension": "minecraft:overworld",
+    "crateName": "rare"
+  },
+  {
+    "x": 775,
+    "y": 71,
+    "z": -21,
+    "dimension": "minecraft:overworld",
+    "crateName": "uncommon"
+  },
+  {
+    "x": 773,
+    "y": 71,
+    "z": -20,
+    "dimension": "minecraft:overworld",
+    "crateName": "common"
+  }
+]

@@ -1,0 +1,8 @@
+name = "ftb-chunks-fabric-2101.1.18"
+filename = "ftb-chunks-fabric-2101.1.18.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ftb-chunks-fabric-2101.1.18.jar"
+hash-format = "sha256"
+hash = "4fbb9f85d6bac80a5510d0616177ffc2b96163d0e381b8f2cd16c6e6e1a62c80"

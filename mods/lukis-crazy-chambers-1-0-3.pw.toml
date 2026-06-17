@@ -1,0 +1,8 @@
+name = "lukis-crazy-chambers-1.0.3"
+filename = "lukis-crazy-chambers-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lukis-crazy-chambers-1.0.3.jar"
+hash-format = "sha256"
+hash = "3f6b99ba679cb7710cced4cab405597b5692dea345026d3f722a0a7c77566444"

@@ -1,0 +1,8 @@
+name = "SimpleTMs-fabric-2.3.3"
+filename = "SimpleTMs-fabric-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/SimpleTMs-fabric-2.3.3.jar"
+hash-format = "sha256"
+hash = "c5baa07f405433f62218fc3916360d4cda37558d01d493df7a618ac7d78d22c1"

@@ -1,0 +1,8 @@
+name = "YungsApi-1.21.1-Fabric-5.1.6"
+filename = "YungsApi-1.21.1-Fabric-5.1.6.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsApi-1.21.1-Fabric-5.1.6.jar"
+hash-format = "sha256"
+hash = "36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba"

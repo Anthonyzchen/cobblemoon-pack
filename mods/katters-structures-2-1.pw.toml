@@ -1,0 +1,8 @@
+name = "katters-structures-2.1"
+filename = "katters-structures-2.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/katters-structures-2.1.jar"
+hash-format = "sha256"
+hash = "660d74f5c57bf5a347c04bc17ef0fc82b389abcfe271c368aa571724ef373230"

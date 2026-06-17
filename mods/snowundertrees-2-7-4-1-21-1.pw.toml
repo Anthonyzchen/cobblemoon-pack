@@ -1,0 +1,8 @@
+name = "SnowUnderTrees-2.7.4+1.21.1"
+filename = "SnowUnderTrees-2.7.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/SnowUnderTrees-2.7.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "46f4d95936de407d7f3f2d9fc3c5d29dea3d8b09e1460e863db35769c1740127"

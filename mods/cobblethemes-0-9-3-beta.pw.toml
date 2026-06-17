@@ -1,0 +1,8 @@
+name = "CobbleThemes-0.9.3-beta"
+filename = "CobbleThemes-0.9.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/CobbleThemes-0.9.3-beta.jar"
+hash-format = "sha256"
+hash = "ed6d07317cd630f477aff2fcddcdc2feb43d86c8670746b279afa8c2ad01827c"

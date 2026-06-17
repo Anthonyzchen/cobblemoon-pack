@@ -1,0 +1,8 @@
+name = "dynamic-fps-3.11.4+minecraft-1.21.0-fabric"
+filename = "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar"
+hash-format = "sha256"
+hash = "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8"

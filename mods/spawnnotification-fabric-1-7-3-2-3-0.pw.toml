@@ -1,0 +1,8 @@
+name = "spawnnotification-fabric-1.7.3-2.3.0"
+filename = "spawnnotification-fabric-1.7.3-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/spawnnotification-fabric-1.7.3-2.3.0.jar"
+hash-format = "sha256"
+hash = "3a2f6a0d8f1fb27e09ab28b3300f318a08e4bb3249bffd510922fe3cf108f455"

@@ -1,0 +1,8 @@
+name = "modmenu-11.0.4"
+filename = "modmenu-11.0.4.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/modmenu-11.0.4.jar"
+hash-format = "sha256"
+hash = "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"

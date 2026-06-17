@@ -1,0 +1,8 @@
+name = "capturexp-fabric-1.7.3-1.3.0"
+filename = "capturexp-fabric-1.7.3-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/capturexp-fabric-1.7.3-1.3.0.jar"
+hash-format = "sha256"
+hash = "8f5ab9ce3ea2957f75033f3adc8a6195d303a96c3a8c1eebd1d5ee254bf88cf7"

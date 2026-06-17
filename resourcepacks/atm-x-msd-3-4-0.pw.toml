@@ -1,0 +1,8 @@
+name = "ATM-x-MSD-3.4.0"
+filename = "ATM-x-MSD-3.4.0.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/ATM-x-MSD-3.4.0.zip"
+hash-format = "sha256"
+hash = "bd02042178bc2ac37d32b3317b28a8c4d4cf542693ad4148596ceae05adfc66c"

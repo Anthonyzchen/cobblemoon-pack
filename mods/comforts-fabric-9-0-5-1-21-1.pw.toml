@@ -1,0 +1,8 @@
+name = "comforts-fabric-9.0.5+1.21.1"
+filename = "comforts-fabric-9.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/comforts-fabric-9.0.5%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "73ff17028967a2e30731ea79aee2e18dd8e2d59a5dcd075facd6491cae1b2231"

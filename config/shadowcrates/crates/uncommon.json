@@ -1,0 +1,3518 @@
+{
+  "crateID": "uncommon",
+  "screenName": "&2Uncommon Crate",
+  "crateName": "&2Uncommon Crate",
+  "requirePermission": false,
+  "permission": "crate.uncommon",
+  "openSound": "minecraft:block.chest.open",
+  "rewardSound": "minecraft:entity.player.levelup",
+  "movingItemSound": "minecraft:entity.item.pickup",
+  "particleType": "",
+  "animationType": "default",
+  "animationSteps": 40,
+  "animationInterval": 200,
+  "animationFillers": false,
+  "idleParticles": {
+    "enabled": true,
+    "particleType": "minecraft:happy_villager",
+    "animation": "ring",
+    "speed": 0.02,
+    "radius": 1.05,
+    "yOffset": 0.5,
+    "count": 1
+  },
+  "openCost": {
+    "mode": "key",
+    "moneyPrice": "500.0",
+    "moneyCurrency": "money",
+    "moneyProvider": "auto",
+    "itemMaterial": "minecraft:paper",
+    "itemAmount": 1,
+    "itemDetectByMaterialOnly": true
+  },
+  "keyItem": {
+    "isVirtualKey": false,
+    "material": "minecraft:tripwire_hook",
+    "customModelData": 5,
+    "amount": 1,
+    "displayname": "&2&lUncommon Key",
+    "lore": [
+      "&7Opens an Uncommon Crate"
+    ],
+    "enchantEffect": true,
+    "hideTooltip": false
+  },
+  "prizes": [
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% eevee",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "&2Eevee",
+        "lore": [
+          "&7The evolution Pokemon!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received an &2Eevee&a!"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% abra",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "&2Abra",
+        "lore": [
+          "&7A teleporting psychic"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received an &2Abra&a!"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% scyther",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "&2Scyther",
+        "lore": [
+          "&7A swift bug/flying type"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &2Scyther&a!"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% vulpix",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "&2Vulpix",
+        "lore": [
+          "&7A beautiful fire fox"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &2Vulpix&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% eevee shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Eevee",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY EEVEE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Eevee! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% scyther shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Scyther",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SCYTHER! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Scyther! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% vulpix shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Vulpix",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY VULPIX! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Vulpix! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 1.0,
+      "command": "crate key give rare 1 %player%",
+      "displayItem": {
+        "material": "minecraft:tripwire_hook",
+        "amount": 1,
+        "displayname": "&9&lRare Key",
+        "lore": [
+          "&7A key to the next tier!",
+          "&c&lExtremely Rare"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &afound a &9&lRare Key &ainside a crate! &6&l*",
+      "broadcastPlayer": "&6&l* &eYou found a &9&lRare Key&e! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% trapinch",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Trapinch",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Trapinch&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% absol",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Absol",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Absol&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% shinx",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Shinx",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Shinx&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% buizel",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Buizel",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Buizel&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% gligar",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Gligar",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Gligar&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% houndour",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Houndour",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Houndour&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% elekid",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Elekid",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Elekid&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% happiny",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Happiny",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Happiny&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% roggenrola",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Roggenrola",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Roggenrola&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% mienfoo",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Mienfoo",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Mienfoo&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% rufflet",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Rufflet",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Rufflet&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% vullaby",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Vullaby",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Vullaby&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% rockruff",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Rockruff",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Rockruff&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% hatenna",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Hatenna",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Hatenna&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% applin",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Applin",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Applin&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% milcery",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Milcery",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Milcery&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% cufant",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Cufant",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Cufant&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% tinkatink",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Tinkatink",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Tinkatink&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% cetoddle",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Cetoddle",
+        "lore": [
+          "&7First evolution"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a Cetoddle&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% abra shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Abra",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ABRA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Abra! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% trapinch shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Trapinch",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY TRAPINCH! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Trapinch! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% absol shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Absol",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ABSOL! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Absol! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% shinx shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Shinx",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SHINX! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Shinx! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% buizel shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Buizel",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY BUIZEL! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Buizel! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% gligar shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Gligar",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY GLIGAR! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Gligar! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% houndour shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Houndour",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY HOUNDOUR! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Houndour! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% elekid shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Elekid",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ELEKID! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Elekid! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% happiny shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Happiny",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY HAPPINY! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Happiny! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% roggenrola shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Roggenrola",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ROGGENROLA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Roggenrola! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% mienfoo shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Mienfoo",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MIENFOO! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Mienfoo! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% rufflet shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Rufflet",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY RUFFLET! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Rufflet! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% vullaby shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Vullaby",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY VULLABY! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Vullaby! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% rockruff shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Rockruff",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ROCKRUFF! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Rockruff! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% hatenna shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Hatenna",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY HATENNA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Hatenna! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% applin shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Applin",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY APPLIN! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Applin! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% milcery shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Milcery",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MILCERY! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Milcery! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% cufant shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Cufant",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CUFANT! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Cufant! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% tinkatink shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Tinkatink",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY TINKATINK! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Tinkatink! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% cetoddle shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Cetoddle",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CETODDLE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Cetoddle! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% growlithe",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "displayname": "&2Growlithe",
+        "lore": [
+          "&7A Growlithe from a higher tier"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &eGrowlithe&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% growlithe shiny",
+      "displayItem": {
+        "material": "cobblemon:cherish_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Growlithe",
+        "lore": [
+          "&e&lShiny Growlithe!"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&6&lGrowlithe (Shiny) &ewas pulled from a crate!"
+    },
+    {
+      "type": "command",
+      "weight": 40.0,
+      "command": "givepokemonother %player% sableye",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aSableye",
+        "lore": [
+          "&7BST 380"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aSableye &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aSableye&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% sableye shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Sableye",
+        "lore": [
+          "&7BST 380"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SABLEYE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Sableye! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pancham",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aPancham",
+        "lore": [
+          "&7BST 348"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aPancham &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aPancham&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pancham shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pancham",
+        "lore": [
+          "&7BST 348"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PANCHAM! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pancham! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% salandit",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aSalandit",
+        "lore": [
+          "&7BST 320"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aSalandit &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aSalandit&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% salandit shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Salandit",
+        "lore": [
+          "&7BST 320"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SALANDIT! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Salandit! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% elgyem",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aElgyem",
+        "lore": [
+          "&7BST 335"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aElgyem &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aElgyem&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% elgyem shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Elgyem",
+        "lore": [
+          "&7BST 335"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ELGYEM! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Elgyem! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% grimer",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aGrimer",
+        "lore": [
+          "&7BST 325"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aGrimer &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aGrimer&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% grimer shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Grimer",
+        "lore": [
+          "&7BST 325"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY GRIMER! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Grimer! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% koffing",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aKoffing",
+        "lore": [
+          "&7BST 340"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aKoffing &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aKoffing&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% koffing shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Koffing",
+        "lore": [
+          "&7BST 340"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY KOFFING! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Koffing! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% unown",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aUnown",
+        "lore": [
+          "&7BST 336"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aUnown &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aUnown&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% unown shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Unown",
+        "lore": [
+          "&7BST 336"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY UNOWN! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Unown! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% glimmet",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aGlimmet",
+        "lore": [
+          "&7BST 350"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aGlimmet &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aGlimmet&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% glimmet shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Glimmet",
+        "lore": [
+          "&7BST 350"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY GLIMMET! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Glimmet! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% magnemite",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aMagnemite",
+        "lore": [
+          "&7BST 325"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aMagnemite &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aMagnemite&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% magnemite shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Magnemite",
+        "lore": [
+          "&7BST 325"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MAGNEMITE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Magnemite! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 40.0,
+      "command": "givepokemonother %player% onix",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aOnix",
+        "lore": [
+          "&7BST 385"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aOnix &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aOnix&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% onix shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Onix",
+        "lore": [
+          "&7BST 385"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ONIX! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Onix! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 40.0,
+      "command": "givepokemonother %player% larvesta",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "&aLarvesta",
+        "lore": [
+          "&7BST 360"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived a &aLarvesta &afrom a &aUncommon Crate!",
+      "broadcastPlayer": "&aYou received &aLarvesta&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% larvesta shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Larvesta",
+        "lore": [
+          "&7BST 360"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY LARVESTA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Larvesta! &6&l*"
+    },
+    {
+      "type": "item",
+      "weight": 238.01,
+      "material": "minecraft:tripwire_hook",
+      "amount": 1,
+      "displayname": "&b&lRare Key",
+      "lore": [
+        "&7Opens a Rare Crate",
+        "&7Lucky ladder drop!"
+      ],
+      "enchantEffect": true,
+      "hideTooltip": true,
+      "customModelData": 2,
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot a &b&lRare Key&a from a &brare-tier ladder drop!",
+      "broadcastPlayer": "&b&lLadder drop! &eYou received a &b&lRare Key&e!"
+    },
+    {
+      "type": "item",
+      "weight": 26.45,
+      "material": "wanteditems:bottle_cap",
+      "amount": 1,
+      "displayname": "&fBottle Cap",
+      "lore": [
+        "&7Max one IV stat"
+      ],
+      "enchantEffect": false,
+      "hideTooltip": true,
+      "customModelData": 0,
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot &fBottle Cap&a!",
+      "broadcastPlayer": "&aYou got &fBottle Cap&a!"
+    },
+    {
+      "type": "item",
+      "weight": 6.61,
+      "material": "cobblemon:ancient_origin_ball",
+      "amount": 1,
+      "displayname": "&6&lAncient Origin Ball",
+      "lore": [
+        "&eGuaranteed capture",
+        "&c&lLucky drop"
+      ],
+      "enchantEffect": true,
+      "hideTooltip": true,
+      "customModelData": 0,
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot &6&lAncient Origin Ball&a!",
+      "broadcastPlayer": "&aYou got &6&lAncient Origin Ball&a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% bonsly",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "displayname": "Bonsly",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Bonsly&a!",
+      "broadcastPlayer": "&aYou got Bonsly&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% bonsly shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Bonsly",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY BONSLY! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Bonsly! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% carnivine",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Carnivine",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Carnivine&a!",
+      "broadcastPlayer": "&aYou got Carnivine&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% carnivine shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Carnivine",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CARNIVINE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Carnivine! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% chingling",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Chingling",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Chingling&a!",
+      "broadcastPlayer": "&aYou got Chingling&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% chingling shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Chingling",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CHINGLING! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Chingling! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% dunsparce",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Dunsparce",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Dunsparce&a!",
+      "broadcastPlayer": "&aYou got Dunsparce&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% dunsparce shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Dunsparce",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY DUNSPARCE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Dunsparce! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% falinks",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Falinks",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Falinks&a!",
+      "broadcastPlayer": "&aYou got Falinks&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% falinks shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Falinks",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY FALINKS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Falinks! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% flittle",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Flittle",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Flittle&a!",
+      "broadcastPlayer": "&aYou got Flittle&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% flittle shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Flittle",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY FLITTLE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Flittle! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% kecleon",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Kecleon",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Kecleon&a!",
+      "broadcastPlayer": "&aYou got Kecleon&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% kecleon shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Kecleon",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY KECLEON! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Kecleon! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% klawf",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Klawf",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Klawf&a!",
+      "broadcastPlayer": "&aYou got Klawf&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% klawf shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Klawf",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY KLAWF! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Klawf! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% lickitung",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Lickitung",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Lickitung&a!",
+      "broadcastPlayer": "&aYou got Lickitung&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% lickitung shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Lickitung",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY LICKITUNG! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Lickitung! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% minun",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Minun",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Minun&a!",
+      "broadcastPlayer": "&aYou got Minun&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% minun shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Minun",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MINUN! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Minun! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% morpeko",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Morpeko",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Morpeko&a!",
+      "broadcastPlayer": "&aYou got Morpeko&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% morpeko shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Morpeko",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MORPEKO! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Morpeko! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pachirisu",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Pachirisu",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Pachirisu&a!",
+      "broadcastPlayer": "&aYou got Pachirisu&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pachirisu shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pachirisu",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PACHIRISU! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pachirisu! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% panpour",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Panpour",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Panpour&a!",
+      "broadcastPlayer": "&aYou got Panpour&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% panpour shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Panpour",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PANPOUR! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Panpour! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pansage",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Pansage",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Pansage&a!",
+      "broadcastPlayer": "&aYou got Pansage&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pansage shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pansage",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PANSAGE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pansage! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pansear",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Pansear",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Pansear&a!",
+      "broadcastPlayer": "&aYou got Pansear&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pansear shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pansear",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PANSEAR! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pansear! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% plusle",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Plusle",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Plusle&a!",
+      "broadcastPlayer": "&aYou got Plusle&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% plusle shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Plusle",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PLUSLE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Plusle! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% poltchageist",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Poltchageist",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Poltchageist&a!",
+      "broadcastPlayer": "&aYou got Poltchageist&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% poltchageist shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Poltchageist",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY POLTCHAGEIST! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Poltchageist! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% sawk",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Sawk",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Sawk&a!",
+      "broadcastPlayer": "&aYou got Sawk&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% sawk shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Sawk",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SAWK! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Sawk! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% smoliv",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Smoliv",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Smoliv&a!",
+      "broadcastPlayer": "&aYou got Smoliv&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% smoliv shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Smoliv",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SMOLIV! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Smoliv! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% smoochum",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Smoochum",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Smoochum&a!",
+      "broadcastPlayer": "&aYou got Smoochum&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% smoochum shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Smoochum",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SMOOCHUM! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Smoochum! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% spinda",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Spinda",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Spinda&a!",
+      "broadcastPlayer": "&aYou got Spinda&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% spinda shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Spinda",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SPINDA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Spinda! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% surskit",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Surskit",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Surskit&a!",
+      "broadcastPlayer": "&aYou got Surskit&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% surskit shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Surskit",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SURSKIT! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Surskit! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% throh",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Throh",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Throh&a!",
+      "broadcastPlayer": "&aYou got Throh&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% throh shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Throh",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY THROH! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Throh! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% tropius",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Tropius",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Tropius&a!",
+      "broadcastPlayer": "&aYou got Tropius&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% tropius shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Tropius",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY TROPIUS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Tropius! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% varoom",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Varoom",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Varoom&a!",
+      "broadcastPlayer": "&aYou got Varoom&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% varoom shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Varoom",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY VAROOM! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Varoom! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% charcadet",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Charcadet",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Charcadet&a!",
+      "broadcastPlayer": "&aYou got Charcadet&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% charcadet shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Charcadet",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CHARCADET! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Charcadet! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% yanma",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Yanma",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Yanma&a!",
+      "broadcastPlayer": "&aYou got Yanma&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% yanma shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Yanma",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY YANMA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Yanma! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 60.0,
+      "command": "givepokemonother %player% nosepass",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Nosepass",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Nosepass&a!",
+      "broadcastPlayer": "&aYou got Nosepass&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% nosepass shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Nosepass",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY NOSEPASS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Nosepass! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% alomomola",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Alomomola",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Alomomola&a!",
+      "broadcastPlayer": "&aYou got Alomomola&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% alomomola shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Alomomola",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ALOMOMOLA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Alomomola! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% binacle",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Binacle",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Binacle&a!",
+      "broadcastPlayer": "&aYou got Binacle&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% binacle shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Binacle",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY BINACLE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Binacle! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% clobbopus",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Clobbopus",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Clobbopus&a!",
+      "broadcastPlayer": "&aYou got Clobbopus&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% clobbopus shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Clobbopus",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CLOBBOPUS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Clobbopus! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% cramorant",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Cramorant",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Cramorant&a!",
+      "broadcastPlayer": "&aYou got Cramorant&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% cramorant shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Cramorant",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CRAMORANT! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Cramorant! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% deerling",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Deerling",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Deerling&a!",
+      "broadcastPlayer": "&aYou got Deerling&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% deerling shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Deerling",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY DEERLING! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Deerling! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% dewpider",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Dewpider",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Dewpider&a!",
+      "broadcastPlayer": "&aYou got Dewpider&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% dewpider shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Dewpider",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY DEWPIDER! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Dewpider! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% exeggcute",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Exeggcute",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Exeggcute&a!",
+      "broadcastPlayer": "&aYou got Exeggcute&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% exeggcute shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Exeggcute",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY EXEGGCUTE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Exeggcute! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% finizen",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Finizen",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Finizen&a!",
+      "broadcastPlayer": "&aYou got Finizen&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% finizen shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Finizen",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY FINIZEN! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Finizen! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% flamigo",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Flamigo",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Flamigo&a!",
+      "broadcastPlayer": "&aYou got Flamigo&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% flamigo shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Flamigo",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY FLAMIGO! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Flamigo! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% klefki",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Klefki",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Klefki&a!",
+      "broadcastPlayer": "&aYou got Klefki&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% klefki shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Klefki",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY KLEFKI! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Klefki! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% mantyke",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Mantyke",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Mantyke&a!",
+      "broadcastPlayer": "&aYou got Mantyke&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% mantyke shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Mantyke",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY MANTYKE! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Mantyke! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% nickit",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Nickit",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Nickit&a!",
+      "broadcastPlayer": "&aYou got Nickit&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% nickit shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Nickit",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY NICKIT! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Nickit! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pincurchin",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Pincurchin",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Pincurchin&a!",
+      "broadcastPlayer": "&aYou got Pincurchin&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pincurchin shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pincurchin",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PINCURCHIN! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pincurchin! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% pumpkaboo",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Pumpkaboo",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Pumpkaboo&a!",
+      "broadcastPlayer": "&aYou got Pumpkaboo&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% pumpkaboo shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Pumpkaboo",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY PUMPKABOO! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Pumpkaboo! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% sinistea",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Sinistea",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Sinistea&a!",
+      "broadcastPlayer": "&aYou got Sinistea&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% sinistea shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Sinistea",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY SINISTEA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Sinistea! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% veluza",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Veluza",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Veluza&a!",
+      "broadcastPlayer": "&aYou got Veluza&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% veluza shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Veluza",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY VELUZA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Veluza! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% wailmer",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Wailmer",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Wailmer&a!",
+      "broadcastPlayer": "&aYou got Wailmer&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% wailmer shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Wailmer",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY WAILMER! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Wailmer! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% wattrel",
+      "displayItem": {
+        "material": "cobblemon:great_ball",
+        "amount": 1,
+        "displayname": "Wattrel",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &agot Wattrel&a!",
+      "broadcastPlayer": "&aYou got Wattrel&a!"
+    },
+    {
+      "type": "command",
+      "weight": 2.64,
+      "command": "givepokemonother %player% wattrel shiny",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Wattrel",
+        "lore": [
+          "&eRare shiny!"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY WATTREL! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Wattrel! &6&l*"
+    },
+    {
+      "type": "item",
+      "weight": 1.0,
+      "material": "cobblemon:cherish_ball",
+      "amount": 1,
+      "displayname": "&dCherish Ball",
+      "lore": [
+        "&7Rare collectible ball"
+      ],
+      "hideTooltip": true,
+      "customModelData": 0,
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou found a &dCherish Ball&a!"
+    }
+  ]
+}

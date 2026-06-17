@@ -1,0 +1,8 @@
+name = "sodium-fabric-0.6.9+mc1.21.1"
+filename = "sodium-fabric-0.6.9+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/sodium-fabric-0.6.9%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "411c4c03167066f0e2e61ba17793b4be13ddd73de5b677c6d402f1d8f4262ac2"

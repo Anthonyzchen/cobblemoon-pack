@@ -1,0 +1,8 @@
+name = "RCT-Trainers-Plus"
+filename = "RCT-Trainers-Plus.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/RCT-Trainers-Plus.zip"
+hash-format = "sha256"
+hash = "44482d5e099fef585e9d742af176d6e54de09a26a8b575b7a510c23d6479f22d"

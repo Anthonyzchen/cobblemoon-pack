@@ -1,0 +1,8 @@
+name = "worldweaver-21.0.13"
+filename = "worldweaver-21.0.13.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/worldweaver-21.0.13.jar"
+hash-format = "sha256"
+hash = "2c408d36e70290b840faec12a963c4b3efb38391de3c87d73228d3ce76bf132d"

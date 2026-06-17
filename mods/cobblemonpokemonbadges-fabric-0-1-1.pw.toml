@@ -1,0 +1,8 @@
+name = "cobblemonpokemonbadges-fabric-0.1.1"
+filename = "cobblemonpokemonbadges-fabric-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemonpokemonbadges-fabric-0.1.1.jar"
+hash-format = "sha256"
+hash = "a5011078a804bdff0d299fe2e0e33010c92c976408524d9b0df041030d73f941"

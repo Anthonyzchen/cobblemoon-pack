@@ -1,0 +1,8 @@
+name = "CobbleOptimizer-4.6.0"
+filename = "CobbleOptimizer-4.6.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/CobbleOptimizer-4.6.0.jar"
+hash-format = "sha256"
+hash = "552f8514fa3772793bc6315fce96bfa4a6e776f6dcd972ac4df5b7bf13d50e6a"

@@ -1,0 +1,8 @@
+name = "lootintegrations_hopo-1.5"
+filename = "lootintegrations_hopo-1.5.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lootintegrations_hopo-1.5.jar"
+hash-format = "sha256"
+hash = "8513856985bd1d5bab1c7754330fb33288624d1be4563c697051f1b038371cd3"

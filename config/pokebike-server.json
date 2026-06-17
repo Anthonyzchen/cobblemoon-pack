@@ -1,0 +1,8 @@
+{
+  "bikeFallDamageEnabled": true,
+  "bikeFallDamageNoDamageMaxBlocks": 4,
+  "bikeSpeedMultiplier": 1.0,
+  "requireWrenchToPickupBike": true,
+  "bikeOwnershipEnabled": true,
+  "autoTurnOffHeadlightOnDismount": true
+}

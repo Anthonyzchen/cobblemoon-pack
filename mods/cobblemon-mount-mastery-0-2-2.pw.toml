@@ -1,0 +1,8 @@
+name = "Cobblemon-mount-mastery-0.2.2"
+filename = "Cobblemon-mount-mastery-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Cobblemon-mount-mastery-0.2.2.jar"
+hash-format = "sha256"
+hash = "ac1dedcd5e4b606b42cf9c50bd383b2c7634b1bc8301083aaad95745509958c7"

@@ -1,0 +1,8 @@
+name = "resourcefullib-fabric-1.21-3.0.12"
+filename = "resourcefullib-fabric-1.21-3.0.12.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/resourcefullib-fabric-1.21-3.0.12.jar"
+hash-format = "sha256"
+hash = "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5"

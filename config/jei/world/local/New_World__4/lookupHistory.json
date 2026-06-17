@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pokebike:wrench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokebike:red_bike"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokebike:yellow_bike"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokebike:blue_bike"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pokebike:green_bike"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:black_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,8 @@
+name = "azcseasonhud-1.0.0"
+filename = "azcseasonhud-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcseasonhud-1.0.0.jar"
+hash-format = "sha256"
+hash = "fde677cd8f441422b2a4a42fc8994461d30d9b434318cf4a5692cf98baf524a7"

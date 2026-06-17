@@ -1,0 +1,8 @@
+name = "counter-fabric-1.7.3-1.9.0"
+filename = "counter-fabric-1.7.3-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/counter-fabric-1.7.3-1.9.0.jar"
+hash-format = "sha256"
+hash = "62c4fc26e50efca95ef22904421e664af353a3e446763fd80b22aa2bb5260481"

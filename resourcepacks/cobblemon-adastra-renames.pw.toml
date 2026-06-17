@@ -1,0 +1,8 @@
+name = "Cobblemon-Adastra-Renames"
+filename = "Cobblemon-Adastra-Renames.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/Cobblemon-Adastra-Renames.zip"
+hash-format = "sha256"
+hash = "d1046953148a737ba5e4f2de21683e009896864502ee5bb911a316ab96668c30"

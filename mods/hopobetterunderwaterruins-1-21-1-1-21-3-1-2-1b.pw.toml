@@ -1,0 +1,8 @@
+name = "HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b"
+filename = "HopoBetterUnderwaterRuins-[1.21.1-1.21.3]-1.2.1b.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/HopoBetterUnderwaterRuins-%5B1.21.1-1.21.3%5D-1.2.1b.jar"
+hash-format = "sha256"
+hash = "818206b8a031fa16169428681cbebafbd20270b7b34331b5b20e15af34664563"

@@ -1,0 +1,14 @@
+[11:54:11] [KEY-GIVE] system → P3ncil : 1 × item keys for "leg"
+[11:54:20] [P3ncil] opened "leg" → prize="&6Tasty Steak" via item key
+[11:54:28] [KEY-GIVE] system → P3ncil : 1 × item keys for "leg"
+[11:54:37] [P3ncil] opened "leg" → prize="&bLegendary Sword" via item key
+[12:01:34] [KEY-GIVE] system → P3ncil : 1 × item keys for "leg"
+[12:02:01] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:02:16] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:02:55] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:05:11] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:05:16] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:05:22] [P3ncil] opened "legendary" → prize="mythsandlegends:liberty_pass" via item key
+[12:05:30] [KEY-GIVE] system → P3ncil : 1 × item keys for "legendary"
+[12:07:11] [KEY-GIVE] system → P3ncil : 1 × item keys for "leg"
+[12:14:40] [P3ncil] opened "legendary" → prize="mythsandlegends:zeraoras_thunderclaw" via item key

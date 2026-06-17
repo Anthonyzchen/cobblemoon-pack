@@ -1,0 +1,8 @@
+name = "lootintegrations-fabric-1.21-4.7"
+filename = "lootintegrations-fabric-1.21-4.7.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lootintegrations-fabric-1.21-4.7.jar"
+hash-format = "sha256"
+hash = "e3219c1c99a7c133eb6f6bf67c4bb7032015ff876dd43f81c7f2704a78a7997f"

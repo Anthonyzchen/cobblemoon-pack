@@ -1,0 +1,8 @@
+name = "droploottables-fabric-1.7.3-1.9.1"
+filename = "droploottables-fabric-1.7.3-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/droploottables-fabric-1.7.3-1.9.1.jar"
+hash-format = "sha256"
+hash = "fcb45edc9134cc23291d69118913d4e690e901b9e380c7de1efad21d88cf42eb"

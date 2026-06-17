@@ -1,0 +1,8 @@
+name = "cupboard-fabric-1.21-3.7"
+filename = "cupboard-fabric-1.21-3.7.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cupboard-fabric-1.21-3.7.jar"
+hash-format = "sha256"
+hash = "69c27285ff8ee08f6f3e11e8cf557b56d352d33fd038a8a24bd2bee4c133b0c4"

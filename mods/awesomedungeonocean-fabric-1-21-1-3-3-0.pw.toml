@@ -1,0 +1,8 @@
+name = "awesomedungeonocean-fabric-1.21.1-3.3.0"
+filename = "awesomedungeonocean-fabric-1.21.1-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/awesomedungeonocean-fabric-1.21.1-3.3.0.jar"
+hash-format = "sha256"
+hash = "9913e45aea88bfce32cb80d07d29560c295712bff26fc9a9db885618dfb53263"

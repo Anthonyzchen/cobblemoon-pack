@@ -1,0 +1,8 @@
+name = "cloth-config-15.0.140-fabric"
+filename = "cloth-config-15.0.140-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cloth-config-15.0.140-fabric.jar"
+hash-format = "sha256"
+hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"

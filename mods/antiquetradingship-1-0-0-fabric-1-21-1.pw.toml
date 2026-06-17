@@ -1,0 +1,8 @@
+name = "antiquetradingship-1.0.0-Fabric 1.21.1"
+filename = "antiquetradingship-1.0.0-Fabric 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/antiquetradingship-1.0.0-Fabric%201.21.1.jar"
+hash-format = "sha256"
+hash = "5760d619040ff86402bd0885122b5d16c0167bf8bdffc0d2b65c39084eb610f0"

@@ -1,0 +1,8 @@
+name = "enhancedblockentities-0.10.2+1.21"
+filename = "enhancedblockentities-0.10.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/enhancedblockentities-0.10.2%2B1.21.jar"
+hash-format = "sha256"
+hash = "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679"

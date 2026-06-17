@@ -1,0 +1,8 @@
+name = "MoreCobblemonTweaks-fabric-1.3.3"
+filename = "MoreCobblemonTweaks-fabric-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/MoreCobblemonTweaks-fabric-1.3.3.jar"
+hash-format = "sha256"
+hash = "8adee1d12c9dd86626e5472d6e1bbcb70b08ed62fea5bdd09db9180cc8411cae"

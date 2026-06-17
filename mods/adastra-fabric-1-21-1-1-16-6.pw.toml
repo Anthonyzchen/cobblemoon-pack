@@ -1,0 +1,8 @@
+name = "adastra-fabric-1.21.1-1.16.6"
+filename = "adastra-fabric-1.21.1-1.16.6.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/adastra-fabric-1.21.1-1.16.6.jar"
+hash-format = "sha256"
+hash = "188fab5a330e0a6a4f8daa243dca5231b2c4db058a60e4967546c6fae7d8a602"

@@ -1,0 +1,8 @@
+name = "architectury-13.0.8-fabric"
+filename = "architectury-13.0.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/architectury-13.0.8-fabric.jar"
+hash-format = "sha256"
+hash = "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"

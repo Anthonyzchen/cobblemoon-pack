@@ -1,0 +1,11 @@
+{
+  "totalOpened": 3,
+  "totalPrizesWon": 3,
+  "cratesOpened": {
+    "leg": 2,
+    "legendary": 1
+  },
+  "lastOpenedCrate": "legendary",
+  "lastWonPrize": "mythsandlegends:liberty_pass",
+  "lastCrateTime": "2026-03-21 12:05:22"
+}

@@ -1,0 +1,8 @@
+name = "lukis-ancient-cities-v1.2"
+filename = "lukis-ancient-cities-v1.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lukis-ancient-cities-v1.2.jar"
+hash-format = "sha256"
+hash = "b7ac57ef8f18a46ba2fbac4458450145153a77a28dd2071aba2959dff81ec574"

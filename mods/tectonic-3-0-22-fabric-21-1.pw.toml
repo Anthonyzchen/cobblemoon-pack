@@ -1,0 +1,8 @@
+name = "tectonic-3.0.22-fabric-21.1"
+filename = "tectonic-3.0.22-fabric-21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/tectonic-3.0.22-fabric-21.1.jar"
+hash-format = "sha256"
+hash = "3f2d2765649968d94c1fbc6953e4c93033033d5ec287f051a84b309bc7f9baa6"

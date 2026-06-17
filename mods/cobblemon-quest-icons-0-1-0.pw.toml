@@ -1,0 +1,8 @@
+name = "cobblemon_quest_icons-0.1.0"
+filename = "cobblemon_quest_icons-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemon_quest_icons-0.1.0.jar"
+hash-format = "sha256"
+hash = "6fc04ad884051b6eb34669f370c6cb4b06afe5676dc7e3bfc01d0056530f6259"

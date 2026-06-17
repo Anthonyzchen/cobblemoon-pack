@@ -1,0 +1,8 @@
+name = "lootintegrations_yungs-1.5"
+filename = "lootintegrations_yungs-1.5.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lootintegrations_yungs-1.5.jar"
+hash-format = "sha256"
+hash = "afa325449a791404669c48c858a4e11fe61c73609773bf093e1d23cf9493a15a"

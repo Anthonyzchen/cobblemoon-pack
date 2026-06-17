@@ -1,0 +1,8 @@
+name = "lootrmon-fabric-1.21.1-0.0.0.1"
+filename = "lootrmon-fabric-1.21.1-0.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lootrmon-fabric-1.21.1-0.0.0.1.jar"
+hash-format = "sha256"
+hash = "51ef78ef28e5fcf8a0ef14053c960af207ea42bd8a9f45afe8e4570e003fc672"

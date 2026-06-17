@@ -1,0 +1,8 @@
+name = "rctapi-fabric-1.21.1-0.15.2-beta"
+filename = "rctapi-fabric-1.21.1-0.15.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/rctapi-fabric-1.21.1-0.15.2-beta.jar"
+hash-format = "sha256"
+hash = "e5bd96b1b74aad41588acc078e7385ca72f66a862aae47adda3d55b44c1d5ba8"

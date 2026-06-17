@@ -1,0 +1,8 @@
+name = "VisualWorkbench-v21.1.1-1.21.1-Fabric"
+filename = "VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "198e9b3e7a86718354319dadeb26df71cd4d55163f21b826baeb4ccafff54a1d"

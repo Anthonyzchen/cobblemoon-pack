@@ -1,0 +1,59 @@
+{
+  "distancePerMilestone": 1800.0,
+  "minimumMovementPerTick": 0.045,
+  "maximumTrackedDistancePerTick": 6.0,
+  "consecutiveTicksPerStreakStep": 600,
+  "streakMultiplierPerStep": 0.1,
+  "maximumStreakMultiplierBonus": 0.4,
+  "berryProgressFraction": 0.45,
+  "friendshipStaminaSpeedFraction": 0.333,
+  "enableLevelUpSound": true,
+  "enableLevelUpParticles": true,
+  "enableMasteryAura": true,
+  "ridingXpMultiplier": 1.0,
+  "berryXpMultiplier": 1.0,
+  "staminaBerryTargetMultiplier": 2.0,
+  "airStaminaBerryOverflowBoost": 0.025,
+  "landStaminaBerryOverflowBoost": 0.02,
+  "liquidStaminaBerryOverflowBoost": 0.025,
+  "normalTrainingStaminaBoost": 0.03,
+  "airBoosts": {
+    "SKILL": 0.02,
+    "SPEED": 0.04,
+    "STAMINA": 0.03
+  },
+  "landBoosts": {
+    "ACCELERATION": 0.03,
+    "SPEED": 0.03,
+    "STAMINA": 0.03
+  },
+  "liquidBoosts": {
+    "SPEED": 0.03,
+    "STAMINA": 0.03,
+    "JUMP": 0.015
+  },
+  "airOverflowBoosts": {
+    "SKILL": 0.015,
+    "SPEED": 0.025
+  },
+  "landOverflowBoosts": {
+    "SKILL": 0.015,
+    "SPEED": 0.025
+  },
+  "liquidOverflowBoosts": {
+    "SKILL": 0.015,
+    "SPEED": 0.02
+  },
+  "airOverflowTargets": {
+    "SKILL": 1.2,
+    "SPEED": 1.4
+  },
+  "landOverflowTargets": {
+    "SKILL": 1.15,
+    "SPEED": 1.3
+  },
+  "liquidOverflowTargets": {
+    "SKILL": 1.15,
+    "SPEED": 1.25
+  }
+}

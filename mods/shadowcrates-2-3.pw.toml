@@ -1,0 +1,8 @@
+name = "ShadowCrates-2.3"
+filename = "ShadowCrates-2.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ShadowCrates-2.3.jar"
+hash-format = "sha256"
+hash = "47383b7ccc51396fbbe081f0af91ef8deccb01c3ca8bf86c7a70e30906194f8b"

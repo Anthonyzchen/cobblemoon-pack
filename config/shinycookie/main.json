@@ -1,0 +1,15 @@
+{
+  "defaultCookieShinyChance": 1.0E-4,
+  "doShinyCatchStardust": false,
+  "shinyCatchStardustMin": 0,
+  "shinyCatchStardustMax": 0,
+  "rewardStardustOnBurntCookie": true,
+  "burntCookieStardustMin": 1,
+  "burntCookieStardustMax": 1,
+  "starCookieHealAmount": 20,
+  "seasonings": {
+    "shinycookie:stardust": {
+      "shinyBoost": 0.25
+    }
+  }
+}

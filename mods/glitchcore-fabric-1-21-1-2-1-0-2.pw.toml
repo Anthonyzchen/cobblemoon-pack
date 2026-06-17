@@ -1,0 +1,8 @@
+name = "GlitchCore-fabric-1.21.1-2.1.0.2"
+filename = "GlitchCore-fabric-1.21.1-2.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar"
+hash-format = "sha256"
+hash = "9eb2eff5bec5e2084aa272522058001008c83e994babe4e31f9f87e92e21d986"

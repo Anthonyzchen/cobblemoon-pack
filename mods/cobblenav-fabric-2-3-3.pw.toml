@@ -1,0 +1,8 @@
+name = "cobblenav-fabric-2.3.3"
+filename = "cobblenav-fabric-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblenav-fabric-2.3.3.jar"
+hash-format = "sha256"
+hash = "e66eb486f5cfbeef2215910193eba0000c191bbf774fa59f3e0b955ce13cae45"

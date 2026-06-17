@@ -1,0 +1,8 @@
+name = "AmbientSounds_FABRIC_v6.3.8_mc1.21.1"
+filename = "AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "5735c1923e3fe860bc074d9a6151443e9d284a7cd84622c470eadc6269bc5577"

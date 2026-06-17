@@ -1,0 +1,125 @@
+# Dynamic tick throttling for distant Pokemon
+[tick_throttle]
+	# Enable dynamic tick throttling
+	enabled = true
+	# Only activate throttling when TPS drops below this value
+	tps_threshold = 18.0
+	# Pokemon within this radius (blocks) always get full ticks
+	near_player_radius = 32
+	# Pokemon beyond this radius get maximum throttling
+	far_player_radius = 64
+	# Tick every Nth tick for mid-distance Pokemon
+	mid_skip_interval = 2
+	# Tick every Nth tick for far-distance Pokemon
+	far_skip_interval = 3
+
+# AI suspension for distant Pokemon
+[ai_freeze]
+	# Enable AI freeze for distant Pokemon
+	enabled = true
+	# Only freeze AI when TPS drops below this value
+	tps_threshold = 18.0
+	# Pokemon beyond this radius (blocks) have AI frozen
+	freeze_radius = 32
+	# Ticks between stale frozen entity cleanup (200 = 10 seconds)
+	cleanup_interval_ticks = 200
+
+# TPS-based spawn rate adjustment
+[adaptive_spawn]
+	# Enable TPS-based spawn rate adjustment
+	enabled = true
+	# TPS at or above which spawns are unrestricted
+	healthy_tps = 19.5
+	# TPS at or below which all spawns are blocked
+	critical_tps = 15.0
+	# Max Pokemon within density_check_radius blocks before blocking spawns (0 = disabled)
+	max_local_density = 15
+	# Radius (blocks) for local density check around spawn point
+	density_check_radius = 48
+
+# Periodic batch despawn of excess Pokemon
+[batch_despawn]
+	# Enable periodic batch despawn
+	enabled = true
+	# Only run despawn sweep when TPS drops below this value
+	tps_threshold = 18.0
+	# Ticks between despawn checks (200 = 10 seconds)
+	check_interval_ticks = 200
+	# Trigger despawn when world has more than this many Pokemon
+	max_pokemon_per_world = 80
+	# Despawn until reaching this target count
+	target_pokemon_per_world = 50
+	# Maximum entities to despawn per cycle
+	max_despawn_per_cycle = 50
+	# Never despawn Pokemon closer than this to a player (blocks)
+	min_despawn_radius = 32
+	# Max age in ticks before a wild Pokemon is despawned regardless of count (36000 = 30 minutes, 0 = disabled)
+	max_entity_age_ticks = 36000
+	# Protect shiny Pokemon from despawn
+	protect_shiny = true
+	# Protect legendary Pokemon from despawn
+	protect_legendary = true
+	# Protect mythical Pokemon from despawn
+	protect_mythical = true
+	# Protect ultra beast Pokemon from despawn
+	protect_ultra_beast = true
+	# Species names that should never be despawned (lowercase, e.g. ["pikachu", "eevee"])
+	species_blacklist = []
+
+# Emergency mode - aggressive optimization when TPS is critically low
+[emergency]
+	# Enable emergency mode
+	enabled = true
+	# Activate emergency mode when TPS drops below this value
+	tps_threshold = 12.0
+	# Tick every Nth tick for all non-near Pokemon during emergency
+	skip_interval = 5
+	# Override freeze radius during emergency (blocks)
+	freeze_radius = 24
+	# Block all Pokemon spawns during emergency
+	block_all_spawns = true
+	# Force an immediate despawn sweep when emergency activates
+	force_despawn_sweep = true
+
+# TPS monitoring configuration
+[tps_monitor]
+	# Number of ticks to average for TPS calculation (higher = smoother, lower = more responsive)
+	sample_window = 100
+
+# Cobblemon patches (thread safety, bugfixes, caches) — disable individual patches for troubleshooting
+[patches]
+	# Ensure SentOutState.recall() runs on the main server thread
+	thread_safe_recall = false
+	# Ensure ChallengeHandler.handle() runs on the main server thread
+	thread_safe_battle_challenge = false
+	# Ensure RidingStateHandler.handle() runs on the main server thread
+	thread_safe_riding_state = false
+	# Fix ServerCommandSource.getPosition() returning stale position for moving entities
+	fix_command_source_position = false
+	# Fix SpeciesRegistrySyncPacket buffer corruption on encoding failure
+	fix_species_encoding = false
+	# Fix AddEvolutionPacket race condition during species registry sync
+	fix_evolution_packet = false
+	# Fix CobBreeding SemVer regex (\d -> \d+) preventing PokemonEgg crashes on multi-digit versions (no-op if CobBreeding absent)
+	fix_cobbreeding_semver = false
+	# Cache Pokemon and Species showdownId() results
+	cache_showdown_id = false
+	# O(1) battle lookup via HashMap cache on BattleRegistry
+	cache_battle_registry = false
+	# Cache PokemonBattle computed iterables (sides, actors, players)
+	cache_battle_getters = false
+	# Cache Berry lookup on BerryBlock and BerryBlockEntity
+	cache_berry_lookup = false
+	# Cache PCPosition in PastureBlockEntity.Tethering
+	cache_pasture_tethering = false
+	# Cache UUID -> Pokemon lookups in PokemonStore
+	cache_pokemon_store_uuid = false
+	# Optimized PCBox and PCStore iterators without intermediate collections
+	cache_pc_iterators = true
+	# Backport Cobblemon 1.8: replace BerryBlock per-tick BlockEntityTicker with delta-time-compensated random tick (~205 ticks avg per chunk-section)
+	berry_ticker_optimization = true
+
+# Compatibility with other mods
+[compat]
+	# Auto-disable TickThrottle and AIFreeze when ServerCore is detected (both mods modify entity AI ticking)
+	auto_disable_with_servercore = true

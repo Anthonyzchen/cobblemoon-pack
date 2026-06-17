@@ -1,0 +1,8 @@
+name = "yet_another_config_lib_v3-3.8.2+1.21.1-fabric"
+filename = "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"

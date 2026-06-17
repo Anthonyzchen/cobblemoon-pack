@@ -1,0 +1,8 @@
+name = "rctmod-fabric-1.21.1-0.18.1-beta"
+filename = "rctmod-fabric-1.21.1-0.18.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/rctmod-fabric-1.21.1-0.18.1-beta.jar"
+hash-format = "sha256"
+hash = "94034d5846a2408d8c7ba23d17508938b495fa42cb89e3d6edf772b481663837"

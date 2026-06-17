@@ -1,0 +1,8 @@
+name = "cobblemonintegrations-fabric-1.21.1-1.1.6"
+filename = "cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemonintegrations-fabric-1.21.1-1.1.6.jar"
+hash-format = "sha256"
+hash = "d070f29970e39c77da578c05c762bbec093fe796b3ea82bafe79012df4268c12"

@@ -1,0 +1,8 @@
+name = "common-storage-lib-lookup-fabric-1.21.1-0.0.7"
+filename = "common-storage-lib-lookup-fabric-1.21.1-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/common-storage-lib-lookup-fabric-1.21.1-0.0.7.jar"
+hash-format = "sha256"
+hash = "1e487c660745e306089ca7fcb110aa1b282ec38019203c8006d47ebbc6b8b1d9"

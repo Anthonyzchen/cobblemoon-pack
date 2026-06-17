@@ -1,0 +1,8 @@
+name = "Patchouli-1.21.1-93-FABRIC"
+filename = "Patchouli-1.21.1-93-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Patchouli-1.21.1-93-FABRIC.jar"
+hash-format = "sha256"
+hash = "e47e08397078ad152a61fb95a5dfd4f86f3a3b8b21b131025d3adbfe96538c3a"

@@ -1,0 +1,8 @@
+name = "cave_dust-3.0.1"
+filename = "cave_dust-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cave_dust-3.0.1.jar"
+hash-format = "sha256"
+hash = "e84d70c8392d0af58b433be7106a0d73cec6ab1040a647af5479a1da353a6a93"

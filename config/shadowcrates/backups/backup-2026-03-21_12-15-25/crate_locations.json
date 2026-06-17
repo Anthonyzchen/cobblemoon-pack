@@ -1,0 +1,51 @@
+[
+  {
+    "x": 567,
+    "y": 84,
+    "z": -200,
+    "dimension": "minecraft:overworld",
+    "crateName": "leg"
+  },
+  {
+    "x": 565,
+    "y": 84,
+    "z": -196,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": 655,
+    "y": 80,
+    "z": -122,
+    "dimension": "minecraft:overworld",
+    "crateName": "legendary"
+  },
+  {
+    "x": 657,
+    "y": 80,
+    "z": -122,
+    "dimension": "minecraft:overworld",
+    "crateName": "epic"
+  },
+  {
+    "x": 659,
+    "y": 80,
+    "z": -122,
+    "dimension": "minecraft:overworld",
+    "crateName": "rare"
+  },
+  {
+    "x": 661,
+    "y": 80,
+    "z": -122,
+    "dimension": "minecraft:overworld",
+    "crateName": "uncommon"
+  },
+  {
+    "x": 663,
+    "y": 80,
+    "z": -122,
+    "dimension": "minecraft:overworld",
+    "crateName": "common"
+  }
+]

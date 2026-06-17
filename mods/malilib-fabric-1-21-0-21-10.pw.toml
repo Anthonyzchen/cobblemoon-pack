@@ -1,0 +1,8 @@
+name = "malilib-fabric-1.21-0.21.10"
+filename = "malilib-fabric-1.21-0.21.10.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/malilib-fabric-1.21-0.21.10.jar"
+hash-format = "sha256"
+hash = "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915"

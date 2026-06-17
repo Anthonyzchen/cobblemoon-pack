@@ -1,0 +1,8 @@
+name = "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2"
+filename = "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar"
+hash-format = "sha256"
+hash = "4cfbb226bd1db17032ac7e7306e94ed27f1a8e2f3e09fb62c47688f8a527adec"

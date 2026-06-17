@@ -1,0 +1,46 @@
+{
+  "language": "en_us",
+  "votePercentage": 0.5,
+  "minimumPlayers": 1,
+  "maximumPlayers": -1,
+  "skipDelaySeconds": 3,
+  "voteTimeoutSeconds": 60,
+  "allowStormSkip": true,
+  "allowNightSkip": true,
+  "resetStatistics": true,
+  "healPlayers": false,
+  "feedPlayers": false,
+  "clearWeather": true,
+  "displaySettings": {
+    "bossBar": {
+      "enabled": true,
+      "color": "BLUE",
+      "style": "PROGRESS"
+    },
+    "actionBar": {
+      "enabled": true
+    },
+    "chat": {
+      "enabled": true
+    },
+    "sounds": {
+      "enabled": true,
+      "voteSound": "minecraft:block.note_block.chime",
+      "skipSound": "minecraft:entity.experience_orb.pickup"
+    },
+    "title": {
+      "enabled": true
+    }
+  },
+  "advancedSettings": {
+    "debugMode": false,
+    "exemptGameModes": [
+      "SPECTATOR",
+      "CREATIVE"
+    ],
+    "exemptPermissions": [
+      "vote2sleep.exempt"
+    ],
+    "bedInteraction": true
+  }
+}

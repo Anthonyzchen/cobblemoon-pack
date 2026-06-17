@@ -1,0 +1,462 @@
+{
+  "crateID": "",
+  "screenName": "",
+  "crateName": "rare",
+  "requirePermission": true,
+  "permission": "",
+  "openSound": "",
+  "rewardSound": "",
+  "movingItemSound": "",
+  "particleType": "minecraft:happy_villager",
+  "animationType": "csgo",
+  "animationSteps": 40,
+  "animationInterval": 2,
+  "animationFillers": true,
+  "idleParticles": {
+    "enabled": true,
+    "particleType": "minecraft:enchant",
+    "animation": "spring",
+    "speed": 0.8,
+    "radius": 1.0,
+    "yOffset": 0.5,
+    "count": 8
+  },
+  "openCost": {
+    "mode": "key",
+    "moneyPrice": "500.0",
+    "moneyCurrency": "money",
+    "moneyProvider": "auto",
+    "itemMaterial": "minecraft:paper",
+    "itemAmount": 1,
+    "itemDetectByMaterialOnly": true
+  },
+  "keyItem": {
+    "isVirtualKey": false,
+    "material": "minecraft:air",
+    "amount": 1,
+    "displayname": "",
+    "lore": [],
+    "enchantEffect": false,
+    "hideTooltip": true
+  },
+  "prizes": [
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% charmander",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Kanto fire starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Charmander§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% squirtle",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Kanto water starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Squirtle§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% bulbasaur",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Kanto grass starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Bulbasaur§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% cyndaquil",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Johto fire starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Cyndaquil§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% mudkip",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Hoenn water starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Mudkip§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% froakie",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Kalos water starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Froakie§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% rowlet",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Alola grass starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Rowlet§a!"
+    },
+    {
+      "type": "command",
+      "weight": 50.0,
+      "command": "givepokemonother %player% fuecoco",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Paldea fire starter"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §9Fuecoco§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% dratini",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7A rare dragon type"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dDratini§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% larvitar",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Future pseudo-legendary"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dLarvitar§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% riolu",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Evolves into Lucario"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dRiolu§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% gible",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Future land shark"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dGible§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% zorua",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7A tricky illusion fox"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dZorua§a!"
+    },
+    {
+      "type": "command",
+      "weight": 30.0,
+      "command": "givepokemonother %player% beldum",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "lore": [
+          "§7Future Metagross"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dBeldum§a!"
+    },
+    {
+      "type": "item",
+      "weight": 40.0,
+      "material": "cobblemon:moon_stone",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:moon_stone",
+        "amount": 1,
+        "lore": [
+          "§7Evolves certain Pokemon"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §dMoon Stone§a!"
+    },
+    {
+      "type": "item",
+      "weight": 40.0,
+      "material": "cobblemon:dawn_stone",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:dawn_stone",
+        "amount": 1,
+        "lore": [
+          "§7Evolves Kirlia & Snorunt"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §fDawn Stone§a!"
+    },
+    {
+      "type": "item",
+      "weight": 40.0,
+      "material": "cobblemon:dusk_stone",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:dusk_stone",
+        "amount": 1,
+        "lore": [
+          "§7Evolves Murkrow & Misdreavus"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §8Dusk Stone§a!"
+    },
+    {
+      "type": "item",
+      "weight": 40.0,
+      "material": "cobblemon:ice_stone",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:ice_stone",
+        "amount": 1,
+        "lore": [
+          "§7Evolves ice-type Pokemon"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received an §bIce Stone§a!"
+    },
+    {
+      "type": "item",
+      "weight": 35.0,
+      "material": "cobblemon:ultra_ball",
+      "amount": 10,
+      "displayItem": {
+        "material": "cobblemon:ultra_ball",
+        "amount": 10,
+        "lore": [
+          "§7High catch rate balls"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received §e10 Ultra Balls§a!"
+    },
+    {
+      "type": "item",
+      "weight": 25.0,
+      "material": "cobblemon:moon_ball",
+      "amount": 5,
+      "displayItem": {
+        "material": "cobblemon:moon_ball",
+        "amount": 5,
+        "lore": [
+          "§7Better at night"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received §d5 Moon Balls§a!"
+    },
+    {
+      "type": "item",
+      "weight": 25.0,
+      "material": "cobblemon:dusk_ball",
+      "amount": 5,
+      "displayItem": {
+        "material": "cobblemon:dusk_ball",
+        "amount": 5,
+        "lore": [
+          "§7Better in dark areas"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received §85 Dusk Balls§a!"
+    },
+    {
+      "type": "item",
+      "weight": 20.0,
+      "material": "cobblemon:scope_lens",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:scope_lens",
+        "amount": 1,
+        "lore": [
+          "§7Boosts critical hit ratio"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §eScope Lens§a!"
+    },
+    {
+      "type": "item",
+      "weight": 20.0,
+      "material": "cobblemon:muscle_band",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:muscle_band",
+        "amount": 1,
+        "lore": [
+          "§7Boosts physical moves"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received a §6Muscle Band§a!"
+    },
+    {
+      "type": "item",
+      "weight": 20.0,
+      "material": "cobblemon:wise_glasses",
+      "amount": 1,
+      "displayItem": {
+        "material": "cobblemon:wise_glasses",
+        "amount": 1,
+        "lore": [
+          "§7Boosts special moves"
+        ],
+        "enchantEffect": false
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "§aYou received §9Wise Glasses§a!"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+name = "extra-move-anims-cobblemon-1.7v1.0.2"
+filename = "extra-move-anims-cobblemon-1.7v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/extra-move-anims-cobblemon-1.7v1.0.2.jar"
+hash-format = "sha256"
+hash = "320ad2cf0b905b3d162cb3b6dcda2cdbe18e7bb4ad3874acd1516c78c1a0b2af"

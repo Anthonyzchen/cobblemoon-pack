@@ -1,0 +1,8 @@
+name = "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge"
+filename = "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
+hash-format = "sha256"
+hash = "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"

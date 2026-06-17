@@ -1,0 +1,8 @@
+name = "Scoremons-3.2+Cobblemon-1.7.3"
+filename = "Scoremons-3.2+Cobblemon-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Scoremons-3.2%2BCobblemon-1.7.3.jar"
+hash-format = "sha256"
+hash = "d0d32f92fca5ac3538531f80f4ef0591759b48c6744698a7345b9dde0f34bae4"

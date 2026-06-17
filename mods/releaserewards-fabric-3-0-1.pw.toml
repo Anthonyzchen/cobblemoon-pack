@@ -1,0 +1,8 @@
+name = "releaserewards-fabric-3.0.1"
+filename = "releaserewards-fabric-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/releaserewards-fabric-3.0.1.jar"
+hash-format = "sha256"
+hash = "54b70318416a08906c46b89203a90e8a8f7bcfc3d80992579eba367b8cd4ceba"

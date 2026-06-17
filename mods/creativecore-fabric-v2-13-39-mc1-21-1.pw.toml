@@ -1,0 +1,8 @@
+name = "CreativeCore_FABRIC_v2.13.39_mc1.21.1"
+filename = "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "a0813d3b342fae016eaad9b11a3f153efba01a2caa1221033adb865c49140f70"

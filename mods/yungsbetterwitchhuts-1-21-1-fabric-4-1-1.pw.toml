@@ -1,0 +1,8 @@
+name = "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1"
+filename = "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+hash-format = "sha256"
+hash = "954ff004de151652d9be69e03d1b848d6fd15a0f5f2df15c4ce2e764467685e7"

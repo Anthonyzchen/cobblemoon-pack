@@ -1,0 +1,8 @@
+name = "MythsAndLegends-fabric-1.9.0"
+filename = "MythsAndLegends-fabric-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/MythsAndLegends-fabric-1.9.0.jar"
+hash-format = "sha256"
+hash = "c3af122bfad2c494fbf455080d1803dd18b64ee78bfd0c8ee3afbf1e5de07404"

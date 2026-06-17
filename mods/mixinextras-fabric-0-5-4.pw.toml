@@ -1,0 +1,8 @@
+name = "mixinextras-fabric-0.5.4"
+filename = "mixinextras-fabric-0.5.4.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/mixinextras-fabric-0.5.4.jar"
+hash-format = "sha256"
+hash = "bd79ddb2f54b39a08deeb50cb12439bba01481264dd5a9f5ea830551bfef31ff"

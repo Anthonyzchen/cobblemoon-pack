@@ -1,0 +1,8 @@
+name = "lambdynamiclights-4.8.9+1.21.1"
+filename = "lambdynamiclights-4.8.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lambdynamiclights-4.8.9%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "7e5f472e3ddab18b996734b1933a11f2e3ba55fee7fab0fa48542914f36720df"

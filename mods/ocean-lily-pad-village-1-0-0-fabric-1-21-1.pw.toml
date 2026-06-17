@@ -1,0 +1,8 @@
+name = "ocean_lily_pad_village-1.0.0-Fabric 1.21.1"
+filename = "ocean_lily_pad_village-1.0.0-Fabric 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ocean_lily_pad_village-1.0.0-Fabric%201.21.1.jar"
+hash-format = "sha256"
+hash = "ce0fffae79a8d6da1b703be15b6ddea229b5cfcd8f5ae8d612df16cbbf7d0c9c"

@@ -1,0 +1,8 @@
+name = "PuzzlesLib-v21.1.52-1.21.1-Fabric"
+filename = "PuzzlesLib-v21.1.52-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/PuzzlesLib-v21.1.52-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "f63f5916cea9e2daa0c36f8d420c593476b963177c91e866114ff79fe596072e"

@@ -1,0 +1,8 @@
+name = "Chunky-Fabric-1.4.23"
+filename = "Chunky-Fabric-1.4.23.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Chunky-Fabric-1.4.23.jar"
+hash-format = "sha256"
+hash = "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e"

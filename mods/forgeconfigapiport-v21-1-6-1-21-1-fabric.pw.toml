@@ -1,0 +1,8 @@
+name = "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric"
+filename = "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"

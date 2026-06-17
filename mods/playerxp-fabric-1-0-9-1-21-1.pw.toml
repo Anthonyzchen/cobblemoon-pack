@@ -1,0 +1,8 @@
+name = "playerxp-fabric-1.0.9+1.21.1"
+filename = "playerxp-fabric-1.0.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/playerxp-fabric-1.0.9%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "22133f464ea4442b481d0bc814ab928b0473890a86bf36fa90884ed660e3edf9"

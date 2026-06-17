@@ -1,0 +1,8 @@
+name = "ftb-quests-fabric-2101.1.27"
+filename = "ftb-quests-fabric-2101.1.27.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ftb-quests-fabric-2101.1.27.jar"
+hash-format = "sha256"
+hash = "5d37699921b894d527bf191c1aaeda88a48aeecb4547d51bd9633295826cd45e"

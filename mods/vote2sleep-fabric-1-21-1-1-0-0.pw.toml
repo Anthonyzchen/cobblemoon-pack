@@ -1,0 +1,8 @@
+name = "vote2sleep-fabric-1.21.1-1.0.0"
+filename = "vote2sleep-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/vote2sleep-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "55e1e90b430608665bdf3c06a0968420b7dea43cf7ab2c2cdeaa6cc1ab9fc12c"

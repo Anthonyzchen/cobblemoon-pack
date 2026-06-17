@@ -1,0 +1,8 @@
+name = "betterend-crashed-ships-1.1.0"
+filename = "betterend-crashed-ships-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/betterend-crashed-ships-1.1.0.jar"
+hash-format = "sha256"
+hash = "48849040986bdde7f542e78ec5dfc4f321d30d0f2d00db5f2e56634cca3954fc"

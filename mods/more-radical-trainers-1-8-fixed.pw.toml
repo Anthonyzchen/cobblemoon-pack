@@ -1,0 +1,8 @@
+name = "more-radical-trainers-1.8-fixed"
+filename = "more-radical-trainers-1.8-fixed.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/more-radical-trainers-1.8-fixed.jar"
+hash-format = "sha256"
+hash = "792859e40927a510b3e01a9d51e655093b00ea7acf0fe2b671e4dc3a45def0b6"

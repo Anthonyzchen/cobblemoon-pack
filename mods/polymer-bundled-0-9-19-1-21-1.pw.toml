@@ -1,0 +1,8 @@
+name = "polymer-bundled-0.9.19+1.21.1"
+filename = "polymer-bundled-0.9.19+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/polymer-bundled-0.9.19%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "8c6bb7897bf53e3207a2ca4fc26db55471990b605855f494c2d80bfcabd1ed3b"

@@ -1,0 +1,309 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "daily_grind"
+	group: "190153377FA92B55"
+	icon: {
+		id: "cobblemon:relic_coin"
+	}
+	id: "5BAD1A77E2C0B70A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				id: "cobblemon:relic_coin"
+			}
+			id: "5BAD1A77AAAA0001"
+			repeat_cooldown: 1728000
+			rewards: [{
+				count: 10
+				id: "5BAD1A77BBBB0001"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				abilities: ""
+				action: "defeat_trainer"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0001"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BAD1A77AAAA0001"]
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "5BAD1A77AAAA0008"
+			repeat_cooldown: 1728000
+			rewards: [{
+				count: 25
+				id: "5BAD1A77BBBB0008"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0008"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BAD1A77AAAA0001"]
+			icon: {
+				id: "cobblemon:cherish_ball"
+			}
+			id: "5BAD1A77AAAA0009"
+			repeat_cooldown: 1728000
+			rewards: [{
+				count: 30
+				id: "5BAD1A77BBBB0009"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "defeat_player"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0009"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BAD1A77AAAA0001"]
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "5BAD1A77AAAA0003"
+			repeat_cooldown: 1728000
+			rewards: [{
+				count: 25
+				id: "5BAD1A77BBBB0003"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "defeat_trainer"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0003"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BAD1A77AAAA0001"]
+			icon: {
+				id: "minecraft:wooden_sword"
+			}
+			id: "5BAD1A77AAAA0004"
+			repeat_cooldown: 1728000
+			rewards: [{
+				count: 20
+				id: "5BAD1A77BBBB0004"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "defeat"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0004"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5BAD1A77AAAA0001"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "5BAD1A77AAAA0007"
+			repeat_cooldown: 12096000
+			rewards: [{
+				count: 200
+				id: "5BAD1A77BBBB0007"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 75L
+				aspects: ""
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5BAD1A77CCCC0007"
+				max_level: 0
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.375d
+			y: 3.125d
+		}
+	]
+}

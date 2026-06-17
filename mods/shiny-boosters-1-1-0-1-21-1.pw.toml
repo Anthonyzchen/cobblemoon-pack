@@ -1,0 +1,8 @@
+name = "shiny-boosters-1.1.0+1.21.1"
+filename = "shiny-boosters-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/shiny-boosters-1.1.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "4fbed11a96f22893b98e2ae53859d50ea90588a23d0b56ed2c4247ecea3be7e3"

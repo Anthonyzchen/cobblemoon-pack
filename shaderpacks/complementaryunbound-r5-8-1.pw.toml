@@ -1,0 +1,8 @@
+name = "ComplementaryUnbound_r5.8.1"
+filename = "ComplementaryUnbound_r5.8.1.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+hash-format = "sha256"
+hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"

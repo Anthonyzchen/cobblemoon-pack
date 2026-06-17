@@ -1,0 +1,8 @@
+name = "CobbleSounds-Complete-v1.4.1"
+filename = "CobbleSounds-Complete-v1.4.1.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/CobbleSounds-Complete-v1.4.1.zip"
+hash-format = "sha256"
+hash = "cf76e9c7b47a944b5fbb93cb87495c3d7cd291643cee35359932b5023a6b9f96"
