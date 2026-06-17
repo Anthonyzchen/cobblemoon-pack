@@ -1,8 +1,0 @@
-name = "cobblemon_quests-reloaded-[1.21.1]-fabric-1.3.5"
-filename = "cobblemon_quests-reloaded-[1.21.1]-fabric-1.3.5.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemon_quests-reloaded-%5B1.21.1%5D-fabric-1.3.5.jar"
-hash-format = "sha256"
-hash = "ba455539cdbbe7faef292acef6caae7fa350210ea1d8fca60cdd7d2832dac3c8"
