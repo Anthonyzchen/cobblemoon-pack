@@ -1,0 +1,8 @@
+name = "HopoBetterRuinedPortals-1.21.1-1.21.3-1.4.4b"
+filename = "HopoBetterRuinedPortals-1.21.1-1.21.3-1.4.4b.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/HopoBetterRuinedPortals-1.21.1-1.21.3-1.4.4b.jar"
+hash-format = "sha256"
+hash = "c1e68c98ea538167ca7d4ac530c254e9d5dd400bee408b0d72574b3c7f29e14b"

@@ -3128,6 +3128,11 @@ hash = "ceb7ca6882e6a3d6ee13ff410ef16ad1fe48903b836fed696e6d7ce1a9960202"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-quests-reloaded-1-21-1-fabric-1-3-5.pw.toml"
+hash = "e5f910934e833cd8f42e8f30de0debb1645b9083e268adb91ff75b74709d70d9"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonalphas-1-4-1.pw.toml"
 hash = "cc2232b0e7a1e56e6cffdff6080937bd02f737b669ff89b21be5f7b606cf3877"
 metafile = true
@@ -3315,6 +3320,21 @@ metafile = true
 [[files]]
 file = "mods/graves-3-4-4-1-21.pw.toml"
 hash = "e76aeccc4b3209549b77052cc9c9db3b22aa0d3342de49c10444cd413db6873f"
+metafile = true
+
+[[files]]
+file = "mods/hopobettermineshaft-1-21-1-21-3-1-3-0b.pw.toml"
+hash = "42d3326115e436986ec8d6f5b707f49c020f78913e386f8c2d14b330fe8c8f96"
+metafile = true
+
+[[files]]
+file = "mods/hopobetterruinedportals-1-21-1-1-21-3-1-4-4b.pw.toml"
+hash = "fc8ec1e134f81ca4f7e533ca25fd43bff45ed58122249198f8cfbab877ed526a"
+metafile = true
+
+[[files]]
+file = "mods/hopobetterunderwaterruins-1-21-1-1-21-3-1-2-1b.pw.toml"
+hash = "9318c076c1cf05681121e51c1ac3115724d3759bf7bf9dcf57023bedbf8bdf8f"
 metafile = true
 
 [[files]]
@@ -3790,3 +3810,7 @@ metafile = true
 file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
 hash = "3399c627c430fa8bc690523b68d6983ba54174344f20ede93cd307ff49f05388"
 metafile = true
+
+[[files]]
+file = "update-pack.sh"
+hash = "a3e299a2eab198bb2b82432f863a9ff83b31695116a401e7337630b2ee5569b4"

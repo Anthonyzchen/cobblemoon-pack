@@ -1,0 +1,8 @@
+name = "HopoBetterMineshaft-1.21-1.21.3-1.3.0b"
+filename = "HopoBetterMineshaft-1.21-1.21.3-1.3.0b.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/HopoBetterMineshaft-1.21-1.21.3-1.3.0b.jar"
+hash-format = "sha256"
+hash = "abbb04d93e9dcb350f3415afc56f4566e47ad88e0f696bb6d11e04afdb538136"
