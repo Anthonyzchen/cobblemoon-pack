@@ -1,0 +1,5 @@
+{
+    "lore.simpletms.case_tm": "A case for storing TM discs. TMs can be reused unlimited times.",
+    "lore.simpletms.case_tr": "A case for storing TR discs. TRs break after one use.",
+    "lore.simpletms.machine_tm": "A machine that creates TM and TR discs from materials."
+}

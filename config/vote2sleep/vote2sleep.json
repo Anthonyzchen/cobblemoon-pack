@@ -5,7 +5,7 @@
   "maximumPlayers": -1,
   "skipDelaySeconds": 3,
   "voteTimeoutSeconds": 60,
-  "allowStormSkip": true,
+  "allowStormSkip": false,
   "allowNightSkip": true,
   "resetStatistics": true,
   "healPlayers": false,

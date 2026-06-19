@@ -91,7 +91,8 @@
       "roughen": "none",
       "shatter": "none",
       "extrude": "y",
-      "modify": "none"
+      "modify": "none",
+      "blend": "none"
     }
   },
   "visuals": {
@@ -129,6 +130,7 @@
     "showCollisionMesh": false,
     "showLightBlocks": false,
     "showStructureVoidBlocks": false,
+    "showMovingPistonBlocks": false,
     "expandHitboxesToFullCube": false,
     "makeFluidHitboxesSolid": false,
     "preventInteractions": false
@@ -142,7 +144,10 @@
   "builderTools": {
     "showBuilderToolSlot": true,
     "directionLock": true,
-    "symmetryRange": 128
+    "symmetryRange": 128,
+    "showSymmetryEnabledIcon": true,
+    "magicSelectCount": 128,
+    "middleClick": "EXTEND_SELECT"
   },
   "creativeMenu": {
     "showColorPicker": true,

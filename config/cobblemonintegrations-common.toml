@@ -27,9 +27,9 @@
 		#Finally, you can configure conditions using "<placeholder>:<conditions>" where conditions are an & separated list of "<hidden/unknown>_<when/unless>_<condition>".
 		#Valid conditions are: unknown, encountered, caught, wild, yours, others, nicknamed
 		pokemonTooltip = """
-%dex_status %nickname:hidden_unless_nicknamed %species:hidden_when_nicknamed %gender %level
+%dex_status %nickname:hidden_unless_nicknamed %species:hidden_when_nicknamed&unknown_when_unknown %gender %level
 #health
-$species_label:hidden_unless_nicknamed %species:hidden_unless_nicknamed
+$species_label:hidden_unless_nicknamed %species:hidden_unless_nicknamed&unknown_when_unknown
 %trainer:hidden_when_wild
 %typing
 %ev_yield

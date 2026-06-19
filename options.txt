@@ -170,7 +170,7 @@ key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
 key_key.cobblemon.ridingfreelook:key.keyboard.left.alt
-key_key.cobblemonraiddens.mouse:key.keyboard.unknown
+key_key.cobblemonraiddens.mouse:key.keyboard.right.alt
 key_key.cobblemonraiddens.accept:key.keyboard.unknown
 key_key.cobblemonraiddens.deny:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown

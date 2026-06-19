@@ -3,3 +3,4 @@ build-lite.sh
 README.md
 .gitignore
 .packwizignore
+build-high.sh

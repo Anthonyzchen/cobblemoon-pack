@@ -21,7 +21,7 @@
   "trStackSize": 16,
   "dropOutsideOfBattle": true,
   "dropInBattle": true,
-  "dropRateInBattle": 0.1,
+  "dropRateInBattle": 0.05,
   "dropRateTMFractionInBattle": 0.1,
   "dropRateOutsideOfBattle": 0.1,
   "dropRateTMFractionOutsideOfBattle": 0.1,

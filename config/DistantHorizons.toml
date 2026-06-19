@@ -667,7 +667,7 @@ _version = 4
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 96
+				lodChunkRenderDistanceRadius = 32
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 

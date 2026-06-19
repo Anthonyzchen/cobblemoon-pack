@@ -94,7 +94,7 @@
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.
-	dimensionBlacklist = []
+	dimensionBlacklist = ["ad_astra:moon", "ad_astra:mars", "ad_astra:venus", "ad_astra:mercury", "ad_astra:glacio"]
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn" , "minecraft:the_end"]).
 	#Trainers may only spawn in these dimensions (unless the list is empty).

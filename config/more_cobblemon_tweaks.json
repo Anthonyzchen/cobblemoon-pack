@@ -1,0 +1,7 @@
+{
+  "enhanced_egg_lore": true,
+  "shiny_egg_indicator": true,
+  "perfect_iv_egg_indicator": true,
+  "minimum_iv_egg_indicator": true,
+  "egg_encryption_warning": true
+}

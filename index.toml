@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "845b003ad8902a4732249ac93b8b568ddd007f65c8eebcdd34344223861dad17"
+hash = "0dc75cbe265db8d5d72fb1fa412be2c433fb5a39b161a5c570acd0e2f82fe6f4"
 
 [[files]]
 file = "config/accessories.json5"
@@ -22,7 +22,7 @@ hash = "1854163c0574bc7175128e55e8cf03910c9a4067384eb8df74e996065ceacd4d"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
-hash = "9aa2fb59b4fcd7fe289370e71ff7ed2b99d0a3a9d2d4835d10a537d7a069c332"
+hash = "2e5fd5f743a8f4cdec865ce29db1fe1b7c4d0651cffbb26a65dec9634e8671fd"
 
 [[files]]
 file = "config/axiom/axiom.json"
@@ -262,7 +262,7 @@ hash = "81e16243192f59342c10dc3962e194df5eafcd39b72c4274760b9be72166cead"
 
 [[files]]
 file = "config/cobblemonintegrations-common.toml"
-hash = "752ee230df2eab63d0366f4f382c501058703b56f4e608becc2eebbfac54d227"
+hash = "4423bcadf1feae8537fbe48af110d15b8d8a5beaede2d0f7066dcac7b9406f01"
 
 [[files]]
 file = "config/cobblemonraiddens/blacklist.json5"
@@ -706,7 +706,7 @@ hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 
 [[files]]
 file = "config/more_cobblemon_tweaks.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "b1bd29df9c86d80af813a1b015bfd1ccc0ed1141b3667a814e548c21922c1a28"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -726,7 +726,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json"
-hash = "1b504600fedd6c24c4f7903305533e44b057f57c9d20a71423bb58a4575bf890"
+hash = "65a8d9b0b643f6b7934a50a98c1bd17e77950089d8d49ac35e7c641e368bfc8c"
 
 [[files]]
 file = "config/mythsandlegends/transformations.json"
@@ -782,7 +782,7 @@ hash = "0229d13cf6220cae855ccd45f916c1488713eaea032539f5627053695042ae19"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "410966294777d120ccb65a1305bb1e6f79874d6b651d41cbd7f519f10063d77a"
+hash = "7b6273dbc6bf45d71a83d4963ee529d2fe1a9e860332f28993fa6b1399beee42"
 
 [[files]]
 file = "config/releaserewards.json"
@@ -2681,6 +2681,14 @@ file = "config/shadowcrates/backups/backup-2026-06-16_22-39-48/stats/3a9591e3-cf
 hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
 
 [[files]]
+file = "config/shadowcrates/backups/backup-2026-06-17_19-31-31/crate_locations.json"
+hash = "3ca910458aaf2e01a60ba3dd50e215f38004ad6dc45fe36bb252df613ac8ebf2"
+
+[[files]]
+file = "config/shadowcrates/backups/backup-2026-06-17_19-31-31/stats/3a9591e3-cfd0-4cd2-a319-fb0c1e4a40ee.json"
+hash = "5a0f8f77ae914b2385d0dd72ca5281e426041b3c5f98f26eab1b1a55daf16065"
+
+[[files]]
 file = "config/shadowcrates/config.json"
 hash = "533e6101ce2e34ea4b3457480a0031e7b319e6a3871717ef2302da17b839cad3"
 
@@ -2758,7 +2766,7 @@ hash = "859646c847909817328e65775a4dd16f98faa6e7887d83afd65c45baec9fbfc6"
 
 [[files]]
 file = "config/simpletms/main.json"
-hash = "24f8689336c04db23312f4019adfdb3587b7e3d4403b695adbc6653789db9250"
+hash = "fbc537c27a8f7a29aed14c6ea0ef6ff831397d143d97398fc904b1102ea228c8"
 
 [[files]]
 file = "config/simpletms/moves/default_tm_moves.json"
@@ -2878,7 +2886,7 @@ hash = "db3a2a559ddbdb5a40c2e7e1b3afd88dd5def2fd35c0af17a1ba4bb967d9be88"
 
 [[files]]
 file = "config/vote2sleep/vote2sleep.json"
-hash = "2f6a70a1c5a6714b5a7d564e2114fc1eb93ac3ff2b941956cc2ea0e775e899be"
+hash = "470b0e251e4c12c412a58067da82a77e256015b3c4acb5c296495cd2e3c9fdae"
 
 [[files]]
 file = "config/vote2sleep/worlds.json"
@@ -3490,7 +3498,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mon-in-boats-1-0-0.pw.toml"
-hash = "49dd582830de7da7c44996505844d434173063a5fb2ae5f11f374d6454f863d4"
+hash = "250db80bc86b49c1fb0d8cde58d73b1513e4861509ea16e86d22ee04d91495d4"
 metafile = true
 
 [[files]]
@@ -3765,7 +3773,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0870236df4db60fb9e4ceed059a3ebe3f4150d3c9ea95b02f661cf3a3d04a840"
+hash = "fd961f324322cfee38c01be8731e608d908d1427df4f3507600a2fe92411f03c"
 
 [[files]]
 file = "resourcepacks/allthemons-r3-3.pw.toml"
@@ -3796,6 +3804,50 @@ metafile = true
 file = "resourcepacks/default-dark-mode-1-20-2-2025-5-0.pw.toml"
 hash = "1a8d00a061e09b8d28dff72b096d0aa74f7a3b73b5e1ed2997c84c7f7d794fff"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/ad_astra/lang/en_us.json"
+hash = "2044ef6057ec5412aaf38c97123e13d590e6bf0e0b27f310b30f04e67877e208"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/cobbleloots/lang/en_us.json"
+hash = "fe09513db70b02a4779f1d39165c76f2a62fc1e7316906d6bd78ad7ed22b2381"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/cobblemon/lang/en_us.json"
+hash = "26513409cda58fc5fffe81c94782a9231e5606ab1c9faf6e4fc60f386cfb85eb"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/cobblemonalphas/lang/en_us.json"
+hash = "8a9a8b0e005e530d1ce5b6631d3dcee05dc4326d147a34caeba7ed079e4ff4aa"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/cobblemonalphas/sounds.json"
+hash = "b0b5c1398d6defdd34da8199ebeebd3763b66760db0f56530d4295949a046904"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/mega_showdown/lang/en_us.json"
+hash = "a87d94df24b015a613af6cf11ed2a2eb0be700a39a9e2f642858bfb3ea279078"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/mythsandlegends/lang/en_us.json"
+hash = "4c872e7063eb82bbd4a7ce5048a6d92d80e20eb9921ee059485f6e46a1e9de9d"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/shinycookie/lang/en_us.json"
+hash = "d7eb5e48ed9d786a546c8735054ea0480715e3f57229ba776aafa42969739ebd"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/simpletms/lang/en_us.json"
+hash = "93f44a723567748fcc5cc0ff894700f5ef25f34e780c9d87f955a139aef4229a"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/assets/wanteditems/lang/en_us.json"
+hash = "2b6ca213c88e342d3eabd75340be224a9cb8542daaecef18d192686ff1e6fbf2"
+
+[[files]]
+file = "resourcepacks/modpack_tooltips/pack.mcmeta"
+hash = "aded994a7de6e81229b60c780b486d85db9af4103b7b621c9289ef107ba177d8"
 
 [[files]]
 file = "resourcepacks/rct-trainers-plus.pw.toml"
