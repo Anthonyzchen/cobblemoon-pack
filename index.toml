@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "39c9ffd2a96e8e06927b9a0147a7a4c45f8774b889bec64017c9774766fa1e91"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "845b003ad8902a4732249ac93b8b568ddd007f65c8eebcdd34344223861dad17"
 
@@ -3810,7 +3806,3 @@ metafile = true
 file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
 hash = "3399c627c430fa8bc690523b68d6983ba54174344f20ede93cd307ff49f05388"
 metafile = true
-
-[[files]]
-file = "update-pack.sh"
-hash = "a3e299a2eab198bb2b82432f863a9ff83b31695116a401e7337630b2ee5569b4"

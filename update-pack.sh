@@ -41,4 +41,9 @@ rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' "$I
 cp "$INST/options.txt" "$PACK/options.txt" 2>/dev/null || true
 packwiz refresh
 git add -A
-git -c user.email="anthonyzchen1@gmail.com" -c user.name="Anthonyzchen" commit -q -m "update pack $(date +%Y-%m-%d)" 2>/dev/null && git push -q origin main && echo "PUBLISHED — players auto-pull on next launch" || echo "no changes to publish"
+git -c user.email="anthonyzchen1@gmail.com" -c user.name="Anthonyzchen" commit -q -m "update pack $(date +%Y-%m-%d)" 2>/dev/null && git push -q origin main && echo "pushed to GitHub" || echo "no git changes"
+# mirror the manifest to GCS (no-cache) -- this is what Prism players actually fetch
+echo "syncing manifest to GCS (no-cache)..."
+gcloud storage rsync -r -x '(\.git/|\.DS_Store)' "$PACK" "$BUCKET/manifest" --project="$PROJ" 2>&1 | tail -1
+gcloud storage objects update "$BUCKET/manifest/**" --cache-control="no-cache, max-age=0" --project="$PROJ" >/dev/null 2>&1
+echo "PUBLISHED -- players auto-pull on next launch"
