@@ -25,7 +25,7 @@
   "ticksBetweenSpawnAttempts": 20.0,
   "minimumSpawningZoneDistanceFromPlayer": 16.0,
   "maximumSpawningZoneDistanceFromPlayer": 64.0,
-  "maximumSpawnsPerPass": 8,
+  "maximumSpawnsPerPass": 2,
   "exportSpawnConfig": false,
   "savePokemonToWorld": true,
   "exportStarterConfig": true,

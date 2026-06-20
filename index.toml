@@ -198,7 +198,7 @@ hash = "f10d1f2557ec8cb3404fc831c51ec68fff35e5e3fc21de9af67d9d4939ecebda"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "4af63d09fa48c452de00972b22be8e62f2da82b1ef4065595d5f9c54249ffd53"
+hash = "1f9c57323c40b3d6ce79cb70fcc1463eb2e49553d215c6aa57996e294a14a27d"
 
 [[files]]
 file = "config/cobblemon/starters.json"
@@ -3003,7 +3003,7 @@ metafile = true
 
 [[files]]
 file = "mods/adastra-fabric-1-21-1-1-16-6.pw.toml"
-hash = "78bba3979e2f36e27513ffa744e45cfdd1452b69e8459574bf8f7d6be5317e78"
+hash = "a0b4b3529648267cfe0f2d2dd9278f0763c9faab0cc06690ff961e28c0a3c988"
 metafile = true
 
 [[files]]

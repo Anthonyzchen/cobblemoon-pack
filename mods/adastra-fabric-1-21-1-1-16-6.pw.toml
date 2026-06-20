@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/adastra-fabric-1.21.1-1.16.6.jar"
 hash-format = "sha256"
-hash = "e8d71f97d8b0c434fc89e77ba094f20b63693f5fd0d134c5f46804850e8d4e7e"
+hash = "16db371349c118b32892eb90e7e3030974b01e121abea9844af39bd3f280932c"
