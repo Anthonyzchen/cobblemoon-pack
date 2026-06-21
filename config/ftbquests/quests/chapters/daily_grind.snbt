@@ -16,7 +16,7 @@
 				id: "cobblemon:relic_coin"
 			}
 			id: "5BAD1A77AAAA0001"
-			repeat_cooldown: 1728000
+			repeat_cooldown: 86400
 			rewards: [{
 				count: 10
 				id: "5BAD1A77BBBB0001"
@@ -65,7 +65,7 @@
 				id: "cobblemon:poke_ball"
 			}
 			id: "5BAD1A77AAAA0008"
-			repeat_cooldown: 1728000
+			repeat_cooldown: 86400
 			rewards: [{
 				count: 25
 				id: "5BAD1A77BBBB0008"
@@ -113,7 +113,7 @@
 				id: "cobblemon:cherish_ball"
 			}
 			id: "5BAD1A77AAAA0009"
-			repeat_cooldown: 1728000
+			repeat_cooldown: 86400
 			rewards: [{
 				count: 30
 				id: "5BAD1A77BBBB0009"
@@ -161,7 +161,7 @@
 				id: "cobblemon:great_ball"
 			}
 			id: "5BAD1A77AAAA0003"
-			repeat_cooldown: 1728000
+			repeat_cooldown: 86400
 			rewards: [{
 				count: 25
 				id: "5BAD1A77BBBB0003"
@@ -209,7 +209,7 @@
 				id: "minecraft:wooden_sword"
 			}
 			id: "5BAD1A77AAAA0004"
-			repeat_cooldown: 1728000
+			repeat_cooldown: 86400
 			rewards: [{
 				count: 20
 				id: "5BAD1A77BBBB0004"
@@ -257,7 +257,7 @@
 				id: "cobblemon:master_ball"
 			}
 			id: "5BAD1A77AAAA0007"
-			repeat_cooldown: 12096000
+			repeat_cooldown: 604800
 			rewards: [{
 				count: 200
 				id: "5BAD1A77BBBB0007"

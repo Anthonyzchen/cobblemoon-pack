@@ -438,7 +438,7 @@ hash = "a9adb493d1318304b2d6c20b79fd8a50f3ee4217f664ebfe8c5f55837bc4f91a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/daily_grind.snbt"
-hash = "c11bcfd74d752c8c8e55f5fcc4202e5c298e93b0724e1e200c9a4c8907a8d646"
+hash = "3de94cbbb1fa51f1221fe9768e33994162a8cf7ce22df09361c40322c3dc3b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
@@ -3502,7 +3502,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mon-in-boats-1-0-0.pw.toml"
-hash = "250db80bc86b49c1fb0d8cde58d73b1513e4861509ea16e86d22ee04d91495d4"
+hash = "34747e70b9b3095f9de977e3935bce285d86befbe83bcc2526ffa9ae92d839f7"
 metafile = true
 
 [[files]]
