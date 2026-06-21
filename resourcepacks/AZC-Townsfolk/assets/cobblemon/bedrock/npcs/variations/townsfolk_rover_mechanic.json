@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_rover_mechanic",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/rover_mechanic.png",
+      "layers": []
+    }
+  ]
+}

@@ -36,7 +36,9 @@ f'name = "{fn[:-4]}"\nfilename = "{fn}"\nside = "both"\n\n[download]\nurl = "{BA
 for fn,(mf,_) in have.items():
     if fn not in local: os.remove(mf); print("  removed:",fn)
 PY
-[ -n "$(ls /tmp/pwup 2>/dev/null)" ] && gcloud storage cp /tmp/pwup/*.jar "$BUCKET/mods/" --project="$PROJ" 2>&1 | tail -1
+# no-cache on jars too: filenames are stable across rebuilds but contents change, so a cached
+# jar + freshly-published manifest hash = "hash invalid" for players. Mirror the manifest policy.
+[ -n "$(ls /tmp/pwup 2>/dev/null)" ] && gcloud storage cp --cache-control="no-cache, max-age=0" /tmp/pwup/*.jar "$BUCKET/mods/" --project="$PROJ" 2>&1 | tail -1
 rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' "$INST/config/" "$PACK/config/"
 cp "$INST/options.txt" "$PACK/options.txt" 2>/dev/null || true
 packwiz refresh

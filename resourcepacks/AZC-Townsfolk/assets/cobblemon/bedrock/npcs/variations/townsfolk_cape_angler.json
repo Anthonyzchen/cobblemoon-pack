@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_cape_angler",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/cape_angler.png",
+      "layers": []
+    }
+  ]
+}

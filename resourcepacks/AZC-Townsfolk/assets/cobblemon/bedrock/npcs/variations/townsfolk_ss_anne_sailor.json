@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_ss_anne_sailor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/ss_anne_sailor.png",
+      "layers": []
+    }
+  ]
+}

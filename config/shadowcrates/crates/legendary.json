@@ -48,11 +48,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% volcanion level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
         "displayname": "Volcanion",
         "lore": [
-          "&7Catch one!"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -89,11 +89,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% zarude level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
         "displayname": "Zarude",
         "lore": [
-          "&7Catch one!"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -680,7 +680,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Landorus",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -701,7 +701,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Tornadus",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -722,7 +722,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Thundurus",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -739,11 +739,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% latios level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Latios",
+        "displayname": "Latios",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -764,7 +764,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Latios",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -781,11 +781,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% latias level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Latias",
+        "displayname": "Latias",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -806,7 +806,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Latias",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -823,11 +823,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% groudon level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Groudon",
+        "displayname": "Groudon",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -848,7 +848,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Groudon",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -865,11 +865,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% kyurem level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Kyurem",
+        "displayname": "Kyurem",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -890,7 +890,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Kyurem",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -911,7 +911,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Magearna",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -928,11 +928,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% zacian level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Zacian",
+        "displayname": "Zacian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -953,7 +953,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Zacian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -970,11 +970,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% zamazenta level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Zamazenta",
+        "displayname": "Zamazenta",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -995,7 +995,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Zamazenta",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1016,7 +1016,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Articuno",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1033,11 +1033,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% articuno galarian level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Articuno Galarian",
+        "displayname": "Articuno Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1058,7 +1058,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Articuno Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1079,7 +1079,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Zapdos",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1096,11 +1096,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% zapdos galarian level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Zapdos Galarian",
+        "displayname": "Zapdos Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1121,7 +1121,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Zapdos Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1142,7 +1142,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Moltres",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1159,11 +1159,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% moltres galarian level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Moltres Galarian",
+        "displayname": "Moltres Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1184,7 +1184,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Moltres Galarian",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1205,7 +1205,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Raikou",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1226,7 +1226,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Entei",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1247,7 +1247,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Suicune",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1268,7 +1268,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Glastrier",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1289,7 +1289,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Spectrier",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1306,11 +1306,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% terapagos level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Terapagos",
+        "displayname": "Terapagos",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1331,7 +1331,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Terapagos",
         "lore": [
-          "&7Orphan legendary — fallback path"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1348,11 +1348,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% meltan level=50",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
-        "displayname": "&6Meltan",
+        "displayname": "Meltan",
         "lore": [
-          "&7Mythical — evolves to Melmetal"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1373,7 +1373,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Meltan",
         "lore": [
-          "&7Legendary tier"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1390,11 +1390,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% arceus shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Arceus",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1410,11 +1410,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% azelf shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Azelf",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1430,11 +1430,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% calyrex shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Calyrex",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1450,11 +1450,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% celebi shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Celebi",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1470,11 +1470,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% chienpao shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Chien-Pao",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1490,11 +1490,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% chiyu shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Chi-Yu",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1510,11 +1510,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% cobalion shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Cobalion",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1530,11 +1530,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% cosmoem shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Cosmoem",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1550,11 +1550,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% cosmog shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Cosmog",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1570,11 +1570,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% cresselia shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Cresselia",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1590,11 +1590,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% darkrai shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Darkrai",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1610,11 +1610,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% deoxys shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Deoxys",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1630,11 +1630,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% dialga shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Dialga",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1650,11 +1650,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% diancie shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Diancie",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1670,11 +1670,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% enamorus shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Enamorus",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1690,11 +1690,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% eternatus shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Eternatus",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1710,11 +1710,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% fezandipiti shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Fezandipiti",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1730,11 +1730,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% genesect shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Genesect",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1750,11 +1750,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% giratina shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Giratina",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1770,11 +1770,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% heatran shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Heatran",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1790,11 +1790,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% hooh shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Ho-Oh",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1810,11 +1810,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% hoopa shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Hoopa",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1830,11 +1830,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% jirachi shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Jirachi",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1850,11 +1850,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% keldeo shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Keldeo",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1870,11 +1870,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% koraidon shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Koraidon",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1890,11 +1890,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% kubfu shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Kubfu",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1910,11 +1910,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% kyogre shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Kyogre",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1930,11 +1930,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% lugia shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Lugia",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1950,11 +1950,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% lunala shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Lunala",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1970,11 +1970,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% manaphy shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Manaphy",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -1990,11 +1990,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% marshadow shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Marshadow",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2010,11 +2010,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% melmetal shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Melmetal",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2030,11 +2030,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% mesprit shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Mesprit",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2050,11 +2050,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% mew shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Mew",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2070,11 +2070,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% mewtwo shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Mewtwo",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2090,11 +2090,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% miraidon shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Miraidon",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2110,11 +2110,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% munkidori shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Munkidori",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2130,11 +2130,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% necrozma shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Necrozma",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2150,11 +2150,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% ogerpon shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Ogerpon",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2170,11 +2170,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% okidogi shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Okidogi",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2190,11 +2190,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% palkia shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Palkia",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2210,11 +2210,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% pecharunt shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Pecharunt",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2230,11 +2230,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% phione shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Phione",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2250,11 +2250,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% rayquaza shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Rayquaza",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2270,11 +2270,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% regice shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Regice",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2290,11 +2290,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% regidrago shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Regidrago",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2310,11 +2310,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% regieleki shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Regieleki",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2330,11 +2330,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% regigigas shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Regigigas",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2350,11 +2350,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% regirock shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Regirock",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2370,11 +2370,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% registeel shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Registeel",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2390,11 +2390,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% reshiram shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Reshiram",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2410,11 +2410,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% shaymin shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Shaymin",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2430,11 +2430,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% silvally shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Silvally",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2450,11 +2450,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% solgaleo shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Solgaleo",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2470,11 +2470,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% tapukoko shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Tapu Koko",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2490,11 +2490,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% terrakion shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Terrakion",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2510,11 +2510,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% typenull shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Type: Null",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2530,11 +2530,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% urshifu shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Urshifu",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2550,11 +2550,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% uxie shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Uxie",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2570,11 +2570,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% victini shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Victini",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2590,11 +2590,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% wochien shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Wo-Chien",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2610,11 +2610,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% xerneas shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Xerneas",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2630,11 +2630,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% yveltal shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Yveltal",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2650,11 +2650,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% zekrom shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Zekrom",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2670,11 +2670,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% zeraora shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Zeraora",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2690,11 +2690,11 @@
       "weight": 0.08,
       "command": "givepokemonother %player% zygarde shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Zygarde",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2710,11 +2710,11 @@
       "weight": 0.03,
       "command": "givepokemonother %player% meloetta shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Meloetta",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2730,11 +2730,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% tapubulu shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Tapu Bulu",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2750,11 +2750,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% tapulele shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Tapu Lele",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2770,11 +2770,11 @@
       "weight": 0.2,
       "command": "givepokemonother %player% tapufini shiny level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Tapu Fini",
         "lore": [
-          "&7Catch one!"
+          "&eExtremely rare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2790,11 +2790,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% heatran level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
         "displayname": "Heatran",
         "lore": [
-          "&7Catch one!"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2810,11 +2810,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% hooh level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
         "displayname": "Ho-Oh",
         "lore": [
-          "&7Catch one!"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2830,11 +2830,11 @@
       "weight": 5.598,
       "command": "givepokemonother %player% lugia level=50",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:slate_ball",
         "amount": 1,
         "displayname": "Lugia",
         "lore": [
-          "&7Catch one!"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,

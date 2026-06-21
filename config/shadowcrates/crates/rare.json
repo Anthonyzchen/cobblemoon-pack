@@ -50,9 +50,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Charmander",
+        "displayname": "Charmander",
         "lore": [
-          "&7Kanto fire starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -70,9 +70,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Squirtle",
+        "displayname": "Squirtle",
         "lore": [
-          "&7Kanto water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -90,9 +90,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Bulbasaur",
+        "displayname": "Bulbasaur",
         "lore": [
-          "&7Kanto grass starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -110,9 +110,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Cyndaquil",
+        "displayname": "Cyndaquil",
         "lore": [
-          "&7Johto fire starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -130,9 +130,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Totodile",
+        "displayname": "Totodile",
         "lore": [
-          "&7Johto water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -150,9 +150,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Chikorita",
+        "displayname": "Chikorita",
         "lore": [
-          "&7Johto grass starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -170,9 +170,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Mudkip",
+        "displayname": "Mudkip",
         "lore": [
-          "&7Hoenn water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -190,9 +190,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Torchic",
+        "displayname": "Torchic",
         "lore": [
-          "&7Hoenn fire starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -210,9 +210,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Treecko",
+        "displayname": "Treecko",
         "lore": [
-          "&7Hoenn grass starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -230,9 +230,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Froakie",
+        "displayname": "Froakie",
         "lore": [
-          "&7Kalos water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -250,9 +250,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Rowlet",
+        "displayname": "Rowlet",
         "lore": [
-          "&7Alola grass starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -270,9 +270,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Litten",
+        "displayname": "Litten",
         "lore": [
-          "&7Alola fire starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -290,9 +290,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Piplup",
+        "displayname": "Piplup",
         "lore": [
-          "&7Sinnoh water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -310,9 +310,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Fuecoco",
+        "displayname": "Fuecoco",
         "lore": [
-          "&7Paldea fire starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -330,9 +330,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Sprigatito",
+        "displayname": "Sprigatito",
         "lore": [
-          "&7Paldea grass starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -350,9 +350,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&9Quaxly",
+        "displayname": "Quaxly",
         "lore": [
-          "&7Paldea water starter"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -370,9 +370,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&dBeldum",
+        "displayname": "Beldum",
         "lore": [
-          "&7Future Metagross"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -390,9 +390,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&dDeino",
+        "displayname": "Deino",
         "lore": [
-          "&7Future Hydreigon"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -410,9 +410,9 @@
       "displayItem": {
         "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&dGoomy",
+        "displayname": "Goomy",
         "lore": [
-          "&7Future Goodra"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -432,7 +432,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Charmander",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -453,7 +453,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Squirtle",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -474,7 +474,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Bulbasaur",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -495,7 +495,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Cyndaquil",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -516,7 +516,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Totodile",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -537,7 +537,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Chikorita",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -558,7 +558,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Mudkip",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -579,7 +579,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Torchic",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -600,7 +600,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Treecko",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -621,7 +621,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Froakie",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -642,7 +642,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Rowlet",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -663,7 +663,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Litten",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -684,7 +684,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Piplup",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -705,7 +705,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Fuecoco",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -726,7 +726,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Sprigatito",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -747,7 +747,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Quaxly",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -768,7 +768,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Beldum",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -789,7 +789,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Deino",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -810,7 +810,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Goomy",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -853,7 +853,7 @@
         "amount": 1,
         "displayname": "Turtwig",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -873,7 +873,7 @@
         "amount": 1,
         "displayname": "Chimchar",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -893,7 +893,7 @@
         "amount": 1,
         "displayname": "Tepig",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -913,7 +913,7 @@
         "amount": 1,
         "displayname": "Oshawott",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -933,7 +933,7 @@
         "amount": 1,
         "displayname": "Snivy",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -953,7 +953,7 @@
         "amount": 1,
         "displayname": "Chespin",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -973,7 +973,7 @@
         "amount": 1,
         "displayname": "Fennekin",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -993,7 +993,7 @@
         "amount": 1,
         "displayname": "Popplio",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1013,7 +1013,7 @@
         "amount": 1,
         "displayname": "Grookey",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1033,7 +1033,7 @@
         "amount": 1,
         "displayname": "Scorbunny",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1053,7 +1053,7 @@
         "amount": 1,
         "displayname": "Sobble",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1073,7 +1073,7 @@
         "amount": 1,
         "displayname": "Porygon",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1093,7 +1093,7 @@
         "amount": 1,
         "displayname": "Lapras",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1113,7 +1113,7 @@
         "amount": 1,
         "displayname": "Aerodactyl",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1133,7 +1133,7 @@
         "amount": 1,
         "displayname": "Kabuto",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1153,7 +1153,7 @@
         "amount": 1,
         "displayname": "Omanyte",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1173,7 +1173,7 @@
         "amount": 1,
         "displayname": "Tyrunt",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1193,7 +1193,7 @@
         "amount": 1,
         "displayname": "Amaura",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1213,7 +1213,7 @@
         "amount": 1,
         "displayname": "Archen",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1233,7 +1233,7 @@
         "amount": 1,
         "displayname": "Tirtouga",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1253,7 +1253,7 @@
         "amount": 1,
         "displayname": "Relicanth",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1273,7 +1273,7 @@
         "amount": 1,
         "displayname": "Spiritomb",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1293,7 +1293,7 @@
         "amount": 1,
         "displayname": "Rotom",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1313,7 +1313,7 @@
         "amount": 1,
         "displayname": "Mimikyu",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1333,7 +1333,7 @@
         "amount": 1,
         "displayname": "Turtonator",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1353,7 +1353,7 @@
         "amount": 1,
         "displayname": "Drampa",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1373,7 +1373,7 @@
         "amount": 1,
         "displayname": "Dhelmise",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1393,7 +1393,7 @@
         "amount": 1,
         "displayname": "Comfey",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1413,7 +1413,7 @@
         "amount": 1,
         "displayname": "Bruxish",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1433,7 +1433,7 @@
         "amount": 1,
         "displayname": "Passimian",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1453,7 +1453,7 @@
         "amount": 1,
         "displayname": "Oranguru",
         "lore": [
-          "&7First evolution"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1473,7 +1473,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Turtwig",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1494,7 +1494,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Chimchar",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1515,7 +1515,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Tepig",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1536,7 +1536,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Oshawott",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1557,7 +1557,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Snivy",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1578,7 +1578,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Chespin",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1599,7 +1599,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Fennekin",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1620,7 +1620,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Popplio",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1641,7 +1641,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Grookey",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1662,7 +1662,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Scorbunny",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1683,7 +1683,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Sobble",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1704,7 +1704,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Porygon",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1725,7 +1725,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Lapras",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1746,7 +1746,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Aerodactyl",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1767,7 +1767,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Kabuto",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1788,7 +1788,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Omanyte",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1809,7 +1809,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Tyrunt",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1830,7 +1830,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Amaura",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1851,7 +1851,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Archen",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1872,7 +1872,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Tirtouga",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1893,7 +1893,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Relicanth",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1914,7 +1914,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Spiritomb",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1935,7 +1935,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Rotom",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1956,7 +1956,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Mimikyu",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1977,7 +1977,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Turtonator",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -1998,7 +1998,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Drampa",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2019,7 +2019,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Dhelmise",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2040,7 +2040,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Comfey",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2061,7 +2061,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Bruxish",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2082,7 +2082,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Passimian",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2103,7 +2103,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Oranguru",
         "lore": [
-          "&eExtremely rare shiny!"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2120,11 +2120,11 @@
       "weight": 50.0,
       "command": "givepokemonother %player% scyther",
       "displayItem": {
-        "material": "cobblemon:poke_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bScyther",
+        "displayname": "Scyther",
         "lore": [
-          "&7A Scyther from a higher tier"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2140,11 +2140,11 @@
       "weight": 1.53,
       "command": "givepokemonother %player% scyther shiny",
       "displayItem": {
-        "material": "cobblemon:cherish_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Scyther",
         "lore": [
-          "&e&lShiny Scyther!"
+          "&eRare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2160,11 +2160,11 @@
       "weight": 50.0,
       "command": "givepokemonother %player% vulpix",
       "displayItem": {
-        "material": "cobblemon:poke_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bVulpix",
+        "displayname": "Vulpix",
         "lore": [
-          "&7A Vulpix from a higher tier"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2180,11 +2180,11 @@
       "weight": 1.53,
       "command": "givepokemonother %player% vulpix shiny",
       "displayItem": {
-        "material": "cobblemon:cherish_ball",
+        "material": "cobblemon:citrine_ball",
         "amount": 1,
         "displayname": "&6&lShiny Vulpix",
         "lore": [
-          "&e&lShiny Vulpix!"
+          "&eRare shiny!"
         ],
         "enchantEffect": true,
         "hideTooltip": true,
@@ -2200,11 +2200,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% pichu",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Pichu (Baby)",
         "lore": [
-          "&7Baby Pokemon (quest-tier)"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2220,11 +2220,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% mimejr",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Mime Jr. (Baby)",
         "lore": [
-          "&7Baby Pokemon (quest-tier)"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2240,11 +2240,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% tyrogue",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Tyrogue (Baby)",
         "lore": [
-          "&7Baby Pokemon (quest-tier)"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2260,11 +2260,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% munchlax",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Munchlax (Baby)",
         "lore": [
-          "&7Baby Pokemon (quest-tier)"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2280,11 +2280,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% toxel",
       "displayItem": {
-        "material": "cobblemon:dive_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Toxel (Baby)",
         "lore": [
-          "&7Baby Pokemon (quest-tier)"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2300,11 +2300,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% bombirdier",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bBombirdier",
+        "displayname": "Bombirdier",
         "lore": [
-          "&7BST 485"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2325,7 +2325,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Bombirdier",
         "lore": [
-          "&7BST 485"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2342,11 +2342,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% dedenne",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDedenne",
+        "displayname": "Dedenne",
         "lore": [
-          "&7BST 431"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2367,7 +2367,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Dedenne",
         "lore": [
-          "&7BST 431"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2384,11 +2384,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% orthworm",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bOrthworm",
+        "displayname": "Orthworm",
         "lore": [
-          "&7BST 480"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2409,7 +2409,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Orthworm",
         "lore": [
-          "&7BST 480"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2426,11 +2426,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% torkoal",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bTorkoal",
+        "displayname": "Torkoal",
         "lore": [
-          "&7BST 470"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2451,7 +2451,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Torkoal",
         "lore": [
-          "&7BST 470"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2468,11 +2468,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% volbeat",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bVolbeat",
+        "displayname": "Volbeat",
         "lore": [
-          "&7BST 430"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2493,7 +2493,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Volbeat",
         "lore": [
-          "&7BST 430"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2510,11 +2510,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% audino",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAudino",
+        "displayname": "Audino",
         "lore": [
-          "&7BST 445"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2535,7 +2535,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Audino",
         "lore": [
-          "&7BST 445"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2552,11 +2552,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% durant",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDurant",
+        "displayname": "Durant",
         "lore": [
-          "&7BST 484"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2577,7 +2577,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Durant",
         "lore": [
-          "&7BST 484"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2594,11 +2594,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% heatmor",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bHeatmor",
+        "displayname": "Heatmor",
         "lore": [
-          "&7BST 484"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2619,7 +2619,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Heatmor",
         "lore": [
-          "&7BST 484"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2636,11 +2636,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% zangoose",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bZangoose",
+        "displayname": "Zangoose",
         "lore": [
-          "&7BST 458"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2661,7 +2661,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Zangoose",
         "lore": [
-          "&7BST 458"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2678,11 +2678,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% skarmory",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSkarmory",
+        "displayname": "Skarmory",
         "lore": [
-          "&7BST 465"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2703,7 +2703,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Skarmory",
         "lore": [
-          "&7BST 465"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2720,11 +2720,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% solrock",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSolrock",
+        "displayname": "Solrock",
         "lore": [
-          "&7BST 460"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2745,7 +2745,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Solrock",
         "lore": [
-          "&7BST 460"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2762,11 +2762,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% emolga",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bEmolga",
+        "displayname": "Emolga",
         "lore": [
-          "&7BST 428"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2787,7 +2787,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Emolga",
         "lore": [
-          "&7BST 428"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2804,11 +2804,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% togedemaru",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bTogedemaru",
+        "displayname": "Togedemaru",
         "lore": [
-          "&7BST 435"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2829,7 +2829,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Togedemaru",
         "lore": [
-          "&7BST 435"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2846,11 +2846,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% seviper",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSeviper",
+        "displayname": "Seviper",
         "lore": [
-          "&7BST 458"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2871,7 +2871,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Seviper",
         "lore": [
-          "&7BST 458"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2888,11 +2888,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% sigilyph",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSigilyph",
+        "displayname": "Sigilyph",
         "lore": [
-          "&7BST 490"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2913,7 +2913,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Sigilyph",
         "lore": [
-          "&7BST 490"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2930,11 +2930,11 @@
       "weight": 40.0,
       "command": "givepokemonother %player% illumise",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bIllumise",
+        "displayname": "Illumise",
         "lore": [
-          "&7BST 430"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2955,7 +2955,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Illumise",
         "lore": [
-          "&7BST 430"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2972,11 +2972,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% indeedee",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bIndeedee",
+        "displayname": "Indeedee",
         "lore": [
-          "&7BST 475"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -2997,7 +2997,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Indeedee",
         "lore": [
-          "&7BST 475"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3014,11 +3014,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% lunatone",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bLunatone",
+        "displayname": "Lunatone",
         "lore": [
-          "&7BST 460"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3039,7 +3039,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Lunatone",
         "lore": [
-          "&7BST 460"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3056,11 +3056,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% slowbro level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSlowbro (Lv25)",
+        "displayname": "Slowbro (Lv25)",
         "lore": [
-          "&7BST 490"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3081,7 +3081,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Slowbro",
         "lore": [
-          "&7BST 490"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3098,11 +3098,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% pidgeot level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bPidgeot (Lv25)",
+        "displayname": "Pidgeot (Lv25)",
         "lore": [
-          "&7BST 479"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3123,7 +3123,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Pidgeot",
         "lore": [
-          "&7BST 479"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3140,11 +3140,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% heracross level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bHeracross (Lv25)",
+        "displayname": "Heracross (Lv25)",
         "lore": [
-          "&7BST 500"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3165,7 +3165,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Heracross",
         "lore": [
-          "&7BST 500"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3182,11 +3182,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% pinsir level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bPinsir (Lv25)",
+        "displayname": "Pinsir (Lv25)",
         "lore": [
-          "&7BST 500"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3207,7 +3207,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Pinsir",
         "lore": [
-          "&7BST 500"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3224,11 +3224,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% absol level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAbsol (Lv25)",
+        "displayname": "Absol (Lv25)",
         "lore": [
-          "&7BST 465"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3249,7 +3249,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Absol",
         "lore": [
-          "&7BST 465"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3285,12 +3285,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% magnezone level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bMagnezone (Lv30)",
+        "displayname": "Magnezone (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3311,7 +3310,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Magnezone",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3328,12 +3327,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% sylveon level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSylveon (Lv30)",
+        "displayname": "Sylveon (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3354,7 +3352,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Sylveon",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3371,12 +3369,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% espeon level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bEspeon (Lv30)",
+        "displayname": "Espeon (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3397,7 +3394,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Espeon",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3414,12 +3411,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% umbreon level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bUmbreon (Lv30)",
+        "displayname": "Umbreon (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3440,7 +3436,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Umbreon",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3457,12 +3453,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% dusknoir level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDusknoir (Lv30)",
+        "displayname": "Dusknoir (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3483,7 +3478,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Dusknoir",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3500,12 +3495,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% annihilape level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAnnihilape (Lv30)",
+        "displayname": "Annihilape (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3526,7 +3520,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Annihilape",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3543,12 +3537,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% hatterene level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bHatterene (Lv30)",
+        "displayname": "Hatterene (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3569,7 +3562,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Hatterene",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3586,12 +3579,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% grimmsnarl level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bGrimmsnarl (Lv30)",
+        "displayname": "Grimmsnarl (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3612,7 +3604,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Grimmsnarl",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3629,12 +3621,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% rhyperior level=30",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bRhyperior (Lv30)",
+        "displayname": "Rhyperior (Lv30)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3655,7 +3646,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Rhyperior",
         "lore": [
-          "&7Lv30 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3672,12 +3663,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% mawile level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bMawile (Lv25)",
+        "displayname": "Mawile (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3698,7 +3688,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Mawile",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3715,12 +3705,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% beedrill level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bBeedrill (Lv25)",
+        "displayname": "Beedrill (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3741,7 +3730,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Beedrill",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3758,12 +3747,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% altaria level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAltaria (Lv25)",
+        "displayname": "Altaria (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3784,7 +3772,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Altaria",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3805,7 +3793,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Aerodactyl",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3822,12 +3810,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% glalie level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bGlalie (Lv25)",
+        "displayname": "Glalie (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3848,7 +3835,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Glalie",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3865,12 +3852,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% lopunny level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bLopunny (Lv25)",
+        "displayname": "Lopunny (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3891,7 +3877,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Lopunny",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3908,12 +3894,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% sharpedo level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSharpedo (Lv25)",
+        "displayname": "Sharpedo (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3934,7 +3919,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Sharpedo",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3951,12 +3936,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% camerupt level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bCamerupt (Lv25)",
+        "displayname": "Camerupt (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3977,7 +3961,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Camerupt",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -3994,12 +3978,11 @@
       "weight": 10.0,
       "command": "givepokemonother %player% manectric level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bManectric (Lv25)",
+        "displayname": "Manectric (Lv25)",
         "lore": [
-          "&7Strong final form",
-          "&7Skip the evolution grind"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4020,7 +4003,7 @@
         "amount": 1,
         "displayname": "&6&lShiny Manectric",
         "lore": [
-          "&7Lv25 ready"
+          "&eRare shiny!"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4070,7 +4053,7 @@
     },
     {
       "type": "item",
-      "weight": 4.91,
+      "weight": 1.0,
       "material": "wanteditems:gold_bottle_cap",
       "amount": 1,
       "displayname": "&6&lGold Bottle Cap",
@@ -4089,7 +4072,7 @@
     },
     {
       "type": "item",
-      "weight": 1.97,
+      "weight": 1.4,
       "material": "wanteditems:shiny_swapper",
       "amount": 1,
       "displayname": "&6&lShiny Swapper",
@@ -4111,11 +4094,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% dratini",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDratini",
+        "displayname": "Dratini",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4153,11 +4136,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% larvitar",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bLarvitar",
+        "displayname": "Larvitar",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4195,11 +4178,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% bagon",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bBagon",
+        "displayname": "Bagon",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4237,11 +4220,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% gible",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bGible",
+        "displayname": "Gible",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4279,11 +4262,11 @@
       "weight": 30.0,
       "command": "givepokemonother %player% dreepy",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDreepy",
+        "displayname": "Dreepy",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4321,11 +4304,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% axew",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAxew",
+        "displayname": "Axew",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4363,11 +4346,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% feebas",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bFeebas",
+        "displayname": "Feebas",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4405,11 +4388,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% honedge",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bHonedge",
+        "displayname": "Honedge",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4447,11 +4430,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% litwick",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bLitwick",
+        "displayname": "Litwick",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4489,11 +4472,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% pawniard",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bPawniard",
+        "displayname": "Pawniard",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4531,11 +4514,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% riolu",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bRiolu",
+        "displayname": "Riolu",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4573,11 +4556,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% sneasel",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSneasel",
+        "displayname": "Sneasel",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4615,11 +4598,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% swinub",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bSwinub",
+        "displayname": "Swinub",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4657,11 +4640,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% togepi",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bTogepi",
+        "displayname": "Togepi",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4699,11 +4682,11 @@
       "weight": 25.0,
       "command": "givepokemonother %player% zorua",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bZorua",
+        "displayname": "Zorua",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4741,11 +4724,11 @@
       "weight": 15.0,
       "command": "givepokemonother %player% gyarados level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bGyarados",
+        "displayname": "Gyarados",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4783,11 +4766,11 @@
       "weight": 50.0,
       "command": "givepokemonother %player% abra",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAbra",
+        "displayname": "Abra",
         "lore": [
-          "&7Strong evolutionary line"
+          "&7Pokemon"
         ],
         "enchantEffect": false,
         "hideTooltip": true,
@@ -4825,7 +4808,7 @@
       "weight": 15.0,
       "command": "givepokemonother %player% arcanine level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Arcanine (Lv25)",
         "lore": [
@@ -4867,7 +4850,7 @@
       "weight": 15.0,
       "command": "givepokemonother %player% luxray level=25",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Luxray (Lv25)",
         "lore": [
@@ -4909,7 +4892,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% shieldon",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Shieldon",
         "lore": [
@@ -4951,7 +4934,7 @@
       "weight": 50.0,
       "command": "givepokemonother %player% charcadet",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Charcadet",
         "lore": [
@@ -4993,7 +4976,7 @@
       "weight": 50.0,
       "command": "givepokemonother %player% yanma",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Yanma",
         "lore": [
@@ -5035,7 +5018,7 @@
       "weight": 50.0,
       "command": "givepokemonother %player% nosepass",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Nosepass",
         "lore": [
@@ -5077,9 +5060,9 @@
       "weight": 30.0,
       "command": "givepokemonother %player% anorith",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bAnorith",
+        "displayname": "Anorith",
         "lore": [
           "&7Pokemon"
         ],
@@ -5119,9 +5102,9 @@
       "weight": 30.0,
       "command": "givepokemonother %player% cranidos",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bCranidos",
+        "displayname": "Cranidos",
         "lore": [
           "&7Pokemon"
         ],
@@ -5161,9 +5144,9 @@
       "weight": 30.0,
       "command": "givepokemonother %player% lileep",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bLileep",
+        "displayname": "Lileep",
         "lore": [
           "&7Pokemon"
         ],
@@ -5203,9 +5186,9 @@
       "weight": 30.0,
       "command": "givepokemonother %player% clamperl",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bClamperl",
+        "displayname": "Clamperl",
         "lore": [
           "&7Pokemon"
         ],
@@ -5245,9 +5228,9 @@
       "weight": 30.0,
       "command": "givepokemonother %player% druddigon",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
-        "displayname": "&bDruddigon",
+        "displayname": "Druddigon",
         "lore": [
           "&7Pokemon"
         ],
@@ -5287,7 +5270,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% cyclizar",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Cyclizar",
         "lore": [
@@ -5329,7 +5312,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% dondozo",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Dondozo",
         "lore": [
@@ -5371,7 +5354,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% kangaskhan",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Kangaskhan",
         "lore": [
@@ -5413,7 +5396,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% smeargle",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Smeargle",
         "lore": [
@@ -5455,7 +5438,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% tatsugiri",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Tatsugiri",
         "lore": [
@@ -5497,7 +5480,7 @@
       "weight": 30.0,
       "command": "givepokemonother %player% wynaut",
       "displayItem": {
-        "material": "cobblemon:ultra_ball",
+        "material": "cobblemon:azure_ball",
         "amount": 1,
         "displayname": "Wynaut",
         "lore": [

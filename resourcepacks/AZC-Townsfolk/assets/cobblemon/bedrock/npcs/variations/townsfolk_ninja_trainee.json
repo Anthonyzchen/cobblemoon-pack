@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_ninja_trainee",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/ninja_trainee.png",
+      "layers": []
+    }
+  ]
+}

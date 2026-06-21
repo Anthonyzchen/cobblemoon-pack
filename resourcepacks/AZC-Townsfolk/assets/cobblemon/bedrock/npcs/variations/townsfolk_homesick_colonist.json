@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_homesick_colonist",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/homesick_colonist.png",
+      "layers": []
+    }
+  ]
+}

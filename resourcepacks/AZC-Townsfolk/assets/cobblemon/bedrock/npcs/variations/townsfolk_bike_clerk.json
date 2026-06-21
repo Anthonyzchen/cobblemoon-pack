@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_bike_clerk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/bike_clerk.png",
+      "layers": []
+    }
+  ]
+}

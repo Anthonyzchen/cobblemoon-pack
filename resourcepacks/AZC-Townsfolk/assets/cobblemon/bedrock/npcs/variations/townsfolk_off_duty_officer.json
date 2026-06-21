@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_off_duty_officer",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/off_duty_officer.png",
+      "layers": []
+    }
+  ]
+}

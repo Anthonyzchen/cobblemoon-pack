@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_game_corner_regular",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/game_corner_regular.png",
+      "layers": []
+    }
+  ]
+}

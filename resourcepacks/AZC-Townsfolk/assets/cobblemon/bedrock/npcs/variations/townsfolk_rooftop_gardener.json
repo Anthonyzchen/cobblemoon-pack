@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_rooftop_gardener",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:trainer.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/rooftop_gardener.png",
+      "layers": []
+    }
+  ]
+}
