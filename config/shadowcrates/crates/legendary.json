@@ -1492,27 +1492,6 @@
     },
     {
       "type": "command",
-      "weight": 12.5,
-      "command": "givepokemonother %player% azelf level=50",
-      "displayItem": {
-        "material": "cobblemon:slate_ball",
-        "amount": 1,
-        "displayname": "Azelf",
-        "lore": [
-          "&7Pokemon"
-        ],
-        "enchantEffect": false,
-        "hideTooltip": true,
-        "customModelData": 0
-      },
-      "messageGlobal": true,
-      "messagePlayer": true,
-      "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Azelf (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Azelf &afrom a Legendary Crate!"
-    },
-    {
-      "type": "command",
       "weight": 0.2,
       "command": "givepokemonother %player% azelf shiny level=50",
       "displayItem": {
@@ -2427,27 +2406,6 @@
     },
     {
       "type": "command",
-      "weight": 12.5,
-      "command": "givepokemonother %player% mesprit level=50",
-      "displayItem": {
-        "material": "cobblemon:slate_ball",
-        "amount": 1,
-        "displayname": "Mesprit",
-        "lore": [
-          "&7Pokemon"
-        ],
-        "enchantEffect": false,
-        "hideTooltip": true,
-        "customModelData": 0
-      },
-      "messageGlobal": true,
-      "messagePlayer": true,
-      "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Mesprit (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Mesprit &afrom a Legendary Crate!"
-    },
-    {
-      "type": "command",
       "weight": 0.2,
       "command": "givepokemonother %player% mesprit shiny level=50",
       "displayItem": {
@@ -2854,27 +2812,6 @@
     },
     {
       "type": "command",
-      "weight": 12.5,
-      "command": "givepokemonother %player% regieleki level=50",
-      "displayItem": {
-        "material": "cobblemon:slate_ball",
-        "amount": 1,
-        "displayname": "Regieleki",
-        "lore": [
-          "&7Pokemon"
-        ],
-        "enchantEffect": false,
-        "hideTooltip": true,
-        "customModelData": 0
-      },
-      "messageGlobal": true,
-      "messagePlayer": true,
-      "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Regieleki (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Regieleki &afrom a Legendary Crate!"
-    },
-    {
-      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% regieleki shiny level=50",
       "displayItem": {
@@ -2953,27 +2890,6 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Regirock&a!"
-    },
-    {
-      "type": "command",
-      "weight": 12.5,
-      "command": "givepokemonother %player% registeel level=50",
-      "displayItem": {
-        "material": "cobblemon:slate_ball",
-        "amount": 1,
-        "displayname": "Registeel",
-        "lore": [
-          "&7Pokemon"
-        ],
-        "enchantEffect": false,
-        "hideTooltip": true,
-        "customModelData": 0
-      },
-      "messageGlobal": true,
-      "messagePlayer": true,
-      "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Registeel (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Registeel &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -3238,27 +3154,6 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Urshifu&a!"
-    },
-    {
-      "type": "command",
-      "weight": 12.5,
-      "command": "givepokemonother %player% uxie level=50",
-      "displayItem": {
-        "material": "cobblemon:slate_ball",
-        "amount": 1,
-        "displayname": "Uxie",
-        "lore": [
-          "&7Pokemon"
-        ],
-        "enchantEffect": false,
-        "hideTooltip": true,
-        "customModelData": 0
-      },
-      "messageGlobal": true,
-      "messagePlayer": true,
-      "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Uxie (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Uxie &afrom a Legendary Crate!"
     },
     {
       "type": "command",

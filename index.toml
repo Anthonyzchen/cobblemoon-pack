@@ -358,7 +358,7 @@ hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7874b4dfb29692f01421e33dd70a45e1a12562c7a00afa4c85b02d0bee682d16"
+hash = "0ed17dffff5c59e4bfc5d40af105cdd1cc8fda2dec83fcaf62bfc5f9a376fb37"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -438,7 +438,7 @@ hash = "a9adb493d1318304b2d6c20b79fd8a50f3ee4217f664ebfe8c5f55837bc4f91a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/daily_grind.snbt"
-hash = "5525030ba1c5c7d7e9ec1c5a9674a9018b24e0c0094c8de9717e2ef180faa8a8"
+hash = "c11bcfd74d752c8c8e55f5fcc4202e5c298e93b0724e1e200c9a4c8907a8d646"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
@@ -2730,7 +2730,7 @@ hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
-hash = "9d7a44c88feb221e205d73d0605fc0ab41f1e5b6f90a2d2d28c6587a5a883c0d"
+hash = "79b09ba045b4622b57f68bc6961e682137129921ebf460a97e0100a24a8ef414"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
