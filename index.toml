@@ -2722,11 +2722,11 @@ hash = "4ab2cbb31314f963e1047871b2426d1160ee6c6dae03ab179313a1660d8612a7"
 
 [[files]]
 file = "config/shadowcrates/crates/common.json"
-hash = "ab71ab1cd0f41aaef1966e75c8e3d8f4f394a5bf990a7080d2880ab58f33b97c"
+hash = "3f445b46044d7917c41de76cb2ff6e190682005cfa10b4d1395149faa9670cb4"
 
 [[files]]
 file = "config/shadowcrates/crates/epic.json"
-hash = "47840acb7715c4bdf28d2ca77f0949ceea3e57df53fc100717b5239a07aa5be0"
+hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
@@ -2734,11 +2734,11 @@ hash = "bc656571c354cf5ad94749b0e8424f0d8a22541fa8706941948b04bd923cd322"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
-hash = "d5b1f9dde2897d2e7386a3c8b1bee40ab60fc302b00711f3c8c6681dd4d66b85"
+hash = "49d56690a5e8c9ea47d1327a29e41d95f84dc410a52283e2fc36eb9a431fafd8"
 
 [[files]]
 file = "config/shadowcrates/crates/uncommon.json"
-hash = "de06a4129d1e5d07110ad0e2071970757fe96ed4f5835f1510faa25abb770102"
+hash = "2f08f8e138c7eb475982c63941240c16a59ed750a16214e6e527f22c2452c730"
 
 [[files]]
 file = "config/shadowcrates/data/crate_locations.json"
