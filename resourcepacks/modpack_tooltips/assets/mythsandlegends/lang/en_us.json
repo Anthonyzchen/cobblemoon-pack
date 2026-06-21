@@ -1,7 +1,4 @@
 {
-    "commands.mythsandlegends.forcespawn.error.no_context": "§cWrong biome - see #wiki",
-    "commands.mythsandlegends.forcespawn.error.no_match": "§cWrong biome - see #wiki",
-    "commands.mythsandlegends.forcespawn.error.no_area": "§cWrong biome - see #wiki",
     "lore.mythsandlegends.adamant_orb": "Summons Dialga.",
     "lore.mythsandlegends.lustrous_orb": "Summons Palkia.",
     "lore.mythsandlegends.griseous_orb": "Summons Giratina.",
