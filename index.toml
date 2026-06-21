@@ -2730,7 +2730,7 @@ hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
-hash = "bc656571c354cf5ad94749b0e8424f0d8a22541fa8706941948b04bd923cd322"
+hash = "62ac935777b47594a087a9ba023359bbe5666abdd2adf7f6140c017e99f13261"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
@@ -3788,6 +3788,14 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/tow
 hash = "8e28045438dcf340619585a12873636ae2b28537fc19ee44493a65461f9c4b29"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_aspiring_trainer_2.json"
+hash = "18fbb4bd1efa02cb5a5d5f8ac90d9d5cf5d02cefd80875fa200f463e2415c674"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_aspiring_trainer_3.json"
+hash = "a4dded947b9497ec0dfb010ad06e4faaaada13636b2e557b9c7a95ea2364e2ad"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_bike_clerk.json"
 hash = "939dcd003ec4331795d234411824c043c02e89657d5bed0d6e4399687687b6f7"
 
@@ -3802,6 +3810,10 @@ hash = "b158cdb4db9fd3c721ef064c7cdd3dff60b805e9e623aff079b38856149e6a37"
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_department_shopper.json"
 hash = "9fee16f4ecae770b37225ed7307b30b72df1b346b128c7d36ca4ab10b70fedb4"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_department_shopper_2.json"
+hash = "688dc5ae442c1a0efed1871e3818a5a18f1a8a277b6fc6704f8e2b35fd932a22"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_dockside_electrician.json"
@@ -3824,8 +3836,28 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/tow
 hash = "f9137df3d5e4a0a1a2e20f94b69eb7bcc8107d19ac1cc78c2eec369ae296ced3"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_misty_superfan_2.json"
+hash = "e747435a56ef805304d71b878776d732fe1d380e7a90a27de1c2c92b4c5fc787"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_misty_superfan_3.json"
+hash = "8c79aef08741b31fbe678dff0b6078b2e9da8974d751168ca9c795ab156593e5"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_nervous_intern.json"
 hash = "a92c44ec9b49664329b2e4fd55243a41d06b24c49b6288e821f3eee558e8dd5a"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_nervous_intern_2.json"
+hash = "30ad696bdeb69bd048afb2d497286185306b084ba805e09b809386b8ac2441a3"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_nervous_intern_3.json"
+hash = "108fb7e633034399414bf332dfa3c3319e06865425d934770385d5ee4e0c5741"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_nervous_intern_4.json"
+hash = "0cb8476bdeac0f0a344376b16e13305a268c00a43940bf252a9566d7f4b23265"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_ninja_trainee.json"
@@ -3852,6 +3884,14 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/tow
 hash = "7d1592543a530086697ce753b0d37f18428eec081315c071a6f67e3e15a7e0f2"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_pallet_dockhand_2.json"
+hash = "965ca3e471ec577666046d387046c9af5fcbbba4ad2c693d59171701da9056d6"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_pallet_dockhand_3.json"
+hash = "b5a3be13bb0f3179d91d3104a41ecc8cdece4a11ee17d89188ce3c23fd5684e2"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_perfume_clerk.json"
 hash = "bdadf57410a627af3f06b89c2c083da7a693cdc28b6af10feecfc6bdaeaf0862"
 
@@ -3874,6 +3914,14 @@ hash = "6684add5e6703656027a84d45fc78decf5bfb0c169b3ef78a4815ea3e6a4ff47"
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_ss_anne_sailor.json"
 hash = "ad3962b710ff61b11b48d9c6a6df49267192a2536e9012750da05cd715819161"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_ss_anne_sailor_2.json"
+hash = "809bdc255e9dd2c480fac34d632898b52bf9d13b009bbade2af51e474c18af8f"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_ss_anne_sailor_3.json"
+hash = "077623b7cb3459601d2a682dbe7b7d02dae24216895d8590ddbf0d64aa4337ed"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_studio_security.json"
@@ -3900,6 +3948,14 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/asp
 hash = "38f4f2524124dd534921cceea58570c9be9a0dd96a454c3ed5c8f4d4ff4b717f"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/aspiring_trainer_2.png"
+hash = "aaa91e2b1a608f3a12794c00356a223b2deb1c0da7ada4a52f47f0e9b583e537"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/aspiring_trainer_3.png"
+hash = "fc0853975d9cc554615720fba2fc7e5fa50d74c2161d11b86414059aa8a1555b"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/bike_clerk.png"
 hash = "9173a29578abca495fb840493a9481751ac63b58e469d62a74f6f67ced58c375"
 
@@ -3914,6 +3970,10 @@ hash = "1850a5a6894e65358590e2eaf3f58c8599f61dd8440bbaa5372ccf1bf4f660c5"
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/department_shopper.png"
 hash = "e7235d299170791c37462ab278b1ec452917924374781cde1e6607a9f44ec2a3"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/department_shopper_2.png"
+hash = "b982f04d95733dd51dcd22ebc877cf8bda4adbf5c75aec8dfc1e7197c7b2ecea"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/dockside_electrician.png"
@@ -3936,8 +3996,28 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/mis
 hash = "7cac303e708eafdf444c60148c1c03cafc890108b64c1380eb421545e54ec6dd"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/misty_superfan_2.png"
+hash = "1d4d5e5c64a771d1e92db8d92d6b128e4794e57cdd0e1fba4addd354740e60e8"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/misty_superfan_3.png"
+hash = "23d4b9078367e9607b8b69183bc3f481d02f820c06b03bf72d953ea28743559e"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nervous_intern.png"
 hash = "940b332f4c66c8ba478c6147183bbac1affc03f124a2daab20095bbd2afdc420"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nervous_intern_2.png"
+hash = "f85a4b855873c1df6b7a3c9edda932cd0cbcb509c0067a713c388b3cff692ef1"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nervous_intern_3.png"
+hash = "e138b883d1386d38c0e77c1725394380241d1ea9d7a418cd1a5e920281cb79d9"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nervous_intern_4.png"
+hash = "e9419c8080278d76f10884590e3a0d0dac78b96da9d2abcbbc482da1fcfeea78"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/ninja_trainee.png"
@@ -3964,6 +4044,14 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/pal
 hash = "cabf4e9da15e96b27a7c510117648e9c62d4a61c49261d4c7e2dba87db8b2702"
 
 [[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/pallet_dockhand_2.png"
+hash = "aa6a9faad2f96f0d60f2d73ac34681de7fcafee15d124cce521b6c96d6e63a5a"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/pallet_dockhand_3.png"
+hash = "5ffd3c38930befea05fa7a715e725fd896eff4c7dae63206cd460618c00678ba"
+
+[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/perfume_clerk.png"
 hash = "68198bcc7af26af8232ba770dcd25d621fd7633f2d09b3b71ee89c404f2225d3"
 
@@ -3986,6 +4074,14 @@ hash = "f85a4b855873c1df6b7a3c9edda932cd0cbcb509c0067a713c388b3cff692ef1"
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/ss_anne_sailor.png"
 hash = "2863ffc2f797c36aed65e2eeedfcb53adcd5f5a12bcc553da4bc0e093f2c36a0"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/ss_anne_sailor_2.png"
+hash = "463c237f3c8f99327d7bde6d5b6d74e732efa584aea9d7a226df294b06b7b881"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/ss_anne_sailor_3.png"
+hash = "03266b90f8a92a63ac28d7af2e8b9fd82350529ca5e4ccc8de1b03840de9fcef"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/studio_security.png"

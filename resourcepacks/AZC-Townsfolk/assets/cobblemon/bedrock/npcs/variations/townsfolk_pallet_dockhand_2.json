@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_pallet_dockhand_2",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/pallet_dockhand_2.png",
+      "layers": []
+    }
+  ]
+}

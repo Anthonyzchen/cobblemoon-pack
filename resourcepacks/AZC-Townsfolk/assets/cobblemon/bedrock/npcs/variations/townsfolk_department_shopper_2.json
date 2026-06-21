@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_department_shopper_2",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/department_shopper_2.png",
+      "layers": []
+    }
+  ]
+}

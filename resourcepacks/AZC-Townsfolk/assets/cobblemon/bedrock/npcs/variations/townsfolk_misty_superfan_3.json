@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_misty_superfan_3",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/misty_superfan_3.png",
+      "layers": []
+    }
+  ]
+}

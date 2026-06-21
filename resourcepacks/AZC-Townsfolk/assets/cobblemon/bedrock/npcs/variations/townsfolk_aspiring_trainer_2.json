@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_aspiring_trainer_2",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/aspiring_trainer_2.png",
+      "layers": []
+    }
+  ]
+}

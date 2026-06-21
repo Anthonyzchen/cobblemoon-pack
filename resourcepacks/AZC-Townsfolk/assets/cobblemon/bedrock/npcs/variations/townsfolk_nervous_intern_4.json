@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_nervous_intern_4",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/nervous_intern_4.png",
+      "layers": []
+    }
+  ]
+}
