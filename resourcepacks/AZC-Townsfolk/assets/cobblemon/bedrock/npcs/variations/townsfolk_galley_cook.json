@@ -5,7 +5,7 @@
     {
       "aspects": [],
       "poser": "cobblemon:standard",
-      "model": "cobblemon:trainer.geo",
+      "model": "cobblemon:steve.geo",
       "texture": "cobblemon:textures/npcs/townsfolk/galley_cook.png",
       "layers": []
     }
