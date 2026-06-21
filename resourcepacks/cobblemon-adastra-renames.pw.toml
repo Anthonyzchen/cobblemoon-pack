@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/Cobblemon-Adastra-Renames.zip"
 hash-format = "sha256"
-hash = "d1046953148a737ba5e4f2de21683e009896864502ee5bb911a316ab96668c30"
+hash = "08a8292090bdd30680fc6b46edbf26798bc1082a7a091994dd7a7afe74449c56"
