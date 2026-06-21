@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobbleloot-jei-1.0.0.jar"
 hash-format = "sha256"
-hash = "b6da71759b22943554eae5b9b60be605e2dc953262450b1cb8d177d60ca5ca9f"
+hash = "160a602b9215db55215fcfcd628e19f2aecbd2d76badd48d51890a2f655b566a"
