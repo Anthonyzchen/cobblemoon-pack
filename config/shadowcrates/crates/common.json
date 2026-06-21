@@ -45,7 +45,7 @@
   "prizes": [
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% pidgey",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -65,7 +65,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% rattata",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -85,7 +85,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% geodude",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -105,7 +105,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% ponyta",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -125,7 +125,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% magikarp",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -145,7 +145,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% gastly",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -165,7 +165,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% mareep",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -332,7 +332,7 @@
     },
     {
       "type": "command",
-      "weight": 857.87,
+      "weight": 973.34,
       "command": "crate key give uncommon 1 %player%",
       "displayItem": {
         "material": "minecraft:tripwire_hook",
@@ -353,7 +353,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% caterpie",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -373,7 +373,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% weedle",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -393,7 +393,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% zubat",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -413,7 +413,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% oddish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -433,7 +433,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% poliwag",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -453,7 +453,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% machop",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -473,7 +473,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% tentacool",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -493,7 +493,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% slowpoke",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -513,7 +513,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% cubone",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -533,7 +533,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% rhyhorn",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -553,7 +553,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% horsea",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -573,7 +573,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% staryu",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -593,7 +593,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% nidoran-f",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -613,7 +613,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% nidoran-m",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -633,7 +633,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% sandshrew",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -653,7 +653,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% diglett",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -673,7 +673,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% psyduck",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -693,7 +693,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% seel",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -713,7 +713,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% shellder",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -733,7 +733,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% drowzee",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -753,7 +753,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% krabby",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -773,7 +773,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% voltorb",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -793,7 +793,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% hoppip",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -813,7 +813,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% wooper",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -833,7 +833,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% snubbull",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -853,7 +853,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% sunkern",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -873,7 +873,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% teddiursa",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -893,7 +893,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% lotad",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -913,7 +913,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% seedot",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -933,7 +933,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% taillow",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -953,7 +953,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% wingull",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -973,7 +973,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% whismur",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -993,7 +993,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% skitty",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1013,7 +1013,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% swablu",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1033,7 +1033,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% starly",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1053,7 +1053,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% bidoof",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1073,7 +1073,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% buneary",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1093,7 +1093,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% lillipup",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1113,7 +1113,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% pidove",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1133,7 +1133,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% wooloo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1153,7 +1153,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% rookidee",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -1173,7 +1173,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% yamper",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2075,7 +2075,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% azurill",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2117,7 +2117,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% igglybuff",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2159,7 +2159,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bronzor",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2201,7 +2201,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% gulpin",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2243,7 +2243,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% vanillite",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2285,7 +2285,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% munna",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2327,7 +2327,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% grubbin",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2369,7 +2369,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% nincada",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2411,7 +2411,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% sewaddle",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2453,7 +2453,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% flabebe",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2495,7 +2495,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% slugma",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2537,7 +2537,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% nacli",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2579,7 +2579,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% greavard",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2621,7 +2621,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% klink",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2663,7 +2663,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% solosis",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2705,7 +2705,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% blipbug",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2747,7 +2747,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% golett",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2789,7 +2789,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% ferroseed",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2831,7 +2831,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% cleffa",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2873,7 +2873,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% burmy",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2915,7 +2915,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% blitzle",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2957,7 +2957,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% cottonee",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -2999,7 +2999,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% shroomish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3041,7 +3041,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% duskull",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3083,7 +3083,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% numel",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3125,7 +3125,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% cherubi",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3167,7 +3167,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% cubchoo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3209,7 +3209,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% silicobra",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3251,7 +3251,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% sizzlipede",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3293,7 +3293,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% minccino",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3335,7 +3335,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% nymble",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3377,7 +3377,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% rolycoly",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3419,7 +3419,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% pawmi",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3461,7 +3461,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% snorunt",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3503,7 +3503,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% foongus",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3545,7 +3545,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% spheal",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3587,7 +3587,7 @@
     },
     {
       "type": "command",
-      "weight": 80.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% venipede",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3629,7 +3629,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% gothita",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3671,7 +3671,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% ralts",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3713,7 +3713,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% aron",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3755,7 +3755,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% chinchou",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3797,7 +3797,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% darumaka",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3839,7 +3839,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% espurr",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3881,7 +3881,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% frillish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3923,7 +3923,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% impidimp",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -3965,7 +3965,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% magby",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4007,7 +4007,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% misdreavus",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4049,7 +4049,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% murkrow",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4091,7 +4091,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% natu",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4133,7 +4133,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% phanpy",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4175,7 +4175,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% phantump",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4217,7 +4217,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% skorupi",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4259,7 +4259,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% snom",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4301,7 +4301,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% snover",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4343,7 +4343,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% stufful",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4385,7 +4385,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% stunky",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4427,7 +4427,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% timburr",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4469,7 +4469,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% aipom",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4511,7 +4511,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% arrokuda",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4553,7 +4553,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% baltoy",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4595,7 +4595,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% barboach",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4637,7 +4637,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% basculin",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4679,7 +4679,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bellsprout",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4721,7 +4721,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bergmite",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4763,7 +4763,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bouffalant",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4805,7 +4805,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bounsweet",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4847,7 +4847,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% bramblin",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4889,7 +4889,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% budew",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4931,7 +4931,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% bunnelby",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -4973,7 +4973,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% cacnea",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5015,7 +5015,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% capsakid",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5057,7 +5057,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% carvanha",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5099,7 +5099,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% chatot",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5141,7 +5141,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% chewtle",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5183,7 +5183,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% combee",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5225,7 +5225,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% corphish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5267,7 +5267,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% corsola",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5309,7 +5309,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% crabrawler",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5351,7 +5351,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% croagunk",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5393,7 +5393,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% cutiefly",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5435,7 +5435,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% delibird",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5477,7 +5477,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% doduo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5519,7 +5519,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% drifloon",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5561,7 +5561,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% drilbur",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5603,7 +5603,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% ducklett",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5645,7 +5645,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% dwebble",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5687,7 +5687,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% eiscue",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5729,7 +5729,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% ekans",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5771,7 +5771,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% electrike",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5813,7 +5813,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% fidough",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5855,7 +5855,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% finneon",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5897,7 +5897,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% fletchling",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5939,7 +5939,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% fomantis",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -5981,7 +5981,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% furfrou",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6023,7 +6023,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% gimmighoul",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6065,7 +6065,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% girafarig",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6107,7 +6107,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% glameow",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6149,7 +6149,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% goldeen",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6191,7 +6191,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% gossifleur",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6233,7 +6233,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% hawlucha",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6275,7 +6275,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% hippopotas",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6317,7 +6317,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% hoothoot",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6359,7 +6359,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% joltik",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6401,7 +6401,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% karrablast",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6443,7 +6443,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% komala",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6485,7 +6485,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% kricketot",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6527,7 +6527,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% lechonk",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6569,7 +6569,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% ledyba",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6611,7 +6611,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% litleo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6653,7 +6653,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% luvdisc",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6695,7 +6695,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% makuhita",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6737,7 +6737,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% mankey",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6779,7 +6779,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% maractus",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6821,7 +6821,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% maschiff",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6863,7 +6863,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% meditite",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6905,7 +6905,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% meowth",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6947,7 +6947,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% miltank",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -6989,7 +6989,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% morelull",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7031,7 +7031,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% mudbray",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7073,7 +7073,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% paras",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7115,7 +7115,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% patrat",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7157,7 +7157,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% petilil",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7199,7 +7199,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% pikipek",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7241,7 +7241,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% pineco",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7283,7 +7283,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% poochyena",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7325,7 +7325,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% purrloin",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7367,7 +7367,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% pyukumuku",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7409,7 +7409,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% qwilfish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7451,7 +7451,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% rellor",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7493,7 +7493,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% remoraid",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7535,7 +7535,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% sandygast",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7577,7 +7577,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% scatterbug",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7619,7 +7619,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% scraggy",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7661,7 +7661,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% sentret",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7703,7 +7703,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% shellos",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7745,7 +7745,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% shelmet",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7787,7 +7787,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% shroodle",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7829,7 +7829,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% shuppet",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7871,7 +7871,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% skiddo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7913,7 +7913,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% skwovet",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7955,7 +7955,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 40.0,
       "command": "givepokemonother %player% slakoth",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -7997,7 +7997,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% spearow",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8039,7 +8039,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% spinarak",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8081,7 +8081,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% spoink",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8123,7 +8123,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% spritzee",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8165,7 +8165,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% squawkabilly",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8207,7 +8207,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% stantler",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8249,7 +8249,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% stonjourner",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8291,7 +8291,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% stunfisk",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8333,7 +8333,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% swirlix",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8375,7 +8375,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% tadbulb",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8417,7 +8417,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% tandemaus",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8459,7 +8459,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 58.0,
       "command": "givepokemonother %player% tangela",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8501,7 +8501,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% tarountula",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8543,7 +8543,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% tauros",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8585,7 +8585,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% toedscool",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8627,7 +8627,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% trubbish",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8669,7 +8669,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% tynamo",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8711,7 +8711,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% venonat",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8753,7 +8753,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% wiglett",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8795,7 +8795,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 80.0,
       "command": "givepokemonother %player% wishiwashi",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8837,7 +8837,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% woobat",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8879,7 +8879,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 64.0,
       "command": "givepokemonother %player% yamask",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8921,7 +8921,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% yungoos",
       "displayItem": {
         "material": "cobblemon:poke_ball",
@@ -8963,7 +8963,7 @@
     },
     {
       "type": "command",
-      "weight": 60.0,
+      "weight": 72.0,
       "command": "givepokemonother %player% zigzagoon",
       "displayItem": {
         "material": "cobblemon:poke_ball",

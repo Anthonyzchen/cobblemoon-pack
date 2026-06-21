@@ -45,7 +45,7 @@
   "prizes": [
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% charmander",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -65,7 +65,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% squirtle",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -85,7 +85,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% bulbasaur",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -105,7 +105,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% cyndaquil",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -125,7 +125,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% totodile",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -145,7 +145,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% chikorita",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -165,7 +165,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% mudkip",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -185,7 +185,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% torchic",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -205,7 +205,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% treecko",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -225,7 +225,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% froakie",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -245,7 +245,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% rowlet",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -265,7 +265,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% litten",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -285,7 +285,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% piplup",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -305,7 +305,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% fuecoco",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -325,7 +325,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% sprigatito",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -345,7 +345,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% quaxly",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -365,7 +365,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% beldum",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -385,7 +385,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% deino",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -405,7 +405,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% goomy",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -824,7 +824,7 @@
     },
     {
       "type": "command",
-      "weight": 218.24,
+      "weight": 156.95,
       "command": "crate key give epic 1 %player%",
       "displayItem": {
         "material": "minecraft:tripwire_hook",
@@ -845,7 +845,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% turtwig",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -865,7 +865,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% chimchar",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -885,7 +885,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% tepig",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -905,7 +905,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% oshawott",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -925,7 +925,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% snivy",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -945,7 +945,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% chespin",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -965,7 +965,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% fennekin",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -985,7 +985,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% popplio",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1005,7 +1005,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% grookey",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1025,7 +1025,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% scorbunny",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1045,7 +1045,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% sobble",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1065,7 +1065,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% porygon",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1085,7 +1085,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% lapras",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1105,7 +1105,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% aerodactyl",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1125,7 +1125,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% kabuto",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1145,7 +1145,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% omanyte",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1165,7 +1165,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% tyrunt",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1185,7 +1185,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% amaura",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1205,7 +1205,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% archen",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1225,7 +1225,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% tirtouga",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1245,7 +1245,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% relicanth",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1265,7 +1265,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% spiritomb",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1285,7 +1285,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% rotom",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1305,7 +1305,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% mimikyu",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1325,7 +1325,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% turtonator",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1345,7 +1345,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% drampa",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1365,7 +1365,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% dhelmise",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1385,7 +1385,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% comfey",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1405,7 +1405,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% bruxish",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1425,7 +1425,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% passimian",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -1445,7 +1445,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% oranguru",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2116,7 +2116,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% scyther",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2156,7 +2156,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% vulpix",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2196,7 +2196,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% pichu",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2216,7 +2216,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% mimejr",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2236,7 +2236,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% tyrogue",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2256,7 +2256,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% munchlax",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2276,7 +2276,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% toxel",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2296,7 +2296,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% bombirdier",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2338,7 +2338,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% dedenne",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2380,7 +2380,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% orthworm",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2422,7 +2422,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% torkoal",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2464,7 +2464,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% volbeat",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2506,7 +2506,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% audino",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2548,7 +2548,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% durant",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2590,7 +2590,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% heatmor",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2632,7 +2632,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% zangoose",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2674,7 +2674,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% skarmory",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2716,7 +2716,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% solrock",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2758,7 +2758,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% emolga",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2800,7 +2800,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% togedemaru",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2842,7 +2842,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% seviper",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2884,7 +2884,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% sigilyph",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2926,7 +2926,7 @@
     },
     {
       "type": "command",
-      "weight": 40.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% illumise",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -2968,7 +2968,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% indeedee",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3010,7 +3010,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% lunatone",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3052,7 +3052,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% slowbro level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3094,7 +3094,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% pidgeot level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3136,7 +3136,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% heracross level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3178,7 +3178,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% pinsir level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3220,7 +3220,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% absol level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3262,7 +3262,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% magnezone level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3304,7 +3304,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% sylveon level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3346,7 +3346,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% espeon level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3388,7 +3388,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% umbreon level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3430,7 +3430,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% dusknoir level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3472,7 +3472,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% annihilape level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3514,7 +3514,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% hatterene level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3556,7 +3556,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% grimmsnarl level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3598,7 +3598,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% rhyperior level=30",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3640,7 +3640,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 50.0,
       "command": "givepokemonother %player% mawile level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3682,7 +3682,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 50.0,
       "command": "givepokemonother %player% beedrill level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3724,7 +3724,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% altaria level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3787,7 +3787,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% glalie level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3829,7 +3829,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% lopunny level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3871,7 +3871,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% sharpedo level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3913,7 +3913,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% camerupt level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -3955,7 +3955,7 @@
     },
     {
       "type": "command",
-      "weight": 10.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% manectric level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4053,7 +4053,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% dratini",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4095,7 +4095,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% larvitar",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4137,7 +4137,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% bagon",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4179,7 +4179,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% gible",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4221,7 +4221,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 10.0,
       "command": "givepokemonother %player% dreepy",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4263,7 +4263,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% axew",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4305,7 +4305,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% feebas",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4347,7 +4347,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% honedge",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4389,7 +4389,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% litwick",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4431,7 +4431,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% pawniard",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4473,7 +4473,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% riolu",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4515,7 +4515,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% sneasel",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4557,7 +4557,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% swinub",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4599,7 +4599,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% togepi",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4641,7 +4641,7 @@
     },
     {
       "type": "command",
-      "weight": 25.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% zorua",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4683,7 +4683,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% gyarados level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4725,7 +4725,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% abra",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4767,7 +4767,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% arcanine level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4809,7 +4809,7 @@
     },
     {
       "type": "command",
-      "weight": 15.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% luxray level=25",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4851,7 +4851,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% shieldon",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4893,7 +4893,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% charcadet",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4935,7 +4935,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% yanma",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -4977,7 +4977,7 @@
     },
     {
       "type": "command",
-      "weight": 50.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% nosepass",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5019,7 +5019,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% anorith",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5061,7 +5061,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% cranidos",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5103,7 +5103,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% lileep",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5145,7 +5145,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% clamperl",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5187,7 +5187,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% druddigon",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5229,7 +5229,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% cyclizar",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5271,7 +5271,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 20.0,
       "command": "givepokemonother %player% dondozo",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5313,7 +5313,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 28.0,
       "command": "givepokemonother %player% kangaskhan",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5355,7 +5355,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 50.0,
       "command": "givepokemonother %player% smeargle",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5397,7 +5397,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 38.0,
       "command": "givepokemonother %player% tatsugiri",
       "displayItem": {
         "material": "cobblemon:azure_ball",
@@ -5439,7 +5439,7 @@
     },
     {
       "type": "command",
-      "weight": 30.0,
+      "weight": 50.0,
       "command": "givepokemonother %player% wynaut",
       "displayItem": {
         "material": "cobblemon:azure_ball",
