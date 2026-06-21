@@ -2730,7 +2730,7 @@ hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
-hash = "62ac935777b47594a087a9ba023359bbe5666abdd2adf7f6140c017e99f13261"
+hash = "9d7a44c88feb221e205d73d0605fc0ab41f1e5b6f90a2d2d28c6587a5a883c0d"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
@@ -2830,7 +2830,7 @@ hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "75fa92f768ca9920ee8f2f7d829792b405bf72e163457b5e45a07ff1d53d2624"
+hash = "9df6cdfdf9c3ab729bb3f8a0c00fdbf80c2d27c252b1e096c7a0c3b192777a58"
 
 [[files]]
 file = "config/treechop-client.toml"

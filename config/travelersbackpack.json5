@@ -252,7 +252,7 @@
 		// Player gets slowness effect, if carries too many backpacks in inventory
 		"tooManyBackpacksSlowness": true,
 		// Maximum number of backpacks, which can be carried in inventory, without slowness effect
-		"maxNumberOfBackpacks": 1,
+		"maxNumberOfBackpacks": 0,
 		"slownessPerExcessedBackpack": 2
 	},
 	"client": {

@@ -674,6 +674,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% landorus level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Landorus",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Landorus &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Landorus (Lv50)&a!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% landorus shiny level=50",
       "displayItem": {
@@ -695,6 +716,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% tornadus level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Tornadus",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Tornadus &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Tornadus (Lv50)&a!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% tornadus shiny level=50",
       "displayItem": {
@@ -713,6 +755,27 @@
       "messageCustom": false,
       "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY TORNADUS! &6&l*",
       "broadcastPlayer": "&6&l* &eShiny Tornadus! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% thundurus level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Thundurus",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Thundurus &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Thundurus (Lv50)&a!"
     },
     {
       "type": "command",
@@ -1199,6 +1262,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% raikou level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Raikou",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Raikou &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Raikou (Lv50)&a!"
+    },
+    {
+      "type": "command",
       "weight": 0.2,
       "command": "givepokemonother %player% raikou shiny level=50",
       "displayItem": {
@@ -1220,6 +1304,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% entei level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Entei",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Entei &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Entei (Lv50)&a!"
+    },
+    {
+      "type": "command",
       "weight": 0.2,
       "command": "givepokemonother %player% entei shiny level=50",
       "displayItem": {
@@ -1238,6 +1343,27 @@
       "messageCustom": false,
       "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY ENTEI! &6&l*",
       "broadcastPlayer": "&6&l* &eShiny Entei! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% suicune level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Suicune",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&e%player% &areceived &6Suicune &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Suicune (Lv50)&a!"
     },
     {
       "type": "command",
@@ -1363,6 +1489,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Arceus&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% azelf level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Azelf",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Azelf (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Azelf &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -1505,6 +1652,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Chi-Yu&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% cobalion level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Cobalion",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Cobalion (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Cobalion &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -1731,6 +1899,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% enamorus level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Enamorus",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Enamorus (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Enamorus &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% enamorus shiny level=50",
       "displayItem": {
@@ -1950,6 +2139,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Jirachi&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% keldeo level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Keldeo",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Keldeo (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Keldeo &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -2217,6 +2427,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% mesprit level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Mesprit",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Mesprit (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Mesprit &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.2,
       "command": "givepokemonother %player% mesprit shiny level=50",
       "displayItem": {
@@ -2397,6 +2628,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Necrozma&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% ogerpon level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Ogerpon",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Ogerpon (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Ogerpon &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -2602,6 +2854,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% regieleki level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Regieleki",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Regieleki (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Regieleki &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% regieleki shiny level=50",
       "displayItem": {
@@ -2680,6 +2953,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Regirock&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% registeel level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Registeel",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Registeel (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Registeel &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -2804,6 +3098,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% tapukoko level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Tapu Koko",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Tapu Koko (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Koko &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% tapukoko shiny level=50",
       "displayItem": {
@@ -2841,6 +3156,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Terrakion&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% typenull level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Type: Null",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Type: Null (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Type: Null &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -2902,6 +3238,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Urshifu&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% uxie level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Uxie",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Uxie (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Uxie &afrom a Legendary Crate!"
     },
     {
       "type": "command",
@@ -3169,6 +3526,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% tapubulu level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Tapu Bulu",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Tapu Bulu (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Bulu &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% tapubulu shiny level=50",
       "displayItem": {
@@ -3189,6 +3567,27 @@
     },
     {
       "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% tapulele level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Tapu Lele",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Tapu Lele (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Lele &afrom a Legendary Crate!"
+    },
+    {
+      "type": "command",
       "weight": 0.4,
       "command": "givepokemonother %player% tapulele shiny level=50",
       "displayItem": {
@@ -3206,6 +3605,27 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a &6&lShiny Tapu Lele&a!"
+    },
+    {
+      "type": "command",
+      "weight": 12.5,
+      "command": "givepokemonother %player% tapufini level=50",
+      "displayItem": {
+        "material": "cobblemon:slate_ball",
+        "amount": 1,
+        "displayname": "Tapu Fini",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received &6Tapu Fini (Lv50)&a!",
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Fini &afrom a Legendary Crate!"
     },
     {
       "type": "command",
