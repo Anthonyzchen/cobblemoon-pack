@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/no-mon-in-boats-1.0.0.jar"
 hash-format = "sha256"
-hash = "bb77f39ffae5c8fad76314daea8d51ce0f593d1a8131bd56646bb886c5634e07"
+hash = "ddcceb0458fe5e9964f5112d7600676b1e0937badab79a37a8de578d36b6052a"
