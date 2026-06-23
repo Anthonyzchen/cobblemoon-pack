@@ -1,8 +1,0 @@
-name = "entityculling-fabric-1.10.3-mc1.21.1"
-filename = "entityculling-fabric-1.10.3-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/entityculling-fabric-1.10.3-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "b2f5a46590e87fb115a43fcd8a5ce84b7195be1436abb05c51aac2d35719c40c"

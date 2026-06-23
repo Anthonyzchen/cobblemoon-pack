@@ -1,0 +1,8 @@
+name = "wakes-0.4.1+1.21.1"
+filename = "wakes-0.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/wakes-0.4.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "2ba269063a5655eb8b32909c0ea6d486f61afcae202aa236fe3a6fefc57d43f9"

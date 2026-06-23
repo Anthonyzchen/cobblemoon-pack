@@ -3274,8 +3274,8 @@ hash = "c3dd576d581fffd318ceec52dacf20f1daec1ad765b00e449db7368effa580f1"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-fabric-1-10-3-mc1-21-1.pw.toml"
-hash = "f9eedc897f211c508cb41ad923095b0db9821298cbbee2f73a1de045da1053b1"
+file = "mods/entityculling-fabric-1-10-5-mc1-21-1.pw.toml"
+hash = "623d0c82e253254a9d148c83bc1f3ddf37900c9398d1836acfdbd1bcc43b2854"
 metafile = true
 
 [[files]]
@@ -3404,8 +3404,8 @@ hash = "44c1b3456a6a615517d6f3177418fa864558605faa389bb847e8688c10d8aafb"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-4-8-9-1-21-1.pw.toml"
-hash = "73c4cd534b0d8c3aa584d2d831e3c3d084a84dfa2d2cabe6c6e10481f313e7f4"
+file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
+hash = "1b0399a460a3cf40a25c43049e0203b094fb922a453e2f489213e65416033a5d"
 metafile = true
 
 [[files]]
@@ -3719,8 +3719,8 @@ hash = "167f6f4f325d347e01a54d870af45dda5055ea72240c44a98048154e786fc0c9"
 metafile = true
 
 [[files]]
-file = "mods/wakes-0-2-2-1-21.pw.toml"
-hash = "8574e001695b4bc7a961ad9f743693aa2c5df860b088100a11b37a706d589f76"
+file = "mods/wakes-0-4-1-1-21-1.pw.toml"
+hash = "89c76d0e1de839b3c08f2ee297eab11d9681d200d1aead75d8390a56bd19837a"
 metafile = true
 
 [[files]]
@@ -3744,8 +3744,8 @@ hash = "0ae0cbcdf325ad43f6ff62b286511a77e62bdc6e355c3ce49b5c51ed158f0e91"
 metafile = true
 
 [[files]]
-file = "mods/xaeroworldmap-fabric-1-21-1-1-41-0.pw.toml"
-hash = "4e42da76280870157c40ee858743bf29c6cf1b5f7fedfec9dbc585fc6f56d368"
+file = "mods/xaeroworldmap-fabric-1-21-1-1-41-2.pw.toml"
+hash = "954e4f2b379d5d4a983beb5a58453cf223e5ae330e617172241ab51ef47e2736"
 metafile = true
 
 [[files]]
@@ -3805,7 +3805,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4062f8639d81a2e491c175ab78bd07ddc570b07ed4f059a41bd6026e1b3a0b7d"
+hash = "c721ecb9f1f493929cdd43365ce1e26a3dcc9e5efdc17867d2257ee3afc6c882"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_alpine_herder.json"

@@ -1,0 +1,8 @@
+name = "xaeroworldmap-fabric-1.21.1-1.41.2"
+filename = "xaeroworldmap-fabric-1.21.1-1.41.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/xaeroworldmap-fabric-1.21.1-1.41.2.jar"
+hash-format = "sha256"
+hash = "a6e5ed255c4d544952e797aee5fef59bd3a582e5d897622fe64a9072fc6419a6"
