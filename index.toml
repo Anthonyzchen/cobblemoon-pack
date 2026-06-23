@@ -2734,7 +2734,7 @@ hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
-hash = "79b09ba045b4622b57f68bc6961e682137129921ebf460a97e0100a24a8ef414"
+hash = "53d35be26149a8112b7dc246d4ff00ce54193341684792f73339ed337adb7a1a"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"

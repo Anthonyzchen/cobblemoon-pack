@@ -3581,6 +3581,90 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou received a Lugia&a!"
+    },
+    {
+      "type": "command",
+      "weight": 0.2,
+      "command": "givepokemonother %player% celesteela shiny level=50",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Celesteela",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY CELESTEELA! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Celesteela! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 0.2,
+      "command": "givepokemonother %player% ironhands shiny level=50",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Iron Hands",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY IRON HANDS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Iron Hands! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 0.2,
+      "command": "givepokemonother %player% ironboulder shiny level=50",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Iron Boulder",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY IRON BOULDER! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Iron Boulder! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 0.2,
+      "command": "givepokemonother %player% ironjugulis shiny level=50",
+      "displayItem": {
+        "material": "cobblemon:citrine_ball",
+        "amount": 1,
+        "displayname": "&6&lShiny Iron Jugulis",
+        "lore": [
+          "&eExtremely rare shiny!"
+        ],
+        "enchantEffect": true,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": true,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY IRON JUGULIS! &6&l*",
+      "broadcastPlayer": "&6&l* &eShiny Iron Jugulis! &6&l*"
     }
   ]
 }
