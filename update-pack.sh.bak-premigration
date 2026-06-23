@@ -3,7 +3,7 @@
 # Only changed/new jars are re-uploaded; config is mirrored; then git push.
 set -eo pipefail
 export PATH="$PATH:$(go env GOPATH 2>/dev/null)/bin"
-INST="/Users/anthonyzchen/cobblemoon-master"
+INST="/Users/anthonyzchen/Documents/curseforge/minecraft/Instances/Cobblemoon"
 PACK="$HOME/cobblemoon-pack"
 BUCKET="gs://cobblemon-adastra-client-dl/pack"
 BASEURL="https://storage.googleapis.com/cobblemon-adastra-client-dl/pack"

@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","file/rct-translations","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","cobbreeding:coloredeggs","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/modpack_tooltips","minecraft:supporteatinganimation","file/cobblemon_pokemon_icons.zip","file/ATM-x-MSD-3.4.0.zip","file/AllTheMons-R3.3.zip","file/Cobblemon-Adastra-Renames.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/RCT-Trainers-Plus.zip","file/CobbleSounds-Complete-v1.4.1.zip","file/AZC-Townsfolk"]
+resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","file/rct-translations","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","cobbreeding:coloredeggs","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","file/modpack_tooltips","minecraft:supporteatinganimation","file/cobblemon_pokemon_icons.zip","file/ATM-x-MSD-3.4.0.zip","file/AllTheMons-R3.3.zip","file/AZC-Cobbleverse-Visuals.zip","file/Cobblemon-Adastra-Renames.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/RCT-Trainers-Plus.zip","file/CobbleSounds-Complete-v1.4.1.zip","file/AZC-Townsfolk"]
 incompatibleResourcePacks:["awesomedungeonocean","balm","cobbleloots","comforts","distanthorizons","item_descriptions","jei","lootintegrations","modernfix","mr_extra_moveanimscobblemon","sereneseasons","spectrelib","veinmining","vote2sleep","waystones","xaerolib","xaerominimap","xaeroworldmap","xmxw","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us

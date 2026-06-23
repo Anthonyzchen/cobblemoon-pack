@@ -1,0 +1,8 @@
+name = "globalpacks-fabric-1.21.1-21.0.6"
+filename = "globalpacks-fabric-1.21.1-21.0.6.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/globalpacks-fabric-1.21.1-21.0.6.jar"
+hash-format = "sha256"
+hash = "391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc"

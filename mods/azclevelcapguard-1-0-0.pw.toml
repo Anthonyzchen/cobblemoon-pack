@@ -1,0 +1,8 @@
+name = "azclevelcapguard-1.0.0"
+filename = "azclevelcapguard-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azclevelcapguard-1.0.0.jar"
+hash-format = "sha256"
+hash = "e889cf4fa4a42494c00185dec12bcd7b060ae944f5a09f84820df988c376b751"

@@ -358,7 +358,7 @@ hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "0ed17dffff5c59e4bfc5d40af105cdd1cc8fda2dec83fcaf62bfc5f9a376fb37"
+hash = "2eefda6d66febdcfe48067b26fb77f4f9165533df17b2328e70507bc248b595f"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -459,6 +459,10 @@ hash = "07e4f56883017a0f47618d22923543cb1e00f272bce1c7aa27d80f0348f4f122"
 [[files]]
 file = "config/ftbteams-server.snbt"
 hash = "0cb54f6b7568ca7fff6b6a1320eb4ef455941c83a932f5dd8c6ad1c5741e0458"
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "98f3f91278ec507518785adb8681c85e0e7581e3ad7a74c23f6b69a181a8a5b4"
 
 [[files]]
 file = "config/hold-my-items.json"
@@ -3001,6 +3005,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "datapacks/azc-riding-client.zip"
+hash = "50a0af4486293e782a40964bc1c7c6bbd689e0ca4731d422681c28d6f8e4f4a7"
+
+[[files]]
 file = "mods/accessories-fabric-1-1-0-beta-53-1-21-1.pw.toml"
 hash = "21f17587ccd23f011a3c3700889bbc959f78ba97a0eaedd42cc28db099f21f97"
 metafile = true
@@ -3043,6 +3051,11 @@ metafile = true
 [[files]]
 file = "mods/azcgymlockout-1-1-0.pw.toml"
 hash = "13bf8f951a2b264b06f5b540bfcff82afd0bcc1a4dc3427670ff164b54c7fef5"
+metafile = true
+
+[[files]]
+file = "mods/azclevelcapguard-1-0-0.pw.toml"
+hash = "937e88177baf6fd3a07679ca99d43aab724b7efe6d52bae8f0ae781b2e3d7992"
 metafile = true
 
 [[files]]
@@ -3333,6 +3346,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore-fabric-1-21-1-2-1-0-2.pw.toml"
 hash = "40f355a929e70ff92019b091c4a707c013212881628d39597e90b877ed1830fd"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks-fabric-1-21-1-21-0-6.pw.toml"
+hash = "2212402e05015d78575d0c7d4dbf3e14e049398e75867bde2c6e9b75bda310d9"
 metafile = true
 
 [[files]]
@@ -3787,7 +3805,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b1afa2a7886923a4f775b8a5bf02d2319e8626d47f907acb7b72942435c2e93f"
+hash = "f96b9269055d0cb3cf92a525fba5690ff35342426f3e3ea785ac132cff12a6fc"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_apothecary.json"
@@ -4196,3 +4214,7 @@ metafile = true
 file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
 hash = "3399c627c430fa8bc690523b68d6983ba54174344f20ede93cd307ff49f05388"
 metafile = true
+
+[[files]]
+file = "update-pack.sh.bak-premigration"
+hash = "e4436bd6fcb96175d1d52a835647ae9f13bdf5a56ffc818a1f96443ce20390ad"
