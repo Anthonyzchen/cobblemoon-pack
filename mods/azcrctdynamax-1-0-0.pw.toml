@@ -1,0 +1,8 @@
+name = "azcrctdynamax-1.0.0"
+filename = "azcrctdynamax-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcrctdynamax-1.0.0.jar"
+hash-format = "sha256"
+hash = "8b218735562cd2049094e962446de8aff6f1b89fa4d96a120cabc2e2e3a79995"

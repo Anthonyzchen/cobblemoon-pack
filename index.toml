@@ -3041,6 +3041,16 @@ hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
 metafile = true
 
 [[files]]
+file = "mods/azcgymlockout-1-1-0.pw.toml"
+hash = "13bf8f951a2b264b06f5b540bfcff82afd0bcc1a4dc3427670ff164b54c7fef5"
+metafile = true
+
+[[files]]
+file = "mods/azcrctdynamax-1-0-0.pw.toml"
+hash = "07e94f319a3aa97df8b14b9e70cdde30bc1bdfea0611ae343a9c7298e9c3933a"
+metafile = true
+
+[[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
 hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
 metafile = true
@@ -3452,7 +3462,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-showdown-fabric-1-8-4-1-7-3-1-21-1.pw.toml"
-hash = "9e20792872a0cab27f492cfa47960d6536809436f77ea9c80f8520332fcc8591"
+hash = "2f420c3537b26fb40f95bb328686979facb662b7a0a7dba22601e04bbaba293f"
 metafile = true
 
 [[files]]

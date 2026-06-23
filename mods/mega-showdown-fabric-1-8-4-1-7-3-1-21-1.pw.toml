@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/mega_showdown-fabric-1.8.4%2B1.7.3%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "0cf4568128805816a8d6f3cbab08374b2e0261784c3d6e8c091c602f79bebf51"
+hash = "f28a1c6a4747f459219e70ff38d9c0a865f7e577c1d182e21087fb7703ebf328"
