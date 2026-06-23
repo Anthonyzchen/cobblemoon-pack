@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_mess_sergeant",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/mess_sergeant.png",
+      "layers": []
+    }
+  ]
+}

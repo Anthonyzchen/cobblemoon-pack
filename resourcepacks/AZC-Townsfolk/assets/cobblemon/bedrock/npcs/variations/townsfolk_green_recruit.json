@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_green_recruit",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/green_recruit.png",
+      "layers": []
+    }
+  ]
+}

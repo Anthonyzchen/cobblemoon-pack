@@ -1,12 +1,12 @@
 {
-  "name": "cobblemon:townsfolk_galley_cook",
+  "name": "cobblemon:townsfolk_heiress",
   "order": 0,
   "variations": [
     {
       "aspects": [],
       "poser": "cobblemon:standard",
       "model": "cobblemon:steve.geo",
-      "texture": "cobblemon:textures/npcs/townsfolk/galley_cook.png",
+      "texture": "cobblemon:textures/npcs/townsfolk/heiress.png",
       "layers": []
     }
   ]

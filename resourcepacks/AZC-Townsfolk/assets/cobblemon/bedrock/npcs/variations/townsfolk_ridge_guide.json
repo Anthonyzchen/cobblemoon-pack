@@ -1,12 +1,12 @@
 {
-  "name": "cobblemon:townsfolk_ss_anne_sailor_3",
+  "name": "cobblemon:townsfolk_ridge_guide",
   "order": 0,
   "variations": [
     {
       "aspects": [],
       "poser": "cobblemon:standard",
       "model": "cobblemon:steve.geo",
-      "texture": "cobblemon:textures/npcs/townsfolk/ss_anne_sailor_3.png",
+      "texture": "cobblemon:textures/npcs/townsfolk/ridge_guide.png",
       "layers": []
     }
   ]

@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_poison_researcher",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/poison_researcher.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_net_ball_vendor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/net_ball_vendor.png",
+      "layers": []
+    }
+  ]
+}

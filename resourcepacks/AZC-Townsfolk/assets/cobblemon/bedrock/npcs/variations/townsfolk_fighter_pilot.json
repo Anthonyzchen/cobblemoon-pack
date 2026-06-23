@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_fighter_pilot",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/fighter_pilot.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
-  "name": "cobblemon:townsfolk_ss_anne_sailor",
+  "name": "cobblemon:townsfolk_water_breeder",
   "order": 0,
   "variations": [
     {
       "aspects": [],
       "poser": "cobblemon:standard",
       "model": "cobblemon:steve.geo",
-      "texture": "cobblemon:textures/npcs/townsfolk/ss_anne_sailor.png",
+      "texture": "cobblemon:textures/npcs/townsfolk/water_breeder.png",
       "layers": []
     }
   ]

@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_slot_jockey",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/slot_jockey.png",
+      "layers": []
+    }
+  ]
+}

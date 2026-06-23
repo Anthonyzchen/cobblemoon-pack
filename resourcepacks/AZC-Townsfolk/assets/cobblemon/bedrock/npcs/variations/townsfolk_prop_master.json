@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_prop_master",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/prop_master.png",
+      "layers": []
+    }
+  ]
+}

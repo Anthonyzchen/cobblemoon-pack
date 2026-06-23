@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:townsfolk_masked_local",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:steve.geo",
+      "texture": "cobblemon:textures/npcs/townsfolk/masked_local.png",
+      "layers": []
+    }
+  ]
+}
