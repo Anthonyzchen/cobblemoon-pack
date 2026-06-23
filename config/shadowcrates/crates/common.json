@@ -9018,6 +9018,66 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou found a &dCherish Ball&a!"
+    },
+    {
+      "type": "command",
+      "weight": 80.0,
+      "command": "givepokemonother %player% wurmple",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "displayname": "Wurmple",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &eWurmple&a!"
+    },
+    {
+      "type": "command",
+      "weight": 72.0,
+      "command": "givepokemonother %player% tympole",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "displayname": "Tympole",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &eTympole&a!"
+    },
+    {
+      "type": "command",
+      "weight": 80.0,
+      "command": "givepokemonother %player% farfetchd",
+      "displayItem": {
+        "material": "cobblemon:poke_ball",
+        "amount": 1,
+        "displayname": "Farfetch'd",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &eFarfetch'd&a!"
     }
   ]
 }

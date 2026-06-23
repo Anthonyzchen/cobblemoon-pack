@@ -5478,6 +5478,26 @@
       "messageCustom": false,
       "broadcastGlobal": "&6&l* &e%player% &agot a &6&lSHINY WYNAUT! &6&l*",
       "broadcastPlayer": "&6&l* &eShiny Wynaut! &6&l*"
+    },
+    {
+      "type": "command",
+      "weight": 13.3,
+      "command": "givepokemonother %player% minior",
+      "displayItem": {
+        "material": "cobblemon:azure_ball",
+        "amount": 1,
+        "displayname": "Minior",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &9Minior&a!"
     }
   ]
 }

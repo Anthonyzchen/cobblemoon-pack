@@ -3474,6 +3474,46 @@
       "messagePlayer": true,
       "messageCustom": false,
       "broadcastPlayer": "&aYou found &d3x Cherish Balls&a!"
+    },
+    {
+      "type": "command",
+      "weight": 45.0,
+      "command": "givepokemonother %player% castform",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Castform",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received a &2Castform&a!"
+    },
+    {
+      "type": "command",
+      "weight": 45.0,
+      "command": "givepokemonother %player% oricorio",
+      "displayItem": {
+        "material": "cobblemon:verdant_ball",
+        "amount": 1,
+        "displayname": "Oricorio",
+        "lore": [
+          "&7Pokemon"
+        ],
+        "enchantEffect": false,
+        "hideTooltip": true,
+        "customModelData": 0
+      },
+      "messageGlobal": false,
+      "messagePlayer": true,
+      "messageCustom": false,
+      "broadcastPlayer": "&aYou received an &2Oricorio&a!"
     }
   ]
 }

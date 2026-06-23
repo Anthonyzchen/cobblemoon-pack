@@ -2726,7 +2726,7 @@ hash = "4ab2cbb31314f963e1047871b2426d1160ee6c6dae03ab179313a1660d8612a7"
 
 [[files]]
 file = "config/shadowcrates/crates/common.json"
-hash = "3f445b46044d7917c41de76cb2ff6e190682005cfa10b4d1395149faa9670cb4"
+hash = "5a98f491bccedb4db72a89c6af1f96d4d857e986fe27ba5307ee319607f24fbd"
 
 [[files]]
 file = "config/shadowcrates/crates/epic.json"
@@ -2738,11 +2738,11 @@ hash = "53d35be26149a8112b7dc246d4ff00ce54193341684792f73339ed337adb7a1a"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
-hash = "49d56690a5e8c9ea47d1327a29e41d95f84dc410a52283e2fc36eb9a431fafd8"
+hash = "f27f769e484cfd060d83b2e1f96d77d6f815def68e48fed42f6c131632b869a0"
 
 [[files]]
 file = "config/shadowcrates/crates/uncommon.json"
-hash = "2f08f8e138c7eb475982c63941240c16a59ed750a16214e6e527f22c2452c730"
+hash = "6bffc1eeefb09f6066f6bf0a756e92461079dd5cbc3379afcadfe0c3f45c3f47"
 
 [[files]]
 file = "config/shadowcrates/data/crate_locations.json"
@@ -4158,7 +4158,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-riggedmodels.pw.toml"
-hash = "0352bc2d7e378aac38f06a3f2dad96c4d46dcda9db036b05628eb0546ba8e194"
+hash = "2ef00dd3c77e7b61bbabd40fa5cac0cb96e10ab48c9225d657631115e17d338a"
 metafile = true
 
 [[files]]
