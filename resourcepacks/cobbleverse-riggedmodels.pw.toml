@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/COBBLEVERSE-RiggedModels.zip"
 hash-format = "sha256"
-hash = "a2159ba58d72082824dba0e0a3ad5a1f914450fbb48aabd26a05377fe1db9e6d"
+hash = "9a350a91ccdc23fc204a53e8e2face9a3b8e3fdee7f3158cead57bdc04586e73"
