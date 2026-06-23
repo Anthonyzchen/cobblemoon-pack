@@ -104,7 +104,7 @@ key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.f
+key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.left.control
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -234,7 +234,7 @@ key_key.punchy.inspect:key.keyboard.t
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
-key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.travelersbackpack.cycle_tool:key.keyboard.f
 key_key.travelersbackpack.toggle_upgrade_0:key.keyboard.unknown
 key_key.travelersbackpack.toggle_upgrade_1:key.keyboard.unknown
 key_key.travelersbackpack.toggle_upgrade_2:key.keyboard.unknown
@@ -247,7 +247,7 @@ key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_new_waypoint:key.keyboard.unknown
 key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
@@ -277,6 +277,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:0.75
 soundCategory_music:0.10783450704225352
 soundCategory_record:1.0
