@@ -3977,10 +3977,6 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/tow
 hash = "416e58eb527fc1d7f501c67d905377fe93a67ea156ec1ff9330b7a9a816a1b08"
 
 [[files]]
-file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_nugget_bridge_tough.json"
-hash = "58ac65c0f723098fde0783259a1188779c97633c097546657c14c8f357031bee"
-
-[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_oaks_aide.json"
 hash = "6dd808414478aa82060d308f09cb8088cba739af4437f8e422f7b089066e60f0"
 
@@ -4214,7 +4210,7 @@ hash = "ca7c1e58fd68b42fb9af814d89109402c5b1b708fde16c900fd4095bd1faf1ef"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/heiress.png"
-hash = "cc84d67bac68e0e6d56f90ca0985390e3b83b1600b613f84a03539b81faaf0bd"
+hash = "e3842ebcb667e344fc699a18723c7160213f8a78f1fae77897ac4892a259fe2d"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/homesick_colonist.png"
@@ -4230,7 +4226,7 @@ hash = "04c47525699fd742d5ece91e88b5a864613565cccb233dc587f3726f74e9ea01"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/mars_tourist.png"
-hash = "fa5e32436c16f485685f1daf524896673bf227eccc426b11ce622224c8c2c38d"
+hash = "736656db367134f7d9b0e59a605caf532165005096b511cede03ac6ae2e365e3"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/masked_local.png"
@@ -4285,10 +4281,6 @@ file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nin
 hash = "384a6774734d2376765698a3485ac7319a3c120508ea3a915629bfbc7213d693"
 
 [[files]]
-file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/nugget_bridge_tough.png"
-hash = "6eade13d46f2eb83fa864720ff0e26447d9addda6655b066d81a08810bde744d"
-
-[[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/oaks_aide.png"
 hash = "90e61128b2ec69d9823240011a40f42f071534298eadb208b6815fc49925ae83"
 
@@ -4318,7 +4310,7 @@ hash = "58f21525381118a0c86e6925da708d33bd56267df1e80bba4aaf64f9518b09c2"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/pallet_oldtimer.png"
-hash = "70a7070648eb576aea7f5b74f4d6dee87c9bbcc199809a57aa935c7d284d28dd"
+hash = "f827f341e738d7552ffb8d5a4fade70539a8b4131e2be5b3ae9c424e3c65b1ab"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/perfume_clerk.png"
