@@ -3074,6 +3074,11 @@ hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
 metafile = true
 
 [[files]]
+file = "mods/badgebox-fabric-1-3-0.pw.toml"
+hash = "dea720d8d35e436c069434e2a6f330630d15733ac62a149547ad2e9ce15db699"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric-1-21-1-21-0-59.pw.toml"
 hash = "8400968f45d714751b2cfae85da6cccf45b6dcd619b2c5e1e9227e1771e73b43"
 metafile = true
@@ -4419,6 +4424,18 @@ hash = "ad7079ee1bdc62fce89fccb0fe5e57e272f7d1a740b7ff1f57ed840c4f74a2e2"
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/zookeeper.png"
 hash = "353cb838cc607069338ee966f9f85d3a4438a7a0542c6344208c2bce4a9c6b22"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/rctmod/textures/trainers/single/champion_terry_01b6.png"
+hash = "10fec872b2fc972ae499d3108e849ad8e2129dc761b0ab63d246cf293093eb11"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/rctmod/textures/trainers/single/champion_terry_01b7.png"
+hash = "10fec872b2fc972ae499d3108e849ad8e2129dc761b0ab63d246cf293093eb11"
+
+[[files]]
+file = "resourcepacks/AZC-Townsfolk/assets/rctmod/textures/trainers/single/champion_terry_01b8.png"
+hash = "10fec872b2fc972ae499d3108e849ad8e2129dc761b0ab63d246cf293093eb11"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/pack.mcmeta"

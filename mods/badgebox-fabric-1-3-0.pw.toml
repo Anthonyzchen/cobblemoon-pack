@@ -1,0 +1,8 @@
+name = "badgebox-fabric-1.3.0"
+filename = "badgebox-fabric-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/badgebox-fabric-1.3.0.jar"
+hash-format = "sha256"
+hash = "1c9a964eab0ed773842569d5de6d9e4b8c1aef4f99d672770290c191f33858a6"
