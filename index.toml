@@ -3049,6 +3049,11 @@ hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
 metafile = true
 
 [[files]]
+file = "mods/azccmodelsilent-1-1-0.pw.toml"
+hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
+metafile = true
+
+[[files]]
 file = "mods/azcgymlockout-1-1-0.pw.toml"
 hash = "13bf8f951a2b264b06f5b540bfcff82afd0bcc1a4dc3427670ff164b54c7fef5"
 metafile = true
@@ -4320,7 +4325,7 @@ hash = "58f21525381118a0c86e6925da708d33bd56267df1e80bba4aaf64f9518b09c2"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/pallet_oldtimer.png"
-hash = "f827f341e738d7552ffb8d5a4fade70539a8b4131e2be5b3ae9c424e3c65b1ab"
+hash = "df647adfc151075f9d31af0090ce873721a87827d1f63d551ad21883636773fd"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/textures/npcs/townsfolk/perfume_clerk.png"

@@ -1,0 +1,8 @@
+name = "azccmodelsilent-1.1.0"
+filename = "azccmodelsilent-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azccmodelsilent-1.1.0.jar"
+hash-format = "sha256"
+hash = "6fb3648f0ffc7e4af86cd098cabab7cee1bb4992220cae0b25d978a4a320a8dd"
