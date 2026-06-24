@@ -1,0 +1,8 @@
+name = "azcridewalk-1.0.0"
+filename = "azcridewalk-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcridewalk-1.0.0.jar"
+hash-format = "sha256"
+hash = "0ee70903c7f9af53e811b12c45ca6063167975ad5aab6f732b01ff7bfc6a7b8a"

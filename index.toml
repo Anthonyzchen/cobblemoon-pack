@@ -3064,6 +3064,11 @@ hash = "07e94f319a3aa97df8b14b9e70cdde30bc1bdfea0611ae343a9c7298e9c3933a"
 metafile = true
 
 [[files]]
+file = "mods/azcridewalk-1-0-0.pw.toml"
+hash = "2f7d517bc9e0a580e7d0fee3b32d90d0d3fca05ac27c9dfeac1d45c0e903021b"
+metafile = true
+
+[[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
 hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
 metafile = true
@@ -4454,7 +4459,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-riggedmodels.pw.toml"
-hash = "2ef00dd3c77e7b61bbabd40fa5cac0cb96e10ab48c9225d657631115e17d338a"
+hash = "eb573bffb17629725ee06501c1cf5882481c258761c2e04dce9345ef9fbcb46a"
 metafile = true
 
 [[files]]
