@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Cobblemon-mount-mastery-0.2.2.jar"
 hash-format = "sha256"
-hash = "ac1dedcd5e4b606b42cf9c50bd383b2c7634b1bc8301083aaad95745509958c7"
+hash = "543ada2aed49b2cf5663aee8237285dac5f6b76cbe83e61d6fd67e14603f375c"

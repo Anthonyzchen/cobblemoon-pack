@@ -3155,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mount-mastery-0-2-2.pw.toml"
-hash = "10fc6e86a4cb93943bedace10c0d42a5ada7bf9910fdb339daa1345ef8c1eb9f"
+hash = "a1f89e01550ca9a9f83bb782418f2813618d10aadb1bde8fb38ead33f545f719"
 metafile = true
 
 [[files]]
@@ -4459,7 +4459,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-riggedmodels.pw.toml"
-hash = "eb573bffb17629725ee06501c1cf5882481c258761c2e04dce9345ef9fbcb46a"
+hash = "a6c291eec7ef4a801a223e0c2434c88e304021aa580691e1ac46f081d0082d93"
 metafile = true
 
 [[files]]
