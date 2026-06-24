@@ -3384,6 +3384,11 @@ hash = "9318c076c1cf05681121e51c1ac3115724d3759bf7bf9dcf57023bedbf8bdf8f"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast-fabric-1-6-10-1-21-1.pw.toml"
+hash = "2f95a18df4675137de8ee4a4e34ba0b3ff57dbd03f5ff03acd2ea05833836d9f"
+metafile = true
+
+[[files]]
 file = "mods/incendium-1-21-x-v5-4-4.pw.toml"
 hash = "5417fc5afca932be3fc0fb0517c273640083da634c0e0238824e62333c0f659b"
 metafile = true
