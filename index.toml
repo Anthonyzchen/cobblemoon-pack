@@ -201,6 +201,10 @@ file = "config/cobblemon/main.json"
 hash = "1f9c57323c40b3d6ce79cb70fcc1463eb2e49553d215c6aa57996e294a14a27d"
 
 [[files]]
+file = "config/cobblemon/spawning/best-spawner-config.json"
+hash = "6290d98406d9a585f44563049a0c717bfc02c3a488d72948d1d92528f405abfd"
+
+[[files]]
 file = "config/cobblemon/starters.json"
 hash = "019c8c490d6b4f5386d06f256f8af31654881edd882ea99eb9b815b36e746319"
 
@@ -734,7 +738,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json"
-hash = "65a8d9b0b643f6b7934a50a98c1bd17e77950089d8d49ac35e7c641e368bfc8c"
+hash = "e0b8112267029acf35f75ff7c373cce7bc95ec1171e8c55eddd46514a1fe6b28"
 
 [[files]]
 file = "config/mythsandlegends/transformations.json"
@@ -810,7 +814,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "cc11d09d07f6a3675f525a4b1b05c93ab94255a5f7e4baa48b7cbe7c44dfb71e"
+hash = "d41bfdfa56878efae07a719edf0f0b5860bc17200343f824f0609e9fb0261e79"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -2906,7 +2910,7 @@ hash = "4204bfeb01243e433358234d17287c6aec951fd24de5722c3191d40c7d30e9e2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "5c0b64c0763c32e1b57ae60ad0e3da4fc2f2a8e521c2b9f37b72c3a5a68e401a"
+hash = "040ef73e0e42d789a9c68c4521211822f8f5bc081847b06f22ea252fd0bd1d88"
 
 [[files]]
 file = "config/waystones_client_save.json"
@@ -3404,6 +3408,11 @@ hash = "7758b699d491a0ae0bdb064887eeea42cc399b379ed0a4b45202d8895e01b87d"
 metafile = true
 
 [[files]]
+file = "mods/ironchests-2-0-3.pw.toml"
+hash = "3011bd8651fb5c40f0a50e02f40ea9bbe72c64706394c0e6bd9ec88e62f3a681"
+metafile = true
+
+[[files]]
 file = "mods/jade-1-21-1-fabric-15-10-5.pw.toml"
 hash = "4334a790e14cd4f63862d8d6a1923cb786a5dbe52476264ee2b631e8769485d1"
 metafile = true
@@ -3735,7 +3744,7 @@ metafile = true
 
 [[files]]
 file = "mods/vote2sleep-fabric-1-21-1-1-0-0.pw.toml"
-hash = "167f6f4f325d347e01a54d870af45dda5055ea72240c44a98048154e786fc0c9"
+hash = "3e656b4db3db1b9f90bfc23c379f6f002bffef7549509a9e5910dd70c59e0d89"
 metafile = true
 
 [[files]]
