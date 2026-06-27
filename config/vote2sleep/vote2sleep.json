@@ -13,7 +13,7 @@
   "clearWeather": true,
   "displaySettings": {
     "bossBar": {
-      "enabled": true,
+      "enabled": false,
       "color": "BLUE",
       "style": "PROGRESS"
     },

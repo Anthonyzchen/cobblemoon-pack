@@ -1,0 +1,8 @@
+name = "InventoryProfilesNext-fabric-1.21.1-2.2.6"
+filename = "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+hash-format = "sha256"
+hash = "b69ac6f98e99042d6edd755242bf76d35eea4342559d2b1d88160e556c629177"

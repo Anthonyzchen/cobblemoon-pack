@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "entities": {
+    "minecraft:creeper": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:enderman": {
+      "DESTROY_BLOCKS": false,
+      "PLACE_BLOCKS": false
+    },
+    "minecraft:ghast": {
+      "EXPLODE_BLOCKS": false
+    }
+  }
+}

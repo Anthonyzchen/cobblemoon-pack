@@ -17,6 +17,10 @@ file = "config/ad_astra.jsonc"
 hash = "fad4ca69e7da7c29736145c867bbe17eb414cf20cff2bbdd490dd32b78cafb08"
 
 [[files]]
+file = "config/antientitygrief.json"
+hash = "ddf411926e154dcd4bfbe6f48de9f0f5ab589e0cacdbd8285516137ee5c3cd94"
+
+[[files]]
 file = "config/awesomedungeonocean_1.properties"
 hash = "1854163c0574bc7175128e55e8cf03910c9a4067384eb8df74e996065ceacd4d"
 
@@ -35,6 +39,10 @@ hash = "792eb3209ce7c4ba44ed990018ddbc0f7eefcf7ac8418fc67b836c973e63ab81"
 [[files]]
 file = "config/azc_seasonhud.properties"
 hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
+
+[[files]]
+file = "config/azctrainerrotation.json"
+hash = "350f168e0c3d4b11440b415e01dcbd21ddd2e964a3e2615cd25a4c8743248ba4"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -114,7 +122,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "a657a1355f8ff6f23bd5daf5ddec8137e2f87a496685c1c4a941f142c34b0f9e"
+hash = "bd4ecff40ddbd23adef6a912d7c99109d9428714b9c99d6ec8ffdc55a89cda51"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -198,7 +206,7 @@ hash = "f10d1f2557ec8cb3404fc831c51ec68fff35e5e3fc21de9af67d9d4939ecebda"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "1f9c57323c40b3d6ce79cb70fcc1463eb2e49553d215c6aa57996e294a14a27d"
+hash = "3f7565c085f0c2071e7fd8226822ff51f655863df98346dc353e9e5a578bef5a"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -322,7 +330,7 @@ hash = "fe6418a16c21427d4b07f6dfafb3c64e6ff7cb1f748fb3cc90de820aa9b53b65"
 
 [[files]]
 file = "config/cobbleoptimizer.toml"
-hash = "5fed33edbe35dc78a68ba3d0feca50b57750d5ed29d95493f32761d2a0cb1dab"
+hash = "1eacf9d6da61d206556a2717dacf64cc6142bfd065c3f60f15940bb54a723556"
 
 [[files]]
 file = "config/cobbreeding/encryption"
@@ -738,7 +746,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json"
-hash = "e0b8112267029acf35f75ff7c373cce7bc95ec1171e8c55eddd46514a1fe6b28"
+hash = "e776f17b3e33dfc1c08b485b61a9d50c88616d3f993c27dac26a0015903a24e0"
 
 [[files]]
 file = "config/mythsandlegends/transformations.json"
@@ -818,7 +826,7 @@ hash = "d41bfdfa56878efae07a719edf0f0b5860bc17200343f824f0609e9fb0261e79"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "1a6ebf3bada0cec710dd431c83c5418ad384e2409b38ef524436f6c262ce072b"
+hash = "45c345add1cadff2f2dd403f049b888c8213d1824f518946ebb1e520e853e837"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
@@ -2898,7 +2906,7 @@ hash = "db3a2a559ddbdb5a40c2e7e1b3afd88dd5def2fd35c0af17a1ba4bb967d9be88"
 
 [[files]]
 file = "config/vote2sleep/vote2sleep.json"
-hash = "470b0e251e4c12c412a58067da82a77e256015b3c4acb5c296495cd2e3c9fdae"
+hash = "1f1f16374c0320690d3da1450c8a36aaabe6b531f524ef814f8b97c5ca308de8"
 
 [[files]]
 file = "config/vote2sleep/worlds.json"
@@ -2910,7 +2918,7 @@ hash = "4204bfeb01243e433358234d17287c6aec951fd24de5722c3191d40c7d30e9e2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "040ef73e0e42d789a9c68c4521211822f8f5bc081847b06f22ea252fd0bd1d88"
+hash = "b6d51f22f1e14c73244a8cf586bcc9b86fe3ab67eb1d26d74ad79a1aa9052f55"
 
 [[files]]
 file = "config/waystones_client_save.json"
@@ -3028,6 +3036,11 @@ hash = "a2c7081af36b704d68190c4a0394aafb49e41cf5e95ba3919906c1b7e97ece75"
 metafile = true
 
 [[files]]
+file = "mods/antientitygrief-1-21-v1-0-4.pw.toml"
+hash = "219fd261902682874f205f64b7cd3bc547310f7d277c0395a6759a6885bda3fd"
+metafile = true
+
+[[files]]
 file = "mods/antiquetradingship-1-0-0-fabric-1-21-1.pw.toml"
 hash = "41fd36804f9397286e676cf0ffb796828555f670685fe03cdac1da294655a2dc"
 metafile = true
@@ -3058,8 +3071,13 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azcgymlockout-1-1-0.pw.toml"
-hash = "13bf8f951a2b264b06f5b540bfcff82afd0bcc1a4dc3427670ff164b54c7fef5"
+file = "mods/azcdiveballfix-1-0-0.pw.toml"
+hash = "2b93c74fc0f87130ca18179a3f2943c1f32fe4351ca655c0721c79b259bacfed"
+metafile = true
+
+[[files]]
+file = "mods/azcgymlockout-1-3-0.pw.toml"
+hash = "94f7b60aa130e126e1a08da071a747a0154f9b688d187bd02406a0a93aac3d3c"
 metafile = true
 
 [[files]]
@@ -3080,6 +3098,11 @@ metafile = true
 [[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
 hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/azctrainerrotation-1-0-0.pw.toml"
+hash = "0222629584d1ce8ac7544fc584eb95e0078b7b41058c0b5a965456ccee79babe"
 metafile = true
 
 [[files]]
@@ -3403,6 +3426,11 @@ hash = "5417fc5afca932be3fc0fb0517c273640083da634c0e0238824e62333c0f659b"
 metafile = true
 
 [[files]]
+file = "mods/inventoryprofilesnext-fabric-1-21-1-2-2-6.pw.toml"
+hash = "2b74fccf4d21e9aade33d32b32968bbad07d4592ba031629aa9524672b79a1df"
+metafile = true
+
+[[files]]
 file = "mods/iris-fabric-1-8-7-mc1-21-1.pw.toml"
 hash = "7758b699d491a0ae0bdb064887eeea42cc399b379ed0a4b45202d8895e01b87d"
 metafile = true
@@ -3435,6 +3463,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights-4-8-10-1-21-1.pw.toml"
 hash = "1b0399a460a3cf40a25c43049e0203b094fb922a453e2f489213e65416033a5d"
+metafile = true
+
+[[files]]
+file = "mods/libipn-fabric-1-21-1-6-6-3.pw.toml"
+hash = "2cbfbd486457d6919d302a55810f43d6416dca68eb493d4b04ec888eb936a32d"
 metafile = true
 
 [[files]]

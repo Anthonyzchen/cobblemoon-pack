@@ -1,0 +1,92 @@
+{
+  "_comment": "baseTrainerId -> ids to randomly pick from each battle (base id included to keep the original in rotation). Auto-built from variant files in data/rctmod/trainers/.",
+  "boss_giovanni_015d": [
+    "boss_giovanni_015d",
+    "boss_giovanni_015d_v2",
+    "boss_giovanni_015d_v3"
+  ],
+  "champion_terry_01b6": [
+    "champion_terry_01b6",
+    "champion_terry_01b6_v2",
+    "champion_terry_01b6_v3",
+    "champion_terry_01b6_v4",
+    "champion_terry_01b6_v5",
+    "champion_terry_01b6_v6",
+    "champion_terry_01b6_v7",
+    "champion_terry_01b6_v8"
+  ],
+  "elite_four_agatha_0054": [
+    "elite_four_agatha_0054",
+    "elite_four_agatha_0054_v2",
+    "elite_four_agatha_0054_v3",
+    "elite_four_agatha_0054_v4",
+    "elite_four_agatha_0054_v5"
+  ],
+  "elite_four_bruno_0051": [
+    "elite_four_bruno_0051",
+    "elite_four_bruno_0051_v2",
+    "elite_four_bruno_0051_v3",
+    "elite_four_bruno_0051_v4",
+    "elite_four_bruno_0051_v5"
+  ],
+  "elite_four_lance_0057": [
+    "elite_four_lance_0057",
+    "elite_four_lance_0057_v2",
+    "elite_four_lance_0057_v3",
+    "elite_four_lance_0057_v4",
+    "elite_four_lance_0057_v5"
+  ],
+  "elite_four_lorelei_004e": [
+    "elite_four_lorelei_004e",
+    "elite_four_lorelei_004e_v2",
+    "elite_four_lorelei_004e_v3",
+    "elite_four_lorelei_004e_v4",
+    "elite_four_lorelei_004e_v5"
+  ],
+  "leader_blaine_01a3": [
+    "leader_blaine_01a3",
+    "leader_blaine_01a3_v2",
+    "leader_blaine_01a3_v3"
+  ],
+  "leader_erika_01a1": [
+    "leader_erika_01a1",
+    "leader_erika_01a1_v2",
+    "leader_erika_01a1_v3"
+  ],
+  "leader_giovanni_015e": [
+    "leader_giovanni_015e",
+    "leader_giovanni_015e_v2",
+    "leader_giovanni_015e_v3",
+    "leader_giovanni_015e_v4",
+    "leader_giovanni_015e_v5"
+  ],
+  "leader_koga_01a2": [
+    "leader_koga_01a2",
+    "leader_koga_01a2_v2",
+    "leader_koga_01a2_v3"
+  ],
+  "leader_lt_surge_01a0": [
+    "leader_lt_surge_01a0",
+    "leader_lt_surge_01a0_v2",
+    "leader_lt_surge_01a0_v3"
+  ],
+  "leader_misty_019f": [
+    "leader_misty_019f",
+    "leader_misty_019f_v2"
+  ],
+  "leader_sabrina_01a4": [
+    "leader_sabrina_01a4",
+    "leader_sabrina_01a4_v2",
+    "leader_sabrina_01a4_v3"
+  ],
+  "rocket_admin_archer_002e": [
+    "rocket_admin_archer_002e",
+    "rocket_admin_archer_002e_v2",
+    "rocket_admin_archer_002e_v3"
+  ],
+  "rocket_admin_archer_ariana_m000": [
+    "rocket_admin_archer_ariana_m000",
+    "rocket_admin_archer_ariana_m000_v2",
+    "rocket_admin_archer_ariana_m000_v3"
+  ]
+}

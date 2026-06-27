@@ -87,14 +87,14 @@ transportPets = "DISABLED"
 
 # List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
 warpRequirements = [ 
-    "[is_not_interdimensional] scaled_add_level_cost(distance, 0.01)", 
-    "[is_interdimensional] add_level_cost(10)", 
+    "[is_not_interdimensional] scaled_add_level_cost(distance, 0.002)", 
+    "[is_interdimensional] add_level_cost(7)", 
     "[source_is_warp_plate] multiply_level_cost(0)", 
     "[target_is_global] multiply_level_cost(0)", 
     "min_level_cost(0)", 
-    "max_level_cost(20)",
-    "[source_is_warp_stone, is_not_interdimensional] scaled_add_level_cost(distance, 0.01)",
-    "[source_is_warp_stone] max_level_cost(25)",
+    "max_level_cost(7)",
+    "[source_is_warp_stone, is_not_interdimensional] scaled_add_level_cost(distance, 0.002)",
+    "[source_is_warp_stone] max_level_cost(7)",
     "[source_is_inventory_button] add_cooldown(inventory_button, 300)"
 ]
 

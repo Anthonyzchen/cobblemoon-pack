@@ -1,0 +1,8 @@
+name = "azcdiveballfix-1.0.0"
+filename = "azcdiveballfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcdiveballfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "a9dbc99a4f15fe459ff9e704e4190226be44076dc9dc9700565e2bd21ff97a8d"

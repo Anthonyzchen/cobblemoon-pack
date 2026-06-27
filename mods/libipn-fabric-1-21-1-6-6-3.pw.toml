@@ -1,0 +1,8 @@
+name = "libIPN-fabric-1.21.1-6.6.3"
+filename = "libIPN-fabric-1.21.1-6.6.3.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/libIPN-fabric-1.21.1-6.6.3.jar"
+hash-format = "sha256"
+hash = "e26e788c5c3542353c0c45fba231e9208a01b182d890815c22df40a1946b903e"

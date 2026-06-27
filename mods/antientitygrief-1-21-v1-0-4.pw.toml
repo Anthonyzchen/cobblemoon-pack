@@ -1,0 +1,8 @@
+name = "antientitygrief-1.21-v1.0.4"
+filename = "antientitygrief-1.21-v1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/antientitygrief-1.21-v1.0.4.jar"
+hash-format = "sha256"
+hash = "c3f7703a7ed414cba60b2e6ebeeea52b39b881cfebb1e39e26b9c9c09e72721c"

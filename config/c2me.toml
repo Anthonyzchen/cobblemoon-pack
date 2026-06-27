@@ -199,7 +199,7 @@ globalExecutorParallelism = "default"
 	# 
 	# Enabling this restores the behavior of always loading in neighbor chunks when a chunk is loaded.
 	# 
-	useLegacyScheduling = "default"
+	useLegacyScheduling = true
 	# (Default: false) Whether to enable low memory mode
 	# 
 	# This option will attempt to aggressively unload unused chunks.
