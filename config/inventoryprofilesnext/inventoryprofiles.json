@@ -3,7 +3,9 @@
         "first_run": false
     },
     "GuiSettings": {
-        "continuous_crafting_saved_value": false
+        "continuous_crafting_saved_value": false,
+        "settings_top": 70,
+        "editor_top": 92
     },
     "Features": {
         "highlight_foused_items": false,

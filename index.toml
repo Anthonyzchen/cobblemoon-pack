@@ -206,7 +206,7 @@ hash = "f10d1f2557ec8cb3404fc831c51ec68fff35e5e3fc21de9af67d9d4939ecebda"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "3f7565c085f0c2071e7fd8226822ff51f655863df98346dc353e9e5a578bef5a"
+hash = "34db13615bfbad16a8a5528c990a520daac106c24735d747c42238f0dca782d6"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -482,7 +482,7 @@ hash = "d8e89791c9e1f33b84eb694ebd306d836d9bd19ef6f040f155e0ace7e1b785f9"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "22806277193bc333db426bb409cd2bf82a1e630165c065a701be6c2b556d9890"
+hash = "0fceca0ca0ba151bad788b7b1dc93233687abeee7dd10fe23cb1f832ee6380c1"
 
 [[files]]
 file = "config/iris-excluded.json"

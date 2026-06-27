@@ -31,7 +31,7 @@
   "exportStarterConfig": true,
   "autoUpdateShowdown": true,
   "defaultFleeDistance": 32.0,
-  "allowExperienceFromPvP": true,
+  "allowExperienceFromPvP": false,
   "experienceShareMultiplier": 0.5,
   "luckyEggMultiplier": 1.5,
   "allowSpectating": true,
