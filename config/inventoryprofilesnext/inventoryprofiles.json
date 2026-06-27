@@ -1,0 +1,12 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "Features": {
+        "highlight_foused_items": false,
+        "enable_auto_refill": false
+    }
+}

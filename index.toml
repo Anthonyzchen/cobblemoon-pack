@@ -481,6 +481,10 @@ file = "config/hold-my-items.json"
 hash = "d8e89791c9e1f33b84eb694ebd306d836d9bd19ef6f040f155e0ace7e1b785f9"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "22806277193bc333db426bb409cd2bf82a1e630165c065a701be6c2b556d9890"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
