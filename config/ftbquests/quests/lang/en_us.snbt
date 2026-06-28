@@ -278,13 +278,13 @@
 	quest.205A75F2377D2582.quest_subtitle: "Register 600 species"
 	quest.205A75F2377D2582.title: "&660% Pokedex"
 	quest.240EDD73333E4ADB.quest_desc: [
-		"Hatch 25 eggs."
+		"Hatch 100 eggs."
 		""
 		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
 		""
-		"&eRewards:&r Exp Share, 8x Love Ball"
+		"&eRewards:&r Exp Share"
 	]
-	quest.240EDD73333E4ADB.quest_subtitle: "Hatch 25 eggs"
+	quest.240EDD73333E4ADB.quest_subtitle: "Hatch 100 eggs"
 	quest.240EDD73333E4ADB.title: "&fBreeder Pro"
 	quest.244DEB7F6FCFCC98.quest_desc: [
 		"Dynamax a Pokemon 20 times."
@@ -1207,13 +1207,13 @@
 	quest.7115EFDAE6BAB99C.quest_subtitle: "Catch 100 Fighting-type Pokemon"
 	quest.7115EFDAE6BAB99C.title: "&4Fighting Specialist"
 	quest.7211D46FCA402A06.quest_desc: [
-		"Hatch 10 eggs."
+		"Hatch 25 eggs."
 		""
 		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
 		""
-		"&eRewards:&r 5x Friend Ball, Lucky Egg"
+		"&eRewards:&r Lucky Egg"
 	]
-	quest.7211D46FCA402A06.quest_subtitle: "Hatch 10 eggs"
+	quest.7211D46FCA402A06.quest_subtitle: "Hatch 25 eggs"
 	quest.7211D46FCA402A06.title: "&fBreeder"
 	quest.74A67574E7A6F59F.quest_desc: [
 		"Catch 1 shiny Pokemon."
@@ -1271,13 +1271,13 @@
 	quest.769A06A47D36272F.quest_subtitle: "Win 25 raids"
 	quest.769A06A47D36272F.title: "&4Raid Specialist"
 	quest.782DE8808AD5FE6C.quest_desc: [
-		"Hatch 50 eggs."
+		"Hatch 500 eggs."
 		""
 		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
 		""
-		"&eRewards:&r Gender Swapper, Gold Bottle Cap, Eviolite"
+		"&eRewards:&r Gold Bottle Cap"
 	]
-	quest.782DE8808AD5FE6C.quest_subtitle: "Hatch 50 Pokemon eggs"
+	quest.782DE8808AD5FE6C.quest_subtitle: "Hatch 500 Pokemon eggs"
 	quest.782DE8808AD5FE6C.title: "&7Master Breeder"
 	quest.78A0BC6FE21CA01E.quest_desc: [
 		"Catch 10 Pokemon."

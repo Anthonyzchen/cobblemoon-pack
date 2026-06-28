@@ -1,0 +1,8 @@
+name = "azcairstamina-1.0.0"
+filename = "azcairstamina-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcairstamina-1.0.0.jar"
+hash-format = "sha256"
+hash = "f8c2c4cfea1671d16cce270b9b9530bdbb018f877917914fa825a1b2daca5453"

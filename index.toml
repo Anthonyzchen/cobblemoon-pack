@@ -42,7 +42,7 @@ hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
 
 [[files]]
 file = "config/azctrainerrotation.json"
-hash = "350f168e0c3d4b11440b415e01dcbd21ddd2e964a3e2615cd25a4c8743248ba4"
+hash = "231dceb285347ff61d01fa4f1fbe399a38d3c34e590d417649e7f7e1a34fe2d2"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -454,7 +454,7 @@ hash = "3de94cbbb1fa51f1221fe9768e33994162a8cf7ce22df09361c40322c3dc3b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
-hash = "dd9c7ec45dd1dbc1577a7e913ab8eda1425bc991ba064ef96e69bc8fad585b1a"
+hash = "3b300f1b75947ac0d0127620c295f87d2068e00e21ab7cb2be67d69b01443cd4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
@@ -466,7 +466,7 @@ hash = "cb03a0529db6e5c2ba1368526860309d48d0afb6077c785c91ae25d46512131e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "07e4f56883017a0f47618d22923543cb1e00f272bce1c7aa27d80f0348f4f122"
+hash = "d646081a65eb27e57e7336d6a155e6f9d7ceb2fde164996f627830bcfcf5f0bd"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -806,7 +806,7 @@ hash = "0229d13cf6220cae855ccd45f916c1488713eaea032539f5627053695042ae19"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "7b6273dbc6bf45d71a83d4963ee529d2fe1a9e860332f28993fa6b1399beee42"
+hash = "0a6a137ec2de1337e80b07f605a1b261010b4f7e4f7ae7ec10adf1349a2a184c"
 
 [[files]]
 file = "config/releaserewards.json"
@@ -814,7 +814,7 @@ hash = "cb978f89bd44e1aaad1cdb52754fcc7c7ef8926961f9422bab9feedc2574b757"
 
 [[files]]
 file = "config/ridetraining.json"
-hash = "d707eb51bee703efa6dd03b7ac3c25a05f4190c10d02564076b8f156f2442002"
+hash = "56678c19c73945b75a358ac31d79b63d532ee05ae5a3617592f15abd9eabefcb"
 
 [[files]]
 file = "config/scoremons_config.json"
@@ -3065,6 +3065,11 @@ hash = "e131c82a75b0ed673051cec28095a39dbd9ee651318bd30693da8d1f49228d29"
 metafile = true
 
 [[files]]
+file = "mods/azcairstamina-1-0-0.pw.toml"
+hash = "fef00b6beb539d7b9efb3fd72cdc67dc0db9b8d2f9c39384aa9a62cf2ff74e30"
+metafile = true
+
+[[files]]
 file = "mods/azcbattleguard-1-0-0.pw.toml"
 hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
 metafile = true
@@ -3075,13 +3080,18 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
+file = "mods/azcdittolock-1-0-0.pw.toml"
+hash = "1e65a46217f5d17a7823494b7b3ef70677698e28bdedbe2f6436b1f0d7756391"
+metafile = true
+
+[[files]]
 file = "mods/azcdiveballfix-1-0-0.pw.toml"
 hash = "2b93c74fc0f87130ca18179a3f2943c1f32fe4351ca655c0721c79b259bacfed"
 metafile = true
 
 [[files]]
 file = "mods/azcgymlockout-1-4-0.pw.toml"
-hash = "f036277aae194e13e20fa64d6a2a19014574bf4ccf4c60859fefd36ba246f834"
+hash = "3e7679ca6b51a47adca88f758df527f98451dfc33650e59769e0532e0b8c794a"
 metafile = true
 
 [[files]]
@@ -3105,8 +3115,8 @@ hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerrotation-1-0-0.pw.toml"
-hash = "0222629584d1ce8ac7544fc584eb95e0078b7b41058c0b5a965456ccee79babe"
+file = "mods/azctrainerrotation-1-1-0.pw.toml"
+hash = "001cb4c3c7817a8d1569105b54f10fa0d9429f06ed9bd0688b8c8d9372e92bab"
 metafile = true
 
 [[files]]
@@ -3867,6 +3877,11 @@ metafile = true
 [[files]]
 file = "mods/yungsextras-1-21-1-fabric-5-1-1.pw.toml"
 hash = "921f40e651e5f8e16aacefd25296ce2fab343d63b5e7693e264ff9635768ee00"
+metafile = true
+
+[[files]]
+file = "mods/zamega-fabric-1-7-3.pw.toml"
+hash = "95ab6726840a2b6181a5d89c2c8b81810408326763d69fe3a702287cf09e367b"
 metafile = true
 
 [[files]]

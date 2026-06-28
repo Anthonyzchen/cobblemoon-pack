@@ -1847,77 +1847,77 @@
 			size: 1.5d
 			tasks: [
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B01"
 					item: { count: 1, id: "minecraft:wheat" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B02"
 					item: { count: 1, id: "minecraft:carrot" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B03"
 					item: { count: 1, id: "minecraft:potato" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B04"
 					item: { count: 1, id: "minecraft:beetroot" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 16L
 					id: "4A8C3B5D9F2E1B05"
 					item: { count: 1, id: "minecraft:pumpkin" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 16L
 					id: "4A8C3B5D9F2E1B06"
 					item: { count: 1, id: "minecraft:melon" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B07"
 					item: { count: 1, id: "minecraft:sweet_berries" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B08"
 					item: { count: 1, id: "minecraft:sugar_cane" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B09"
 					item: { count: 1, id: "minecraft:cocoa_beans" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B0A"
 					item: { count: 1, id: "minecraft:kelp" }
 					type: "item"
 				}
 				{
-					consume_items: false
+					consume_items: true
 					count: 64L
 					id: "4A8C3B5D9F2E1B0B"
 					item: { count: 1, id: "minecraft:nether_wart" }
@@ -2406,20 +2406,11 @@
 					}
 					type: "item"
 				}
-				{
-					count: 8
-					id: "240EDD7311111002"
-					item: {
-						count: 1
-						id: "cobblemon:love_ball"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
 				abilities: ""
 				action: "hatch_egg"
-				amount: 25L
+				amount: 100L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -2456,15 +2447,6 @@
 			id: "7211D46FCA402A06"
 			rewards: [
 				{
-					count: 5
-					id: "7211D46F11111001"
-					item: {
-						count: 1
-						id: "cobblemon:friend_ball"
-					}
-					type: "item"
-				}
-				{
 					id: "7211D46F11111002"
 					item: {
 						count: 1
@@ -2476,7 +2458,7 @@
 			tasks: [{
 				abilities: ""
 				action: "hatch_egg"
-				amount: 10L
+				amount: 25L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -2513,14 +2495,6 @@
 			id: "782DE8808AD5FE6C"
 			rewards: [
 				{
-					id: "782DE88011111001"
-					item: {
-						count: 1
-						id: "wanteditems:gender_swapper"
-					}
-					type: "item"
-				}
-				{
 					id: "782DE88011111002"
 					item: {
 						count: 1
@@ -2528,19 +2502,11 @@
 					}
 					type: "item"
 				}
-				{
-					id: "782DE88011111003"
-					item: {
-						count: 1
-						id: "cobblemon:eviolite"
-					}
-					type: "item"
-				}
 			]
 			tasks: [{
 				abilities: ""
 				action: "hatch_egg"
-				amount: 50L
+				amount: 500L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -3717,7 +3683,7 @@
 			}
 			id: "5BAD3A77AAAA0002"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "givepokemonegg @p pichu"
 				id: "5BAD3A77BBBB0002"
 				type: "command"
@@ -3764,7 +3730,7 @@
 			}
 			id: "5BAD3A77AAAA0003"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "givepokemonegg @p mimejr"
 				id: "5BAD3A77BBBB0003"
 				type: "command"
@@ -3788,7 +3754,7 @@
 			}
 			id: "5BAD3A77AAAA0004"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "givepokemonegg @p tyrogue"
 				id: "5BAD3A77BBBB0004"
 				type: "command"
@@ -3810,7 +3776,7 @@
 			}
 			id: "5BAD3A77AAAA0005"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "givepokemonegg @p munchlax"
 				id: "5BAD3A77BBBB0005"
 				type: "command"
@@ -3834,7 +3800,7 @@
 			}
 			id: "5BAD3A77AAAA0006"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "givepokemonegg @p toxel"
 				id: "5BAD3A77BBBB0006"
 				type: "command"

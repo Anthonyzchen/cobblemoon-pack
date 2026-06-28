@@ -1,0 +1,8 @@
+name = "azcdittolock-1.0.0"
+filename = "azcdittolock-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcdittolock-1.0.0.jar"
+hash-format = "sha256"
+hash = "2fbb7d4b717a046b1f8fa73adb116541348dc2f510fa305d84751e69d53e8bd7"

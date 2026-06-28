@@ -90,7 +90,7 @@
 	#card and have either not started a series or completed their current series. One may also spawn nearby
 	#any player in proximity to a village (at least 3 occupied beds and a village center). These can
 	#spawn everywhere but will respect the 'dimensionBlacklist' and 'dimensionWhitelist' settings.
-	spawnTrainerAssociation = true
+	spawnTrainerAssociation = false
 	#━━━━━━━━━━
 	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
 	#In these dimensions trainers will never spawn.
