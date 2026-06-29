@@ -42,7 +42,7 @@ hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
 
 [[files]]
 file = "config/azctrainerrotation.json"
-hash = "231dceb285347ff61d01fa4f1fbe399a38d3c34e590d417649e7f7e1a34fe2d2"
+hash = "d77797d9a595a0d537b07c4b3e701e695a740a260c33b3e8fa147e429fef12ac"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -3087,6 +3087,11 @@ metafile = true
 [[files]]
 file = "mods/azcdiveballfix-1-0-0.pw.toml"
 hash = "2b93c74fc0f87130ca18179a3f2943c1f32fe4351ca655c0721c79b259bacfed"
+metafile = true
+
+[[files]]
+file = "mods/azcgravflight-1-0-0.pw.toml"
+hash = "2f5f5c35d698971a0fce6e137e22199e0d72135449b98d21fd27beb67ea9a448"
 metafile = true
 
 [[files]]

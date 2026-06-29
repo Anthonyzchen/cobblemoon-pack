@@ -1,0 +1,8 @@
+name = "azcgravflight-1.0.0"
+filename = "azcgravflight-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcgravflight-1.0.0.jar"
+hash-format = "sha256"
+hash = "33e1e48ca5650d50072e4afc92256197789bbc443517385cfbd64e4c19f99d78"
