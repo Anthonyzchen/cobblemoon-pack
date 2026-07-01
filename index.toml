@@ -3110,8 +3110,8 @@ hash = "9024381ff202391d4d80a45f4bcaf61a7ab7e19c35cf3d82a265b4907b937c3f"
 metafile = true
 
 [[files]]
-file = "mods/azcrctdynamax-1-1-0.pw.toml"
-hash = "429716bea21f75ae99fe600493443eae4b309d1bc484f5525eeb698dde5fc16c"
+file = "mods/azcrctdynamax-1-1-1.pw.toml"
+hash = "b2a7f25db504c43d945a2946a50455d407b0a323e40fca0b914be4329be7ae16"
 metafile = true
 
 [[files]]
