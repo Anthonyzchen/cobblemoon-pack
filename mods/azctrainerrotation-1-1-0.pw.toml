@@ -1,8 +1,0 @@
-name = "azctrainerrotation-1.1.0"
-filename = "azctrainerrotation-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azctrainerrotation-1.1.0.jar"
-hash-format = "sha256"
-hash = "c462020e3e16640ed4a6eca371abacbacaee39e0dbb2a5fc9d4971d114350298"

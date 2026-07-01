@@ -32,7 +32,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["094B857933311841"]
+			dependencies: ["616506C6DBCB447E"]
 			icon: {
 				id: "cobblemon:water_stone"
 			}
@@ -52,7 +52,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["4C12C18FF68CDCFB"]
+			dependencies: ["7E0C1A2B3C4D0001"]
 			icon: {
 				id: "cobblemon:leaf_stone"
 			}
@@ -92,7 +92,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["668B92821BCBD8A0"]
+			dependencies: ["7E0C1A2B3C4D0011"]
 			icon: {
 				id: "cobblemon:shiny_stone"
 			}
@@ -112,7 +112,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["4CF38712A6C7622A"]
+			dependencies: ["7E0C1A2B3C4D0021"]
 			icon: {
 				id: "cobblemon:ice_stone"
 			}
@@ -308,7 +308,7 @@
 			tasks: [{
 				abilities: ""
 				action: "defeat_trainer"
-				amount: 25L
+				amount: 50L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -354,7 +354,7 @@
 			tasks: [{
 				abilities: ""
 				action: "defeat_trainer"
-				amount: 50L
+				amount: 500L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -404,7 +404,7 @@
 			tasks: [{
 				abilities: ""
 				action: "defeat_trainer"
-				amount: 100L
+				amount: 1000L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"

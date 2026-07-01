@@ -86,16 +86,32 @@ transportLeashed = "ENABLED"
 transportPets = "DISABLED"
 
 # List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
-warpRequirements = [ 
-    "[is_not_interdimensional] scaled_add_level_cost(distance, 0.002)", 
-    "[is_interdimensional] add_level_cost(7)", 
+warpRequirements = [
+    "[is_not_interdimensional] scaled_add_level_cost(distance, 0.002)",
+    "[is_interdimensional] add_level_cost(7)",
     "[source_is_warp_plate] multiply_level_cost(0)", 
     "[target_is_global] multiply_level_cost(0)", 
     "min_level_cost(0)", 
     "max_level_cost(7)",
     "[source_is_warp_stone, is_not_interdimensional] scaled_add_level_cost(distance, 0.002)",
     "[source_is_warp_stone] max_level_cost(7)",
-    "[source_is_inventory_button] add_cooldown(inventory_button, 300)"
+    "[source_is_inventory_button] add_cooldown(inventory_button, 300)",
+    # Cross-planet warps (any source) cost a per-destination level floor scaled by distance from Earth:
+    # earth_orbit 12, Moon 15, Mars 18, Venus 21, Verdara/mercury 24, Glacio 27 (each planet's orbit
+    # matches its planet). Applied last as a floor (min, not add) so it overrides the 7-level cap and
+    # any free-warp modifiers above; a planet->planet hop matching two rules pays the higher (more
+    # distant) floor. Same-dimension warps and the Overworld/Nether/End trio are untouched.
+    "[is_interdimensional, involves_dimension(ad_astra:moon)] min_level_cost(15)",
+    "[is_interdimensional, involves_dimension(ad_astra:moon_orbit)] min_level_cost(15)",
+    "[is_interdimensional, involves_dimension(ad_astra:mars)] min_level_cost(18)",
+    "[is_interdimensional, involves_dimension(ad_astra:mars_orbit)] min_level_cost(18)",
+    "[is_interdimensional, involves_dimension(ad_astra:venus)] min_level_cost(21)",
+    "[is_interdimensional, involves_dimension(ad_astra:venus_orbit)] min_level_cost(21)",
+    "[is_interdimensional, involves_dimension(ad_astra:mercury)] min_level_cost(24)",
+    "[is_interdimensional, involves_dimension(ad_astra:mercury_orbit)] min_level_cost(24)",
+    "[is_interdimensional, involves_dimension(ad_astra:glacio)] min_level_cost(27)",
+    "[is_interdimensional, involves_dimension(ad_astra:glacio_orbit)] min_level_cost(27)",
+    "[is_interdimensional, involves_dimension(ad_astra:earth_orbit)] min_level_cost(12)"
 ]
 
 [worldGen]

@@ -1,0 +1,8 @@
+name = "azcsmarttera-1.0.0"
+filename = "azcsmarttera-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcsmarttera-1.0.0.jar"
+hash-format = "sha256"
+hash = "e5db9fd75658dc87244e70af489d17acf654b72c5ea538416b7f55e55ccc7d2a"

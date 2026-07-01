@@ -1,0 +1,8 @@
+name = "letmedespawn-1.21.x-fabric-1.5.0"
+filename = "letmedespawn-1.21.x-fabric-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/letmedespawn-1.21.x-fabric-1.5.0.jar"
+hash-format = "sha256"
+hash = "abeac43f78a915cfa0c855fa945f07601a1509064079c4c8640c7105ba6ac554"

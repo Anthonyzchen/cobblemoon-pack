@@ -1,0 +1,8 @@
+name = "Almanac-1.21.1-2-fabric-1.5.2"
+filename = "Almanac-1.21.1-2-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Almanac-1.21.1-2-fabric-1.5.2.jar"
+hash-format = "sha256"
+hash = "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93"

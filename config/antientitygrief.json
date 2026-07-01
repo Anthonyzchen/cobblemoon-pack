@@ -10,6 +10,10 @@
     },
     "minecraft:ghast": {
       "EXPLODE_BLOCKS": false
+    },
+    "minecraft:wither": {
+      "DESTROY_BLOCKS": false,
+      "EXPLODE_BLOCKS": false
     }
   }
 }

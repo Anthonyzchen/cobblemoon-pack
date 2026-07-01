@@ -7,11 +7,11 @@
 	chapter_group.190153377FA92B55.title: "Pokemon Trainer"
 	chapter_group.193D1970C2DCC96B.title: "Foundation"
 	quest.004DB45E4D12F3AE.quest_desc: [
-		"&f&lGrand Champion &7- Truth is forged on the battlefield. Defeat 100 trainers and Reshiram, the Vast White, will answer."
+		"&f&lGrand Champion &7- Truth is forged on the battlefield. Defeat 1000 trainers and Reshiram, the Vast White, will answer."
 		""
 		"&aReward: &fLight Stone&a - use it to summon &fReshiram&a."
 	]
-	quest.004DB45E4D12F3AE.quest_subtitle: "Defeat 100 NPC trainers to claim the Light Stone"
+	quest.004DB45E4D12F3AE.quest_subtitle: "Defeat 1000 NPC trainers to claim the Light Stone"
 	quest.004DB45E4D12F3AE.title: "&f&lGrand Champion"
 	quest.0134547D7BF16962.quest_desc: [
 		"Obtain: space helmet, space suit, space pants, space boots."
@@ -48,13 +48,13 @@
 	quest.0670A05E8A334743.quest_subtitle: "Catch the shapeshifter for Ditto Residue. Repeatable."
 	quest.0670A05E8A334743.title: "&dCatch a Ditto"
 	quest.07565397A78BC8D0.quest_desc: [
-		"Defeat 50 trainers."
+		"Defeat 500 trainers."
 		""
 		"&7A respected battler. Trainers across the regions know your name."
 		""
 		"&eRewards:&r 1x Bottle Cap"
 	]
-	quest.07565397A78BC8D0.quest_subtitle: "Defeat 50 NPC trainers"
+	quest.07565397A78BC8D0.quest_subtitle: "Defeat 500 NPC trainers"
 	quest.07565397A78BC8D0.title: "&cChampion's Path"
 	quest.081FB0920EAE9C57.quest_desc: [
 		"Submit Azelf, Mesprit, and Uxie."
@@ -157,11 +157,11 @@
 	quest.0E74D84A13119885.quest_subtitle: "Defeat 2000 wild Pokemon"
 	quest.0E74D84A13119885.title: "&4&lI Have No Enemies"
 	quest.0FE71451D75C09C3.quest_desc: [
-		"Catch a wild Dragonite."
+		"Catch a wild Dragonite, Garchomp, Salamence, Hydreigon, Haxorus, and Baxcalibur."
 		""
 		"&eRewards:&r Jade Orb"
 	]
-	quest.0FE71451D75C09C3.quest_subtitle: "Obtain Dragonite, Garchomp, Salamence, Hydreigon, and Haxorus"
+	quest.0FE71451D75C09C3.quest_subtitle: "Catch Dragonite, Garchomp, Salamence, Hydreigon, Haxorus, and Baxcalibur"
 	quest.0FE71451D75C09C3.title: "&2&lDragon Fan Favs"
 	quest.0FF270D64354AE40.quest_desc: ["Level a Pokémon up to 50."]
 	quest.0FF270D64354AE40.quest_subtitle: "Train a Pokemon to level 50"
@@ -303,13 +303,13 @@
 	quest.250225B9028E1E82.quest_subtitle: "Craft full Aeternium tools"
 	quest.250225B9028E1E82.title: "&5End Forgemaster"
 	quest.2583117E03F62A92.quest_desc: [
-		"Catch 25 Pokemon by fishing."
+		"Catch 100 Pokemon by fishing."
 		""
 		"&7A patient angler reels in the rare ones."
 		""
 		"&eRewards:&r 5x Lure Ball, Moomoo Milk, Bottle Cap"
 	]
-	quest.2583117E03F62A92.quest_subtitle: "Catch 25 by fishing"
+	quest.2583117E03F62A92.quest_subtitle: "Catch 100 by fishing"
 	quest.2583117E03F62A92.title: "&9Reel Master"
 	quest.26444C6E558E4616.quest_desc: [
 		"Defeat 1 Elder Guardian."
@@ -343,7 +343,7 @@
 		""
 		"&7The sea has shown you its deepest secrets."
 		""
-		"&eRewards:&r Blue Orb, 16x Dive Ball"
+		"&eRewards:&r Master Ball Rod"
 	]
 	quest.29BACC3A3FD375E3.quest_subtitle: "Fish 250 Pokemon from the deep"
 	quest.29BACC3A3FD375E3.title: "&1&lLeviathan's Lure"

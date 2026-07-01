@@ -2301,7 +2301,7 @@
 			tasks: [{
 				abilities: ""
 				action: "fishing"
-				amount: 25L
+				amount: 100L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -2333,10 +2333,7 @@
 		{
 			dependencies: ["2583117E03F62A92"]
 			icon: {
-				components: {
-					"cobblemon_quest_icons:species": "cobblemon:kyogre"
-				}
-				id: "cobblemon_quest_icons:pokemon_icon"
+				id: "cobblemon:master_rod"
 			}
 			id: "29BACC3A3FD375E3"
 			rewards: [
@@ -2344,16 +2341,23 @@
 					id: "29BACC3A11111001"
 					item: {
 						count: 1
-						id: "mythsandlegends:blue_orb"
+						id: "cobblemon:master_rod"
 					}
 					type: "item"
 				}
 				{
-					count: 16
 					id: "29BACC3A11111002"
 					item: {
 						count: 1
-						id: "cobblemon:dive_ball"
+						id: "mega_showdown:water_tera_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "29BACC3A11111003"
+					item: {
+						count: 1
+						id: "mega_showdown:splash_plate"
 					}
 					type: "item"
 				}
@@ -2538,7 +2542,7 @@
 		{
 			icon: {
 				components: {
-					"cobblemon_quest_icons:species": "cobblemon:cosmog"
+					"cobblemon_quest_icons:species": "cobblemon:genesect"
 				}
 				id: "cobblemon_quest_icons:pokemon_icon"
 			}
@@ -2549,14 +2553,6 @@
 					item: {
 						count: 1
 						id: "mythsandlegends:genesect_drive"
-					}
-					type: "item"
-				}
-				{
-					id: "312D610C11111002"
-					item: {
-						count: 1
-						id: "wanteditems:shiny_swapper"
 					}
 					type: "item"
 				}
@@ -3684,7 +3680,7 @@
 			id: "5BAD3A77AAAA0002"
 			rewards: [{
 				auto: "disabled"
-				command: "givepokemonegg @p pichu"
+				command: "/givepokemonegg @p pichu"
 				id: "5BAD3A77BBBB0002"
 				type: "command"
 			}]
@@ -3731,7 +3727,7 @@
 			id: "5BAD3A77AAAA0003"
 			rewards: [{
 				auto: "disabled"
-				command: "givepokemonegg @p mimejr"
+				command: "/givepokemonegg @p mimejr"
 				id: "5BAD3A77BBBB0003"
 				type: "command"
 			}]
@@ -3755,7 +3751,7 @@
 			id: "5BAD3A77AAAA0004"
 			rewards: [{
 				auto: "disabled"
-				command: "givepokemonegg @p tyrogue"
+				command: "/givepokemonegg @p tyrogue"
 				id: "5BAD3A77BBBB0004"
 				type: "command"
 			}]
@@ -3777,7 +3773,7 @@
 			id: "5BAD3A77AAAA0005"
 			rewards: [{
 				auto: "disabled"
-				command: "givepokemonegg @p munchlax"
+				command: "/givepokemonegg @p munchlax"
 				id: "5BAD3A77BBBB0005"
 				type: "command"
 			}]
@@ -3801,7 +3797,7 @@
 			id: "5BAD3A77AAAA0006"
 			rewards: [{
 				auto: "disabled"
-				command: "givepokemonegg @p toxel"
+				command: "/givepokemonegg @p toxel"
 				id: "5BAD3A77BBBB0006"
 				type: "command"
 			}]
@@ -4532,7 +4528,7 @@
 					id: "4960DAF511111002"
 					item: {
 						count: 1
-						id: "cobblemon:ancient_origin_ball"
+						id: "wanteditems:shiny_swapper"
 					}
 					type: "item"
 				}

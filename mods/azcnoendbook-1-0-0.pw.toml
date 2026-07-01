@@ -1,0 +1,8 @@
+name = "azcnoendbook-1.0.0"
+filename = "azcnoendbook-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcnoendbook-1.0.0.jar"
+hash-format = "sha256"
+hash = "d767542274f1286a9fdc84d77efcbbec010461c04f88894b6e4089ae1de48993"

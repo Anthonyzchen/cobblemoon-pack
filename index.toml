@@ -18,7 +18,7 @@ hash = "fad4ca69e7da7c29736145c867bbe17eb414cf20cff2bbdd490dd32b78cafb08"
 
 [[files]]
 file = "config/antientitygrief.json"
-hash = "ddf411926e154dcd4bfbe6f48de9f0f5ab589e0cacdbd8285516137ee5c3cd94"
+hash = "289d57e0711027cadb2bf402764d438d3ecc87bd9f08775e802623237dce161d"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
@@ -122,7 +122,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "bd4ecff40ddbd23adef6a912d7c99109d9428714b9c99d6ec8ffdc55a89cda51"
+hash = "734ab74923f629b6c7b0742b20e9d798eb9121ebbec398c85f2c231e127241b8"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -454,11 +454,11 @@ hash = "3de94cbbb1fa51f1221fe9768e33994162a8cf7ce22df09361c40322c3dc3b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
-hash = "3b300f1b75947ac0d0127620c295f87d2068e00e21ab7cb2be67d69b01443cd4"
+hash = "97f86d4796735d54cd2798c3618ee8b6b596b345d3d8da6c73dd0f93fd6f57f1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
-hash = "8039005f2710975ea5782b5f7aa33d475e0374ad3769ad824860698da55aa8ca"
+hash = "0a638c05d3969f24b764a4f87cb565dd0de51746b1a33b48cf97b119ae897381"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -466,7 +466,7 @@ hash = "cb03a0529db6e5c2ba1368526860309d48d0afb6077c785c91ae25d46512131e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "d646081a65eb27e57e7336d6a155e6f9d7ceb2fde164996f627830bcfcf5f0bd"
+hash = "887f7041fa3d49733ba112f917443b783fc47f79b7932f93051ea0bbee082ac3"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -826,7 +826,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "d41bfdfa56878efae07a719edf0f0b5860bc17200343f824f0609e9fb0261e79"
+hash = "e8d4caa4937b3646f80053c56380c6a13048f79ee0c51d9d0fc1f99272968622"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -2922,7 +2922,7 @@ hash = "4204bfeb01243e433358234d17287c6aec951fd24de5722c3191d40c7d30e9e2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "b6d51f22f1e14c73244a8cf586bcc9b86fe3ab67eb1d26d74ad79a1aa9052f55"
+hash = "5f0b1d5da5bf67a16e1ac7fb9b00ee1bed7a2936e1545595bc5272c2380fb8e6"
 
 [[files]]
 file = "config/waystones_client_save.json"
@@ -3035,6 +3035,11 @@ hash = "a0b4b3529648267cfe0f2d2dd9278f0763c9faab0cc06690ff961e28c0a3c988"
 metafile = true
 
 [[files]]
+file = "mods/almanac-1-21-1-2-fabric-1-5-2.pw.toml"
+hash = "7786e1eb46b0e30295a5f94a986f9448444cdc7aeae84c575cfc4d934b9c47bc"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds-fabric-v6-3-8-mc1-21-1.pw.toml"
 hash = "a2c7081af36b704d68190c4a0394aafb49e41cf5e95ba3919906c1b7e97ece75"
 metafile = true
@@ -3062,11 +3067,6 @@ metafile = true
 [[files]]
 file = "mods/azc-tooltips-1-0-0.pw.toml"
 hash = "e131c82a75b0ed673051cec28095a39dbd9ee651318bd30693da8d1f49228d29"
-metafile = true
-
-[[files]]
-file = "mods/azcairstamina-1-0-0.pw.toml"
-hash = "fef00b6beb539d7b9efb3fd72cdc67dc0db9b8d2f9c39384aa9a62cf2ff74e30"
 metafile = true
 
 [[files]]
@@ -3105,8 +3105,13 @@ hash = "937e88177baf6fd3a07679ca99d43aab724b7efe6d52bae8f0ae781b2e3d7992"
 metafile = true
 
 [[files]]
-file = "mods/azcrctdynamax-1-0-0.pw.toml"
-hash = "07e94f319a3aa97df8b14b9e70cdde30bc1bdfea0611ae343a9c7298e9c3933a"
+file = "mods/azcnoendbook-1-0-0.pw.toml"
+hash = "9024381ff202391d4d80a45f4bcaf61a7ab7e19c35cf3d82a265b4907b937c3f"
+metafile = true
+
+[[files]]
+file = "mods/azcrctdynamax-1-1-0.pw.toml"
+hash = "429716bea21f75ae99fe600493443eae4b309d1bc484f5525eeb698dde5fc16c"
 metafile = true
 
 [[files]]
@@ -3120,8 +3125,13 @@ hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerrotation-1-1-0.pw.toml"
-hash = "001cb4c3c7817a8d1569105b54f10fa0d9429f06ed9bd0688b8c8d9372e92bab"
+file = "mods/azcsmarttera-1-0-0.pw.toml"
+hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
+metafile = true
+
+[[files]]
+file = "mods/azctrainerrotation-1-2-0.pw.toml"
+hash = "7964de2e4ba01ac1845fadb570689dd8364fb64be22960671bf4294f6ac833e7"
 metafile = true
 
 [[files]]
@@ -3485,6 +3495,11 @@ hash = "1b0399a460a3cf40a25c43049e0203b094fb922a453e2f489213e65416033a5d"
 metafile = true
 
 [[files]]
+file = "mods/letmedespawn-1-21-x-fabric-1-5-0.pw.toml"
+hash = "907a1b3a00513c9564d107d564c7cf83931510ae727811da3950e450eb46266b"
+metafile = true
+
+[[files]]
 file = "mods/libipn-fabric-1-21-1-6-6-3.pw.toml"
 hash = "2cbfbd486457d6919d302a55810f43d6416dca68eb493d4b04ec888eb936a32d"
 metafile = true
@@ -3715,11 +3730,6 @@ hash = "70a62b306b953c0a40f886bf04f83df03a59e1a946958e78e1e9dbdde64cc52f"
 metafile = true
 
 [[files]]
-file = "mods/settlement-roads-2-0-1.pw.toml"
-hash = "3fa1515327e1b3abe01e96c1a0d06b03d6aa58df1a5d4a7a98d84a7e50ffc90e"
-metafile = true
-
-[[files]]
 file = "mods/shadowcrates-2-3.pw.toml"
 hash = "10fb48fe7e745bb0fb5d1deca36fdc7be7ac9acc5511f8ba4a90e0aef5762bb1"
 metafile = true
@@ -3747,6 +3757,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-fabric-0-6-9-mc1-21-1.pw.toml"
 hash = "7ec202f9ac51629902c59cd16082cc2f607a9fec4ecae0309e781311c0867248"
+metafile = true
+
+[[files]]
+file = "mods/spark-1-10-109-fabric.pw.toml"
+hash = "7c3ca0d14d3e40b55a08a78bb0aed64d48160ca135e0071274b900aa3ba6cf50"
 metafile = true
 
 [[files]]

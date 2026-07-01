@@ -25,6 +25,7 @@ local=set()
 for j in glob.glob(INST+"/mods/*.jar"):
     fn0=os.path.basename(j)
     if fn0.startswith("Axiom"): continue
+    if fn0.startswith("azcpokemonshowcase"): continue  # server-only chat decorator; never ship to clients
     fn=fn0.replace("[","").replace("]","")  # bracket-free for GCS
     local.add(fn); h=sha(j)
     if fn in have and have[fn][1]==h: continue   # unchanged

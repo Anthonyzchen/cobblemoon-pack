@@ -1,8 +1,0 @@
-name = "settlement-roads-2.0.1"
-filename = "settlement-roads-2.0.1.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/settlement-roads-2.0.1.jar"
-hash-format = "sha256"
-hash = "bd39a15a65eed675c5b4248f2f6f511fe96efa0bdaa759a3d10a316e7b54eb12"
