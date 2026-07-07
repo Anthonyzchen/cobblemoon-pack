@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azccobblerumble-1.0.0.jar"
 hash-format = "sha256"
-hash = "d109f4490be1d6ec4229e46cf2fd3a365bb23784a05abcb600b169d40b4f14a6"
+hash = "aeb194ef60642bf5b83199fdeeaa70e655f5324bf817815f4f7368a92e5c0664"

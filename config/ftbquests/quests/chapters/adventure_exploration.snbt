@@ -3713,15 +3713,26 @@
 				id: "minecraft:jungle_leaves"
 			}
 			id: "5D4A0E1100000002"
-			rewards: [{
-				count: 32
-				id: "5D4A0E1100000031"
-				item: {
-					count: 1
-					id: "minecraft:jungle_leaves"
+			rewards: [
+				{
+					count: 5
+					id: "5D4A0E1100000031"
+					item: {
+						count: 1
+						id: "cobblemon:safari_ball"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 5
+					id: "5D4A0E1100000032"
+					item: {
+						count: 1
+						id: "cobblemon:sitrus_berry"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				abilities: ""
 				action: "catch"
@@ -3760,15 +3771,25 @@
 				id: "minecraft:jungle_leaves"
 			}
 			id: "5D4A0E1100000003"
-			rewards: [{
-				count: 64
-				id: "5D4A0E1100000041"
-				item: {
-					count: 1
-					id: "minecraft:jungle_leaves"
+			rewards: [
+				{
+					count: 12
+					id: "5D4A0E1100000041"
+					item: {
+						count: 1
+						id: "cobblemon:safari_ball"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5D4A0E1100000042"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_sack"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				abilities: ""
 				action: "catch"
