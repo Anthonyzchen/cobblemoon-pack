@@ -1,0 +1,8 @@
+name = "azcbattlehudfix-1.0.0"
+filename = "azcbattlehudfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcbattlehudfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "d956a9303039c5619f34db181204af9344ce87141450cfbe83fa2dc76c7f5079"

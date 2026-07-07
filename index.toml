@@ -198,7 +198,7 @@ hash = "0563af57150ac2f032dd9212f28c8e189d9fbef92fb3fd55915099ff155deb3b"
 
 [[files]]
 file = "config/cobbledlevels.json"
-hash = "3bd02e1b6e36a8d9a1f3c48eabf5ff3474bf0943c7571a90e1f07e1652efc654"
+hash = "b2d3bbbbf29f598e2b846043a1515ebe8adf7756dd41a2a626cfb4e5946a8f92"
 
 [[files]]
 file = "config/cobbleloots.json"
@@ -210,7 +210,7 @@ hash = "34db13615bfbad16a8a5528c990a520daac106c24735d747c42238f0dca782d6"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
-hash = "6290d98406d9a585f44563049a0c717bfc02c3a488d72948d1d92528f405abfd"
+hash = "1a2dfa769e5c68ab4d569d4daf6df23c6d0d5f1a887e5c822f6486dbc7d3fc4d"
 
 [[files]]
 file = "config/cobblemon/starters.json"
@@ -446,6 +446,10 @@ hash = "4c560f78a0dae367bda8ba116debf92a2ad3897cfb39c0ce1c676e9e9c6227c7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure_exploration.snbt"
+hash = "716fa6804d9a72bd243e1492af17a2afaf8bb9e949dee143959a90c5c4a9ce6a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/adventure_exploration.snbt.bak-mewlevel-20260703"
 hash = "a9adb493d1318304b2d6c20b79fd8a50f3ee4217f664ebfe8c5f55837bc4f91a"
 
 [[files]]
@@ -454,11 +458,11 @@ hash = "3de94cbbb1fa51f1221fe9768e33994162a8cf7ce22df09361c40322c3dc3b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
-hash = "97f86d4796735d54cd2798c3618ee8b6b596b345d3d8da6c73dd0f93fd6f57f1"
+hash = "9a9c9335e1f178373fea0f58fad6b0ffc1cf7bf2850967198cb529a3a9e72c49"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
-hash = "0a638c05d3969f24b764a4f87cb565dd0de51746b1a33b48cf97b119ae897381"
+hash = "9204b0a7fa2e3a95cebf31881118a665b968aa8a758300356edd37caf2dc2271"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -466,7 +470,7 @@ hash = "cb03a0529db6e5c2ba1368526860309d48d0afb6077c785c91ae25d46512131e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "887f7041fa3d49733ba112f917443b783fc47f79b7932f93051ea0bbee082ac3"
+hash = "58b1f270a8b9330c446a8a2d621ab09c14b2fd8e47e25695dbb2b6d25692fbfa"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -750,6 +754,10 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json"
+hash = "41004c8e2486a61373496396b6e4bfec844481888936134641a8aafa789756de"
+
+[[files]]
+file = "config/mythsandlegends/loot_tables_config.json.bak-ratetune-20260702"
 hash = "e776f17b3e33dfc1c08b485b61a9d50c88616d3f993c27dac26a0015903a24e0"
 
 [[files]]
@@ -3075,13 +3083,23 @@ hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
 metafile = true
 
 [[files]]
+file = "mods/azcbattlehudfix-1-0-0.pw.toml"
+hash = "7d3efe0035e2a8cf5ba4cf4000de3336faf2ff1ee4b094016c38f4af984657b9"
+metafile = true
+
+[[files]]
 file = "mods/azccmodelsilent-1-1-0.pw.toml"
 hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azcdittolock-1-0-0.pw.toml"
-hash = "1e65a46217f5d17a7823494b7b3ef70677698e28bdedbe2f6436b1f0d7756391"
+file = "mods/azccobblerumble-1-0-0.pw.toml"
+hash = "1c248a8f993ec218be9b6f92e4a56fa2e4d1188098e4a1639b6141c85375ce22"
+metafile = true
+
+[[files]]
+file = "mods/azcdittolock-1-1-0.pw.toml"
+hash = "0b782b628c60db715d8e6e938b92e0189091856b2377a0f21b8f65110054b4a5"
 metafile = true
 
 [[files]]
@@ -3095,8 +3113,8 @@ hash = "2f5f5c35d698971a0fce6e137e22199e0d72135449b98d21fd27beb67ea9a448"
 metafile = true
 
 [[files]]
-file = "mods/azcgymlockout-1-4-0.pw.toml"
-hash = "3e7679ca6b51a47adca88f758df527f98451dfc33650e59769e0532e0b8c794a"
+file = "mods/azcgymlockout-1-5-0.pw.toml"
+hash = "d1f4a458bb533090dbf7078940d428e92a12dc1dda5bf5174f8531f54456fecf"
 metafile = true
 
 [[files]]
@@ -3122,6 +3140,11 @@ metafile = true
 [[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
 hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/azcsmartmega-1-0-0.pw.toml"
+hash = "cca82b4f347fba03d7f3de9102636354491e1d9c14cfbfc054e64a10d387c3f6"
 metafile = true
 
 [[files]]
@@ -3216,7 +3239,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-fabric-1-7-3-1-21-1.pw.toml"
-hash = "f8736526ac93c76fb5a61eff6f2ca1632806bf342c5990f12151c5c345d6282c"
+hash = "271b600e1dc35def2756b4628b7b2117ffb4d93e236255313875d29ddf636047"
 metafile = true
 
 [[files]]

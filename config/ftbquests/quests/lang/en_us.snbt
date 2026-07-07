@@ -406,7 +406,7 @@
 	quest.312D610C0880B58B.quest_desc: [
 		"Complete the quest objective."
 		""
-		"&eRewards:&r Genesect Drive, Shiny Swapper"
+		"&eRewards:&r Genesect Drive"
 	]
 	quest.312D610C0880B58B.quest_subtitle: "Obtain all 9 Eeveelutions"
 	quest.312D610C0880B58B.title: "&3Eeveelution"

@@ -1784,7 +1784,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0001"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1813,7 +1813,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0002"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1842,7 +1842,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0003"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1871,7 +1871,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0004"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1900,7 +1900,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0005"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1929,7 +1929,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0006"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1958,7 +1958,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0007"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -1987,7 +1987,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0008"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2016,7 +2016,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0009"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2045,7 +2045,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000A"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2074,7 +2074,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000B"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2103,7 +2103,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000C"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2132,7 +2132,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000D"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2161,7 +2161,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000E"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2190,7 +2190,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC000F"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2219,7 +2219,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0010"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2248,7 +2248,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0011"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2277,7 +2277,7 @@
 					gender: ""
 					held_items: ""
 					id: "5BAD4D77CCCC0012"
-					max_level: 100
+					max_level: 0
 					max_turns: 0
 					min_level: 50
 					moves: ""
@@ -2459,6 +2459,15 @@
 					item: {
 						count: 1
 						id: "minecraft:end_crystal"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6A1E9F35C8B72D4F"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
 					}
 					type: "item"
 				}

@@ -274,13 +274,12 @@
 					type: "item"
 				}
 				{
-					count: 5
+					auto: "enabled"
+					command: "/crate key give uncommon 1 @p"
 					id: "2B7227B411111002"
-					item: {
-						count: 1
-						id: "cobblemon:rare_candy"
-					}
-					type: "item"
+					permission_level: 4
+					silent: true
+					type: "command"
 				}
 			]
 			size: 1.5d
@@ -1791,7 +1790,7 @@
 				id: "70E123CE24008CD0"
 				item: {
 					count: 1
-					id: "wanteditems:gold_bottle_cap"
+					id: "wanteditems:bottle_cap"
 				}
 				type: "item"
 			}]
@@ -3095,7 +3094,7 @@
 		}
 		{
 			icon: {
-				id: "cobblemon:exp_candy_xl"
+				id: "cobblemonraiddens:raid_crystal_block"
 			}
 			id: "769A06A47D36272F"
 			rewards: [{
@@ -3681,6 +3680,7 @@
 			rewards: [{
 				auto: "disabled"
 				command: "/givepokemonegg @p pichu"
+				permission_level: 4
 				id: "5BAD3A77BBBB0002"
 				type: "command"
 			}]
@@ -3728,6 +3728,7 @@
 			rewards: [{
 				auto: "disabled"
 				command: "/givepokemonegg @p mimejr"
+				permission_level: 4
 				id: "5BAD3A77BBBB0003"
 				type: "command"
 			}]
@@ -3752,6 +3753,7 @@
 			rewards: [{
 				auto: "disabled"
 				command: "/givepokemonegg @p tyrogue"
+				permission_level: 4
 				id: "5BAD3A77BBBB0004"
 				type: "command"
 			}]
@@ -3774,6 +3776,7 @@
 			rewards: [{
 				auto: "disabled"
 				command: "/givepokemonegg @p munchlax"
+				permission_level: 4
 				id: "5BAD3A77BBBB0005"
 				type: "command"
 			}]
@@ -3798,6 +3801,7 @@
 			rewards: [{
 				auto: "disabled"
 				command: "/givepokemonegg @p toxel"
+				permission_level: 4
 				id: "5BAD3A77BBBB0006"
 				type: "command"
 			}]
@@ -3806,13 +3810,13 @@
 				{
 					consume_items: true
 					id: "5BAD3A77CCCC0006"
-					item: { count: 1, id: "minecraft:lightning_rod" }
+					item: { count: 1, id: "simpletms:tr_thunderbolt" }
 					type: "item"
 				}
 				{
 					consume_items: true
 					id: "5BAD3A77CCCC0007"
-					item: { components: { "minecraft:potion_contents": { potion: "minecraft:strong_poison" } }, count: 1, id: "minecraft:potion" }
+					item: { count: 1, id: "cobblemon:poison_gem" }
 					type: "item"
 				}
 			]
@@ -6123,7 +6127,7 @@
 			tasks: [
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6152,7 +6156,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6181,7 +6185,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6210,7 +6214,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6239,7 +6243,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6268,7 +6272,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6297,7 +6301,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6326,7 +6330,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6355,7 +6359,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6384,7 +6388,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6413,7 +6417,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6442,7 +6446,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6471,7 +6475,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6500,7 +6504,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6529,7 +6533,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6558,7 +6562,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6587,7 +6591,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6616,7 +6620,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""
@@ -6645,7 +6649,7 @@
 				}
 				{
 					abilities: ""
-					action: "obtain"
+					action: "obtain,hatch_egg"
 					amount: 1L
 					aspects: ""
 					biome: ""

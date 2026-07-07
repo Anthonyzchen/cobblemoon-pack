@@ -4773,7 +4773,7 @@
       {
         "groupName": "v2_jungle_beasts",
         "enabled": true,
-        "chance": 0.0044,
+        "chance": 0.003,
         "rolls": 1,
         "entries": [
           {
@@ -5365,20 +5365,6 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
-      },
-      {
-        "groupName": "v2_trail_ruins_beasts",
-        "enabled": true,
-        "chance": 0.001,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:rainbow_wing",
-            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -6668,7 +6654,7 @@
       {
         "groupName": "v2_mansion_beasts",
         "enabled": true,
-        "chance": 0.0044,
+        "chance": 0.003,
         "rolls": 1,
         "entries": [
           {
@@ -6838,15 +6824,7 @@
             "weight": 5,
             "minCount": 1,
             "maxCount": 1
-          }
-        ]
-      },
-      {
-        "groupName": "v2_end_city_hooh",
-        "enabled": true,
-        "chance": 0.003,
-        "rolls": 1,
-        "entries": [
+          },
           {
             "itemId": "mythsandlegends:clear_bell",
             "weight": 1,
@@ -9540,7 +9518,7 @@
       {
         "groupName": "v2_trial_chambers_legends",
         "enabled": true,
-        "chance": 0.015,
+        "chance": 0.01,
         "rolls": 1,
         "entries": [
           {
@@ -9575,7 +9553,7 @@
           },
           {
             "itemId": "mythsandlegends:plasma_tablet",
-            "weight": 9,
+            "weight": 5,
             "minCount": 1,
             "maxCount": 1
           }
@@ -10016,7 +9994,7 @@
       {
         "groupName": "v2_underwater_birds",
         "enabled": true,
-        "chance": 0.0045,
+        "chance": 0.0035,
         "rolls": 1,
         "entries": [
           {
@@ -10858,20 +10836,6 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
-      },
-      {
-        "groupName": "v2_trial_pot_kubfu",
-        "enabled": true,
-        "chance": 2.6e-06,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:kubfus_band",
-            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -11898,7 +11862,7 @@
       {
         "groupName": "v2_stronghold_corridor_legends",
         "enabled": true,
-        "chance": 0.011,
+        "chance": 0.008,
         "rolls": 1,
         "entries": [
           {
@@ -13816,7 +13780,7 @@
       {
         "groupName": "v2_bastion_treasure_legends",
         "enabled": true,
-        "chance": 0.008,
+        "chance": 0.004,
         "rolls": 1,
         "entries": [
           {
@@ -14664,20 +14628,6 @@
             "maxCount": 1
           }
         ]
-      },
-      {
-        "groupName": "v2_ocean_ruin_warm_beasts",
-        "enabled": true,
-        "chance": 0.001,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:rainbow_wing",
-            "weight": 1,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
       }
     ],
     "minecraft:chests/underwater_ruin_small": [
@@ -15114,7 +15064,7 @@
       {
         "groupName": "v2_underwater_birds",
         "enabled": true,
-        "chance": 0.0045,
+        "chance": 0.0035,
         "rolls": 1,
         "entries": [
           {
@@ -16845,7 +16795,7 @@
       {
         "groupName": "v2_nether_bridge_legends",
         "enabled": true,
-        "chance": 0.008,
+        "chance": 0.002,
         "rolls": 1,
         "entries": [
           {
@@ -17709,7 +17659,7 @@
       {
         "groupName": "v2_buried_treasure_legends",
         "enabled": true,
-        "chance": 0.015,
+        "chance": 0.008,
         "rolls": 1,
         "entries": [
           {
@@ -18151,20 +18101,6 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
-      },
-      {
-        "groupName": "v2_dungeon_regirock",
-        "enabled": true,
-        "chance": 0.002,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:stone_tablet",
-            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -21095,20 +21031,6 @@
             "maxCount": 1
           }
         ]
-      },
-      {
-        "groupName": "v2_ocean_ruin_cold_beasts",
-        "enabled": true,
-        "chance": 0.001,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:rainbow_wing",
-            "weight": 1,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
       }
     ],
     "minecraft:chests/shipwreck_treasure": [
@@ -21545,26 +21467,18 @@
       {
         "groupName": "v2_shipwreck_treasure_legends",
         "enabled": true,
-        "chance": 0.004167,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:reveal_glass",
-            "weight": 5,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
-      },
-      {
-        "groupName": "v2_shipwreck_lugia",
-        "enabled": true,
-        "chance": 0.003,
+        "chance": 0.005,
         "rolls": 1,
         "entries": [
           {
             "itemId": "mythsandlegends:tidal_bell",
             "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          },
+          {
+            "itemId": "mythsandlegends:reveal_glass",
+            "weight": 5,
             "minCount": 1,
             "maxCount": 1
           }
@@ -26267,7 +26181,7 @@
       {
         "groupName": "v2_desert_pyramid_legends",
         "enabled": true,
-        "chance": 0.008,
+        "chance": 0.004,
         "rolls": 1,
         "entries": [
           {
@@ -26283,7 +26197,7 @@
       {
         "groupName": "v2_pyramid_beasts",
         "enabled": true,
-        "chance": 0.0044,
+        "chance": 0.003,
         "rolls": 1,
         "entries": [
           {
@@ -29225,7 +29139,7 @@
       {
         "groupName": "v2_moon_dungeon_legends",
         "enabled": true,
-        "chance": 0.012,
+        "chance": 0.0075,
         "rolls": 1,
         "entries": [
           {
@@ -29247,7 +29161,7 @@
       {
         "groupName": "v2_moon_large_dungeon_legends",
         "enabled": true,
-        "chance": 0.012,
+        "chance": 0.0075,
         "rolls": 1,
         "entries": [
           {

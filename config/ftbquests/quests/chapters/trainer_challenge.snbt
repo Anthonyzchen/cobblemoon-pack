@@ -19,6 +19,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series radicalred @p"
+				permission_level: 4
 				id: "3C1A394B54F4B59B"
 				type: "command"
 			}]
@@ -40,6 +41,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series hoenngymchallenge @p"
+				permission_level: 4
 				id: "7B021A88B55337FA"
 				type: "command"
 			}]
@@ -60,6 +62,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series sinnohgymchallenge @p"
+				permission_level: 4
 				id: "6FF3AC69511DE816"
 				type: "command"
 			}]
@@ -80,6 +83,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series unovagymchallenge @p"
+				permission_level: 4
 				id: "710927612C079AB3"
 				type: "command"
 			}]
@@ -100,6 +104,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series kalosgymchallenge @p"
+				permission_level: 4
 				id: "040D8CB0B2764492"
 				type: "command"
 			}]
@@ -120,6 +125,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series paldeagymchallenge @p"
+				permission_level: 4
 				id: "47222CEC1CC585A1"
 				type: "command"
 			}]
@@ -141,6 +147,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series hoennleague @p"
+				permission_level: 4
 				id: "14D6D717D39EAEDC"
 				type: "command"
 			}]
@@ -161,6 +168,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series unovaleague @p"
+				permission_level: 4
 				id: "0A2B3C4D5E6F7A22"
 				type: "command"
 			}]
@@ -181,6 +189,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series paldeaelitefour @p"
+				permission_level: 4
 				id: "0A2B3C4D5E6F7A32"
 				type: "command"
 			}]
@@ -201,6 +210,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series teammagma @p"
+				permission_level: 4
 				id: "127FFC1F2229C496"
 				type: "command"
 			}]
@@ -221,6 +231,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series teamaqua @p"
+				permission_level: 4
 				id: "5F661BBD226849EA"
 				type: "command"
 			}]
@@ -241,6 +252,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series teamplasma @p"
+				permission_level: 4
 				id: "0A2B3C4D5E6F7A41"
 				type: "command"
 			}]
@@ -261,6 +273,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series starfallstreet @p"
+				permission_level: 4
 				id: "05737A1983ADB240"
 				type: "command"
 			}]
@@ -281,6 +294,7 @@
 			rewards: [{
 				auto: "enabled"
 				command: "/rctmod player set series pokespe @p"
+				permission_level: 4
 				id: "0D4B732075138DE3"
 				type: "command"
 			}]

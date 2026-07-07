@@ -1,0 +1,8 @@
+name = "azcsmartmega-1.0.0"
+filename = "azcsmartmega-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcsmartmega-1.0.0.jar"
+hash-format = "sha256"
+hash = "24d7ffd663414ccaa001400a3c0760a13bb633f897ac9f203933d1cb39c09aea"
