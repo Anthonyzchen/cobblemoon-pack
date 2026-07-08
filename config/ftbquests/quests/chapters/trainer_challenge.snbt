@@ -17,7 +17,7 @@
 			}
 			id: "48CE2895DB4F83C7"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series radicalred @p"
 				permission_level: 4
 				id: "3C1A394B54F4B59B"
@@ -39,7 +39,7 @@
 			}
 			id: "4C12C18FF68CDCFB"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series hoenngymchallenge @p"
 				permission_level: 4
 				id: "7B021A88B55337FA"
@@ -60,7 +60,7 @@
 			}
 			id: "668B92821BCBD8A0"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series sinnohgymchallenge @p"
 				permission_level: 4
 				id: "6FF3AC69511DE816"
@@ -81,7 +81,7 @@
 			}
 			id: "094B857933311841"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series unovagymchallenge @p"
 				permission_level: 4
 				id: "710927612C079AB3"
@@ -102,7 +102,7 @@
 			}
 			id: "4CF38712A6C7622A"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series kalosgymchallenge @p"
 				permission_level: 4
 				id: "040D8CB0B2764492"
@@ -123,7 +123,7 @@
 			}
 			id: "1FCE73E6CE0AC333"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series paldeagymchallenge @p"
 				permission_level: 4
 				id: "47222CEC1CC585A1"
@@ -145,7 +145,7 @@
 			}
 			id: "79D6614EF42A693E"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series hoennleague @p"
 				permission_level: 4
 				id: "14D6D717D39EAEDC"
@@ -166,7 +166,7 @@
 			}
 			id: "0A2B3C4D5E6F7A21"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series unovaleague @p"
 				permission_level: 4
 				id: "0A2B3C4D5E6F7A22"
@@ -187,7 +187,7 @@
 			}
 			id: "0A2B3C4D5E6F7A31"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series paldeaelitefour @p"
 				permission_level: 4
 				id: "0A2B3C4D5E6F7A32"
@@ -208,7 +208,7 @@
 			}
 			id: "4DC83CC8EEDDFD4E"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series teammagma @p"
 				permission_level: 4
 				id: "127FFC1F2229C496"
@@ -229,7 +229,7 @@
 			}
 			id: "5D1515BCB7D31EC2"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series teamaqua @p"
 				permission_level: 4
 				id: "5F661BBD226849EA"
@@ -250,7 +250,7 @@
 			}
 			id: "0A2B3C4D5E6F7A40"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series teamplasma @p"
 				permission_level: 4
 				id: "0A2B3C4D5E6F7A41"
@@ -271,7 +271,7 @@
 			}
 			id: "5DD89FF9EF4B12B2"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series starfallstreet @p"
 				permission_level: 4
 				id: "05737A1983ADB240"
@@ -292,7 +292,7 @@
 			}
 			id: "15FD3B734E9B5FCC"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/rctmod player set series pokespe @p"
 				permission_level: 4
 				id: "0D4B732075138DE3"

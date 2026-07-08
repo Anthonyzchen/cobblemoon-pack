@@ -1252,6 +1252,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "cobblemon:gilded_chest": [
@@ -2126,6 +2140,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/ancient_city_ice_box": [
@@ -2567,6 +2595,20 @@
           {
             "itemId": "mythsandlegends:ice_tablet",
             "weight": 5,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -4733,12 +4775,6 @@
         "rolls": 1,
         "entries": [
           {
-            "itemId": "mythsandlegends:kubfus_band",
-            "weight": 5,
-            "minCount": 1,
-            "maxCount": 1
-          },
-          {
             "itemId": "mythsandlegends:scroll_of_water",
             "weight": 5,
             "minCount": 1,
@@ -4792,6 +4828,20 @@
         "entries": [
           {
             "itemId": "ad_astra:mercury_globe",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
             "weight": 1,
             "minCount": 1,
             "maxCount": 1
@@ -4936,19 +4986,15 @@
       },
       {
         "groupName": "v2_ancient_city_legends",
-        "enabled": false,
-        "chance": 0.004,
+        "enabled": true,
+        "chance": 0.003333,
         "rolls": 1,
         "entries": [
           {
             "itemId": "mythsandlegends:cavern_shield",
-            "weight": 5,
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
-          },
-          {
-            "itemId": "mythsandlegends:type_null_mask",
-            "weight": 3
           }
         ]
       }
@@ -5383,6 +5429,34 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_trail_ruins_virizion",
+        "enabled": true,
+        "chance": 0.003333,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:grassland_blade",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/stronghold_crossing": [
@@ -5797,6 +5871,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -6678,6 +6766,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/end_city_treasure": [
@@ -7268,6 +7370,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -10026,6 +10142,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:gameplay/hero_of_the_village/librarian_gift": [
@@ -10862,20 +10992,6 @@
             "maxCount": 1
           }
         ]
-      },
-      {
-        "groupName": "v2_trial_pot_kubfu",
-        "enabled": true,
-        "chance": 2.6e-06,
-        "rolls": 1,
-        "entries": [
-          {
-            "itemId": "mythsandlegends:kubfus_band",
-            "weight": 1,
-            "minCount": 1,
-            "maxCount": 1
-          }
-        ]
       }
     ],
     "minecraft:chests/bastion_bridge": [
@@ -11290,6 +11406,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -11910,6 +12040,20 @@
           {
             "itemId": "mythsandlegends:scaly_tablet",
             "weight": 3
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
           }
         ]
       }
@@ -13224,6 +13368,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/stronghold_library": [
@@ -13369,12 +13527,6 @@
         "entries": [
           {
             "itemId": "mythsandlegends:cornerstone_mask",
-            "weight": 5,
-            "minCount": 1,
-            "maxCount": 1
-          },
-          {
-            "itemId": "mythsandlegends:antique_pokeball",
             "weight": 5,
             "minCount": 1,
             "maxCount": 1
@@ -13826,6 +13978,20 @@
           {
             "itemId": "mythsandlegends:steel_tablet",
             "weight": 5
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
           }
         ]
       }
@@ -14678,6 +14844,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/underwater_ruin_small": [
@@ -15124,6 +15304,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/shipwreck_supply": [
@@ -15542,6 +15736,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/village/village_plains_house": [
@@ -15956,6 +16164,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -16861,6 +17083,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/village/village_butcher": [
@@ -17737,6 +17973,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/simple_dungeon": [
@@ -18169,6 +18419,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/ruined_portal": [
@@ -18583,6 +18847,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -19005,6 +19283,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:archaeology/desert_pyramid": [
@@ -19419,6 +19711,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -21109,6 +21415,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/shipwreck_treasure": [
@@ -21564,6 +21884,20 @@
         "entries": [
           {
             "itemId": "mythsandlegends:tidal_bell",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
             "weight": 1,
             "minCount": 1,
             "maxCount": 1
@@ -22405,6 +22739,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/village/village_taiga_house": [
@@ -22819,6 +23167,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -23693,6 +24055,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -26273,10 +26649,6 @@
           {
             "itemId": "mythsandlegends:stone_tablet",
             "weight": 5
-          },
-          {
-            "itemId": "mythsandlegends:antique_pokeball",
-            "weight": 5
           }
         ]
       },
@@ -26288,6 +26660,20 @@
         "entries": [
           {
             "itemId": "mythsandlegends:rainbow_wing",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
             "weight": 1,
             "minCount": 1,
             "maxCount": 1
@@ -27965,6 +28351,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/village/village_cartographer": [
@@ -28379,6 +28779,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }
@@ -28801,6 +29215,20 @@
             "maxCount": 1
           }
         ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
       }
     ],
     "minecraft:chests/bastion_other": [
@@ -29215,6 +29643,20 @@
           {
             "itemId": "mythsandlegends:wellspring_mask",
             "weight": 30,
+            "minCount": 1,
+            "maxCount": 1
+          }
+        ]
+      },
+      {
+        "groupName": "v2_kubfu_spread",
+        "enabled": true,
+        "chance": 2.9188e-05,
+        "rolls": 1,
+        "entries": [
+          {
+            "itemId": "mythsandlegends:kubfus_band",
+            "weight": 1,
             "minCount": 1,
             "maxCount": 1
           }

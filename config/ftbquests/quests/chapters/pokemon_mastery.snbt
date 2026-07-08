@@ -34,7 +34,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give uncommon 1 @p"
 					id: "74D7F80A11111003"
 					permission_level: 4
@@ -100,7 +100,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give uncommon 1 @p"
 					id: "635C39AF11111003"
 					permission_level: 4
@@ -165,7 +165,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give rare 1 @p"
 					id: "02F2E93511111003"
 					permission_level: 4
@@ -274,7 +274,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give uncommon 1 @p"
 					id: "2B7227B411111002"
 					permission_level: 4
@@ -334,7 +334,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give rare 1 @p"
 					id: "205A75F211111002"
 					permission_level: 4
@@ -394,7 +394,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give epic 1 @p"
 					id: "3DDAEC3911111002"
 					permission_level: 4
@@ -4537,7 +4537,7 @@
 					type: "item"
 				}
 				{
-					auto: "enabled"
+					auto: "disabled"
 					command: "/crate key give legendary 1 @p"
 					id: "4960DAF511111003"
 					permission_level: 4
@@ -6689,7 +6689,7 @@
 			}
 			id: "279E1E91E9AA4EF8"
 			rewards: [{
-				auto: "enabled"
+				auto: "disabled"
 				command: "/givepokemonother @p manaphy level=50"
 				id: "3E458E1D86708F12"
 				permission_level: 4

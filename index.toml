@@ -458,11 +458,11 @@ hash = "3de94cbbb1fa51f1221fe9768e33994162a8cf7ce22df09361c40322c3dc3b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/pokemon_mastery.snbt"
-hash = "9a9c9335e1f178373fea0f58fad6b0ffc1cf7bf2850967198cb529a3a9e72c49"
+hash = "72bf8d4f085b0462db656f0cc04899d31d595423b134344191fecd482b5923dd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
-hash = "9204b0a7fa2e3a95cebf31881118a665b968aa8a758300356edd37caf2dc2271"
+hash = "baf5d1c206c614a5c43393b1a31efe740f1aa9ddf4a8801964f4891be640464f"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -754,7 +754,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json"
-hash = "41004c8e2486a61373496396b6e4bfec844481888936134641a8aafa789756de"
+hash = "5fcd786f819b7eab3fd1fcc52ca3db5c96ee7dc773c887fdc4d72949973c8ac1"
 
 [[files]]
 file = "config/mythsandlegends/loot_tables_config.json.bak-ratetune-20260702"
@@ -3094,7 +3094,7 @@ metafile = true
 
 [[files]]
 file = "mods/azccobblerumble-1-0-0.pw.toml"
-hash = "04f4bfed1423680b810fe55531d56bcde5552b99911256dd327eb5a6ab7c43f9"
+hash = "9df73bb036d94d369f6520685ab8b372e096fda9992e602844800533b5768128"
 metafile = true
 
 [[files]]
