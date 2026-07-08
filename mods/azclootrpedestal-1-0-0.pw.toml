@@ -1,0 +1,8 @@
+name = "azclootrpedestal-1.0.0"
+filename = "azclootrpedestal-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azclootrpedestal-1.0.0.jar"
+hash-format = "sha256"
+hash = "27b4762faffa506d3ce624f7e60326b3d1ae256f868e37ad5624d83a849a3055"

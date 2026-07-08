@@ -3039,7 +3039,7 @@ metafile = true
 
 [[files]]
 file = "mods/adastra-fabric-1-21-1-1-16-6.pw.toml"
-hash = "a0b4b3529648267cfe0f2d2dd9278f0763c9faab0cc06690ff961e28c0a3c988"
+hash = "0cc3099f8a7659caaa875aeeedd2657c08c6083ae26285c90fce0d64d3c6b126"
 metafile = true
 
 [[files]]
@@ -3120,6 +3120,11 @@ metafile = true
 [[files]]
 file = "mods/azclevelcapguard-1-0-0.pw.toml"
 hash = "937e88177baf6fd3a07679ca99d43aab724b7efe6d52bae8f0ae781b2e3d7992"
+metafile = true
+
+[[files]]
+file = "mods/azclootrpedestal-1-0-0.pw.toml"
+hash = "f47e2c31dc6ad292cf44ae03f7da5cea670776dab5a2e1822302c4ff5caef1bd"
 metafile = true
 
 [[files]]
