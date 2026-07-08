@@ -10,5 +10,10 @@
     "Features": {
         "highlight_foused_items": false,
         "enable_auto_refill": false
+    },
+    "Hotkeys": {
+        "SORT_INVENTORY": "",
+        "SORT_INVENTORY_IN_COLUMNS": "",
+        "SORT_INVENTORY_IN_ROWS": ""
     }
 }

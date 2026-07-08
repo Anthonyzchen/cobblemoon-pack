@@ -486,7 +486,7 @@ hash = "d8e89791c9e1f33b84eb694ebd306d836d9bd19ef6f040f155e0ace7e1b785f9"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "0fceca0ca0ba151bad788b7b1dc93233687abeee7dd10fe23cb1f832ee6380c1"
+hash = "419645bd72c07bd2382c49d01aa3808141c52213ee780e8b470073d26a0fae79"
 
 [[files]]
 file = "config/iris-excluded.json"
