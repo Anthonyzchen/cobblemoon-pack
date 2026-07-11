@@ -9,8 +9,8 @@
 			25.0,
 			25.0,
 			20.0,
-			5.0,
-			1.0
+			0.5,
+			0.04
 		],
 		"ad_astra:mars": [
 			8.0,
@@ -18,8 +18,8 @@
 			22.0,
 			25.0,
 			22.0,
-			7.0,
-			2.0
+			0.7,
+			0.08
 		],
 		"ad_astra:glacio": [
 			4.0,
@@ -27,8 +27,8 @@
 			16.0,
 			22.0,
 			28.0,
-			14.0,
-			8.0
+			1.4,
+			0.32
 		],
 		"ad_astra:moon": [
 			12.0,
@@ -36,8 +36,8 @@
 			25.0,
 			22.0,
 			16.0,
-			5.0,
-			2.0
+			0.5,
+			0.08
 		],
 		"ad_astra:venus": [
 			6.0,
@@ -45,8 +45,8 @@
 			20.0,
 			25.0,
 			24.0,
-			9.0,
-			4.0
+			0.9,
+			0.16
 		],
 		"ad_astra:mercury": [
 			4.0,
@@ -54,8 +54,8 @@
 			18.0,
 			24.0,
 			26.0,
-			12.0,
-			6.0
+			1.2,
+			0.24
 		]
 	},
 	// The chance of a raid den spawning per dimension as 1 in X. Leave empty to use overworld/default. Default: {"minecraft:overworld": 256}

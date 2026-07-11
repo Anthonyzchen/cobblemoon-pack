@@ -1,0 +1,8 @@
+name = "moreculling-fabric-1.21.1-1.0.8"
+filename = "moreculling-fabric-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/moreculling-fabric-1.21.1-1.0.8.jar"
+hash-format = "sha256"
+hash = "19c7e65794511ab21eed63cab9e2efbf43a29fd2ea20234b23f92cb71c6a2aa2"

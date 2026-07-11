@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build-high.sh.premigration.bak"
+hash = "ec932fd6b4f899871cd34b93a19223a70e10a4554bacbd6c00e1cd317e6fbd29"
+
+[[files]]
+file = "build-lite.sh.premigration.bak"
+hash = "a4196f94f53742adf081575ad56f3d83636bfa32c78b0d2257e3b450aca5274a"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "0dc75cbe265db8d5d72fb1fa412be2c433fb5a39b161a5c570acd0e2f82fe6f4"
 
@@ -22,7 +30,7 @@ hash = "289d57e0711027cadb2bf402764d438d3ecc87bd9f08775e802623237dce161d"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "1854163c0574bc7175128e55e8cf03910c9a4067384eb8df74e996065ceacd4d"
+hash = "c71ed3244c35f2748fdac8aa1c26ad859e7eddde280e909945d704cbe1a336d0"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
@@ -122,7 +130,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "734ab74923f629b6c7b0742b20e9d798eb9121ebbec398c85f2c231e127241b8"
+hash = "99d85108d651b59489f6b7f64993044261643a17251f7742e6d6ab5a192af75c"
 
 [[files]]
 file = "config/capture_xp.json"
@@ -286,7 +294,7 @@ hash = "3b30e36007d2165569247e9060ca1b6cbf597ad3c4802c493b89a91bdb8e3aa2"
 
 [[files]]
 file = "config/cobblemonraiddens/common.json5"
-hash = "c51fdcca49e1599da5003489c01c4512fcf6e53af9dc4fe83321f5a7dc72dcd8"
+hash = "fb7469f9d17aa535dc8f2a7d1f864457539aa583ccafffddce7a46a14f9c7be9"
 
 [[files]]
 file = "config/cobblemonraiddens/conditions.json5"
@@ -306,11 +314,11 @@ hash = "ea9d48eef470c481f8148a7eb73ef58ba51739fe28bd7d7d814a82bd1f00fdbf"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_seven.json5"
-hash = "c53e2bb516e76fcb89d5a192107a34aa74c21f516c58ffe3737dc2594e22a55e"
+hash = "09e8df38ef691756b70abeffac42194104229cd36d11ccc135af340d24529046"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_six.json5"
-hash = "f6d867c6c41d920b3dee68acd33d07e46bece91abe2f81d2442ed7d869e49194"
+hash = "659569d64419359ba4f9403cf8736a139e4bf0496a6093781a9456264506400a"
 
 [[files]]
 file = "config/cobblemonraiddens/tier_three.json5"
@@ -338,7 +346,7 @@ hash = "eb693acc65391e1d284d61f9243bf2f01a88c30637e57f930c4ba835d37c65d2"
 
 [[files]]
 file = "config/cobbreeding/main.json"
-hash = "444b12a455b859cd7c3afdc48126cffabce18b5b71d09a3177c4b4135533c747"
+hash = "3f1180be7ffb750f0397d2f01b40fc71415ce389946e40ac12ac78812dc8b351"
 
 [[files]]
 file = "config/comforts-common.toml"
@@ -462,7 +470,7 @@ hash = "72bf8d4f085b0462db656f0cc04899d31d595423b134344191fecd482b5923dd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/trainer_challenge.snbt"
-hash = "baf5d1c206c614a5c43393b1a31efe740f1aa9ddf4a8801964f4891be640464f"
+hash = "5e20d80ad28397eb0ae07096124253e528862281b6789ec39b334d07f342cee8"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -470,7 +478,7 @@ hash = "cb03a0529db6e5c2ba1368526860309d48d0afb6077c785c91ae25d46512131e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "58b1f270a8b9330c446a8a2d621ab09c14b2fd8e47e25695dbb2b6d25692fbfa"
+hash = "cfd32faa478aefc44d91becde459cd7df248c6c84904df26d74cfa6d3f9ecf0e"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -606,7 +614,7 @@ hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "abc2ef963528c6f454fb780df2ffd44f69e2273c977e2063268c7ec5a9a03f19"
+hash = "6ab7000f9a66d58c4cf4c0de485eaeea0b64204abfec077cfe98991d476fffa3"
 
 [[files]]
 file = "config/litematica.json"
@@ -726,7 +734,7 @@ hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "8c8f9e91dae76745c9c798d28e515824b0db5b6db9485a68c8710e53e02446d7"
+hash = "4d11d37248f10ad18774349a074d886b329d1d967aec552241d6c5d77f5a4bbc"
 
 [[files]]
 file = "config/modmenu.json"
@@ -822,7 +830,7 @@ hash = "cb978f89bd44e1aaad1cdb52754fcc7c7ef8926961f9422bab9feedc2574b757"
 
 [[files]]
 file = "config/ridetraining.json"
-hash = "56678c19c73945b75a358ac31d79b63d532ee05ae5a3617592f15abd9eabefcb"
+hash = "1e3d98c949fbbebb691c402e92312ff6ab6229526e4284261caf0488bde32298"
 
 [[files]]
 file = "config/scoremons_config.json"
@@ -2754,11 +2762,11 @@ hash = "5a98f491bccedb4db72a89c6af1f96d4d857e986fe27ba5307ee319607f24fbd"
 
 [[files]]
 file = "config/shadowcrates/crates/epic.json"
-hash = "f1a8f6cb34a2b78bc23e34503b752d8183594318ba266146e78fde1410115bef"
+hash = "8b693d131bf7b0fddad370bcfc308f5fe6e2769c261bf791e63337709ccc4a67"
 
 [[files]]
 file = "config/shadowcrates/crates/legendary.json"
-hash = "53d35be26149a8112b7dc246d4ff00ce54193341684792f73339ed337adb7a1a"
+hash = "2cc08590d60ba922293ff2de049856ec8207b7642072ce9dd69aed7c305d9e01"
 
 [[files]]
 file = "config/shadowcrates/crates/rare.json"
@@ -3074,12 +3082,22 @@ metafile = true
 
 [[files]]
 file = "mods/azc-tooltips-1-0-0.pw.toml"
-hash = "e131c82a75b0ed673051cec28095a39dbd9ee651318bd30693da8d1f49228d29"
+hash = "38a331f481120ff57d5e2369a1900adfa90b26f00b0ba683e41545c0d7757007"
+metafile = true
+
+[[files]]
+file = "mods/azcbaitditto-1-0-0.pw.toml"
+hash = "a369391fb13557318f3cb6682538872b73ed080f8a074ffb0f0d13b43fb88f1c"
+metafile = true
+
+[[files]]
+file = "mods/azcbattleforfeit-1-0-0.pw.toml"
+hash = "dba55a521d28134437f33aecec8d321863cf7ca372ba13e2f6743fec7913a4e6"
 metafile = true
 
 [[files]]
 file = "mods/azcbattleguard-1-0-0.pw.toml"
-hash = "e598d339e4deefdc6c8e9b7fad6e876211f89fd1c1aefeb1a30456cc61082814"
+hash = "5cf23015dc87dea7ef5ad3da8c7e21955b88ec3cb2272a3b8a7c13fdd1ea9b35"
 metafile = true
 
 [[files]]
@@ -3094,12 +3112,12 @@ metafile = true
 
 [[files]]
 file = "mods/azccobblerumble-1-0-0.pw.toml"
-hash = "9df73bb036d94d369f6520685ab8b372e096fda9992e602844800533b5768128"
+hash = "3010cebcae9ce638077d883f510bc9dc8d75f40197a5b32d8d2306e334224201"
 metafile = true
 
 [[files]]
 file = "mods/azcdittolock-1-1-0.pw.toml"
-hash = "0b782b628c60db715d8e6e938b92e0189091856b2377a0f21b8f65110054b4a5"
+hash = "2cdb967bcd55e6f4ed19afffc87c3cc8d01ac26246a3c11fb5868e40f94d3793"
 metafile = true
 
 [[files]]
@@ -3123,6 +3141,11 @@ hash = "937e88177baf6fd3a07679ca99d43aab724b7efe6d52bae8f0ae781b2e3d7992"
 metafile = true
 
 [[files]]
+file = "mods/azcliveexp-1-0-0.pw.toml"
+hash = "8115def6229ca941807d21d60dce97b4c343a16f53c78353aae2dd7b378146df"
+metafile = true
+
+[[files]]
 file = "mods/azclootrpedestal-1-0-0.pw.toml"
 hash = "f47e2c31dc6ad292cf44ae03f7da5cea670776dab5a2e1822302c4ff5caef1bd"
 metafile = true
@@ -3130,6 +3153,11 @@ metafile = true
 [[files]]
 file = "mods/azcnoendbook-1-0-0.pw.toml"
 hash = "9024381ff202391d4d80a45f4bcaf61a7ab7e19c35cf3d82a265b4907b937c3f"
+metafile = true
+
+[[files]]
+file = "mods/azcrandomizerfloor-1-0-0.pw.toml"
+hash = "2259600a49acac48955968363978137d6e10bbafe0de7262bb506f466ad794ea"
 metafile = true
 
 [[files]]
@@ -3144,7 +3172,7 @@ metafile = true
 
 [[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
-hash = "2286750861b75573ea2cd2907207043bc0aebf7d292fe5aa4279cb1024dfc61a"
+hash = "27e0aab46e89af1d17e5f80ac1c900a8a4de35c527b21adfaa1463fda63a9098"
 metafile = true
 
 [[files]]
@@ -3343,8 +3371,8 @@ hash = "f353b0a91ff79f455b34110ad4c304652ff2680ee7548c0aaa6e1e03ca00212c"
 metafile = true
 
 [[files]]
-file = "mods/defaultoptions-fabric-1-21-1-21-1-6.pw.toml"
-hash = "bcdebb2fce0acc26959169126747b604aa8ee376ea0ef3ef6b7c78e0d509c816"
+file = "mods/defaultoptions-fabric-1-21-1-21-1-7.pw.toml"
+hash = "6f34aaa2a7957ee89b0fba46e4807b69875afb7c35ea96976b23130e41e9b574"
 metafile = true
 
 [[files]]
@@ -3473,8 +3501,8 @@ hash = "9318c076c1cf05681121e51c1ac3115724d3759bf7bf9dcf57023bedbf8bdf8f"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast-fabric-1-6-10-1-21-1.pw.toml"
-hash = "2f95a18df4675137de8ee4a4e34ba0b3ff57dbd03f5ff03acd2ea05833836d9f"
+file = "mods/immediatelyfast-fabric-1-6-11-1-21-1.pw.toml"
+hash = "4739584cffb5d90da736b5b4e6c56ade5dd4b1b4735367647790de12d374baf1"
 metafile = true
 
 [[files]]
@@ -3538,13 +3566,13 @@ hash = "ebff65ef341a266d6a950b409976dc26fe46b928cd22b3523871146474e66c3a"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1-21-0-19-60.pw.toml"
-hash = "5ffd9e114a03c7b2359fa45c64478476e89d685cf8afc7a9b2cdf30e6e0675cf"
+file = "mods/litematica-fabric-1-21-0-19-61.pw.toml"
+hash = "13b811767a4493d3d409e8d23824988e1f16d7663a570e392172de27ea20827f"
 metafile = true
 
 [[files]]
-file = "mods/lithium-fabric-0-15-3-mc1-21-1.pw.toml"
-hash = "e17551e079d6e8af00e39e39840a3f9d4de9b8744b7a3067530e9a2d556ec009"
+file = "mods/lithium-fabric-0-15-4-mc1-21-1.pw.toml"
+hash = "9f79d65dc80bd02ccf22616cfb8f5538134c1f36b3532712fc8f27999020da67"
 metafile = true
 
 [[files]]
@@ -3638,8 +3666,8 @@ hash = "d97ae2e439bfaee3a54519d07d739246e7b274ff0077a81cb10cb52ed43f5586"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-fabric-1-21-1-1-0-7.pw.toml"
-hash = "ee43914d9f4db96db096d677daa8cf8fd6b866c64a2a4ea089b20a7a0a801c83"
+file = "mods/moreculling-fabric-1-21-1-1-0-8.pw.toml"
+hash = "6a48a72631d0f00d8ed660f4dd647afdf0a8c71bc23e84071eb206255b9f4579"
 metafile = true
 
 [[files]]
@@ -3654,7 +3682,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mon-in-boats-1-0-0.pw.toml"
-hash = "74fe9d928c71aa660f9d606f64ddb2a860c0b1af5a00c27f7e53b31186c25e43"
+hash = "685d800443a77023a33ae218661bc0139379f16920c5cdf7a4655909d1a526ee"
 metafile = true
 
 [[files]]
@@ -3703,8 +3731,8 @@ hash = "5e57030d56d866b674d562434011854c7db2e7513dc03e9f753acf662a4d8b7b"
 metafile = true
 
 [[files]]
-file = "mods/punchy-2-5-6-fabric-1-21-1.pw.toml"
-hash = "2116ef2fed5c3b307db71d51d9cf0bad01d117e9890d03d7f39e2615022675bb"
+file = "mods/punchy-2-6-2-fabric-1-21-1.pw.toml"
+hash = "108a052a59f22f8e0d1a9eeb264367278c24f1958bddc4cdd7b62cf259344c3e"
 metafile = true
 
 [[files]]
@@ -3753,8 +3781,8 @@ hash = "c19453f665e54c126ce4b8543dea60ad78f22ff6ecad7cc00b62ea621e54df9d"
 metafile = true
 
 [[files]]
-file = "mods/servercore-fabric-1-5-17-1-21-1.pw.toml"
-hash = "70a62b306b953c0a40f886bf04f83df03a59e1a946958e78e1e9dbdde64cc52f"
+file = "mods/servercore-fabric-1-5-19-1-21-1.pw.toml"
+hash = "ea06f888fe0350e90cf42f77a525d031d75ccc5c58004a763d7795d506fcdbf3"
 metafile = true
 
 [[files]]
@@ -3863,13 +3891,13 @@ hash = "2c02af764188f2bef665408318fb08fbd1666951209ffbf93f6ded1b762aa6c0"
 metafile = true
 
 [[files]]
-file = "mods/xaerominimap-fabric-1-21-1-26-1-0.pw.toml"
-hash = "0ae0cbcdf325ad43f6ff62b286511a77e62bdc6e355c3ce49b5c51ed158f0e91"
+file = "mods/xaerominimap-fabric-1-21-1-26-2-0.pw.toml"
+hash = "1b54daa8a057e0ed6d31dc418af6ff696f975d8c7609e738dd16761a9a3fb598"
 metafile = true
 
 [[files]]
-file = "mods/xaeroworldmap-fabric-1-21-1-1-41-2.pw.toml"
-hash = "954e4f2b379d5d4a983beb5a58453cf223e5ae330e617172241ab51ef47e2736"
+file = "mods/xaeroworldmap-fabric-1-21-1-1-42-0.pw.toml"
+hash = "acc638b3599a847a63ce29b0e5d2d9028bab0b0c21dd53a1485f448f91feaa3d"
 metafile = true
 
 [[files]]

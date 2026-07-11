@@ -1,0 +1,8 @@
+name = "punchy-2.6.2-fabric-1.21.1"
+filename = "punchy-2.6.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/punchy-2.6.2-fabric-1.21.1.jar"
+hash-format = "sha256"
+hash = "43b69d97cdc76da415051b0c5fed9b1b3878648324ff044cc53fbcea03262010"

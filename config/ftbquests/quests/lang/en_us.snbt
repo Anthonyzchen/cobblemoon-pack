@@ -7,11 +7,11 @@
 	chapter_group.190153377FA92B55.title: "Pokemon Trainer"
 	chapter_group.193D1970C2DCC96B.title: "Foundation"
 	quest.004DB45E4D12F3AE.quest_desc: [
-		"&f&lGrand Champion &7- Truth is forged on the battlefield. Defeat 1000 trainers and Reshiram, the Vast White, will answer."
+		"&f&lGrand Champion &7- Truth is forged on the battlefield. Defeat 750 trainers and Reshiram, the Vast White, will answer."
 		""
 		"&aReward: &fLight Stone&a - use it to summon &fReshiram&a."
 	]
-	quest.004DB45E4D12F3AE.quest_subtitle: "Defeat 1000 NPC trainers to claim the Light Stone"
+	quest.004DB45E4D12F3AE.quest_subtitle: "Defeat 750 NPC trainers to claim the Light Stone"
 	quest.004DB45E4D12F3AE.title: "&f&lGrand Champion"
 	quest.0134547D7BF16962.quest_desc: [
 		"Obtain: space helmet, space suit, space pants, space boots."
@@ -48,13 +48,13 @@
 	quest.0670A05E8A334743.quest_subtitle: "Catch the shapeshifter for Ditto Residue. Repeatable."
 	quest.0670A05E8A334743.title: "&dCatch a Ditto"
 	quest.07565397A78BC8D0.quest_desc: [
-		"Defeat 500 trainers."
+		"Defeat 250 trainers."
 		""
 		"&7A respected battler. Trainers across the regions know your name."
 		""
 		"&eRewards:&r 1x Bottle Cap"
 	]
-	quest.07565397A78BC8D0.quest_subtitle: "Defeat 500 NPC trainers"
+	quest.07565397A78BC8D0.quest_subtitle: "Defeat 250 NPC trainers"
 	quest.07565397A78BC8D0.title: "&cChampion's Path"
 	quest.081FB0920EAE9C57.quest_desc: [
 		"Submit Azelf, Mesprit, and Uxie."
@@ -163,10 +163,18 @@
 	]
 	quest.0FE71451D75C09C3.quest_subtitle: "Catch Dragonite, Garchomp, Salamence, Hydreigon, Haxorus, and Baxcalibur"
 	quest.0FE71451D75C09C3.title: "&2&lDragon Fan Favs"
-	quest.0FF270D64354AE40.quest_desc: ["Level a Pokémon up to 50."]
+	quest.0FF270D64354AE40.quest_desc: [
+		"Level a Pokémon up to 50."
+		""
+		"&eRewards:&r 3x Super Potion, 3x Exp. Candy M"
+	]
 	quest.0FF270D64354AE40.quest_subtitle: "Train a Pokemon to level 50"
 	quest.0FF270D64354AE40.title: "Seasoned Trainer"
-	quest.10B3D679D4682C66.quest_desc: ["Push a Pokémon all the way to 75."]
+	quest.10B3D679D4682C66.quest_desc: [
+		"Push a Pokémon all the way to 75."
+		""
+		"&eRewards:&r 3x Exp. Candy L, 6x Max Revive"
+	]
 	quest.10B3D679D4682C66.quest_subtitle: "Train 6 Pokemon to level 50"
 	quest.10B3D679D4682C66.title: "Elite Powerhouse"
 	quest.112C6128A44CFE13.quest_desc: [
@@ -252,7 +260,11 @@
 	]
 	quest.19D2D4A79F186C11.quest_subtitle: "Use Z-Moves 20 times"
 	quest.19D2D4A79F186C11.title: "&eZ-Move Master"
-	quest.1C64C06ABDF44600.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.1C64C06ABDF44600.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r Hoopa's Ring, Master Ball"
+	]
 	quest.1C64C06ABDF44600.quest_subtitle: "Register 800 species"
 	quest.1C64C06ABDF44600.title: "&680% Pokedex"
 	quest.1F99F18D4D775D7B.quest_desc: [
@@ -274,7 +286,11 @@
 		"&cBring your best level 100 team!&r"
 	]
 	quest.1FCE73E6CE0AC333.title: "&ePaldea Gyms"
-	quest.205A75F2377D2582.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.205A75F2377D2582.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r Member Card"
+	]
 	quest.205A75F2377D2582.quest_subtitle: "Register 600 species"
 	quest.205A75F2377D2582.title: "&660% Pokedex"
 	quest.240EDD73333E4ADB.quest_desc: [
@@ -316,7 +332,7 @@
 		""
 		"&7The deep-sea sentinel falls. Ocean treasures are yours."
 		""
-		"&eRewards:&r 6x Dive Ball, 1x Full Restore, 1x Milk Bucket"
+		"&eRewards:&r 3x Full Restore, 1x Milk Bucket"
 	]
 	quest.26444C6E558E4616.quest_subtitle: "Defeat an Elder Guardian"
 	quest.26444C6E558E4616.title: "&9Ocean Monument"
@@ -343,7 +359,7 @@
 		""
 		"&7The sea has shown you its deepest secrets."
 		""
-		"&eRewards:&r Master Ball Rod"
+		"&eRewards:&r Master Ball Rod, Water Tera Shard, Splash Plate"
 	]
 	quest.29BACC3A3FD375E3.quest_subtitle: "Fish 250 Pokemon from the deep"
 	quest.29BACC3A3FD375E3.title: "&1&lLeviathan's Lure"
@@ -367,10 +383,18 @@
 	]
 	quest.2B22E897381CC79D.quest_subtitle: "Catch 100 Ground-type Pokemon"
 	quest.2B22E897381CC79D.title: "&6Ground Specialist"
-	quest.2B7227B44F25F454.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.2B7227B44F25F454.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r Lunar Wing"
+	]
 	quest.2B7227B44F25F454.quest_subtitle: "Register 500 species"
 	quest.2B7227B44F25F454.title: "&650% Pokedex"
-	quest.2C3B0F840CEDEF75.quest_desc: ["Build a Tier 2 Rocket to cross the asteroid belt and reach the Red Planet."]
+	quest.2C3B0F840CEDEF75.quest_desc: [
+		"Build a Tier 2 Rocket to cross the asteroid belt and reach the Red Planet."
+		""
+		"&eRewards:&r 8x Repeat Ball, Fire Stone, Exp. Candy M"
+	]
 	quest.2C3B0F840CEDEF75.quest_subtitle: "Reach Mars"
 	quest.2C3B0F840CEDEF75.title: "&cMartian Frontier"
 	quest.2D6F043B471E4C9A.quest_desc: [
@@ -422,11 +446,15 @@
 	quest.322095744799424A.quest_desc: [
 		"Step through the End Portal and catch 50 Pokemon among the floating isles."
 		""
-		"&eRewards:&r 12x Dream Ball, 5x Payapa Berry, 5x Relic Coin Sack"
+		"&eRewards:&r 12x Dream Ball, 5x Payapa Berry, 2x Relic Coin Sack"
 	]
 	quest.322095744799424A.quest_subtitle: "Catch 50 Pokemon in the End"
 	quest.322095744799424A.title: "&5End Wanderer"
-	quest.3490419718BF56B7.quest_desc: ["Reach the level cap — get a Pokémon to 100."]
+	quest.3490419718BF56B7.quest_desc: [
+		"Reach the level cap — get a Pokémon to 100."
+		""
+		"&eRewards:&r Bottle Cap"
+	]
 	quest.3490419718BF56B7.quest_subtitle: "Max out a Pokemon's level"
 	quest.3490419718BF56B7.title: "Peak Potential"
 	quest.352CD994376CA09F.quest_desc: [
@@ -445,7 +473,11 @@
 	]
 	quest.35F00C8BB75199B3.quest_subtitle: "Catch 10 Pokemon on Venus"
 	quest.35F00C8BB75199B3.title: "&eAcid Skies"
-	quest.378365B7621ABD6C.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.378365B7621ABD6C.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r Liberty Pass"
+	]
 	quest.378365B7621ABD6C.quest_subtitle: "Register 400 species"
 	quest.378365B7621ABD6C.title: "&640% Pokedex"
 	quest.3CC76918F57E4F63.quest_desc: [
@@ -455,7 +487,11 @@
 	]
 	quest.3CC76918F57E4F63.quest_subtitle: "Forge a full set of Netherite armor"
 	quest.3CC76918F57E4F63.title: "&8Netherite Armor"
-	quest.3DDAEC39111B8793.quest_desc: ["&7Catches, evolutions, and trades all count toward your Pokedex."]
+	quest.3DDAEC39111B8793.quest_desc: [
+		"&7Catches, evolutions, and trades all count toward your Pokedex."
+		""
+		"&eRewards:&r Tera Shell"
+	]
 	quest.3DDAEC39111B8793.quest_subtitle: "Register 700 species"
 	quest.3DDAEC39111B8793.title: "&670% Pokedex"
 	quest.3EDDF140AB06097D.quest_desc: [
@@ -518,7 +554,11 @@
 		"&cUse Pokemon around level 14 to start!&r"
 	]
 	quest.48CE2895DB4F83C7.title: "&cRadical Red (Kanto)"
-	quest.4960DAF51537E564.quest_desc: ["Register 900 Pokemon in your Pokedex. The Azure Flute will summon Arceus from beyond."]
+	quest.4960DAF51537E564.quest_desc: [
+		"Register 900 Pokemon in your Pokedex. The Azure Flute will summon Arceus from beyond."
+		""
+		"&eRewards:&r Shiny Swapper"
+	]
 	quest.4960DAF51537E564.quest_subtitle: "Register 900 Pokemon"
 	quest.4960DAF51537E564.title: "&6&lThe Original One"
 	quest.4965A7626BA869DF.quest_desc: [
@@ -531,13 +571,13 @@
 	quest.4965A7626BA869DF.quest_subtitle: "Submit all 5 Regis for the Ancient Tablet"
 	quest.4965A7626BA869DF.title: "&6Regi Collector"
 	quest.49BDD106B186298A.quest_desc: [
-		"Defeat 25 trainers."
+		"Defeat 50 trainers."
 		""
 		"&7Build your reputation by challenging trainers wherever you find them."
 		""
 		"&eRewards:&r 3x Full Heal"
 	]
-	quest.49BDD106B186298A.quest_subtitle: "Defeat 25 NPC trainers"
+	quest.49BDD106B186298A.quest_subtitle: "Defeat 50 NPC trainers"
 	quest.49BDD106B186298A.title: "&cTrainer Slayer"
 	quest.4A8C3B5D9F2E1A77.quest_desc: [
 		"&a&lHarvest King &7— Calyrex, the lord of bountiful harvests, demands tribute."
@@ -628,7 +668,11 @@
 	]
 	quest.4E4FE0C64551E44B.quest_subtitle: "Collect 10 Zygarde Cells"
 	quest.4E4FE0C64551E44B.title: "&aCell Seeker"
-	quest.4EDCC7C43DEB669B.quest_desc: ["Level a Pokémon up to 15. Progress tracks the highest level any single Pokémon reaches — battling or candy both count."]
+	quest.4EDCC7C43DEB669B.quest_desc: [
+		"Level a Pokémon up to 15. Progress tracks the highest level any single Pokémon reaches — battling or candy both count."
+		""
+		"&eRewards:&r 3x Berry Juice, 5x Exp. Candy XS"
+	]
 	quest.4EDCC7C43DEB669B.quest_subtitle: "Train a Pokemon to level 15"
 	quest.4EDCC7C43DEB669B.title: "Rising Star"
 	quest.4F1803C3763A25AB.quest_desc: [
@@ -653,6 +697,8 @@
 		"&7Bring all 18 music discs to the Daycare to summon the Melody Pokemon."
 		""
 		"&8(Discs are not consumed — keep your collection.)"
+		""
+		"&eRewards:&r Meloetta's Headset"
 	]
 	quest.501CCCA03C79F9BA.quest_subtitle: "Collect every Minecraft music disc"
 	quest.501CCCA03C79F9BA.title: "&dThe Melody Maker"
@@ -691,7 +737,7 @@
 		""
 		"&7Each victory tempers you and your team."
 		""
-		"&eRewards:&r 3x Moomoo Milk, Max Revive"
+		"&eRewards:&r 3x Hyper Potion, Max Revive"
 	]
 	quest.5509368A75B28DD6.quest_subtitle: "Defeat 200 wild Pokemon"
 	quest.5509368A75B28DD6.title: "&cVeteran"
@@ -971,6 +1017,8 @@
 		"  &8- Nihilego, Poipole, Stakataka, Xurkitree"
 		""
 		"&aReward: &fNecrozma Prism&a - use it to summon &bNecrozma&a."
+		""
+		"&eRewards:&r Necro Prism"
 	]
 	quest.5BAD6477AAAA0001.quest_subtitle: "Catch all 9 Ultra Beasts"
 	quest.5BAD6477AAAA0001.title: "&b&lThrough the Wormhole"
@@ -1042,8 +1090,14 @@
 		"&cUse Pokemon around level 65 to start!&r"
 	]
 	quest.5D1515BCB7D31EC2.title: "&3Team Aqua"
+	quest.5D4A0E1100000002.quest_desc: [
+		"&eRewards:&r 5x Safari Ball, 5x Sitrus Berry"
+	]
 	quest.5D4A0E1100000002.quest_subtitle: "Catch 10 Pokemon on Verdara"
 	quest.5D4A0E1100000002.title: "&aVerdara Forager"
+	quest.5D4A0E1100000003.quest_desc: [
+		"&eRewards:&r 12x Safari Ball, Relic Coin Sack"
+	]
 	quest.5D4A0E1100000003.quest_subtitle: "Catch 50 Pokemon on Verdara"
 	quest.5D4A0E1100000003.title: "&2Verdara Naturalist"
 	quest.5DC9F1733B1A4065.quest_desc: [
@@ -1187,7 +1241,11 @@
 	]
 	quest.6CA2DABF8F1178D0.quest_subtitle: "Catch 100 Ghost-type Pokemon"
 	quest.6CA2DABF8F1178D0.title: "&5Ghost Specialist"
-	quest.705A1DF2E6CBA96C.quest_desc: ["The Tier 4 Rocket carries you to the frozen edge of the colony's reach."]
+	quest.705A1DF2E6CBA96C.quest_desc: [
+		"The Tier 4 Rocket carries you to the frozen edge of the colony's reach."
+		""
+		"&eRewards:&r 8x Beast Ball, Ice Stone, Exp. Candy L"
+	]
 	quest.705A1DF2E6CBA96C.quest_subtitle: "Reach Glacio"
 	quest.705A1DF2E6CBA96C.title: "&bFar Reach"
 	quest.70FA84DFDAB9BEA0.quest_desc: [
@@ -1195,7 +1253,7 @@
 		""
 		"&7Patience and care raise the strongest Pokemon. Walk further to hatch faster."
 		""
-		"&eRewards:&r 3x Cherish Ball"
+		"&eRewards:&r 3x Caught Ball Swapper"
 	]
 	quest.70FA84DFDAB9BEA0.quest_subtitle: "Hatch your first egg"
 	quest.70FA84DFDAB9BEA0.title: "&fFirst Hatch"
@@ -1266,7 +1324,7 @@
 		""
 		"&7Raids reward those who fight together. Each victory hones the team."
 		""
-		"&eRewards:&r 3x Max Revive, 6x Max Revive"
+		"&eRewards:&r 6x Max Revive"
 	]
 	quest.769A06A47D36272F.quest_subtitle: "Win 25 raids"
 	quest.769A06A47D36272F.title: "&4Raid Specialist"
@@ -1305,16 +1363,32 @@
 		"&cUse Pokemon around level 80 to start!&r"
 	]
 	quest.79D6614EF42A693E.title: "&6Hoenn League"
-	quest.7C2A9F0E10000001.quest_desc: ["A &dHealing Machine&r fully restores your party's HP, PP, and status conditions. No more trekking back to a Pokemon Center."]
+	quest.7C2A9F0E10000001.quest_desc: [
+		"A &dHealing Machine&r fully restores your party's HP, PP, and status conditions. No more trekking back to a Pokemon Center."
+		""
+		"&eRewards:&r 5x Oran Berry, 2x Potion"
+	]
 	quest.7C2A9F0E10000001.quest_subtitle: "Heal your whole team at home"
 	quest.7C2A9F0E10000001.title: "&dCraft a Healing Machine"
-	quest.7C2A9F0E10000002.quest_desc: ["A &bPC&r lets you store, withdraw, and organize every Pokemon you catch. Essential once your party fills up."]
+	quest.7C2A9F0E10000002.quest_desc: [
+		"A &bPC&r lets you store, withdraw, and organize every Pokemon you catch. Essential once your party fills up."
+		""
+		"&eRewards:&r 2x Great Ball, 3x Poké Ball"
+	]
 	quest.7C2A9F0E10000002.quest_subtitle: "Store and organize your caught Pokemon"
 	quest.7C2A9F0E10000002.title: "&bCraft a PC"
-	quest.7C2A9F0E10000003.quest_desc: ["A &cPokedex&r records every species you have seen and caught. Your field guide to the whole region."]
+	quest.7C2A9F0E10000003.quest_desc: [
+		"A &cPokedex&r records every species you have seen and caught. Your field guide to the whole region."
+		""
+		"&eRewards:&r Red Apricorn Sprout, Blue Apricorn Sprout, Yellow Apricorn Sprout"
+	]
 	quest.7C2A9F0E10000003.quest_subtitle: "Track every Pokemon you have seen and caught"
 	quest.7C2A9F0E10000003.title: "&cCraft a Pokedex"
-	quest.7C2A9F0E10000004.quest_desc: ["A &aPasture&r is where breeding happens. Place two compatible Pokemon, or any Pokemon plus a Ditto, to produce an Egg."]
+	quest.7C2A9F0E10000004.quest_desc: [
+		"A &aPasture&r is where breeding happens. Place two compatible Pokemon, or any Pokemon plus a Ditto, to produce an Egg."
+		""
+		"&eRewards:&r Gender Swapper"
+	]
 	quest.7C2A9F0E10000004.quest_subtitle: "Place two compatible Pokemon to breed Eggs"
 	quest.7C2A9F0E10000004.title: "&aCraft a Pasture"
 	quest.7CA72E0A6CB443B8.quest_desc: [
@@ -1375,7 +1449,11 @@
 	]
 	quest.7E59BB92460DB70B.quest_subtitle: "Catch your first Pokemon"
 	quest.7E59BB92460DB70B.title: "&bFirst Catch"
-	quest.7EA0DC056EFF4748.quest_desc: ["Craft a Tier 1 Rocket and break the bonds of Earth's gravity."]
+	quest.7EA0DC056EFF4748.quest_desc: [
+		"Craft a Tier 1 Rocket and break the bonds of Earth's gravity."
+		""
+		"&eRewards:&r 8x Moon Ball, Moon Stone, Exp. Candy S"
+	]
 	quest.7EA0DC056EFF4748.quest_subtitle: "Reach the Moon"
 	quest.7EA0DC056EFF4748.title: "&fLunar Expedition"
 	quest.7F67AFD929AD32B4.quest_desc: [

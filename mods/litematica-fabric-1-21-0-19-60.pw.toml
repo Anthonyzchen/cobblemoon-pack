@@ -1,8 +1,0 @@
-name = "litematica-fabric-1.21-0.19.60"
-filename = "litematica-fabric-1.21-0.19.60.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/litematica-fabric-1.21-0.19.60.jar"
-hash-format = "sha256"
-hash = "0248b259fe9370fc848e1154fd8441014f99f44167c9261adcdef44ef75541e7"

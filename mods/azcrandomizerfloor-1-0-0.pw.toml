@@ -1,0 +1,8 @@
+name = "azcrandomizerfloor-1.0.0"
+filename = "azcrandomizerfloor-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcrandomizerfloor-1.0.0.jar"
+hash-format = "sha256"
+hash = "8baf3bce696fbf44ed1643e1a2241c0452c3b507fb3b7b9ceb8e215894201124"

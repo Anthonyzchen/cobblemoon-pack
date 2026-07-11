@@ -46,7 +46,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% volcanion level=50",
+      "command": "givepokemonother %player% volcanion level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -67,7 +67,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% volcanion shiny level=50",
+      "command": "givepokemonother %player% volcanion shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -88,7 +88,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% zarude level=50",
+      "command": "givepokemonother %player% zarude level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -108,7 +108,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% zarude shiny level=50",
+      "command": "givepokemonother %player% zarude shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -129,7 +129,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% blacephalon shiny level=50",
+      "command": "givepokemonother %player% blacephalon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -150,7 +150,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% brutebonnet shiny level=50",
+      "command": "givepokemonother %player% brutebonnet shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -171,7 +171,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% buzzwole shiny level=50",
+      "command": "givepokemonother %player% buzzwole shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -192,7 +192,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% fluttermane shiny level=50",
+      "command": "givepokemonother %player% fluttermane shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -213,7 +213,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% gougingfire shiny level=50",
+      "command": "givepokemonother %player% gougingfire shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -234,7 +234,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% greattusk shiny level=50",
+      "command": "givepokemonother %player% greattusk shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -255,7 +255,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% guzzlord shiny level=50",
+      "command": "givepokemonother %player% guzzlord shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -276,7 +276,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironbundle shiny level=50",
+      "command": "givepokemonother %player% ironbundle shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -297,7 +297,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironcrown shiny level=50",
+      "command": "givepokemonother %player% ironcrown shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -318,7 +318,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironleaves shiny level=50",
+      "command": "givepokemonother %player% ironleaves shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -339,7 +339,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironmoth shiny level=50",
+      "command": "givepokemonother %player% ironmoth shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -360,7 +360,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironthorns shiny level=50",
+      "command": "givepokemonother %player% ironthorns shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -381,7 +381,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% irontreads shiny level=50",
+      "command": "givepokemonother %player% irontreads shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -402,7 +402,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironvaliant shiny level=50",
+      "command": "givepokemonother %player% ironvaliant shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -423,7 +423,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% kartana shiny level=50",
+      "command": "givepokemonother %player% kartana shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -444,7 +444,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% naganadel shiny level=50",
+      "command": "givepokemonother %player% naganadel shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -465,7 +465,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% nihilego shiny level=50",
+      "command": "givepokemonother %player% nihilego shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -486,7 +486,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% poipole shiny level=50",
+      "command": "givepokemonother %player% poipole shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -507,7 +507,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ragingbolt shiny level=50",
+      "command": "givepokemonother %player% ragingbolt shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -528,7 +528,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% roaringmoon shiny level=50",
+      "command": "givepokemonother %player% roaringmoon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -549,7 +549,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% sandyshocks shiny level=50",
+      "command": "givepokemonother %player% sandyshocks shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -570,7 +570,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% screamtail shiny level=50",
+      "command": "givepokemonother %player% screamtail shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -591,7 +591,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% slitherwing shiny level=50",
+      "command": "givepokemonother %player% slitherwing shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -612,7 +612,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% stakataka shiny level=50",
+      "command": "givepokemonother %player% stakataka shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -633,7 +633,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% walkingwake shiny level=50",
+      "command": "givepokemonother %player% walkingwake shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -654,7 +654,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% xurkitree shiny level=50",
+      "command": "givepokemonother %player% xurkitree shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -675,7 +675,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% landorus level=50",
+      "command": "givepokemonother %player% landorus level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -696,7 +696,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% landorus shiny level=50",
+      "command": "givepokemonother %player% landorus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -717,7 +717,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% tornadus level=50",
+      "command": "givepokemonother %player% tornadus level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -738,7 +738,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% tornadus shiny level=50",
+      "command": "givepokemonother %player% tornadus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -759,7 +759,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% thundurus level=50",
+      "command": "givepokemonother %player% thundurus level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -780,7 +780,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% thundurus shiny level=50",
+      "command": "givepokemonother %player% thundurus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -801,7 +801,7 @@
     {
       "type": "command",
       "weight": 10.0,
-      "command": "givepokemonother %player% latios level=50",
+      "command": "givepokemonother %player% latios level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -822,7 +822,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% latios shiny level=50",
+      "command": "givepokemonother %player% latios shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -843,7 +843,7 @@
     {
       "type": "command",
       "weight": 10.0,
-      "command": "givepokemonother %player% latias level=50",
+      "command": "givepokemonother %player% latias level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -864,7 +864,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% latias shiny level=50",
+      "command": "givepokemonother %player% latias shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -885,7 +885,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% groudon level=50",
+      "command": "givepokemonother %player% groudon level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -906,7 +906,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% groudon shiny level=50",
+      "command": "givepokemonother %player% groudon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -927,7 +927,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% kyurem shiny level=50",
+      "command": "givepokemonother %player% kyurem shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -948,7 +948,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% magearna level=50",
+      "command": "givepokemonother %player% magearna level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -969,7 +969,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% magearna shiny level=50",
+      "command": "givepokemonother %player% magearna shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -990,7 +990,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% zacian level=50",
+      "command": "givepokemonother %player% zacian level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1011,7 +1011,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% zacian shiny level=50",
+      "command": "givepokemonother %player% zacian shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1032,7 +1032,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% zamazenta level=50",
+      "command": "givepokemonother %player% zamazenta level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1053,7 +1053,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% zamazenta shiny level=50",
+      "command": "givepokemonother %player% zamazenta shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1074,7 +1074,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% articuno shiny level=50",
+      "command": "givepokemonother %player% articuno shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1095,7 +1095,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% articuno galarian level=50",
+      "command": "givepokemonother %player% articuno galarian level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1116,7 +1116,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% articuno galarian shiny level=50",
+      "command": "givepokemonother %player% articuno galarian shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1137,7 +1137,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% zapdos shiny level=50",
+      "command": "givepokemonother %player% zapdos shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1158,7 +1158,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% zapdos galarian level=50",
+      "command": "givepokemonother %player% zapdos galarian level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1179,7 +1179,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% zapdos galarian shiny level=50",
+      "command": "givepokemonother %player% zapdos galarian shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1200,7 +1200,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% moltres shiny level=50",
+      "command": "givepokemonother %player% moltres shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1221,7 +1221,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% moltres galarian level=50",
+      "command": "givepokemonother %player% moltres galarian level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1242,7 +1242,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% moltres galarian shiny level=50",
+      "command": "givepokemonother %player% moltres galarian shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1263,7 +1263,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% raikou level=50",
+      "command": "givepokemonother %player% raikou level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1284,7 +1284,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% raikou shiny level=50",
+      "command": "givepokemonother %player% raikou shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1305,7 +1305,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% entei level=50",
+      "command": "givepokemonother %player% entei level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1326,7 +1326,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% entei shiny level=50",
+      "command": "givepokemonother %player% entei shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1347,7 +1347,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% suicune level=50",
+      "command": "givepokemonother %player% suicune level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1368,7 +1368,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% suicune shiny level=50",
+      "command": "givepokemonother %player% suicune shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1389,7 +1389,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% glastrier shiny level=50",
+      "command": "givepokemonother %player% glastrier shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1410,7 +1410,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% spectrier shiny level=50",
+      "command": "givepokemonother %player% spectrier shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1431,7 +1431,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% terapagos shiny level=50",
+      "command": "givepokemonother %player% terapagos shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1452,7 +1452,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% meltan shiny level=50",
+      "command": "givepokemonother %player% meltan shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1473,7 +1473,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% arceus shiny level=50",
+      "command": "givepokemonother %player% arceus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1493,7 +1493,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% azelf shiny level=50",
+      "command": "givepokemonother %player% azelf shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1513,7 +1513,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% calyrex level=50",
+      "command": "givepokemonother %player% calyrex level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1528,13 +1528,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Calyrex (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Calyrex &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Calyrex &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Calyrex (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% calyrex shiny level=50",
+      "command": "givepokemonother %player% calyrex shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1554,7 +1554,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% celebi level=50",
+      "command": "givepokemonother %player% celebi level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1569,13 +1569,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Celebi (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Celebi &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Celebi &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Celebi (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% celebi shiny level=50",
+      "command": "givepokemonother %player% celebi shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1595,7 +1595,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% chienpao shiny level=50",
+      "command": "givepokemonother %player% chienpao shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1615,7 +1615,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% chiyu shiny level=50",
+      "command": "givepokemonother %player% chiyu shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1635,7 +1635,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% cobalion level=50",
+      "command": "givepokemonother %player% cobalion level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1650,13 +1650,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Cobalion (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Cobalion &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Cobalion &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Cobalion (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% cobalion shiny level=50",
+      "command": "givepokemonother %player% cobalion shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1676,7 +1676,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% cosmoem shiny level=50",
+      "command": "givepokemonother %player% cosmoem shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1696,7 +1696,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% cosmog shiny level=50",
+      "command": "givepokemonother %player% cosmog shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1716,7 +1716,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% cresselia shiny level=50",
+      "command": "givepokemonother %player% cresselia shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1736,7 +1736,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% darkrai shiny level=50",
+      "command": "givepokemonother %player% darkrai shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1756,7 +1756,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% deoxys level=50",
+      "command": "givepokemonother %player% deoxys level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1771,13 +1771,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Deoxys (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Deoxys &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Deoxys &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Deoxys (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% deoxys shiny level=50",
+      "command": "givepokemonother %player% deoxys shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1797,7 +1797,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% dialga level=50",
+      "command": "givepokemonother %player% dialga level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1812,13 +1812,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Dialga (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Dialga &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Dialga &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Dialga (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% dialga shiny level=50",
+      "command": "givepokemonother %player% dialga shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1838,7 +1838,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% diancie level=50",
+      "command": "givepokemonother %player% diancie level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1853,13 +1853,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Diancie (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Diancie &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Diancie &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Diancie (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% diancie shiny level=50",
+      "command": "givepokemonother %player% diancie shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1879,7 +1879,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% enamorus level=50",
+      "command": "givepokemonother %player% enamorus level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1894,13 +1894,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Enamorus (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Enamorus &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Enamorus &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Enamorus (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% enamorus shiny level=50",
+      "command": "givepokemonother %player% enamorus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1920,7 +1920,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% eternatus shiny level=50",
+      "command": "givepokemonother %player% eternatus shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1940,7 +1940,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% fezandipiti shiny level=50",
+      "command": "givepokemonother %player% fezandipiti shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1960,7 +1960,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% genesect shiny level=50",
+      "command": "givepokemonother %player% genesect shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1980,7 +1980,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% giratina level=50",
+      "command": "givepokemonother %player% giratina level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -1995,13 +1995,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Giratina (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Giratina &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Giratina &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Giratina (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% giratina shiny level=50",
+      "command": "givepokemonother %player% giratina shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2021,7 +2021,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% heatran shiny level=50",
+      "command": "givepokemonother %player% heatran shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2041,7 +2041,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% hooh shiny level=50",
+      "command": "givepokemonother %player% hooh shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2061,7 +2061,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% hoopa shiny level=50",
+      "command": "givepokemonother %player% hoopa shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2081,7 +2081,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% jirachi level=50",
+      "command": "givepokemonother %player% jirachi level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2096,13 +2096,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Jirachi (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Jirachi &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Jirachi &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Jirachi (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% jirachi shiny level=50",
+      "command": "givepokemonother %player% jirachi shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2122,7 +2122,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% keldeo level=50",
+      "command": "givepokemonother %player% keldeo level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2137,13 +2137,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Keldeo (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Keldeo &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Keldeo &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Keldeo (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% keldeo shiny level=50",
+      "command": "givepokemonother %player% keldeo shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2163,7 +2163,7 @@
     {
       "type": "command",
       "weight": 10.0,
-      "command": "givepokemonother %player% koraidon level=50",
+      "command": "givepokemonother %player% koraidon level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2178,13 +2178,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Koraidon (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Koraidon &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Koraidon &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Koraidon (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% koraidon shiny level=50",
+      "command": "givepokemonother %player% koraidon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2204,7 +2204,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% kubfu level=50",
+      "command": "givepokemonother %player% kubfu level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2219,13 +2219,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Kubfu (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Kubfu &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Kubfu &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Kubfu (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% kubfu shiny level=50",
+      "command": "givepokemonother %player% kubfu shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2245,7 +2245,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% kyogre level=50",
+      "command": "givepokemonother %player% kyogre level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2260,13 +2260,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Kyogre (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Kyogre &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Kyogre &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Kyogre (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% kyogre shiny level=50",
+      "command": "givepokemonother %player% kyogre shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2286,7 +2286,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% lugia shiny level=50",
+      "command": "givepokemonother %player% lugia shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2306,7 +2306,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% lunala shiny level=50",
+      "command": "givepokemonother %player% lunala shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2326,7 +2326,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% manaphy shiny level=50",
+      "command": "givepokemonother %player% manaphy shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2346,7 +2346,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% marshadow level=50",
+      "command": "givepokemonother %player% marshadow level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2361,13 +2361,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Marshadow (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Marshadow &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Marshadow &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Marshadow (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% marshadow shiny level=50",
+      "command": "givepokemonother %player% marshadow shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2387,7 +2387,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% melmetal shiny level=50",
+      "command": "givepokemonother %player% melmetal shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2407,7 +2407,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% mesprit shiny level=50",
+      "command": "givepokemonother %player% mesprit shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2427,7 +2427,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% mew level=50",
+      "command": "givepokemonother %player% mew level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2442,13 +2442,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Mew (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Mew &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Mew &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Mew (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% mew shiny level=50",
+      "command": "givepokemonother %player% mew shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2468,7 +2468,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% mewtwo level=50",
+      "command": "givepokemonother %player% mewtwo level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2483,13 +2483,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Mewtwo (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Mewtwo &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Mewtwo &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Mewtwo (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% mewtwo shiny level=50",
+      "command": "givepokemonother %player% mewtwo shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2509,7 +2509,7 @@
     {
       "type": "command",
       "weight": 10.0,
-      "command": "givepokemonother %player% miraidon level=50",
+      "command": "givepokemonother %player% miraidon level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2524,13 +2524,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Miraidon (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Miraidon &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Miraidon &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Miraidon (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% miraidon shiny level=50",
+      "command": "givepokemonother %player% miraidon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2550,7 +2550,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% munkidori shiny level=50",
+      "command": "givepokemonother %player% munkidori shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2570,7 +2570,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% necrozma shiny level=50",
+      "command": "givepokemonother %player% necrozma shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2590,7 +2590,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% ogerpon level=50",
+      "command": "givepokemonother %player% ogerpon level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2605,13 +2605,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Ogerpon (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Ogerpon &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Ogerpon &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Ogerpon (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ogerpon shiny level=50",
+      "command": "givepokemonother %player% ogerpon shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2631,7 +2631,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% okidogi shiny level=50",
+      "command": "givepokemonother %player% okidogi shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2651,7 +2651,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% palkia level=50",
+      "command": "givepokemonother %player% palkia level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2666,13 +2666,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Palkia (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Palkia &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Palkia &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Palkia (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% palkia shiny level=50",
+      "command": "givepokemonother %player% palkia shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2692,7 +2692,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% pecharunt level=50",
+      "command": "givepokemonother %player% pecharunt level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2707,13 +2707,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Pecharunt (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Pecharunt &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Pecharunt &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Pecharunt (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% pecharunt shiny level=50",
+      "command": "givepokemonother %player% pecharunt shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2733,7 +2733,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% phione shiny level=50",
+      "command": "givepokemonother %player% phione shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2753,7 +2753,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% rayquaza shiny level=50",
+      "command": "givepokemonother %player% rayquaza shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2773,7 +2773,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% regice shiny level=50",
+      "command": "givepokemonother %player% regice shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2793,7 +2793,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% regidrago shiny level=50",
+      "command": "givepokemonother %player% regidrago shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2813,7 +2813,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% regieleki shiny level=50",
+      "command": "givepokemonother %player% regieleki shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2833,7 +2833,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% regigigas level=50",
+      "command": "givepokemonother %player% regigigas level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2848,13 +2848,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Regigigas (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Regigigas &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Regigigas &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Regigigas (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% regigigas shiny level=50",
+      "command": "givepokemonother %player% regigigas shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2874,7 +2874,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% regirock shiny level=50",
+      "command": "givepokemonother %player% regirock shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2894,7 +2894,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% registeel shiny level=50",
+      "command": "givepokemonother %player% registeel shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2914,7 +2914,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% reshiram shiny level=50",
+      "command": "givepokemonother %player% reshiram shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2934,7 +2934,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% shaymin level=50",
+      "command": "givepokemonother %player% shaymin level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -2949,13 +2949,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Shaymin (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Shaymin &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Shaymin &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Shaymin (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% shaymin shiny level=50",
+      "command": "givepokemonother %player% shaymin shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2975,7 +2975,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% silvally shiny level=50",
+      "command": "givepokemonother %player% silvally shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -2995,7 +2995,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% solgaleo shiny level=50",
+      "command": "givepokemonother %player% solgaleo shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3015,7 +3015,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% tapukoko level=50",
+      "command": "givepokemonother %player% tapukoko level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3030,13 +3030,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Tapu Koko (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Tapu Koko &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Koko &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Tapu Koko (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% tapukoko shiny level=50",
+      "command": "givepokemonother %player% tapukoko shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3056,7 +3056,7 @@
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% terrakion shiny level=50",
+      "command": "givepokemonother %player% terrakion shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3076,7 +3076,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% typenull level=50",
+      "command": "givepokemonother %player% typenull level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3091,13 +3091,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Type: Null (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Type: Null &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Type: Null &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Type: Null (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% typenull shiny level=50",
+      "command": "givepokemonother %player% typenull shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3117,7 +3117,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% urshifu level=50",
+      "command": "givepokemonother %player% urshifu level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3132,13 +3132,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Urshifu (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Urshifu &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Urshifu &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Urshifu (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% urshifu shiny level=50",
+      "command": "givepokemonother %player% urshifu shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3158,7 +3158,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% uxie shiny level=50",
+      "command": "givepokemonother %player% uxie shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3178,7 +3178,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% victini shiny level=50",
+      "command": "givepokemonother %player% victini shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3198,7 +3198,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% wochien shiny level=50",
+      "command": "givepokemonother %player% wochien shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3218,7 +3218,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% xerneas level=50",
+      "command": "givepokemonother %player% xerneas level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3233,13 +3233,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Xerneas (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Xerneas &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Xerneas &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Xerneas (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% xerneas shiny level=50",
+      "command": "givepokemonother %player% xerneas shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3259,7 +3259,7 @@
     {
       "type": "command",
       "weight": 5.0,
-      "command": "givepokemonother %player% yveltal level=50",
+      "command": "givepokemonother %player% yveltal level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3274,13 +3274,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Yveltal (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Yveltal &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Yveltal &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Yveltal (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% yveltal shiny level=50",
+      "command": "givepokemonother %player% yveltal shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3300,7 +3300,7 @@
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% zekrom shiny level=50",
+      "command": "givepokemonother %player% zekrom shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3320,7 +3320,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% zeraora level=50",
+      "command": "givepokemonother %player% zeraora level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3335,13 +3335,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Zeraora (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Zeraora &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Zeraora &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Zeraora (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% zeraora shiny level=50",
+      "command": "givepokemonother %player% zeraora shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3361,7 +3361,7 @@
     {
       "type": "command",
       "weight": 0.08,
-      "command": "givepokemonother %player% zygarde shiny level=50",
+      "command": "givepokemonother %player% zygarde shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3381,7 +3381,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% meloetta level=50",
+      "command": "givepokemonother %player% meloetta level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3396,13 +3396,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Meloetta (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Meloetta &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Meloetta &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Meloetta (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.03,
-      "command": "givepokemonother %player% meloetta shiny level=50",
+      "command": "givepokemonother %player% meloetta shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3422,7 +3422,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% tapubulu level=50",
+      "command": "givepokemonother %player% tapubulu level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3437,13 +3437,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Tapu Bulu (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Tapu Bulu &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Bulu &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Tapu Bulu (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% tapubulu shiny level=50",
+      "command": "givepokemonother %player% tapubulu shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3463,7 +3463,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% tapulele level=50",
+      "command": "givepokemonother %player% tapulele level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3478,13 +3478,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Tapu Lele (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Tapu Lele &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Lele &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Tapu Lele (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% tapulele shiny level=50",
+      "command": "givepokemonother %player% tapulele shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3504,7 +3504,7 @@
     {
       "type": "command",
       "weight": 12.5,
-      "command": "givepokemonother %player% tapufini level=50",
+      "command": "givepokemonother %player% tapufini level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3519,13 +3519,13 @@
       "messageGlobal": true,
       "messagePlayer": true,
       "messageCustom": false,
-      "broadcastPlayer": "&aYou received &6Tapu Fini (Lv50)&a!",
-      "broadcastGlobal": "&e%player% &areceived &6Tapu Fini &afrom a Legendary Crate!"
+      "broadcastGlobal": "&e%player% &areceived &6Tapu Fini &afrom a Legendary Crate!",
+      "broadcastPlayer": "&aYou received &6Tapu Fini (Lv50)&a!"
     },
     {
       "type": "command",
       "weight": 0.4,
-      "command": "givepokemonother %player% tapufini shiny level=50",
+      "command": "givepokemonother %player% tapufini shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3545,7 +3545,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% hooh level=50",
+      "command": "givepokemonother %player% hooh level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3565,7 +3565,7 @@
     {
       "type": "command",
       "weight": 1.25,
-      "command": "givepokemonother %player% lugia level=50",
+      "command": "givepokemonother %player% lugia level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:slate_ball",
         "amount": 1,
@@ -3585,7 +3585,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% celesteela shiny level=50",
+      "command": "givepokemonother %player% celesteela shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3606,7 +3606,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironhands shiny level=50",
+      "command": "givepokemonother %player% ironhands shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3627,7 +3627,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironboulder shiny level=50",
+      "command": "givepokemonother %player% ironboulder shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -3648,7 +3648,7 @@
     {
       "type": "command",
       "weight": 0.2,
-      "command": "givepokemonother %player% ironjugulis shiny level=50",
+      "command": "givepokemonother %player% ironjugulis shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,

@@ -1,0 +1,8 @@
+name = "azcliveexp-1.0.0"
+filename = "azcliveexp-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcliveexp-1.0.0.jar"
+hash-format = "sha256"
+hash = "7a5374a263774828ba71ee56a5f76ea5af647133afb434f6df20063840b0bed8"

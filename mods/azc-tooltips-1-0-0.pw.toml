@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azc-tooltips-1.0.0.jar"
 hash-format = "sha256"
-hash = "4b49408166e5d76f9d00a73c461db7e357c0683ef87bee398f2d1675ae10d414"
+hash = "a78d859222aa017f070ddb0011ca0d337665cae63f0057af76ff52b164407107"

@@ -1,0 +1,8 @@
+name = "lithium-fabric-0.15.4+mc1.21.1"
+filename = "lithium-fabric-0.15.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa"

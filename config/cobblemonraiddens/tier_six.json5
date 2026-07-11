@@ -6,7 +6,7 @@
 	// Maximum number of players in a raid (Set to -1 for no limit). Default: 4
 	"max_players": 4,
 	// Number of clears until the raid den deactivates (Set to -1 for no limit). Default: 3
-	"max_clears": 3,
+	"max_clears": 1,
 	// The max number of cheers a player can use per raid. Default: 3
 	"max_cheers": 3,
 	// The chance for raid bosses to have their hidden ability. Default: 0.20
@@ -28,7 +28,7 @@
 	// How much currency is rewarded for clearing a raid boss (Requires CobbleDollars). Default: 50000
 	"currency": 50000,
 	// The max number of Pokemon that can be caught from a raid battle. Default -1.
-	"max_catches": -1,
+	"max_catches": 0,
 	// The default script to add to raid bosses without a script. Default: {}
 	"default_scripts": { },
 	// The battle AI used by the raid boss (Options: random, strong, rct). Default: random

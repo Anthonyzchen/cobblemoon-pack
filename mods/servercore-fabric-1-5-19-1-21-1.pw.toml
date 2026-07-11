@@ -1,0 +1,8 @@
+name = "servercore-fabric-1.5.19+1.21.1"
+filename = "servercore-fabric-1.5.19+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/servercore-fabric-1.5.19%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "be4540227b296d1d9435a20cb5df9bfabf9f0b150592740d2db6e8d5f8533d8d"

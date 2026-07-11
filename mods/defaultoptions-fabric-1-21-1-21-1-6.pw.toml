@@ -1,8 +1,0 @@
-name = "defaultoptions-fabric-1.21.1-21.1.6"
-filename = "defaultoptions-fabric-1.21.1-21.1.6.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/defaultoptions-fabric-1.21.1-21.1.6.jar"
-hash-format = "sha256"
-hash = "58ee72ca49b823de40d164296c9e790d1ef433561ad2dff0b50059136624f314"

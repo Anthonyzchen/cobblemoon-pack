@@ -1571,7 +1571,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% manaphy level=50",
+      "command": "givepokemonother %player% manaphy level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:roseate_ball",
         "amount": 1,
@@ -1591,7 +1591,7 @@
     {
       "type": "command",
       "weight": 1.1,
-      "command": "givepokemonother %player% manaphy shiny level=50",
+      "command": "givepokemonother %player% manaphy shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,
@@ -1612,7 +1612,7 @@
     {
       "type": "command",
       "weight": 2.5,
-      "command": "givepokemonother %player% phione level=50",
+      "command": "givepokemonother %player% phione level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:roseate_ball",
         "amount": 1,
@@ -1632,7 +1632,7 @@
     {
       "type": "command",
       "weight": 1.1,
-      "command": "givepokemonother %player% phione shiny level=50",
+      "command": "givepokemonother %player% phione shiny level=50 min_perfect_ivs=3",
       "displayItem": {
         "material": "cobblemon:citrine_ball",
         "amount": 1,

@@ -1,0 +1,8 @@
+name = "azcbattleforfeit-1.0.0"
+filename = "azcbattleforfeit-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcbattleforfeit-1.0.0.jar"
+hash-format = "sha256"
+hash = "602bf3c005b8d5a89daf130735e9245d4bbc8c41fdf7e8346619aaa9d213e052"

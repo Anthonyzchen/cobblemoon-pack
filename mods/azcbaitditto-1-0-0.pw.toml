@@ -1,0 +1,8 @@
+name = "azcbaitditto-1.0.0"
+filename = "azcbaitditto-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcbaitditto-1.0.0.jar"
+hash-format = "sha256"
+hash = "52a06bcc6ac70f59d2093bb8b0bb7c1f5fb21b0c9e48ddf67979771deba63544"

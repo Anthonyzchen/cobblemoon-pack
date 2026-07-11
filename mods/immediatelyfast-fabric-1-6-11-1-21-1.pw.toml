@@ -1,0 +1,8 @@
+name = "ImmediatelyFast-Fabric-1.6.11+1.21.1"
+filename = "ImmediatelyFast-Fabric-1.6.11+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "05a5f3c716ae631af3cc925c8144894368c632156f2d581dd8295cc223ea2f6d"

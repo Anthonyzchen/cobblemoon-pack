@@ -368,7 +368,7 @@
 			tasks: [{
 				abilities: ""
 				action: "defeat_trainer"
-				amount: 500L
+				amount: 250L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
@@ -418,7 +418,7 @@
 			tasks: [{
 				abilities: ""
 				action: "defeat_trainer"
-				amount: 1000L
+				amount: 750L
 				aspects: ""
 				biome: ""
 				dex_progress: "seen"
