@@ -3674,8 +3674,8 @@ hash = "d97ae2e439bfaee3a54519d07d739246e7b274ff0077a81cb10cb52ed43f5586"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-fabric-1-21-1-1-0-8.pw.toml"
-hash = "6a48a72631d0f00d8ed660f4dd647afdf0a8c71bc23e84071eb206255b9f4579"
+file = "mods/moreculling-fabric-1-21-1-1-0-7.pw.toml"
+hash = "ee43914d9f4db96db096d677daa8cf8fd6b866c64a2a4ea089b20a7a0a801c83"
 metafile = true
 
 [[files]]

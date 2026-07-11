@@ -18,3 +18,8 @@
 - azcbattleforfeit 1.0.0
 - azcliveexp 1.0.0
 - azcrandomizerfloor 1.0.0
+
+## Modpack update — 2026-07-11
+
+**Updated**
+- moreculling: 1.0.8 → 1.0.7
