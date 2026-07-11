@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "fb32dcfc6214dd815fb216003c6e6b958d4ae8f15146715daa1e274668d56cfd"
+
+[[files]]
+file = "PATCHNOTES-latest.md"
+hash = "8c5ed7b72d8df55eac643ca91894135c26707e157e83dd5322075f158c36c4ab"
+
+[[files]]
 file = "build-high.sh.premigration.bak"
 hash = "ec932fd6b4f899871cd34b93a19223a70e10a4554bacbd6c00e1cd317e6fbd29"
 
@@ -3142,7 +3150,7 @@ metafile = true
 
 [[files]]
 file = "mods/azcliveexp-1-0-0.pw.toml"
-hash = "8115def6229ca941807d21d60dce97b4c343a16f53c78353aae2dd7b378146df"
+hash = "9b87c3f04b0e51683c12bdfc5bc1022dc235c32ab9a3af12fdf38573a2c5976a"
 metafile = true
 
 [[files]]
