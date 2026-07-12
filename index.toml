@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3714023f99454db987366073ae9cc565297e6be07fe9627cd663db08284de2c6"
+hash = "824f1cac021981cc4cf3279bfc4c8a9d91bdda9c407ef86d221f49266b6b3341"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "d75bcbec260c446aec4535866a247661c3d358bc257c26411f5fe63c51873e7d"
+hash = "cde9239e8cf5a6e65e5317acb32648b15f731a4978fe591ebdfaef9bfbf32a88"
 
 [[files]]
 file = "build-high.sh.premigration.bak"
@@ -55,6 +55,10 @@ hash = "792eb3209ce7c4ba44ed990018ddbc0f7eefcf7ac8418fc67b836c973e63ab81"
 [[files]]
 file = "config/azc_seasonhud.properties"
 hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
+
+[[files]]
+file = "config/azctrainerfrontier.json"
+hash = "db3b5f230620e5e967ab325d37821221625f8973864c02559756366dec78a301"
 
 [[files]]
 file = "config/azctrainerrotation.json"

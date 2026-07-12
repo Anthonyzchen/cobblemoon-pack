@@ -1,0 +1,4299 @@
+{
+  "_comment": "Trainer Frontier pool \u2014 best-effort RadicalRed/Kanto generic route trainers from the RCT jar (bug catcher, ace, camper, etc.). Region separation is imperfect (see 2026-07-12). trainersPerCycle picked each cycleHours window near the player's level cap +-levelBand.",
+  "trainersPerCycle": 3,
+  "cycleHours": 6,
+  "levelBand": 10,
+  "spawnInFrontBlocks": 3,
+  "pool": [
+    {
+      "id": "lass_natalie_02e9",
+      "level": 3,
+      "name": "Lass Natalie"
+    },
+    {
+      "id": "lass_kaitlin_03dd",
+      "level": 4,
+      "name": "Lass Kaitlin"
+    },
+    {
+      "id": "biker_0212",
+      "level": 5,
+      "name": "Biker"
+    },
+    {
+      "id": "bug_catcher_01ec",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "bug_catcher_01ed",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "bug_catcher_01ee",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "bug_catcher_01ef",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "bug_catcher_01f0",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "bug_catcher_01f1",
+      "level": 5,
+      "name": "Bug Catcher"
+    },
+    {
+      "id": "expert_lancere_0024",
+      "level": 5,
+      "name": "Expert LanceRe"
+    },
+    {
+      "id": "gambler_0107",
+      "level": 5,
+      "name": "Gambler"
+    },
+    {
+      "id": "gentleman_komodo_0005",
+      "level": 5,
+      "name": "Gentleman Komodo"
+    },
+    {
+      "id": "lass_madeline_03dc",
+      "level": 5,
+      "name": "Lass Madeline"
+    },
+    {
+      "id": "picnicker_diana_03e3",
+      "level": 5,
+      "name": "Picnicker Diana"
+    },
+    {
+      "id": "youngster_lancere_0025",
+      "level": 5,
+      "name": "Youngster LanceRe"
+    },
+    {
+      "id": "youngster_logan_02e8",
+      "level": 5,
+      "name": "Youngster Logan"
+    },
+    {
+      "id": "youngster_michael_02ea",
+      "level": 5,
+      "name": "Youngster Michael"
+    },
+    {
+      "id": "youngster_tristan_02e7",
+      "level": 5,
+      "name": "Youngster Tristan"
+    },
+    {
+      "id": "youngster_tyler_02eb",
+      "level": 5,
+      "name": "Youngster Tyler"
+    },
+    {
+      "id": "bug_catcher_anthony_0213",
+      "level": 7,
+      "name": "Bug Catcher Anthony"
+    },
+    {
+      "id": "bug_catcher_brandon_02ee",
+      "level": 7,
+      "name": "Bug Catcher Brandon"
+    },
+    {
+      "id": "bug_catcher_doug_0067",
+      "level": 7,
+      "name": "Bug Catcher Doug"
+    },
+    {
+      "id": "bug_catcher_rick_0066",
+      "level": 7,
+      "name": "Bug Catcher Rick"
+    },
+    {
+      "id": "camper_curtis_03a3",
+      "level": 7,
+      "name": "Camper Curtis"
+    },
+    {
+      "id": "lass_samantha_02ec",
+      "level": 7,
+      "name": "Lass Samantha"
+    },
+    {
+      "id": "lass_sarah_02ed",
+      "level": 7,
+      "name": "Lass Sarah"
+    },
+    {
+      "id": "youngster_dallas_03f4",
+      "level": 7,
+      "name": "Youngster Dallas"
+    },
+    {
+      "id": "youngster_sebastian_03f5",
+      "level": 7,
+      "name": "Youngster Sebastian"
+    },
+    {
+      "id": "youngster_darius_0394",
+      "level": 8,
+      "name": "Youngster Darius"
+    },
+    {
+      "id": "bug_catcher_charlie_0214",
+      "level": 9,
+      "name": "Bug Catcher Charlie"
+    },
+    {
+      "id": "bug_catcher_sammy_0068",
+      "level": 9,
+      "name": "Bug Catcher Sammy"
+    },
+    {
+      "id": "twins_liv_02f0",
+      "level": 9,
+      "name": "Twin Liv"
+    },
+    {
+      "id": "twins_liv_liz_m001",
+      "level": 9,
+      "name": "Twins Liv & Liz"
+    },
+    {
+      "id": "twins_liz_02f1",
+      "level": 9,
+      "name": "Twin Liz"
+    },
+    {
+      "id": "youngster_jonathon_0393",
+      "level": 10,
+      "name": "Youngster Jonathon"
+    },
+    {
+      "id": "bug_catcher_colton_0069",
+      "level": 11,
+      "name": "Bug Catcher Colton"
+    },
+    {
+      "id": "bug_catcher_greg_006a",
+      "level": 11,
+      "name": "Bug Catcher Greg"
+    },
+    {
+      "id": "camper_liam_008e",
+      "level": 11,
+      "name": "Camper Liam"
+    },
+    {
+      "id": "hiker_daniel_02f4",
+      "level": 11,
+      "name": "Hiker Daniel"
+    },
+    {
+      "id": "lass_janice_0074",
+      "level": 11,
+      "name": "Lass Janice"
+    },
+    {
+      "id": "bug_catcher_donald_037e",
+      "level": 12,
+      "name": "Bug Catcher Donald"
+    },
+    {
+      "id": "bug_catcher_robby_006d",
+      "level": 12,
+      "name": "Bug Catcher Robby"
+    },
+    {
+      "id": "picnicker_siena_02f3",
+      "level": 12,
+      "name": "Picnicker Siena"
+    },
+    {
+      "id": "youngster_ben_0059",
+      "level": 12,
+      "name": "Youngster Ben"
+    },
+    {
+      "id": "bug_catcher_jack_037c",
+      "level": 13,
+      "name": "Bug Catcher Jack"
+    },
+    {
+      "id": "bug_catcher_james_006b",
+      "level": 13,
+      "name": "Bug Catcher James"
+    },
+    {
+      "id": "bug_catcher_kent_006c",
+      "level": 13,
+      "name": "Bug Catcher Kent"
+    },
+    {
+      "id": "bug_catcher_phillip_037d",
+      "level": 13,
+      "name": "Bug Catcher Phillip"
+    },
+    {
+      "id": "lass_sally_0075",
+      "level": 13,
+      "name": "Lass Sally"
+    },
+    {
+      "id": "camper_jacob_02f2",
+      "level": 14,
+      "name": "Camper Jacob"
+    },
+    {
+      "id": "camper_zackary_0405",
+      "level": 14,
+      "name": "Camper Zackary"
+    },
+    {
+      "id": "hiker_nicholas_02f5",
+      "level": 14,
+      "name": "Hiker Nicholas"
+    },
+    {
+      "id": "lass_briana_037f",
+      "level": 14,
+      "name": "Lass Briana"
+    },
+    {
+      "id": "lass_robin_0076",
+      "level": 14,
+      "name": "Lass Robin"
+    },
+    {
+      "id": "picnicker_karina_043f",
+      "level": 14,
+      "name": "Picnicker Karina"
+    },
+    {
+      "id": "super_nerd_jovan_00a9",
+      "level": 14,
+      "name": "Super Nerd Jovan"
+    },
+    {
+      "id": "camper_parker_0408",
+      "level": 15,
+      "name": "Camper Parker"
+    },
+    {
+      "id": "hiker_louis_03e0",
+      "level": 15,
+      "name": "Hiker Louis"
+    },
+    {
+      "id": "hiker_reginald_043d",
+      "level": 15,
+      "name": "Hiker Reginald"
+    },
+    {
+      "id": "hiker_theodore_043a",
+      "level": 15,
+      "name": "Hiker Theodore"
+    },
+    {
+      "id": "lass_caroline_03de",
+      "level": 15,
+      "name": "Lass Caroline"
+    },
+    {
+      "id": "lass_miriam_0078",
+      "level": 15,
+      "name": "Lass Miriam"
+    },
+    {
+      "id": "picnicker_tori_0441",
+      "level": 15,
+      "name": "Picnicker Tori"
+    },
+    {
+      "id": "psychic_elijah_0380",
+      "level": 15,
+      "name": "Psychic Elijah"
+    },
+    {
+      "id": "psychic_kody_0413",
+      "level": 15,
+      "name": "Psychic Kody"
+    },
+    {
+      "id": "psychic_lindsey_0381",
+      "level": 15,
+      "name": "Psychic Lindsey"
+    },
+    {
+      "id": "psychic_rachael_0416",
+      "level": 15,
+      "name": "Psychic Rachael"
+    },
+    {
+      "id": "scientist_travon_0577",
+      "level": 15,
+      "name": "Scientist Travon"
+    },
+    {
+      "id": "youngster_calvin_005a",
+      "level": 15,
+      "name": "Youngster Calvin"
+    },
+    {
+      "id": "youngster_wayne_045a",
+      "level": 15,
+      "name": "Youngster Wayne"
+    },
+    {
+      "id": "hiker_marcos_00b5",
+      "level": 16,
+      "name": "Hiker Marcos"
+    },
+    {
+      "id": "lass_iris_0079",
+      "level": 16,
+      "name": "Lass Iris"
+    },
+    {
+      "id": "youngster_josh_005b",
+      "level": 16,
+      "name": "Youngster Josh"
+    },
+    {
+      "id": "youngster_oliver_047b",
+      "level": 16,
+      "name": "Youngster Oliver"
+    },
+    {
+      "id": "beauty_lindsay_03f3",
+      "level": 17,
+      "name": "Beauty Lindsay"
+    },
+    {
+      "id": "bug_catcher_brandon_0530",
+      "level": 17,
+      "name": "Bug Catcher Brandon"
+    },
+    {
+      "id": "bug_catcher_cale_006e",
+      "level": 17,
+      "name": "Bug Catcher Cale"
+    },
+    {
+      "id": "camper_diego_0407",
+      "level": 17,
+      "name": "Camper Diego"
+    },
+    {
+      "id": "collector_terry_040b",
+      "level": 17,
+      "name": "Collector Terry"
+    },
+    {
+      "id": "gentleman_walter_01a9",
+      "level": 17,
+      "name": "Gentleman Walter"
+    },
+    {
+      "id": "hiker_kevyn_0306",
+      "level": 17,
+      "name": "Hiker Kevyn"
+    },
+    {
+      "id": "hiker_lorenzo_043e",
+      "level": 17,
+      "name": "Hiker Lorenzo"
+    },
+    {
+      "id": "hiker_robert_0309",
+      "level": 17,
+      "name": "Hiker Robert"
+    },
+    {
+      "id": "lass_cassidy_0439",
+      "level": 17,
+      "name": "Lass Cassidy"
+    },
+    {
+      "id": "lass_madeline_052a",
+      "level": 17,
+      "name": "Lass Madeline"
+    },
+    {
+      "id": "picnicker_ana_0442",
+      "level": 17,
+      "name": "Picnicker Ana"
+    },
+    {
+      "id": "youngster_ben_0065",
+      "level": 17,
+      "name": "Youngster Ben"
+    },
+    {
+      "id": "youngster_timmy_005c",
+      "level": 17,
+      "name": "Youngster Timmy"
+    },
+    {
+      "id": "hiker_justin_0307",
+      "level": 18,
+      "name": "Hiker Justin"
+    },
+    {
+      "id": "lass_ali_007b",
+      "level": 18,
+      "name": "Lass Ali"
+    },
+    {
+      "id": "lass_reli_007a",
+      "level": 18,
+      "name": "Lass Reli"
+    },
+    {
+      "id": "youngster_austin_0303",
+      "level": 18,
+      "name": "Youngster Austin"
+    },
+    {
+      "id": "youngster_joey_005d",
+      "level": 18,
+      "name": "Youngster Joey"
+    },
+    {
+      "id": "bird_keeper_alexandra_0326",
+      "level": 19,
+      "name": "Bird Keeper Alexandra"
+    },
+    {
+      "id": "black_belt_kyle_030c",
+      "level": 19,
+      "name": "Black Belt Kyle"
+    },
+    {
+      "id": "bug_catcher_colton_02d9",
+      "level": 19,
+      "name": "Bug Catcher Colton"
+    },
+    {
+      "id": "camper_anthony_0304",
+      "level": 19,
+      "name": "Camper Anthony"
+    },
+    {
+      "id": "camper_ethan_0090",
+      "level": 19,
+      "name": "Camper Ethan"
+    },
+    {
+      "id": "camper_zackary_04ed",
+      "level": 19,
+      "name": "Camper Zackary"
+    },
+    {
+      "id": "collector_dominique_0409",
+      "level": 19,
+      "name": "Collector Dominique"
+    },
+    {
+      "id": "collector_edwin_03ae",
+      "level": 19,
+      "name": "Collector Edwin"
+    },
+    {
+      "id": "gentleman_jeremy_032d",
+      "level": 19,
+      "name": "Gentleman Jeremy"
+    },
+    {
+      "id": "hiker_franklin_00b6",
+      "level": 19,
+      "name": "Hiker Franklin"
+    },
+    {
+      "id": "hiker_jonathan_030b",
+      "level": 19,
+      "name": "Hiker Jonathan"
+    },
+    {
+      "id": "hiker_nob_00b7",
+      "level": 19,
+      "name": "Hiker Nob"
+    },
+    {
+      "id": "lady_melissa_032c",
+      "level": 19,
+      "name": "Lady Melissa"
+    },
+    {
+      "id": "lass_haley_007d",
+      "level": 19,
+      "name": "Lass Haley"
+    },
+    {
+      "id": "lass_samantha_0527",
+      "level": 19,
+      "name": "Lass Samantha"
+    },
+    {
+      "id": "picnicker_karina_0536",
+      "level": 19,
+      "name": "Picnicker Karina"
+    },
+    {
+      "id": "picnicker_kelsey_0099",
+      "level": 19,
+      "name": "Picnicker Kelsey"
+    },
+    {
+      "id": "picnicker_lauren_0305",
+      "level": 19,
+      "name": "Picnicker Lauren"
+    },
+    {
+      "id": "rich_boy_jason_032b",
+      "level": 19,
+      "name": "Rich Boy Jason"
+    },
+    {
+      "id": "scientist_shaun_0453",
+      "level": 19,
+      "name": "Scientist Shaun"
+    },
+    {
+      "id": "twins_emma_03c0",
+      "level": 19,
+      "name": "Twin Emma"
+    },
+    {
+      "id": "twins_emma_lil_m007",
+      "level": 19,
+      "name": "Twins Emma & Lil"
+    },
+    {
+      "id": "twins_lil_03c1",
+      "level": 19,
+      "name": "Twin Lil"
+    },
+    {
+      "id": "youngster_dallas_0568",
+      "level": 19,
+      "name": "Youngster Dallas"
+    },
+    {
+      "id": "youngster_timmy_01f7",
+      "level": 19,
+      "name": "Youngster Timmy"
+    },
+    {
+      "id": "youngster_tristan_0565",
+      "level": 19,
+      "name": "Youngster Tristan"
+    },
+    {
+      "id": "camper_flint_01d7",
+      "level": 20,
+      "name": "Camper Flint"
+    },
+    {
+      "id": "camper_shane_008f",
+      "level": 20,
+      "name": "Camper Shane"
+    },
+    {
+      "id": "collector_eugene_0484",
+      "level": 20,
+      "name": "Collector Eugene"
+    },
+    {
+      "id": "collector_fernando_03ad",
+      "level": 20,
+      "name": "Collector Fernando"
+    },
+    {
+      "id": "hiker_wayne_00b8",
+      "level": 20,
+      "name": "Hiker Wayne"
+    },
+    {
+      "id": "lass_janice_01fb",
+      "level": 20,
+      "name": "Lass Janice"
+    },
+    {
+      "id": "lass_reli_01f5",
+      "level": 20,
+      "name": "Lass Reli"
+    },
+    {
+      "id": "rocker_randall_011c",
+      "level": 20,
+      "name": "Rocker Randall"
+    },
+    {
+      "id": "swimmerm_luis_00ea",
+      "level": 20,
+      "name": "Swimmer\u2642 Luis"
+    },
+    {
+      "id": "youngster_chad_01f4",
+      "level": 20,
+      "name": "Youngster Chad"
+    },
+    {
+      "id": "camper_jeff_0273",
+      "level": 21,
+      "name": "Camper Jeff"
+    },
+    {
+      "id": "gentleman_leonardo_0487",
+      "level": 21,
+      "name": "Gentleman Leonardo"
+    },
+    {
+      "id": "lady_kylie_048b",
+      "level": 21,
+      "name": "Lady Kylie"
+    },
+    {
+      "id": "lass_blythe_0489",
+      "level": 21,
+      "name": "Lass Blythe"
+    },
+    {
+      "id": "picnicker_isabelle_0276",
+      "level": 21,
+      "name": "Picnicker Isabelle"
+    },
+    {
+      "id": "picnicker_kelsey_026d",
+      "level": 21,
+      "name": "Picnicker Kelsey"
+    },
+    {
+      "id": "scientist_stefano_0338",
+      "level": 21,
+      "name": "Scientist Stefano"
+    },
+    {
+      "id": "tuber_jared_033e",
+      "level": 21,
+      "name": "Tuber Jared"
+    },
+    {
+      "id": "twins_teri_0319",
+      "level": 21,
+      "name": "Twin Teri"
+    },
+    {
+      "id": "twins_teri_tia_m003",
+      "level": 21,
+      "name": "Twins Teri & Tia"
+    },
+    {
+      "id": "twins_tia_031a",
+      "level": 21,
+      "name": "Twin Tia"
+    },
+    {
+      "id": "youngster_chad_005f",
+      "level": 21,
+      "name": "Youngster Chad"
+    },
+    {
+      "id": "youngster_dan_005e",
+      "level": 21,
+      "name": "Youngster Dan"
+    },
+    {
+      "id": "camper_ricky_0270",
+      "level": 22,
+      "name": "Camper Ricky"
+    },
+    {
+      "id": "channeler_01c8",
+      "level": 22,
+      "name": "Channeler"
+    },
+    {
+      "id": "channeler_01ca",
+      "level": 22,
+      "name": "Channeler"
+    },
+    {
+      "id": "channeler_01cb",
+      "level": 22,
+      "name": "Channeler"
+    },
+    {
+      "id": "picnicker_diana_0096",
+      "level": 22,
+      "name": "Picnicker Diana"
+    },
+    {
+      "id": "youngster_yasu_0279",
+      "level": 22,
+      "name": "Youngster Yasu"
+    },
+    {
+      "id": "ace_trainer_dennis_03b0",
+      "level": 23,
+      "name": "Ace Trainer Dennis"
+    },
+    {
+      "id": "ace_trainer_maya_03b9",
+      "level": 23,
+      "name": "Ace Trainer Maya"
+    },
+    {
+      "id": "beauty_cyndy_03f2",
+      "level": 23,
+      "name": "Beauty Cyndy"
+    },
+    {
+      "id": "beauty_gabriella_048f",
+      "level": 23,
+      "name": "Beauty Gabriella"
+    },
+    {
+      "id": "beauty_harley_0490",
+      "level": 23,
+      "name": "Beauty Harley"
+    },
+    {
+      "id": "black_belt_gregory_0347",
+      "level": 23,
+      "name": "Black Belt Gregory"
+    },
+    {
+      "id": "black_belt_nathaniel_0349",
+      "level": 23,
+      "name": "Black Belt Nathaniel"
+    },
+    {
+      "id": "bug_catcher_keigo_006f",
+      "level": 23,
+      "name": "Bug Catcher Keigo"
+    },
+    {
+      "id": "channeler_01c6",
+      "level": 23,
+      "name": "Channeler"
+    },
+    {
+      "id": "lass_megan_0288",
+      "level": 23,
+      "name": "Lass Megan"
+    },
+    {
+      "id": "picnicker_nancy_0097",
+      "level": 23,
+      "name": "Picnicker Nancy"
+    },
+    {
+      "id": "psychic_mitchell_0344",
+      "level": 23,
+      "name": "Psychic Mitchell"
+    },
+    {
+      "id": "rich_boy_roman_048a",
+      "level": 23,
+      "name": "Rich Boy Roman"
+    },
+    {
+      "id": "scientist_emilio_048e",
+      "level": 23,
+      "name": "Scientist Emilio"
+    },
+    {
+      "id": "tuber_chelsea_033f",
+      "level": 23,
+      "name": "Tuber Chelsea"
+    },
+    {
+      "id": "bug_catcher_elijah_0070",
+      "level": 24,
+      "name": "Bug Catcher Elijah"
+    },
+    {
+      "id": "camper_chris_027d",
+      "level": 24,
+      "name": "Camper Chris"
+    },
+    {
+      "id": "camper_jeff_0092",
+      "level": 24,
+      "name": "Camper Jeff"
+    },
+    {
+      "id": "camper_ricky_0091",
+      "level": 24,
+      "name": "Camper Ricky"
+    },
+    {
+      "id": "channeler_01c7",
+      "level": 24,
+      "name": "Channeler"
+    },
+    {
+      "id": "channeler_01c9",
+      "level": 24,
+      "name": "Channeler"
+    },
+    {
+      "id": "channeler_01cc",
+      "level": 24,
+      "name": "Channeler"
+    },
+    {
+      "id": "channeler_01cd",
+      "level": 24,
+      "name": "Channeler"
+    },
+    {
+      "id": "collector_brady_03ab",
+      "level": 24,
+      "name": "Collector Brady"
+    },
+    {
+      "id": "collector_douglas_03aa",
+      "level": 24,
+      "name": "Collector Douglas"
+    },
+    {
+      "id": "collector_jamal_040a",
+      "level": 24,
+      "name": "Collector Jamal"
+    },
+    {
+      "id": "picnicker_hannah_00a1",
+      "level": 24,
+      "name": "Picnicker Hannah"
+    },
+    {
+      "id": "picnicker_isabelle_0098",
+      "level": 24,
+      "name": "Picnicker Isabelle"
+    },
+    {
+      "id": "psychic_abigail_0345",
+      "level": 24,
+      "name": "Psychic Abigail"
+    },
+    {
+      "id": "sailor_damian_03eb",
+      "level": 24,
+      "name": "Sailor Damian"
+    },
+    {
+      "id": "sailor_samson_0452",
+      "level": 24,
+      "name": "Sailor Samson"
+    },
+    {
+      "id": "tuber_caitlyn_045c",
+      "level": 24,
+      "name": "Tuber Caitlyn"
+    },
+    {
+      "id": "beauty_devon_0457",
+      "level": 25,
+      "name": "Beauty Devon"
+    },
+    {
+      "id": "black_belt_colby_03d0",
+      "level": 25,
+      "name": "Black Belt Colby"
+    },
+    {
+      "id": "black_belt_darren_03d1",
+      "level": 25,
+      "name": "Black Belt Darren"
+    },
+    {
+      "id": "black_belt_derek_0348",
+      "level": 25,
+      "name": "Black Belt Derek"
+    },
+    {
+      "id": "engineer_bernie_00de",
+      "level": 25,
+      "name": "Engineer Bernie"
+    },
+    {
+      "id": "gambler_darian_0105",
+      "level": 25,
+      "name": "Gambler Darian"
+    },
+    {
+      "id": "hiker_franklin_01fe",
+      "level": 25,
+      "name": "Hiker Franklin"
+    },
+    {
+      "id": "picnicker_alicia_0280",
+      "level": 25,
+      "name": "Picnicker Alicia"
+    },
+    {
+      "id": "youngster_dave_0064",
+      "level": 25,
+      "name": "Youngster Dave"
+    },
+    {
+      "id": "youngster_yasu_0063",
+      "level": 25,
+      "name": "Youngster Yasu"
+    },
+    {
+      "id": "black_belt_jeffery_03d3",
+      "level": 26,
+      "name": "Black Belt Jeffery"
+    },
+    {
+      "id": "engineer_braxton_00dd",
+      "level": 26,
+      "name": "Engineer Braxton"
+    },
+    {
+      "id": "gambler_dirk_0104",
+      "level": 26,
+      "name": "Gambler Dirk"
+    },
+    {
+      "id": "gambler_hugo_0102",
+      "level": 26,
+      "name": "Gambler Hugo"
+    },
+    {
+      "id": "gambler_jasper_0103",
+      "level": 26,
+      "name": "Gambler Jasper"
+    },
+    {
+      "id": "gentleman_arthur_01a6",
+      "level": 26,
+      "name": "Gentleman Arthur"
+    },
+    {
+      "id": "gentleman_thomas_01a5",
+      "level": 26,
+      "name": "Gentleman Thomas"
+    },
+    {
+      "id": "tuber_jacky_045b",
+      "level": 26,
+      "name": "Tuber Jacky"
+    },
+    {
+      "id": "youngster_dillon_0062",
+      "level": 26,
+      "name": "Youngster Dillon"
+    },
+    {
+      "id": "youngster_eddie_0061",
+      "level": 26,
+      "name": "Youngster Eddie"
+    },
+    {
+      "id": "ace_trainer_alyssa_031c",
+      "level": 27,
+      "name": "Ace Trainer Alyssa"
+    },
+    {
+      "id": "ace_trainer_ernest_031b",
+      "level": 27,
+      "name": "Ace Trainer Ernest"
+    },
+    {
+      "id": "bird_keeper_brianna_0323",
+      "level": 27,
+      "name": "Bird Keeper Brianna"
+    },
+    {
+      "id": "bug_catcher_colton_02da",
+      "level": 27,
+      "name": "Bug Catcher Colton"
+    },
+    {
+      "id": "camper_drew_03a4",
+      "level": 27,
+      "name": "Camper Drew"
+    },
+    {
+      "id": "fisherman_barny_00e0",
+      "level": 27,
+      "name": "Fisherman Barny"
+    },
+    {
+      "id": "fisherman_dale_00df",
+      "level": 27,
+      "name": "Fisherman Dale"
+    },
+    {
+      "id": "gentleman_lamar_01e3",
+      "level": 27,
+      "name": "Gentleman Lamar"
+    },
+    {
+      "id": "picnicker_susie_0292",
+      "level": 27,
+      "name": "Picnicker Susie"
+    },
+    {
+      "id": "youngster_timmy_01f8",
+      "level": 27,
+      "name": "Youngster Timmy"
+    },
+    {
+      "id": "youngster_tyler_0060",
+      "level": 27,
+      "name": "Youngster Tyler"
+    },
+    {
+      "id": "bird_keeper_jacob_02a8",
+      "level": 28,
+      "name": "Bird Keeper Jacob"
+    },
+    {
+      "id": "bird_keeper_robert_0290",
+      "level": 28,
+      "name": "Bird Keeper Robert"
+    },
+    {
+      "id": "black_belt_rafael_03d2",
+      "level": 28,
+      "name": "Black Belt Rafael"
+    },
+    {
+      "id": "burglar_00d4",
+      "level": 28,
+      "name": "Burglar"
+    },
+    {
+      "id": "camper_drew_0095",
+      "level": 28,
+      "name": "Camper Drew"
+    },
+    {
+      "id": "engineer_baily_00dc",
+      "level": 28,
+      "name": "Engineer Baily"
+    },
+    {
+      "id": "engineer_bernie_027b",
+      "level": 28,
+      "name": "Engineer Bernie"
+    },
+    {
+      "id": "fisherman_elliot_028d",
+      "level": 28,
+      "name": "Fisherman Elliot"
+    },
+    {
+      "id": "lass_dawn_007f",
+      "level": 28,
+      "name": "Lass Dawn"
+    },
+    {
+      "id": "lass_janice_01fc",
+      "level": 28,
+      "name": "Lass Janice"
+    },
+    {
+      "id": "lass_reli_01f6",
+      "level": 28,
+      "name": "Lass Reli"
+    },
+    {
+      "id": "picnicker_alicia_009a",
+      "level": 28,
+      "name": "Picnicker Alicia"
+    },
+    {
+      "id": "picnicker_cheyenne_03e4",
+      "level": 28,
+      "name": "Picnicker Cheyenne"
+    },
+    {
+      "id": "sailor_duncan_0089",
+      "level": 28,
+      "name": "Sailor Duncan"
+    },
+    {
+      "id": "sailor_dwayne_008d",
+      "level": 28,
+      "name": "Sailor Dwayne"
+    },
+    {
+      "id": "sailor_huey_008a",
+      "level": 28,
+      "name": "Sailor Huey"
+    },
+    {
+      "id": "sailor_leonard_0088",
+      "level": 28,
+      "name": "Sailor Leonard"
+    },
+    {
+      "id": "super_nerd_glenn_028a",
+      "level": 28,
+      "name": "Super Nerd Glenn"
+    },
+    {
+      "id": "swimmer_jessica_0361",
+      "level": 28,
+      "name": "Swimmer Jessica"
+    },
+    {
+      "id": "swimmer_katelyn_0363",
+      "level": 28,
+      "name": "Swimmer Katelyn"
+    },
+    {
+      "id": "twins_eli_and_anne_0215",
+      "level": 28,
+      "name": "Twins Eli & Anne"
+    },
+    {
+      "id": "youngster_ben_01f2",
+      "level": 28,
+      "name": "Youngster Ben"
+    },
+    {
+      "id": "youngster_chad_01fa",
+      "level": 28,
+      "name": "Youngster Chad"
+    },
+    {
+      "id": "black_belt_adam_031e",
+      "level": 29,
+      "name": "Black Belt Adam"
+    },
+    {
+      "id": "black_belt_sean_0328",
+      "level": 29,
+      "name": "Black Belt Sean"
+    },
+    {
+      "id": "bug_catcher_brandon_0531",
+      "level": 29,
+      "name": "Bug Catcher Brandon"
+    },
+    {
+      "id": "bug_catcher_brent_0072",
+      "level": 29,
+      "name": "Bug Catcher Brent"
+    },
+    {
+      "id": "bug_catcher_conner_0073",
+      "level": 29,
+      "name": "Bug Catcher Conner"
+    },
+    {
+      "id": "camper_chris_027e",
+      "level": 29,
+      "name": "Camper Chris"
+    },
+    {
+      "id": "camper_jeff_0274",
+      "level": 29,
+      "name": "Camper Jeff"
+    },
+    {
+      "id": "gambler_darian_027c",
+      "level": 29,
+      "name": "Gambler Darian"
+    },
+    {
+      "id": "gentleman_tucker_01a7",
+      "level": 29,
+      "name": "Gentleman Tucker"
+    },
+    {
+      "id": "hiker_theodore_052d",
+      "level": 29,
+      "name": "Hiker Theodore"
+    },
+    {
+      "id": "lass_madeline_052b",
+      "level": 29,
+      "name": "Lass Madeline"
+    },
+    {
+      "id": "picnicker_isabelle_0277",
+      "level": 29,
+      "name": "Picnicker Isabelle"
+    },
+    {
+      "id": "picnicker_kelsey_026e",
+      "level": 29,
+      "name": "Picnicker Kelsey"
+    },
+    {
+      "id": "pokemaniac_herman_0285",
+      "level": 29,
+      "name": "Pok\u00e9maniac Herman"
+    },
+    {
+      "id": "sailor_dylan_008b",
+      "level": 29,
+      "name": "Sailor Dylan"
+    },
+    {
+      "id": "sailor_phillip_008c",
+      "level": 29,
+      "name": "Sailor Phillip"
+    },
+    {
+      "id": "swimmer_adrian_035e",
+      "level": 29,
+      "name": "Swimmer Adrian"
+    },
+    {
+      "id": "swimmer_erica_0362",
+      "level": 29,
+      "name": "Swimmer Erica"
+    },
+    {
+      "id": "swimmer_vincent_0360",
+      "level": 29,
+      "name": "Swimmer Vincent"
+    },
+    {
+      "id": "tuber_jared_056b",
+      "level": 29,
+      "name": "Tuber Jared"
+    },
+    {
+      "id": "tuber_mariel_03f9",
+      "level": 29,
+      "name": "Tuber Mariel"
+    },
+    {
+      "id": "tuber_trenton_03f7",
+      "level": 29,
+      "name": "Tuber Trenton"
+    },
+    {
+      "id": "youngster_donny_03f6",
+      "level": 29,
+      "name": "Youngster Donny"
+    },
+    {
+      "id": "ace_trainer_allen_03b2",
+      "level": 30,
+      "name": "Ace Trainer Allen"
+    },
+    {
+      "id": "ace_trainer_catherine_03b6",
+      "level": 30,
+      "name": "Ace Trainer Catherine"
+    },
+    {
+      "id": "biker_jaren_028c",
+      "level": 30,
+      "name": "Biker Jaren"
+    },
+    {
+      "id": "bird_keeper_chester_029b",
+      "level": 30,
+      "name": "Bird Keeper Chester"
+    },
+    {
+      "id": "bird_keeper_marlon_0298",
+      "level": 30,
+      "name": "Bird Keeper Marlon"
+    },
+    {
+      "id": "camper_ricky_0271",
+      "level": 30,
+      "name": "Camper Ricky"
+    },
+    {
+      "id": "gambler_rich_028b",
+      "level": 30,
+      "name": "Gambler Rich"
+    },
+    {
+      "id": "hiker_brice_00ba",
+      "level": 30,
+      "name": "Hiker Brice"
+    },
+    {
+      "id": "hiker_jeremy_01d1",
+      "level": 30,
+      "name": "Hiker Jeremy"
+    },
+    {
+      "id": "hiker_jeremy_0283",
+      "level": 30,
+      "name": "Hiker Jeremy"
+    },
+    {
+      "id": "lass_molly_03df",
+      "level": 30,
+      "name": "Lass Molly"
+    },
+    {
+      "id": "picnicker_alicia_0281",
+      "level": 30,
+      "name": "Picnicker Alicia"
+    },
+    {
+      "id": "picnicker_heidi_009c",
+      "level": 30,
+      "name": "Picnicker Heidi"
+    },
+    {
+      "id": "scientist_shaun_054f",
+      "level": 30,
+      "name": "Scientist Shaun"
+    },
+    {
+      "id": "bird_keeper_katherine_032a",
+      "level": 31,
+      "name": "Bird Keeper Katherine"
+    },
+    {
+      "id": "camper_chris_0094",
+      "level": 31,
+      "name": "Camper Chris"
+    },
+    {
+      "id": "camper_lawrence_0406",
+      "level": 31,
+      "name": "Camper Lawrence"
+    },
+    {
+      "id": "camper_zackary_04ee",
+      "level": 31,
+      "name": "Camper Zackary"
+    },
+    {
+      "id": "cue_ball_chase_0101",
+      "level": 31,
+      "name": "Cue Ball Chase"
+    },
+    {
+      "id": "gentleman_jeremy_051b",
+      "level": 31,
+      "name": "Gentleman Jeremy"
+    },
+    {
+      "id": "hiker_damon_043b",
+      "level": 31,
+      "name": "Hiker Damon"
+    },
+    {
+      "id": "hiker_trent_0287",
+      "level": 31,
+      "name": "Hiker Trent"
+    },
+    {
+      "id": "lady_melissa_0541",
+      "level": 31,
+      "name": "Lady Melissa"
+    },
+    {
+      "id": "lass_samantha_0528",
+      "level": 31,
+      "name": "Lass Samantha"
+    },
+    {
+      "id": "picnicker_karina_0537",
+      "level": 31,
+      "name": "Picnicker Karina"
+    },
+    {
+      "id": "picnicker_summer_0440",
+      "level": 31,
+      "name": "Picnicker Summer"
+    },
+    {
+      "id": "sailor_paul_0340",
+      "level": 31,
+      "name": "Sailor Paul"
+    },
+    {
+      "id": "sailor_skyler_03ea",
+      "level": 31,
+      "name": "Sailor Skyler"
+    },
+    {
+      "id": "swimmer_claire_0459",
+      "level": 31,
+      "name": "Swimmer Claire"
+    },
+    {
+      "id": "swimmer_erik_035f",
+      "level": 31,
+      "name": "Swimmer Erik"
+    },
+    {
+      "id": "swimmer_haley_033c",
+      "level": 31,
+      "name": "Swimmer Haley"
+    },
+    {
+      "id": "swimmer_shelton_033a",
+      "level": 31,
+      "name": "Swimmer Shelton"
+    },
+    {
+      "id": "youngster_dallas_0569",
+      "level": 31,
+      "name": "Youngster Dallas"
+    },
+    {
+      "id": "youngster_tristan_0566",
+      "level": 31,
+      "name": "Youngster Tristan"
+    },
+    {
+      "id": "ace_trainer_cesar_03b1",
+      "level": 32,
+      "name": "Ace Trainer Cesar"
+    },
+    {
+      "id": "bird_keeper_benny_0296",
+      "level": 32,
+      "name": "Bird Keeper Benny"
+    },
+    {
+      "id": "black_belt_david_038a",
+      "level": 32,
+      "name": "Black Belt David"
+    },
+    {
+      "id": "hiker_alan_00b9",
+      "level": 32,
+      "name": "Hiker Alan"
+    },
+    {
+      "id": "hiker_lenny_00c0",
+      "level": 32,
+      "name": "Hiker Lenny"
+    },
+    {
+      "id": "hiker_maurice_043c",
+      "level": 32,
+      "name": "Hiker Maurice"
+    },
+    {
+      "id": "picnicker_becky_029d",
+      "level": 32,
+      "name": "Picnicker Becky"
+    },
+    {
+      "id": "pokemaniac_ashton_00a8",
+      "level": 32,
+      "name": "Pok\u00e9maniac Ashton"
+    },
+    {
+      "id": "swimmer_dillon_0364",
+      "level": 32,
+      "name": "Swimmer Dillon"
+    },
+    {
+      "id": "swimmer_evan_033b",
+      "level": 32,
+      "name": "Swimmer Evan"
+    },
+    {
+      "id": "swimmer_mary_033d",
+      "level": 32,
+      "name": "Swimmer Mary"
+    },
+    {
+      "id": "ace_trainer_breanna_03b5",
+      "level": 33,
+      "name": "Ace Trainer Breanna"
+    },
+    {
+      "id": "ace_trainer_brenda_0410",
+      "level": 33,
+      "name": "Ace Trainer Brenda"
+    },
+    {
+      "id": "ace_trainer_jake_0367",
+      "level": 33,
+      "name": "Ace Trainer Jake"
+    },
+    {
+      "id": "beauty_lauren_0113",
+      "level": 33,
+      "name": "Beauty Lauren"
+    },
+    {
+      "id": "black_belt_ricky_03d5",
+      "level": 33,
+      "name": "Black Belt Ricky"
+    },
+    {
+      "id": "burglar_00d3",
+      "level": 33,
+      "name": "Burglar"
+    },
+    {
+      "id": "crush_kin_ron_and_mya_02a0",
+      "level": 33,
+      "name": "Crush Kin Ron & Mya"
+    },
+    {
+      "id": "picnicker_martha_009f",
+      "level": 33,
+      "name": "Picnicker Martha"
+    },
+    {
+      "id": "pokemaniac_mark_0252",
+      "level": 33,
+      "name": "Pok\u00e9maniac Mark"
+    },
+    {
+      "id": "rocker_luca_028e",
+      "level": 33,
+      "name": "Rocker Luca"
+    },
+    {
+      "id": "swimmer_vanessa_0365",
+      "level": 33,
+      "name": "Swimmer Vanessa"
+    },
+    {
+      "id": "ace_trainer_jonah_040d",
+      "level": 34,
+      "name": "Ace Trainer Jonah"
+    },
+    {
+      "id": "ace_trainer_shannon_0368",
+      "level": 34,
+      "name": "Ace Trainer Shannon"
+    },
+    {
+      "id": "burglar_00d9",
+      "level": 34,
+      "name": "Burglar"
+    },
+    {
+      "id": "collector_ivan_03ac",
+      "level": 34,
+      "name": "Collector Ivan"
+    },
+    {
+      "id": "hiker_eric_00bf",
+      "level": 34,
+      "name": "Hiker Eric"
+    },
+    {
+      "id": "pokemaniac_steve_00a5",
+      "level": 34,
+      "name": "Pok\u00e9maniac Steve"
+    },
+    {
+      "id": "pokemaniac_winston_00a6",
+      "level": 34,
+      "name": "Pok\u00e9maniac Winston"
+    },
+    {
+      "id": "ace_trainer_blake_034b",
+      "level": 35,
+      "name": "Ace Trainer Blake"
+    },
+    {
+      "id": "ace_trainer_garrett_034c",
+      "level": 35,
+      "name": "Ace Trainer Garrett"
+    },
+    {
+      "id": "ace_trainer_maria_034e",
+      "level": 35,
+      "name": "Ace Trainer Maria"
+    },
+    {
+      "id": "beauty_tamia_010a",
+      "level": 35,
+      "name": "Beauty Tamia"
+    },
+    {
+      "id": "biker_jaren_0218",
+      "level": 35,
+      "name": "Biker Jaren"
+    },
+    {
+      "id": "biker_ricardo_0217",
+      "level": 35,
+      "name": "Biker Ricardo"
+    },
+    {
+      "id": "black_belt_kendal_0436",
+      "level": 35,
+      "name": "Black Belt Kendal"
+    },
+    {
+      "id": "channeler_patricia_01b9",
+      "level": 35,
+      "name": "Channeler Patricia"
+    },
+    {
+      "id": "fisherman_chip_00e2",
+      "level": 35,
+      "name": "Fisherman Chip"
+    },
+    {
+      "id": "fisherman_ned_00e1",
+      "level": 35,
+      "name": "Fisherman Ned"
+    },
+    {
+      "id": "gambler_rich_0108",
+      "level": 35,
+      "name": "Gambler Rich"
+    },
+    {
+      "id": "hiker_alexander_030a",
+      "level": 35,
+      "name": "Hiker Alexander"
+    },
+    {
+      "id": "hiker_allen_00be",
+      "level": 35,
+      "name": "Hiker Allen"
+    },
+    {
+      "id": "hiker_dudley_00bd",
+      "level": 35,
+      "name": "Hiker Dudley"
+    },
+    {
+      "id": "hiker_lucas_00c2",
+      "level": 35,
+      "name": "Hiker Lucas"
+    },
+    {
+      "id": "hiker_oliver_00c1",
+      "level": 35,
+      "name": "Hiker Oliver"
+    },
+    {
+      "id": "hiker_trent_00bc",
+      "level": 35,
+      "name": "Hiker Trent"
+    },
+    {
+      "id": "lass_julia_0083",
+      "level": 35,
+      "name": "Lass Julia"
+    },
+    {
+      "id": "picnicker_ariana_01db",
+      "level": 35,
+      "name": "Picnicker Ariana"
+    },
+    {
+      "id": "picnicker_carol_009d",
+      "level": 35,
+      "name": "Picnicker Carol"
+    },
+    {
+      "id": "picnicker_dana_01da",
+      "level": 35,
+      "name": "Picnicker Dana"
+    },
+    {
+      "id": "picnicker_leah_01dc",
+      "level": 35,
+      "name": "Picnicker Leah"
+    },
+    {
+      "id": "picnicker_sofia_009e",
+      "level": 35,
+      "name": "Picnicker Sofia"
+    },
+    {
+      "id": "pokemaniac_cooprt_00a4",
+      "level": 35,
+      "name": "Pok\u00e9maniac Cooprt"
+    },
+    {
+      "id": "pokemaniac_herman_00a3",
+      "level": 35,
+      "name": "Pok\u00e9maniac Herman"
+    },
+    {
+      "id": "scientist_fredrick_0576",
+      "level": 35,
+      "name": "Scientist Fredrick"
+    },
+    {
+      "id": "beauty_lori_010b",
+      "level": 36,
+      "name": "Beauty Lori"
+    },
+    {
+      "id": "channeler_hope_01bb",
+      "level": 36,
+      "name": "Channeler Hope"
+    },
+    {
+      "id": "channeler_paula_01bc",
+      "level": 36,
+      "name": "Channeler Paula"
+    },
+    {
+      "id": "channeler_tammy_01bf",
+      "level": 36,
+      "name": "Channeler Tammy"
+    },
+    {
+      "id": "fisherman_hank_00e3",
+      "level": 36,
+      "name": "Fisherman Hank"
+    },
+    {
+      "id": "hiker_clark_00bb",
+      "level": 36,
+      "name": "Hiker Clark"
+    },
+    {
+      "id": "lass_megan_0082",
+      "level": 36,
+      "name": "Lass Megan"
+    },
+    {
+      "id": "super_nerd_glenn_00ac",
+      "level": 36,
+      "name": "Super Nerd Glenn"
+    },
+    {
+      "id": "super_nerd_leslie_00ad",
+      "level": 36,
+      "name": "Super Nerd Leslie"
+    },
+    {
+      "id": "ace_trainer_alexa_05d7",
+      "level": 37,
+      "name": "Ace Trainer Alexa"
+    },
+    {
+      "id": "ace_trainer_alexa_0603",
+      "level": 37,
+      "name": "Ace Trainer Alexa"
+    },
+    {
+      "id": "ace_trainer_alicia_03a9",
+      "level": 37,
+      "name": "Ace Trainer Alicia"
+    },
+    {
+      "id": "ace_trainer_laura_034d",
+      "level": 37,
+      "name": "Ace Trainer Laura"
+    },
+    {
+      "id": "ace_trainer_olivia_0354",
+      "level": 37,
+      "name": "Ace Trainer Olivia"
+    },
+    {
+      "id": "ace_trainer_savannah_03a8",
+      "level": 37,
+      "name": "Ace Trainer Savannah"
+    },
+    {
+      "id": "ace_trainer_sergio_03a6",
+      "level": 37,
+      "name": "Ace Trainer Sergio"
+    },
+    {
+      "id": "black_belt_luke_035b",
+      "level": 37,
+      "name": "Black Belt Luke"
+    },
+    {
+      "id": "channeler_emilia_01c4",
+      "level": 37,
+      "name": "Channeler Emilia"
+    },
+    {
+      "id": "channeler_jody_01be",
+      "level": 37,
+      "name": "Channeler Jody"
+    },
+    {
+      "id": "channeler_karina_01c1",
+      "level": 37,
+      "name": "Channeler Karina"
+    },
+    {
+      "id": "channeler_laurel_01bd",
+      "level": 37,
+      "name": "Channeler Laurel"
+    },
+    {
+      "id": "fisherman_elliot_00e4",
+      "level": 37,
+      "name": "Fisherman Elliot"
+    },
+    {
+      "id": "gambler_stan_0106",
+      "level": 37,
+      "name": "Gambler Stan"
+    },
+    {
+      "id": "lass_andrea_0081",
+      "level": 37,
+      "name": "Lass Andrea"
+    },
+    {
+      "id": "lass_paige_0080",
+      "level": 37,
+      "name": "Lass Paige"
+    },
+    {
+      "id": "picnicker_tina_00a0",
+      "level": 37,
+      "name": "Picnicker Tina"
+    },
+    {
+      "id": "scientist_darrius_0575",
+      "level": 37,
+      "name": "Scientist Darrius"
+    },
+    {
+      "id": "super_nerd_aidan_00ab",
+      "level": 37,
+      "name": "Super Nerd Aidan"
+    },
+    {
+      "id": "twins_eli_and_anne_01e4",
+      "level": 37,
+      "name": "Twins Eli & Anne"
+    },
+    {
+      "id": "ace_trainer_dalton_0353",
+      "level": 38,
+      "name": "Ace Trainer Dalton"
+    },
+    {
+      "id": "ace_trainer_mary_0192",
+      "level": 38,
+      "name": "Ace Trainer Mary"
+    },
+    {
+      "id": "ace_trainer_yuji_0190",
+      "level": 38,
+      "name": "Ace Trainer Yuji"
+    },
+    {
+      "id": "beauty_bridget_0109",
+      "level": 38,
+      "name": "Beauty Bridget"
+    },
+    {
+      "id": "black_belt_takashi_0144",
+      "level": 38,
+      "name": "Black Belt Takashi"
+    },
+    {
+      "id": "channeler_janae_01c2",
+      "level": 38,
+      "name": "Channeler Janae"
+    },
+    {
+      "id": "channeler_ruth_01c0",
+      "level": 38,
+      "name": "Channeler Ruth"
+    },
+    {
+      "id": "lass_kay_0084",
+      "level": 38,
+      "name": "Lass Kay"
+    },
+    {
+      "id": "lass_madeline_052c",
+      "level": 38,
+      "name": "Lass Madeline"
+    },
+    {
+      "id": "ace_trainer_anton_0573",
+      "level": 39,
+      "name": "Ace Trainer Anton"
+    },
+    {
+      "id": "ace_trainer_brenna_0574",
+      "level": 39,
+      "name": "Ace Trainer Brenna"
+    },
+    {
+      "id": "ace_trainer_dennis_04fe",
+      "level": 39,
+      "name": "Ace Trainer Dennis"
+    },
+    {
+      "id": "ace_trainer_isaiah_03a7",
+      "level": 39,
+      "name": "Ace Trainer Isaiah"
+    },
+    {
+      "id": "ace_trainer_samuel_0188",
+      "level": 39,
+      "name": "Ace Trainer Samuel"
+    },
+    {
+      "id": "ace_trainer_warren_0191",
+      "level": 39,
+      "name": "Ace Trainer Warren"
+    },
+    {
+      "id": "bird_keeper_keith_0138",
+      "level": 39,
+      "name": "Bird Keeper Keith"
+    },
+    {
+      "id": "bird_keeper_reed_0137",
+      "level": 39,
+      "name": "Bird Keeper Reed"
+    },
+    {
+      "id": "channeler_angelica_01c3",
+      "level": 39,
+      "name": "Channeler Angelica"
+    },
+    {
+      "id": "channeler_carly_01ba",
+      "level": 39,
+      "name": "Channeler Carly"
+    },
+    {
+      "id": "channeler_jennifer_01c5",
+      "level": 39,
+      "name": "Channeler Jennifer"
+    },
+    {
+      "id": "hiker_theodore_052e",
+      "level": 39,
+      "name": "Hiker Theodore"
+    },
+    {
+      "id": "lass_lisa_0085",
+      "level": 39,
+      "name": "Lass Lisa"
+    },
+    {
+      "id": "psychic_abigail_050b",
+      "level": 39,
+      "name": "Psychic Abigail"
+    },
+    {
+      "id": "tamer_cole_0129",
+      "level": 39,
+      "name": "Tamer Cole"
+    },
+    {
+      "id": "ace_trainer_maya_0503",
+      "level": 40,
+      "name": "Ace Trainer Maya"
+    },
+    {
+      "id": "beauty_cyndy_0555",
+      "level": 40,
+      "name": "Beauty Cyndy"
+    },
+    {
+      "id": "black_belt_atsushi_0142",
+      "level": 40,
+      "name": "Black Belt Atsushi"
+    },
+    {
+      "id": "black_belt_philip_039c",
+      "level": 40,
+      "name": "Black Belt Philip"
+    },
+    {
+      "id": "gentleman_jeremy_051c",
+      "level": 40,
+      "name": "Gentleman Jeremy"
+    },
+    {
+      "id": "lady_melissa_0542",
+      "level": 40,
+      "name": "Lady Melissa"
+    },
+    {
+      "id": "scientist_shaun_0550",
+      "level": 40,
+      "name": "Scientist Shaun"
+    },
+    {
+      "id": "tuber_chelsea_056d",
+      "level": 40,
+      "name": "Tuber Chelsea"
+    },
+    {
+      "id": "twins_teri_0515",
+      "level": 40,
+      "name": "Twin Teri"
+    },
+    {
+      "id": "twins_teri_tia_m00c",
+      "level": 40,
+      "name": "Twins Teri & Tia"
+    },
+    {
+      "id": "twins_tia_0516",
+      "level": 40,
+      "name": "Twin Tia"
+    },
+    {
+      "id": "youngster_tristan_0567",
+      "level": 40,
+      "name": "Youngster Tristan"
+    },
+    {
+      "id": "scientist_beau_0154",
+      "level": 41,
+      "name": "Scientist Beau"
+    },
+    {
+      "id": "swimmer_aubree_0375",
+      "level": 41,
+      "name": "Swimmer Aubree"
+    },
+    {
+      "id": "swimmer_cassandra_0378",
+      "level": 41,
+      "name": "Swimmer Cassandra"
+    },
+    {
+      "id": "swimmer_crystal_0377",
+      "level": 41,
+      "name": "Swimmer Crystal"
+    },
+    {
+      "id": "swimmer_paige_0376",
+      "level": 41,
+      "name": "Swimmer Paige"
+    },
+    {
+      "id": "swimmer_wesley_036e",
+      "level": 41,
+      "name": "Swimmer Wesley"
+    },
+    {
+      "id": "ace_trainer_austina_0198",
+      "level": 42,
+      "name": "Ace Trainer Austina"
+    },
+    {
+      "id": "ace_trainer_berke_018f",
+      "level": 42,
+      "name": "Ace Trainer Berke"
+    },
+    {
+      "id": "ace_trainer_brooke_0197",
+      "level": 42,
+      "name": "Ace Trainer Brooke"
+    },
+    {
+      "id": "ace_trainer_gilbert_018d",
+      "level": 42,
+      "name": "Ace Trainer Gilbert"
+    },
+    {
+      "id": "ace_trainer_julie_0199",
+      "level": 42,
+      "name": "Ace Trainer Julie"
+    },
+    {
+      "id": "ace_trainer_owen_018e",
+      "level": 42,
+      "name": "Ace Trainer Owen"
+    },
+    {
+      "id": "ace_trainer_paul_018b",
+      "level": 42,
+      "name": "Ace Trainer Paul"
+    },
+    {
+      "id": "ace_trainer_shannon_0195",
+      "level": 42,
+      "name": "Ace Trainer Shannon"
+    },
+    {
+      "id": "bird_keeper_brianna_04e4",
+      "level": 42,
+      "name": "Bird Keeper Brianna"
+    },
+    {
+      "id": "psychic_mitchell_0507",
+      "level": 42,
+      "name": "Psychic Mitchell"
+    },
+    {
+      "id": "swimmer_colton_0371",
+      "level": 42,
+      "name": "Swimmer Colton"
+    },
+    {
+      "id": "swimmer_francisco_0370",
+      "level": 42,
+      "name": "Swimmer Francisco"
+    },
+    {
+      "id": "swimmer_oscar_0373",
+      "level": 42,
+      "name": "Swimmer Oscar"
+    },
+    {
+      "id": "tamer_john_012b",
+      "level": 42,
+      "name": "Tamer John"
+    },
+    {
+      "id": "beauty_nicola_0458",
+      "level": 43,
+      "name": "Beauty Nicola"
+    },
+    {
+      "id": "black_belt_kiyo_0143",
+      "level": 43,
+      "name": "Black Belt Kiyo"
+    },
+    {
+      "id": "rich_boy_trey_03e8",
+      "level": 43,
+      "name": "Rich Boy Trey"
+    },
+    {
+      "id": "sailor_luther_036d",
+      "level": 43,
+      "name": "Sailor Luther"
+    },
+    {
+      "id": "sailor_marc_03e9",
+      "level": 43,
+      "name": "Sailor Marc"
+    },
+    {
+      "id": "swimmer_gabrielle_0379",
+      "level": 43,
+      "name": "Swimmer Gabrielle"
+    },
+    {
+      "id": "swimmer_miranda_0374",
+      "level": 43,
+      "name": "Swimmer Miranda"
+    },
+    {
+      "id": "swimmer_ricardo_036f",
+      "level": 43,
+      "name": "Swimmer Ricardo"
+    },
+    {
+      "id": "swimmer_troy_0372",
+      "level": 43,
+      "name": "Swimmer Troy"
+    },
+    {
+      "id": "tamer_jason_0128",
+      "level": 43,
+      "name": "Tamer Jason"
+    },
+    {
+      "id": "tuber_conner_03f8",
+      "level": 43,
+      "name": "Tuber Conner"
+    },
+    {
+      "id": "tuber_holly_03fa",
+      "level": 43,
+      "name": "Tuber Holly"
+    },
+    {
+      "id": "ace_trainer_destiny_03b7",
+      "level": 44,
+      "name": "Ace Trainer Destiny"
+    },
+    {
+      "id": "ace_trainer_zachery_03b3",
+      "level": 44,
+      "name": "Ace Trainer Zachery"
+    },
+    {
+      "id": "sailor_zachariah_0451",
+      "level": 44,
+      "name": "Sailor Zachariah"
+    },
+    {
+      "id": "black_belt_hideki_013f",
+      "level": 45,
+      "name": "Black Belt Hideki"
+    },
+    {
+      "id": "juggler_dalton_011e",
+      "level": 45,
+      "name": "Juggler Dalton"
+    },
+    {
+      "id": "scientist_ed_0158",
+      "level": 45,
+      "name": "Scientist Ed"
+    },
+    {
+      "id": "scientist_jose_0152",
+      "level": 45,
+      "name": "Scientist Jose"
+    },
+    {
+      "id": "scientist_parkker_0157",
+      "level": 45,
+      "name": "Scientist Parkker"
+    },
+    {
+      "id": "scientist_taylor_0155",
+      "level": 45,
+      "name": "Scientist Taylor"
+    },
+    {
+      "id": "scientist_travis_0159",
+      "level": 45,
+      "name": "Scientist Travis"
+    },
+    {
+      "id": "black_belt_aaron_0140",
+      "level": 46,
+      "name": "Black Belt Aaron"
+    },
+    {
+      "id": "black_belt_hitoshi_0141",
+      "level": 46,
+      "name": "Black Belt Hitoshi"
+    },
+    {
+      "id": "psychic_bryce_038c",
+      "level": 46,
+      "name": "Psychic Bryce"
+    },
+    {
+      "id": "scientist_connor_0150",
+      "level": 46,
+      "name": "Scientist Connor"
+    },
+    {
+      "id": "scientist_gideon_0221",
+      "level": 46,
+      "name": "Scientist Gideon"
+    },
+    {
+      "id": "scientist_joshua_0156",
+      "level": 46,
+      "name": "Scientist Joshua"
+    },
+    {
+      "id": "biker_lukas_0295",
+      "level": 47,
+      "name": "Biker Lukas"
+    },
+    {
+      "id": "bird_keeper_jacob_02a9",
+      "level": 47,
+      "name": "Bird Keeper Jacob"
+    },
+    {
+      "id": "bird_keeper_robert_0291",
+      "level": 47,
+      "name": "Bird Keeper Robert"
+    },
+    {
+      "id": "black_belt_mike_013e",
+      "level": 47,
+      "name": "Black Belt Mike"
+    },
+    {
+      "id": "bug_catcher_jonah_0264",
+      "level": 47,
+      "name": "Bug Catcher Jonah"
+    },
+    {
+      "id": "fisherman_wade_02ae",
+      "level": 47,
+      "name": "Fisherman Wade"
+    },
+    {
+      "id": "juggler_mason_024e",
+      "level": 47,
+      "name": "Juggler Mason"
+    },
+    {
+      "id": "picnicker_susie_0293",
+      "level": 47,
+      "name": "Picnicker Susie"
+    },
+    {
+      "id": "tuber_amira_02bd",
+      "level": 47,
+      "name": "Tuber Amira"
+    },
+    {
+      "id": "youngster_yasu_027a",
+      "level": 47,
+      "name": "Youngster Yasu"
+    },
+    {
+      "id": "ace_trainer_mariah_0384",
+      "level": 48,
+      "name": "Ace Trainer Mariah"
+    },
+    {
+      "id": "ace_trainer_omar_0382",
+      "level": 48,
+      "name": "Ace Trainer Omar"
+    },
+    {
+      "id": "ace_trainer_sydney_0385",
+      "level": 48,
+      "name": "Ace Trainer Sydney"
+    },
+    {
+      "id": "biker_ruben_02a3",
+      "level": 48,
+      "name": "Biker Ruben"
+    },
+    {
+      "id": "bird_keeper_chester_029c",
+      "level": 48,
+      "name": "Bird Keeper Chester"
+    },
+    {
+      "id": "bird_keeper_hana_038b",
+      "level": 48,
+      "name": "Bird Keeper Hana"
+    },
+    {
+      "id": "bird_keeper_marlon_0299",
+      "level": 48,
+      "name": "Bird Keeper Marlon"
+    },
+    {
+      "id": "bug_catcher_vance_0265",
+      "level": 48,
+      "name": "Bug Catcher Vance"
+    },
+    {
+      "id": "crush_girl_cyndy_024f",
+      "level": 48,
+      "name": "Crush Girl Cyndy"
+    },
+    {
+      "id": "gentleman_norton_01a8",
+      "level": 48,
+      "name": "Gentleman Norton"
+    },
+    {
+      "id": "juggler_edward_0123",
+      "level": 48,
+      "name": "Juggler Edward"
+    },
+    {
+      "id": "lass_dalia_0268",
+      "level": 48,
+      "name": "Lass Dalia"
+    },
+    {
+      "id": "lass_megan_0289",
+      "level": 48,
+      "name": "Lass Megan"
+    },
+    {
+      "id": "psychic_valencia_038d",
+      "level": 48,
+      "name": "Psychic Valencia"
+    },
+    {
+      "id": "scientist_jerry_0151",
+      "level": 48,
+      "name": "Scientist Jerry"
+    },
+    {
+      "id": "scientist_rodney_0153",
+      "level": 48,
+      "name": "Scientist Rodney"
+    },
+    {
+      "id": "swimmerm_toby_0236",
+      "level": 48,
+      "name": "Swimmer\u2642 Toby"
+    },
+    {
+      "id": "youngster_ben_01f3",
+      "level": 48,
+      "name": "Youngster Ben"
+    },
+    {
+      "id": "youngster_chad_01fd",
+      "level": 48,
+      "name": "Youngster Chad"
+    },
+    {
+      "id": "youngster_cordell_0267",
+      "level": 48,
+      "name": "Youngster Cordell"
+    },
+    {
+      "id": "youngster_destin_0235",
+      "level": 48,
+      "name": "Youngster Destin"
+    },
+    {
+      "id": "ace_trainer_henry_0383",
+      "level": 49,
+      "name": "Ace Trainer Henry"
+    },
+    {
+      "id": "beauty_grace_029a",
+      "level": 49,
+      "name": "Beauty Grace"
+    },
+    {
+      "id": "beauty_sheila_028f",
+      "level": 49,
+      "name": "Beauty Sheila"
+    },
+    {
+      "id": "biker_jaxon_02a5",
+      "level": 49,
+      "name": "Biker Jaxon"
+    },
+    {
+      "id": "bird_keeper_benny_0297",
+      "level": 49,
+      "name": "Bird Keeper Benny"
+    },
+    {
+      "id": "bird_keeper_chaz_023b",
+      "level": 49,
+      "name": "Bird Keeper Chaz"
+    },
+    {
+      "id": "bird_keeper_harold_023c",
+      "level": 49,
+      "name": "Bird Keeper Harold"
+    },
+    {
+      "id": "bird_keeper_milo_023a",
+      "level": 49,
+      "name": "Bird Keeper Milo"
+    },
+    {
+      "id": "black_belt_miles_0435",
+      "level": 49,
+      "name": "Black Belt Miles"
+    },
+    {
+      "id": "bug_catcher_garret_0263",
+      "level": 49,
+      "name": "Bug Catcher Garret"
+    },
+    {
+      "id": "cue_ball_camron_02a4",
+      "level": 49,
+      "name": "Cue Ball Camron"
+    },
+    {
+      "id": "cue_ball_corey_02a7",
+      "level": 49,
+      "name": "Cue Ball Corey"
+    },
+    {
+      "id": "cue_ball_isaiah_02a6",
+      "level": 49,
+      "name": "Cue Ball Isaiah"
+    },
+    {
+      "id": "fisherman_tylor_023d",
+      "level": 49,
+      "name": "Fisherman Tylor"
+    },
+    {
+      "id": "gentleman_clifford_025d",
+      "level": 49,
+      "name": "Gentleman Clifford"
+    },
+    {
+      "id": "hiker_earl_0245",
+      "level": 49,
+      "name": "Hiker Earl"
+    },
+    {
+      "id": "lady_gillian_0234",
+      "level": 49,
+      "name": "Lady Gillian"
+    },
+    {
+      "id": "lady_selphy_025e",
+      "level": 49,
+      "name": "Lady Selphy"
+    },
+    {
+      "id": "lass_joana_0269",
+      "level": 49,
+      "name": "Lass Joana"
+    },
+    {
+      "id": "picnicker_becky_029e",
+      "level": 49,
+      "name": "Picnicker Becky"
+    },
+    {
+      "id": "picnicker_kelsey_026f",
+      "level": 49,
+      "name": "Picnicker Kelsey"
+    },
+    {
+      "id": "picnicker_marcy_026b",
+      "level": 49,
+      "name": "Picnicker Marcy"
+    },
+    {
+      "id": "picnicker_missy_02ac",
+      "level": 49,
+      "name": "Picnicker Missy"
+    },
+    {
+      "id": "pokemaniac_hector_0249",
+      "level": 49,
+      "name": "Pok\u00e9maniac Hector"
+    },
+    {
+      "id": "psychic_jaclyn_0205",
+      "level": 49,
+      "name": "Psychic Jaclyn"
+    },
+    {
+      "id": "psychic_laura_0260",
+      "level": 49,
+      "name": "Psychic Laura"
+    },
+    {
+      "id": "swimmerf_alice_02aa",
+      "level": 49,
+      "name": "Swimmer\u2640 Alice"
+    },
+    {
+      "id": "swimmerf_denise_0243",
+      "level": 49,
+      "name": "Swimmer\u2640 Denise"
+    },
+    {
+      "id": "swimmerf_melissa_02de",
+      "level": 49,
+      "name": "Swimmer\u2640 Melissa"
+    },
+    {
+      "id": "swimmerm_matthew_02dc",
+      "level": 49,
+      "name": "Swimmer\u2642 Matthew"
+    },
+    {
+      "id": "swimmerm_mymo_023e",
+      "level": 49,
+      "name": "Swimmer\u2642 Mymo"
+    },
+    {
+      "id": "swimmerm_tony_02dd",
+      "level": 49,
+      "name": "Swimmer\u2642 Tony"
+    },
+    {
+      "id": "tamer_evan_0251",
+      "level": 49,
+      "name": "Tamer Evan"
+    },
+    {
+      "id": "twins_joy_and_meg_02be",
+      "level": 49,
+      "name": "Twins Joy & Meg"
+    },
+    {
+      "id": "youngster_nash_0266",
+      "level": 49,
+      "name": "Youngster Nash"
+    },
+    {
+      "id": "ace_trainer_leroy_0257",
+      "level": 50,
+      "name": "Ace Trainer Leroy"
+    },
+    {
+      "id": "ace_trainer_michelle_0258",
+      "level": 50,
+      "name": "Ace Trainer Michelle"
+    },
+    {
+      "id": "black_belt_hugh_02b9",
+      "level": 50,
+      "name": "Black Belt Hugh"
+    },
+    {
+      "id": "black_belt_shea_02b7",
+      "level": 50,
+      "name": "Black Belt Shea"
+    },
+    {
+      "id": "camper_riley_026a",
+      "level": 50,
+      "name": "Camper Riley"
+    },
+    {
+      "id": "crush_girl_sharon_02b3",
+      "level": 50,
+      "name": "Crush Girl Sharon"
+    },
+    {
+      "id": "crush_girl_tanya_02b5",
+      "level": 50,
+      "name": "Crush Girl Tanya"
+    },
+    {
+      "id": "hiker_daryl_0248",
+      "level": 50,
+      "name": "Hiker Daryl"
+    },
+    {
+      "id": "lady_jacki_020d",
+      "level": 50,
+      "name": "Lady Jacki"
+    },
+    {
+      "id": "painter_celina_0232",
+      "level": 50,
+      "name": "Painter Celina"
+    },
+    {
+      "id": "painter_daisy_020e",
+      "level": 50,
+      "name": "Painter Daisy"
+    },
+    {
+      "id": "painter_edna_025c",
+      "level": 50,
+      "name": "Painter Edna"
+    },
+    {
+      "id": "painter_rayna_0233",
+      "level": 50,
+      "name": "Painter Rayna"
+    },
+    {
+      "id": "picnicker_isabelle_0278",
+      "level": 50,
+      "name": "Picnicker Isabelle"
+    },
+    {
+      "id": "psychic_rodette_024b",
+      "level": 50,
+      "name": "Psychic Rodette"
+    },
+    {
+      "id": "sis_and_bro_ava_and_geb_0240",
+      "level": 50,
+      "name": "Sis And Bro Ava & Geb"
+    },
+    {
+      "id": "sis_and_bro_lil_and_ian_02b0",
+      "level": 50,
+      "name": "Sis And Bro Lil & Ian"
+    },
+    {
+      "id": "swimmerf_nicole_023f",
+      "level": 50,
+      "name": "Swimmer\u2640 Nicole"
+    },
+    {
+      "id": "swimmerm_finn_02b2",
+      "level": 50,
+      "name": "Swimmer\u2642 Finn"
+    },
+    {
+      "id": "swimmerm_jack_02af",
+      "level": 50,
+      "name": "Swimmer\u2642 Jack"
+    },
+    {
+      "id": "swimmerm_samir_0242",
+      "level": 50,
+      "name": "Swimmer\u2642 Samir"
+    },
+    {
+      "id": "twins_miu_and_mia_0244",
+      "level": 50,
+      "name": "Twins Miu & Mia"
+    },
+    {
+      "id": "crush_kin_mik_and_kia_02bb",
+      "level": 51,
+      "name": "Crush Kin Mik & Kia"
+    },
+    {
+      "id": "crush_kin_ron_and_mya_02a1",
+      "level": 51,
+      "name": "Crush Kin Ron & Mya"
+    },
+    {
+      "id": "swimmer_glenn_04be",
+      "level": 51,
+      "name": "Swimmer Glenn"
+    },
+    {
+      "id": "swimmer_sam_04c0",
+      "level": 51,
+      "name": "Swimmer Sam"
+    },
+    {
+      "id": "cool_couple_lex_and_nya_0259",
+      "level": 52,
+      "name": "Cool Couple Lex & Nya"
+    },
+    {
+      "id": "juggler_mason_02cf",
+      "level": 52,
+      "name": "Juggler Mason"
+    },
+    {
+      "id": "picnicker_susie_0294",
+      "level": 52,
+      "name": "Picnicker Susie"
+    },
+    {
+      "id": "psychic_dario_024a",
+      "level": 52,
+      "name": "Psychic Dario"
+    },
+    {
+      "id": "swimmer_lydia_04c5",
+      "level": 52,
+      "name": "Swimmer Lydia"
+    },
+    {
+      "id": "swimmer_sophia_04c3",
+      "level": 52,
+      "name": "Swimmer Sophia"
+    },
+    {
+      "id": "swimmerm_darrin_02ab",
+      "level": 52,
+      "name": "Swimmer\u2642 Darrin"
+    },
+    {
+      "id": "youngster_timmy_01f9",
+      "level": 52,
+      "name": "Youngster Timmy"
+    },
+    {
+      "id": "ace_trainer_deanna_04a6",
+      "level": 53,
+      "name": "Ace Trainer Deanna"
+    },
+    {
+      "id": "ace_trainer_quinn_04a0",
+      "level": 53,
+      "name": "Ace Trainer Quinn"
+    },
+    {
+      "id": "ace_trainer_rodolfo_049c",
+      "level": 53,
+      "name": "Ace Trainer Rodolfo"
+    },
+    {
+      "id": "bug_catcher_brandon_0532",
+      "level": 53,
+      "name": "Bug Catcher Brandon"
+    },
+    {
+      "id": "collector_ivan_04f2",
+      "level": 53,
+      "name": "Collector Ivan"
+    },
+    {
+      "id": "psychic_rodette_02ce",
+      "level": 53,
+      "name": "Psychic Rodette"
+    },
+    {
+      "id": "psychic_tyron_0119",
+      "level": 53,
+      "name": "Psychic Tyron"
+    },
+    {
+      "id": "scientist_shaun_0551",
+      "level": 53,
+      "name": "Scientist Shaun"
+    },
+    {
+      "id": "swimmer_kurt_04bf",
+      "level": 53,
+      "name": "Swimmer Kurt"
+    },
+    {
+      "id": "tuber_jared_056c",
+      "level": 53,
+      "name": "Tuber Jared"
+    },
+    {
+      "id": "youngster_destin_02c0",
+      "level": 53,
+      "name": "Youngster Destin"
+    },
+    {
+      "id": "ace_trainer_ariana_04a7",
+      "level": 54,
+      "name": "Ace Trainer Ariana"
+    },
+    {
+      "id": "ace_trainer_brandi_0411",
+      "level": 54,
+      "name": "Ace Trainer Brandi"
+    },
+    {
+      "id": "ace_trainer_clarice_0412",
+      "level": 54,
+      "name": "Ace Trainer Clarice"
+    },
+    {
+      "id": "ace_trainer_dalton_04f0",
+      "level": 54,
+      "name": "Ace Trainer Dalton"
+    },
+    {
+      "id": "ace_trainer_micah_040e",
+      "level": 54,
+      "name": "Ace Trainer Micah"
+    },
+    {
+      "id": "ace_trainer_ruben_03b4",
+      "level": 54,
+      "name": "Ace Trainer Ruben"
+    },
+    {
+      "id": "ace_trainer_shannon_0502",
+      "level": 54,
+      "name": "Ace Trainer Shannon"
+    },
+    {
+      "id": "bird_keeper_audrey_0493",
+      "level": 54,
+      "name": "Bird Keeper Audrey"
+    },
+    {
+      "id": "bug_catcher_colton_02db",
+      "level": 54,
+      "name": "Bug Catcher Colton"
+    },
+    {
+      "id": "camper_chris_027f",
+      "level": 54,
+      "name": "Camper Chris"
+    },
+    {
+      "id": "camper_jeff_0275",
+      "level": 54,
+      "name": "Camper Jeff"
+    },
+    {
+      "id": "channeler_stacy_01cf",
+      "level": 54,
+      "name": "Channeler Stacy"
+    },
+    {
+      "id": "crush_girl_cyndy_02d2",
+      "level": 54,
+      "name": "Crush Girl Cyndy"
+    },
+    {
+      "id": "hiker_earl_02ca",
+      "level": 54,
+      "name": "Hiker Earl"
+    },
+    {
+      "id": "painter_rayna_02bf",
+      "level": 54,
+      "name": "Painter Rayna"
+    },
+    {
+      "id": "picnicker_becky_029f",
+      "level": 54,
+      "name": "Picnicker Becky"
+    },
+    {
+      "id": "picnicker_missy_02ad",
+      "level": 54,
+      "name": "Picnicker Missy"
+    },
+    {
+      "id": "pokemaniac_herman_0286",
+      "level": 54,
+      "name": "Pok\u00e9maniac Herman"
+    },
+    {
+      "id": "pokemaniac_mark_0284",
+      "level": 54,
+      "name": "Pok\u00e9maniac Mark"
+    },
+    {
+      "id": "psychic_brittney_03bb",
+      "level": 54,
+      "name": "Psychic Brittney"
+    },
+    {
+      "id": "psychic_cameron_011a",
+      "level": 54,
+      "name": "Psychic Cameron"
+    },
+    {
+      "id": "psychic_desiree_0417",
+      "level": 54,
+      "name": "Psychic Desiree"
+    },
+    {
+      "id": "psychic_jaclyn_02c8",
+      "level": 54,
+      "name": "Psychic Jaclyn"
+    },
+    {
+      "id": "psychic_johan_0118",
+      "level": 54,
+      "name": "Psychic Johan"
+    },
+    {
+      "id": "psychic_maxwell_03ba",
+      "level": 54,
+      "name": "Psychic Maxwell"
+    },
+    {
+      "id": "psychic_preston_011b",
+      "level": 54,
+      "name": "Psychic Preston"
+    },
+    {
+      "id": "sailor_marc_054c",
+      "level": 54,
+      "name": "Sailor Marc"
+    },
+    {
+      "id": "swimmer_joanna_04c2",
+      "level": 54,
+      "name": "Swimmer Joanna"
+    },
+    {
+      "id": "swimmer_mallory_04c4",
+      "level": 54,
+      "name": "Swimmer Mallory"
+    },
+    {
+      "id": "swimmer_wade_04c1",
+      "level": 54,
+      "name": "Swimmer Wade"
+    },
+    {
+      "id": "swimmerf_nicole_02c7",
+      "level": 54,
+      "name": "Swimmer\u2640 Nicole"
+    },
+    {
+      "id": "ace_trainer_arthur_040f",
+      "level": 55,
+      "name": "Ace Trainer Arthur"
+    },
+    {
+      "id": "ace_trainer_dana_04a8",
+      "level": 55,
+      "name": "Ace Trainer Dana"
+    },
+    {
+      "id": "ace_trainer_felix_049f",
+      "level": 55,
+      "name": "Ace Trainer Felix"
+    },
+    {
+      "id": "ace_trainer_jake_04fd",
+      "level": 55,
+      "name": "Ace Trainer Jake"
+    },
+    {
+      "id": "ace_trainer_jose_049e",
+      "level": 55,
+      "name": "Ace Trainer Jose"
+    },
+    {
+      "id": "ace_trainer_leroy_02d6",
+      "level": 55,
+      "name": "Ace Trainer Leroy"
+    },
+    {
+      "id": "ace_trainer_meagan_04aa",
+      "level": 55,
+      "name": "Ace Trainer Meagan"
+    },
+    {
+      "id": "ace_trainer_olivia_04f1",
+      "level": 55,
+      "name": "Ace Trainer Olivia"
+    },
+    {
+      "id": "ace_trainer_saul_049d",
+      "level": 55,
+      "name": "Ace Trainer Saul"
+    },
+    {
+      "id": "biker_billy_00cb",
+      "level": 55,
+      "name": "Biker Billy"
+    },
+    {
+      "id": "biker_nikolas_00cc",
+      "level": 55,
+      "name": "Biker Nikolas"
+    },
+    {
+      "id": "biker_virgil_01d6",
+      "level": 55,
+      "name": "Biker Virgil"
+    },
+    {
+      "id": "bird_keeper_chaz_02c5",
+      "level": 55,
+      "name": "Bird Keeper Chaz"
+    },
+    {
+      "id": "bird_keeper_harold_02c6",
+      "level": 55,
+      "name": "Bird Keeper Harold"
+    },
+    {
+      "id": "bird_keeper_krystal_0495",
+      "level": 55,
+      "name": "Bird Keeper Krystal"
+    },
+    {
+      "id": "bird_keeper_milo_02c4",
+      "level": 55,
+      "name": "Bird Keeper Milo"
+    },
+    {
+      "id": "black_belt_davon_04b4",
+      "level": 55,
+      "name": "Black Belt Davon"
+    },
+    {
+      "id": "black_belt_hugh_02ba",
+      "level": 55,
+      "name": "Black Belt Hugh"
+    },
+    {
+      "id": "black_belt_shea_02b8",
+      "level": 55,
+      "name": "Black Belt Shea"
+    },
+    {
+      "id": "camper_ricky_0272",
+      "level": 55,
+      "name": "Camper Ricky"
+    },
+    {
+      "id": "camper_zackary_04ef",
+      "level": 55,
+      "name": "Camper Zackary"
+    },
+    {
+      "id": "channeler_amanda_01ce",
+      "level": 55,
+      "name": "Channeler Amanda"
+    },
+    {
+      "id": "channeler_tasha_01d0",
+      "level": 55,
+      "name": "Channeler Tasha"
+    },
+    {
+      "id": "crush_girl_sharon_02b4",
+      "level": 55,
+      "name": "Crush Girl Sharon"
+    },
+    {
+      "id": "crush_girl_tanya_02b6",
+      "level": 55,
+      "name": "Crush Girl Tanya"
+    },
+    {
+      "id": "cue_ball_isaiah_00fd",
+      "level": 55,
+      "name": "Cue Ball Isaiah"
+    },
+    {
+      "id": "cue_ball_raul_00fc",
+      "level": 55,
+      "name": "Cue Ball Raul"
+    },
+    {
+      "id": "lass_samantha_0529",
+      "level": 55,
+      "name": "Lass Samantha"
+    },
+    {
+      "id": "picnicker_alicia_0282",
+      "level": 55,
+      "name": "Picnicker Alicia"
+    },
+    {
+      "id": "picnicker_karina_0538",
+      "level": 55,
+      "name": "Picnicker Karina"
+    },
+    {
+      "id": "pokemaniac_hector_02cc",
+      "level": 55,
+      "name": "Pok\u00e9maniac Hector"
+    },
+    {
+      "id": "psychic_corbin_04b0",
+      "level": 55,
+      "name": "Psychic Corbin"
+    },
+    {
+      "id": "psychic_daisy_04b2",
+      "level": 55,
+      "name": "Psychic Daisy"
+    },
+    {
+      "id": "psychic_kendra_0418",
+      "level": 55,
+      "name": "Psychic Kendra"
+    },
+    {
+      "id": "rich_boy_trey_053f",
+      "level": 55,
+      "name": "Rich Boy Trey"
+    },
+    {
+      "id": "sis_and_bro_lil_and_ian_02b1",
+      "level": 55,
+      "name": "Sis And Bro Lil & Ian"
+    },
+    {
+      "id": "swimmerm_samir_02c9",
+      "level": 55,
+      "name": "Swimmer\u2642 Samir"
+    },
+    {
+      "id": "tamer_evan_02d3",
+      "level": 55,
+      "name": "Tamer Evan"
+    },
+    {
+      "id": "tuber_chelsea_056f",
+      "level": 55,
+      "name": "Tuber Chelsea"
+    },
+    {
+      "id": "youngster_dallas_056a",
+      "level": 55,
+      "name": "Youngster Dallas"
+    },
+    {
+      "id": "ace_trainer_graham_04a1",
+      "level": 56,
+      "name": "Ace Trainer Graham"
+    },
+    {
+      "id": "ace_trainer_jamie_03b8",
+      "level": 56,
+      "name": "Ace Trainer Jamie"
+    },
+    {
+      "id": "ace_trainer_michelle_02d7",
+      "level": 56,
+      "name": "Ace Trainer Michelle"
+    },
+    {
+      "id": "ace_trainer_mikayla_04a9",
+      "level": 56,
+      "name": "Ace Trainer Mikayla"
+    },
+    {
+      "id": "ace_trainer_natasha_04ae",
+      "level": 56,
+      "name": "Ace Trainer Natasha"
+    },
+    {
+      "id": "bird_keeper_mitch_013a",
+      "level": 56,
+      "name": "Bird Keeper Mitch"
+    },
+    {
+      "id": "black_belt_carl_03d4",
+      "level": 56,
+      "name": "Black Belt Carl"
+    },
+    {
+      "id": "black_belt_willie_0438",
+      "level": 56,
+      "name": "Black Belt Willie"
+    },
+    {
+      "id": "crush_kin_mik_and_kia_02bc",
+      "level": 56,
+      "name": "Crush Kin Mik & Kia"
+    },
+    {
+      "id": "crush_kin_ron_and_mya_02a2",
+      "level": 56,
+      "name": "Crush Kin Ron & Mya"
+    },
+    {
+      "id": "cue_ball_corey_0100",
+      "level": 56,
+      "name": "Cue Ball Corey"
+    },
+    {
+      "id": "cue_ball_jamal_00ff",
+      "level": 56,
+      "name": "Cue Ball Jamal"
+    },
+    {
+      "id": "cue_ball_zeek_00fe",
+      "level": 56,
+      "name": "Cue Ball Zeek"
+    },
+    {
+      "id": "psychic_dario_02cd",
+      "level": 56,
+      "name": "Psychic Dario"
+    },
+    {
+      "id": "psychic_deandre_0415",
+      "level": 56,
+      "name": "Psychic Deandre"
+    },
+    {
+      "id": "psychic_landon_0414",
+      "level": 56,
+      "name": "Psychic Landon"
+    },
+    {
+      "id": "twins_kiri_and_jan_01e7",
+      "level": 56,
+      "name": "Twins Kiri & Jan"
+    },
+    {
+      "id": "ace_trainer_keenan_04a2",
+      "level": 57,
+      "name": "Ace Trainer Keenan"
+    },
+    {
+      "id": "ace_trainer_monique_04af",
+      "level": 57,
+      "name": "Ace Trainer Monique"
+    },
+    {
+      "id": "ace_trainer_sandra_04ab",
+      "level": 57,
+      "name": "Ace Trainer Sandra"
+    },
+    {
+      "id": "ace_trainer_skyler_04a4",
+      "level": 57,
+      "name": "Ace Trainer Skyler"
+    },
+    {
+      "id": "ace_trainer_stefan_04a3",
+      "level": 57,
+      "name": "Ace Trainer Stefan"
+    },
+    {
+      "id": "biker_alex_00c6",
+      "level": 57,
+      "name": "Biker Alex"
+    },
+    {
+      "id": "biker_gerald_00d1",
+      "level": 57,
+      "name": "Biker Gerald"
+    },
+    {
+      "id": "biker_isaac_00d0",
+      "level": 57,
+      "name": "Biker Isaac"
+    },
+    {
+      "id": "biker_jaxon_00cd",
+      "level": 57,
+      "name": "Biker Jaxon"
+    },
+    {
+      "id": "biker_lukas_00cf",
+      "level": 57,
+      "name": "Biker Lukas"
+    },
+    {
+      "id": "biker_malik_00c4",
+      "level": 57,
+      "name": "Biker Malik"
+    },
+    {
+      "id": "bird_keeper_autumn_0404",
+      "level": 57,
+      "name": "Bird Keeper Autumn"
+    },
+    {
+      "id": "bird_keeper_beck_013b",
+      "level": 57,
+      "name": "Bird Keeper Beck"
+    },
+    {
+      "id": "bird_keeper_benny_0130",
+      "level": 57,
+      "name": "Bird Keeper Benny"
+    },
+    {
+      "id": "bird_keeper_carter_0139",
+      "level": 57,
+      "name": "Bird Keeper Carter"
+    },
+    {
+      "id": "bird_keeper_geneva_0494",
+      "level": 57,
+      "name": "Bird Keeper Geneva"
+    },
+    {
+      "id": "bird_keeper_marlon_013c",
+      "level": 57,
+      "name": "Bird Keeper Marlon"
+    },
+    {
+      "id": "black_belt_griffin_04b5",
+      "level": 57,
+      "name": "Black Belt Griffin"
+    },
+    {
+      "id": "black_belt_philip_0523",
+      "level": 57,
+      "name": "Black Belt Philip"
+    },
+    {
+      "id": "cool_couple_lex_and_nya_02d8",
+      "level": 57,
+      "name": "Cool Couple Lex & Nya"
+    },
+    {
+      "id": "picnicker_gwen_01d5",
+      "level": 57,
+      "name": "Picnicker Gwen"
+    },
+    {
+      "id": "picnicker_valerie_01d4",
+      "level": 57,
+      "name": "Picnicker Valerie"
+    },
+    {
+      "id": "ace_trainer_kassandra_04ac",
+      "level": 58,
+      "name": "Ace Trainer Kassandra"
+    },
+    {
+      "id": "beauty_grace_0111",
+      "level": 58,
+      "name": "Beauty Grace"
+    },
+    {
+      "id": "beauty_olivia_0112",
+      "level": 58,
+      "name": "Beauty Olivia"
+    },
+    {
+      "id": "biker_ernest_00c5",
+      "level": 58,
+      "name": "Biker Ernest"
+    },
+    {
+      "id": "bird_keeper_chester_0132",
+      "level": 58,
+      "name": "Bird Keeper Chester"
+    },
+    {
+      "id": "bird_keeper_donald_012f",
+      "level": 58,
+      "name": "Bird Keeper Donald"
+    },
+    {
+      "id": "black_belt_eddie_0437",
+      "level": 58,
+      "name": "Black Belt Eddie"
+    },
+    {
+      "id": "black_belt_ray_04b6",
+      "level": 58,
+      "name": "Black Belt Ray"
+    },
+    {
+      "id": "burglar_switzer_05e0",
+      "level": 58,
+      "name": "Burglar Switzer"
+    },
+    {
+      "id": "crush_kin_ron_and_mya_01e8",
+      "level": 58,
+      "name": "Crush Kin Ron & Mya"
+    },
+    {
+      "id": "picnicker_becky_01e0",
+      "level": 58,
+      "name": "Picnicker Becky"
+    },
+    {
+      "id": "picnicker_celia_01e1",
+      "level": 58,
+      "name": "Picnicker Celia"
+    },
+    {
+      "id": "picnicker_kindra_01df",
+      "level": 58,
+      "name": "Picnicker Kindra"
+    },
+    {
+      "id": "picnicker_yazmin_01de",
+      "level": 58,
+      "name": "Picnicker Yazmin"
+    },
+    {
+      "id": "psychic_brittney_050d",
+      "level": 58,
+      "name": "Psychic Brittney"
+    },
+    {
+      "id": "psychic_chelsey_04b3",
+      "level": 58,
+      "name": "Psychic Chelsey"
+    },
+    {
+      "id": "psychic_maxwell_0509",
+      "level": 58,
+      "name": "Psychic Maxwell"
+    },
+    {
+      "id": "psychic_mitchell_0508",
+      "level": 58,
+      "name": "Psychic Mitchell"
+    },
+    {
+      "id": "psychic_sterling_04b1",
+      "level": 58,
+      "name": "Psychic Sterling"
+    },
+    {
+      "id": "sailor_zachariah_054e",
+      "level": 58,
+      "name": "Sailor Zachariah"
+    },
+    {
+      "id": "swimmer_crystal_0563",
+      "level": 58,
+      "name": "Swimmer Crystal"
+    },
+    {
+      "id": "swimmer_francisco_0560",
+      "level": 58,
+      "name": "Swimmer Francisco"
+    },
+    {
+      "id": "swimmer_glenn_0561",
+      "level": 58,
+      "name": "Swimmer Glenn"
+    },
+    {
+      "id": "swimmer_wesley_055f",
+      "level": 58,
+      "name": "Swimmer Wesley"
+    },
+    {
+      "id": "swimmerm_reece_00ec",
+      "level": 58,
+      "name": "Swimmer\u2642 Reece"
+    },
+    {
+      "id": "ace_trainer_abel_04a5",
+      "level": 59,
+      "name": "Ace Trainer Abel"
+    },
+    {
+      "id": "ace_trainer_ariana_0506",
+      "level": 59,
+      "name": "Ace Trainer Ariana"
+    },
+    {
+      "id": "ace_trainer_dennis_04ff",
+      "level": 59,
+      "name": "Ace Trainer Dennis"
+    },
+    {
+      "id": "ace_trainer_jasmin_04ad",
+      "level": 59,
+      "name": "Ace Trainer Jasmin"
+    },
+    {
+      "id": "bird_keeper_audrey_04e6",
+      "level": 59,
+      "name": "Bird Keeper Audrey"
+    },
+    {
+      "id": "bird_keeper_edwin_0131",
+      "level": 59,
+      "name": "Bird Keeper Edwin"
+    },
+    {
+      "id": "black_belt_jarrett_04b7",
+      "level": 59,
+      "name": "Black Belt Jarrett"
+    },
+    {
+      "id": "hiker_theodore_052f",
+      "level": 59,
+      "name": "Hiker Theodore"
+    },
+    {
+      "id": "lass_crissy_0077",
+      "level": 59,
+      "name": "Lass Crissy"
+    },
+    {
+      "id": "psychic_abigail_050c",
+      "level": 59,
+      "name": "Psychic Abigail"
+    },
+    {
+      "id": "sailor_marc_054d",
+      "level": 59,
+      "name": "Sailor Marc"
+    },
+    {
+      "id": "swimmerm_richard_00eb",
+      "level": 59,
+      "name": "Swimmer\u2642 Richard"
+    },
+    {
+      "id": "ace_trainer_deanna_0505",
+      "level": 60,
+      "name": "Ace Trainer Deanna"
+    },
+    {
+      "id": "ace_trainer_maya_0504",
+      "level": 60,
+      "name": "Ace Trainer Maya"
+    },
+    {
+      "id": "ace_trainer_rodolfo_0500",
+      "level": 60,
+      "name": "Ace Trainer Rodolfo"
+    },
+    {
+      "id": "beauty_cyndy_0556",
+      "level": 60,
+      "name": "Beauty Cyndy"
+    },
+    {
+      "id": "bird_keeper_brianna_04e5",
+      "level": 60,
+      "name": "Bird Keeper Brianna"
+    },
+    {
+      "id": "black_belt_davon_0524",
+      "level": 60,
+      "name": "Black Belt Davon"
+    },
+    {
+      "id": "gentleman_jeremy_051d",
+      "level": 60,
+      "name": "Gentleman Jeremy"
+    },
+    {
+      "id": "lady_melissa_0543",
+      "level": 60,
+      "name": "Lady Melissa"
+    },
+    {
+      "id": "psychic_corbin_050a",
+      "level": 60,
+      "name": "Psychic Corbin"
+    },
+    {
+      "id": "psychic_daisy_050e",
+      "level": 60,
+      "name": "Psychic Daisy"
+    },
+    {
+      "id": "rich_boy_trey_0540",
+      "level": 60,
+      "name": "Rich Boy Trey"
+    },
+    {
+      "id": "swimmer_joanna_0564",
+      "level": 60,
+      "name": "Swimmer Joanna"
+    },
+    {
+      "id": "swimmer_miranda_0562",
+      "level": 60,
+      "name": "Swimmer Miranda"
+    },
+    {
+      "id": "twins_teri_0517",
+      "level": 60,
+      "name": "Twin Teri"
+    },
+    {
+      "id": "twins_teri_tia_m00d",
+      "level": 60,
+      "name": "Twins Teri & Tia"
+    },
+    {
+      "id": "twins_tia_0518",
+      "level": 60,
+      "name": "Twin Tia"
+    },
+    {
+      "id": "ace_trainer_saul_0501",
+      "level": 62,
+      "name": "Ace Trainer Saul"
+    },
+    {
+      "id": "pokemaniac_mark_00a2",
+      "level": 62,
+      "name": "Pok\u00e9maniac Mark"
+    },
+    {
+      "id": "juggler_kirk_0120",
+      "level": 63,
+      "name": "Juggler Kirk"
+    },
+    {
+      "id": "juggler_nate_0125",
+      "level": 63,
+      "name": "Juggler Nate"
+    },
+    {
+      "id": "juggler_shawn_0121",
+      "level": 63,
+      "name": "Juggler Shawn"
+    },
+    {
+      "id": "picnicker_irene_01d9",
+      "level": 63,
+      "name": "Picnicker Irene"
+    },
+    {
+      "id": "swimmerf_anya_0114",
+      "level": 63,
+      "name": "Swimmer\u2640 Anya"
+    },
+    {
+      "id": "swimmerf_connie_0116",
+      "level": 63,
+      "name": "Swimmer\u2640 Connie"
+    },
+    {
+      "id": "swimmerm_david_00ef",
+      "level": 63,
+      "name": "Swimmer\u2642 David"
+    },
+    {
+      "id": "swimmerm_douglas_00ee",
+      "level": 63,
+      "name": "Swimmer\u2642 Douglas"
+    },
+    {
+      "id": "swimmerm_matthew_00ed",
+      "level": 63,
+      "name": "Swimmer\u2642 Matthew"
+    },
+    {
+      "id": "swimmerm_tony_00f0",
+      "level": 63,
+      "name": "Swimmer\u2642 Tony"
+    },
+    {
+      "id": "tamer_edgar_0127",
+      "level": 63,
+      "name": "Tamer Edgar"
+    },
+    {
+      "id": "tamer_phil_0126",
+      "level": 63,
+      "name": "Tamer Phil"
+    },
+    {
+      "id": "bird_keeper_roger_0136",
+      "level": 64,
+      "name": "Bird Keeper Roger"
+    },
+    {
+      "id": "fisherman_nolan_00e8",
+      "level": 64,
+      "name": "Fisherman Nolan"
+    },
+    {
+      "id": "fisherman_ronald_00e5",
+      "level": 64,
+      "name": "Fisherman Ronald"
+    },
+    {
+      "id": "juggler_kayden_0124",
+      "level": 64,
+      "name": "Juggler Kayden"
+    },
+    {
+      "id": "picnicker_missy_01d8",
+      "level": 64,
+      "name": "Picnicker Missy"
+    },
+    {
+      "id": "sis_and_bro_lia_and_luc_01ea",
+      "level": 64,
+      "name": "Sis And Bro Lia & Luc"
+    },
+    {
+      "id": "swimmerf_alice_0115",
+      "level": 64,
+      "name": "Swimmer\u2640 Alice"
+    },
+    {
+      "id": "swimmerf_melissa_0110",
+      "level": 64,
+      "name": "Swimmer\u2640 Melissa"
+    },
+    {
+      "id": "swimmerf_shirley_0117",
+      "level": 64,
+      "name": "Swimmer\u2640 Shirley"
+    },
+    {
+      "id": "swimmerm_axle_00f1",
+      "level": 64,
+      "name": "Swimmer\u2642 Axle"
+    },
+    {
+      "id": "swimmerm_barry_00f2",
+      "level": 64,
+      "name": "Swimmer\u2642 Barry"
+    },
+    {
+      "id": "swimmerm_darrin_00f4",
+      "level": 64,
+      "name": "Swimmer\u2642 Darrin"
+    },
+    {
+      "id": "swimmerm_jerome_00f7",
+      "level": 64,
+      "name": "Swimmer\u2642 Jerome"
+    },
+    {
+      "id": "swimmerm_roland_00f8",
+      "level": 64,
+      "name": "Swimmer\u2642 Roland"
+    },
+    {
+      "id": "swimmerm_spencer_00f5",
+      "level": 64,
+      "name": "Swimmer\u2642 Spencer"
+    },
+    {
+      "id": "fisherman_claude_00e6",
+      "level": 65,
+      "name": "Fisherman Claude"
+    },
+    {
+      "id": "sis_and_bro_lil_and_ian_01eb",
+      "level": 65,
+      "name": "Sis And Bro Lil & Ian"
+    },
+    {
+      "id": "swimmerf_nora_010f",
+      "level": 65,
+      "name": "Swimmer\u2640 Nora"
+    },
+    {
+      "id": "swimmerf_tiffany_010e",
+      "level": 65,
+      "name": "Swimmer\u2640 Tiffany"
+    },
+    {
+      "id": "swimmerm_dean_00f3",
+      "level": 65,
+      "name": "Swimmer\u2642 Dean"
+    },
+    {
+      "id": "swimmerm_jack_00f6",
+      "level": 65,
+      "name": "Swimmer\u2642 Jack"
+    },
+    {
+      "id": "burglar_arnie_00d8",
+      "level": 69,
+      "name": "Burglar Arnie"
+    },
+    {
+      "id": "scientist_ted_014f",
+      "level": 69,
+      "name": "Scientist Ted"
+    },
+    {
+      "id": "burglar_lewis_00db",
+      "level": 70,
+      "name": "Burglar Lewis"
+    },
+    {
+      "id": "burglar_simon_00da",
+      "level": 70,
+      "name": "Burglar Simon"
+    },
+    {
+      "id": "fisherman_wade_00e7",
+      "level": 70,
+      "name": "Fisherman Wade"
+    },
+    {
+      "id": "scientist_braydon_015a",
+      "level": 70,
+      "name": "Scientist Braydon"
+    },
+    {
+      "id": "scientist_ivan_015b",
+      "level": 71,
+      "name": "Scientist Ivan"
+    },
+    {
+      "id": "youngster_johnson_0216",
+      "level": 71,
+      "name": "Youngster Johnson"
+    },
+    {
+      "id": "super_nerd_zac_00b4",
+      "level": 72,
+      "name": "Super Nerd Zac"
+    },
+    {
+      "id": "super_nerd_aavery_00b2",
+      "level": 73,
+      "name": "Super Nerd Aavery"
+    },
+    {
+      "id": "super_nerd_erik_00b1",
+      "level": 73,
+      "name": "Super Nerd Erik"
+    },
+    {
+      "id": "burglar_dusty_00d7",
+      "level": 74,
+      "name": "Burglar Dusty"
+    },
+    {
+      "id": "burglar_quinn_00d5",
+      "level": 74,
+      "name": "Burglar Quinn"
+    },
+    {
+      "id": "burglar_ramon_00d6",
+      "level": 74,
+      "name": "Burglar Ramon"
+    },
+    {
+      "id": "super_nerd_derek_00b3",
+      "level": 74,
+      "name": "Super Nerd Derek"
+    },
+    {
+      "id": "expert_kenlawa_mimikyu_2_05e6",
+      "level": 80,
+      "name": "Expert Kenlawa"
+    },
+    {
+      "id": "expert_ryuzoji_mimikyu_1_05e2",
+      "level": 80,
+      "name": "Expert Ryuzoji"
+    },
+    {
+      "id": "black_belt_daisuke_0145",
+      "level": 81,
+      "name": "Black Belt Daisuke"
+    },
+    {
+      "id": "expert_kenlawa_mimikyu_1_05e5",
+      "level": 81,
+      "name": "Expert Kenlawa"
+    },
+    {
+      "id": "pokemaniac_dawson_00a7",
+      "level": 81,
+      "name": "Pok\u00e9maniac Dawson"
+    },
+    {
+      "id": "tamer_vincent_012a",
+      "level": 81,
+      "name": "Tamer Vincent"
+    },
+    {
+      "id": "expert_kenlawa_mimikyu_3_05e7",
+      "level": 82,
+      "name": "Expert Kenlawa"
+    },
+    {
+      "id": "expert_ryuzoji_mimikyu_2_05e3",
+      "level": 82,
+      "name": "Expert Ryuzoji"
+    },
+    {
+      "id": "expert_ryuzoji_mimikyu_3_05e4",
+      "level": 82,
+      "name": "Expert Ryuzoji"
+    },
+    {
+      "id": "juggler_nelson_011f",
+      "level": 82,
+      "name": "Juggler Nelson"
+    },
+    {
+      "id": "juggler_gregory_0122",
+      "level": 83,
+      "name": "Juggler Gregory"
+    },
+    {
+      "id": "ace_trainer_alexa_0194",
+      "level": 84,
+      "name": "Ace Trainer Alexa"
+    },
+    {
+      "id": "ace_trainer_caroline_0193",
+      "level": 84,
+      "name": "Ace Trainer Caroline"
+    },
+    {
+      "id": "ace_trainer_colby_018a",
+      "level": 84,
+      "name": "Ace Trainer Colby"
+    },
+    {
+      "id": "ace_trainer_george_0189",
+      "level": 84,
+      "name": "Ace Trainer George"
+    },
+    {
+      "id": "ace_trainer_naomi_0196",
+      "level": 84,
+      "name": "Ace Trainer Naomi"
+    },
+    {
+      "id": "ace_trainer_rolando_018c",
+      "level": 84,
+      "name": "Ace Trainer Rolando"
+    },
+    {
+      "id": "cool_couple_ray_and_tyra_01e5",
+      "level": 85,
+      "name": "Cool Couple Ray & Tyra"
+    },
+    {
+      "id": "sailor_trevor_0087",
+      "level": 90,
+      "name": "Sailor Trevor"
+    },
+    {
+      "id": "super_nerd_miguel_00aa",
+      "level": 90,
+      "name": "Super Nerd Miguel"
+    },
+    {
+      "id": "cue_ball_luke_00fa",
+      "level": 91,
+      "name": "Cue Ball Luke"
+    },
+    {
+      "id": "fisherman_andrew_00e9",
+      "level": 91,
+      "name": "Fisherman Andrew"
+    },
+    {
+      "id": "beauty_sheila_010d",
+      "level": 92,
+      "name": "Beauty Sheila"
+    },
+    {
+      "id": "biker_goon_020f",
+      "level": 92,
+      "name": "Biker Goon"
+    },
+    {
+      "id": "biker_goon_0210",
+      "level": 92,
+      "name": "Biker Goon"
+    },
+    {
+      "id": "biker_goon_0211",
+      "level": 92,
+      "name": "Biker Goon"
+    },
+    {
+      "id": "biker_hideo_00c9",
+      "level": 92,
+      "name": "Biker Hideo"
+    },
+    {
+      "id": "bird_keeper_perry_012d",
+      "level": 92,
+      "name": "Bird Keeper Perry"
+    },
+    {
+      "id": "crush_kin_mik_and_kia_022d",
+      "level": 92,
+      "name": "Crush Kin Mik & Kia"
+    },
+    {
+      "id": "cue_ball_koji_00f9",
+      "level": 92,
+      "name": "Cue Ball Koji"
+    },
+    {
+      "id": "gentleman_brooks_01e2",
+      "level": 92,
+      "name": "Gentleman Brooks"
+    },
+    {
+      "id": "lass_ann_007e",
+      "level": 92,
+      "name": "Lass Ann"
+    },
+    {
+      "id": "picnicker_susie_01d3",
+      "level": 92,
+      "name": "Picnicker Susie"
+    },
+    {
+      "id": "swimmerm_finn_0225",
+      "level": 92,
+      "name": "Swimmer\u2642 Finn"
+    },
+    {
+      "id": "beauty_lola_010c",
+      "level": 93,
+      "name": "Beauty Lola"
+    },
+    {
+      "id": "biker_jared_00c3",
+      "level": 93,
+      "name": "Biker Jared"
+    },
+    {
+      "id": "biker_lao_00c7",
+      "level": 93,
+      "name": "Biker Lao"
+    },
+    {
+      "id": "biker_ruben_00ca",
+      "level": 93,
+      "name": "Biker Ruben"
+    },
+    {
+      "id": "biker_william_00ce",
+      "level": 93,
+      "name": "Biker William"
+    },
+    {
+      "id": "bird_keeper_jacob_0135",
+      "level": 93,
+      "name": "Bird Keeper Jacob"
+    },
+    {
+      "id": "bird_keeper_robert_012e",
+      "level": 93,
+      "name": "Bird Keeper Robert"
+    },
+    {
+      "id": "bird_keeper_sebastian_012c",
+      "level": 93,
+      "name": "Bird Keeper Sebastian"
+    },
+    {
+      "id": "black_belt_hugh_022a",
+      "level": 93,
+      "name": "Black Belt Hugh"
+    },
+    {
+      "id": "black_belt_shea_0229",
+      "level": 93,
+      "name": "Black Belt Shea"
+    },
+    {
+      "id": "camper_bryce_022b",
+      "level": 93,
+      "name": "Camper Bryce"
+    },
+    {
+      "id": "camper_justin_01dd",
+      "level": 93,
+      "name": "Camper Justin"
+    },
+    {
+      "id": "channeler_rachel_0093",
+      "level": 93,
+      "name": "Channeler Rachel"
+    },
+    {
+      "id": "crush_girl_jocelyn_0250",
+      "level": 93,
+      "name": "Crush Girl Jocelyn"
+    },
+    {
+      "id": "crush_girl_sharon_0206",
+      "level": 93,
+      "name": "Crush Girl Sharon"
+    },
+    {
+      "id": "crush_girl_tanya_0228",
+      "level": 93,
+      "name": "Crush Girl Tanya"
+    },
+    {
+      "id": "cue_ball_camron_00fb",
+      "level": 93,
+      "name": "Cue Ball Camron"
+    },
+    {
+      "id": "fisherman_tommy_0227",
+      "level": 93,
+      "name": "Fisherman Tommy"
+    },
+    {
+      "id": "lass_anne_0004",
+      "level": 93,
+      "name": "Lass Anne"
+    },
+    {
+      "id": "picnicker_alma_01d2",
+      "level": 93,
+      "name": "Picnicker Alma"
+    },
+    {
+      "id": "picnicker_caitlin_009b",
+      "level": 93,
+      "name": "Picnicker Caitlin"
+    },
+    {
+      "id": "picnicker_claire_022c",
+      "level": 93,
+      "name": "Picnicker Claire"
+    },
+    {
+      "id": "rocker_luca_011d",
+      "level": 93,
+      "name": "Rocker Luca"
+    },
+    {
+      "id": "sailor_edmond_0086",
+      "level": 93,
+      "name": "Sailor Edmond"
+    },
+    {
+      "id": "swimmerf_abigail_0224",
+      "level": 93,
+      "name": "Swimmer\u2640 Abigail"
+    },
+    {
+      "id": "swimmerf_amara_0222",
+      "level": 93,
+      "name": "Swimmer\u2640 Amara"
+    },
+    {
+      "id": "swimmerf_maria_0223",
+      "level": 93,
+      "name": "Swimmer\u2640 Maria"
+    },
+    {
+      "id": "swimmerf_tisha_0231",
+      "level": 93,
+      "name": "Swimmer\u2640 Tisha"
+    },
+    {
+      "id": "swimmerm_garrett_0226",
+      "level": 93,
+      "name": "Swimmer\u2642 Garrett"
+    },
+    {
+      "id": "tuber_alexis_022f",
+      "level": 93,
+      "name": "Tuber Alexis"
+    },
+    {
+      "id": "tuber_amira_0207",
+      "level": 93,
+      "name": "Tuber Amira"
+    },
+    {
+      "id": "twins_joy_and_meg_0230",
+      "level": 93,
+      "name": "Twins Joy & Meg"
+    },
+    {
+      "id": "ace_trainer_samantha_0052",
+      "level": 94,
+      "name": "Ace Trainer Samantha"
+    },
+    {
+      "id": "ace_trainer_sharon_00ae",
+      "level": 94,
+      "name": "Ace Trainer Sharon"
+    },
+    {
+      "id": "ace_trainer_andrew_0002",
+      "level": 95,
+      "name": "Ace Trainer Andrew"
+    },
+    {
+      "id": "ace_trainer_barry_0058",
+      "level": 95,
+      "name": "Ace Trainer Barry"
+    },
+    {
+      "id": "ace_trainer_janny_00af",
+      "level": 95,
+      "name": "Ace Trainer Janny"
+    },
+    {
+      "id": "ace_trainer_nick_0055",
+      "level": 95,
+      "name": "Ace Trainer Nick"
+    },
+    {
+      "id": "ace_trainer_runan_007c",
+      "level": 95,
+      "name": "Ace Trainer Runan"
+    },
+    {
+      "id": "ace_trainer_symes_0071",
+      "level": 95,
+      "name": "Ace Trainer Symes"
+    },
+    {
+      "id": "ace_trainer_wilton_0133",
+      "level": 95,
+      "name": "Ace Trainer Wilton"
+    }
+  ]
+}
