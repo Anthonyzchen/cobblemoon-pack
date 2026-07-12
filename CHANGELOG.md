@@ -32,3 +32,8 @@
 **Added**
 - azctrainerfrontier 1.0.0
 - sgui 1.6.0+1.21
+
+## Modpack update — 2026-07-12
+
+**Updated**
+- azctrainerfrontier: 1.0.0 → 1.0.1
