@@ -3124,7 +3124,7 @@ metafile = true
 
 [[files]]
 file = "mods/azccobblerumble-1-0-0.pw.toml"
-hash = "49048958e3994aa30619d7b064a99829ec5af5b6cae70608ab634bff426efedd"
+hash = "057ec130e41c7194bfe802b9f55d27fb156ad0afc8a8decb243c0e462465c1a8"
 metafile = true
 
 [[files]]
@@ -3198,8 +3198,8 @@ hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerfrontier-1-0-1.pw.toml"
-hash = "b3a5c1cb2f3def9dcd6647c2d99da526541c58723226f091896c994d8945f922"
+file = "mods/azctrainerfrontier-1-0-4.pw.toml"
+hash = "43b5eed0ac03ed11d22e0dfb243246b5a4db95ea980c5aaf12c1e8a8abd254cc"
 metafile = true
 
 [[files]]
