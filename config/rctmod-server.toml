@@ -63,7 +63,8 @@
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	# Default: 60
 	# Range: 0 ~ 2147483646
-	maxTrainersTotal = 25
+	# 0 = wild random RCT trainers disabled entirely (Kanto line = placed gyms/E4 only, 2026-07-11).
+	maxTrainersTotal = 0
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a
 	#player (at or below that players level cap) and the strongest pokemon in the

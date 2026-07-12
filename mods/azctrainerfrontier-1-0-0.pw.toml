@@ -1,0 +1,8 @@
+name = "azctrainerfrontier-1.0.0"
+filename = "azctrainerfrontier-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azctrainerfrontier-1.0.0.jar"
+hash-format = "sha256"
+hash = "6970d2ff0d03573238afa6f3cf8b3709c077a42de520b7eeb1ecdd7e05c7ed22"

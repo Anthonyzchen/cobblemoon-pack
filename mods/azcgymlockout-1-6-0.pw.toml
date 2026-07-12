@@ -1,0 +1,8 @@
+name = "azcgymlockout-1.6.0"
+filename = "azcgymlockout-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcgymlockout-1.6.0.jar"
+hash-format = "sha256"
+hash = "7364e2941f32410d0a1d2324d9dac392df08c167b828159a6cf12961a793b0a9"

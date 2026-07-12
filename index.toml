@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fb32dcfc6214dd815fb216003c6e6b958d4ae8f15146715daa1e274668d56cfd"
+hash = "e1fdcc351fc3622028e1b67b8f287c53a8d808dfc8de27bc1d7a176ba3bc5cbd"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "8c5ed7b72d8df55eac643ca91894135c26707e157e83dd5322075f158c36c4ab"
+hash = "e28e97fec9bf7224a1cd8a67da19153bef4eb2b72466807bfd7917dc6a8e9726"
 
 [[files]]
 file = "build-high.sh.premigration.bak"
@@ -830,7 +830,7 @@ hash = "0229d13cf6220cae855ccd45f916c1488713eaea032539f5627053695042ae19"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "0a6a137ec2de1337e80b07f605a1b261010b4f7e4f7ae7ec10adf1349a2a184c"
+hash = "910c5c8a52c55eca823196e5fc5f69f40dd008c361f7d56f1db4c2b2a8827bca"
 
 [[files]]
 file = "config/releaserewards.json"
@@ -3120,7 +3120,7 @@ metafile = true
 
 [[files]]
 file = "mods/azccobblerumble-1-0-0.pw.toml"
-hash = "a5d351c0e11e8febe367e08b825bd06cda8c152d55a3a8df67844cb833f743c9"
+hash = "49048958e3994aa30619d7b064a99829ec5af5b6cae70608ab634bff426efedd"
 metafile = true
 
 [[files]]
@@ -3139,8 +3139,8 @@ hash = "2f5f5c35d698971a0fce6e137e22199e0d72135449b98d21fd27beb67ea9a448"
 metafile = true
 
 [[files]]
-file = "mods/azcgymlockout-1-5-0.pw.toml"
-hash = "d1f4a458bb533090dbf7078940d428e92a12dc1dda5bf5174f8531f54456fecf"
+file = "mods/azcgymlockout-1-6-0.pw.toml"
+hash = "a8d11316b350624802eff77dc714b738d58f1dda1051d8fe13ba60e51a21eebc"
 metafile = true
 
 [[files]]
@@ -3191,6 +3191,11 @@ metafile = true
 [[files]]
 file = "mods/azcsmarttera-1-0-0.pw.toml"
 hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
+metafile = true
+
+[[files]]
+file = "mods/azctrainerfrontier-1-0-0.pw.toml"
+hash = "d8c785bcc053c21d1feedcd55229eca31ade455cf5387567bfbca6a22510700b"
 metafile = true
 
 [[files]]
@@ -3791,6 +3796,11 @@ metafile = true
 [[files]]
 file = "mods/servercore-fabric-1-5-19-1-21-1.pw.toml"
 hash = "ea06f888fe0350e90cf42f77a525d031d75ccc5c58004a763d7795d506fcdbf3"
+metafile = true
+
+[[files]]
+file = "mods/sgui-1-6-0-1-21.pw.toml"
+hash = "10a289021a1ef994fdfba1ffb815a0e9f7d63e19036bb9a54a636f72c95d6d9a"
 metafile = true
 
 [[files]]

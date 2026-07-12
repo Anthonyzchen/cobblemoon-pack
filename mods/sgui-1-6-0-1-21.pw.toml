@@ -1,0 +1,8 @@
+name = "sgui-1.6.0+1.21"
+filename = "sgui-1.6.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/sgui-1.6.0%2B1.21.jar"
+hash-format = "sha256"
+hash = "de4df34f8d951d1df586b55267a14560f86b59172f9879f9e33ee5d709b53085"
