@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "824f1cac021981cc4cf3279bfc4c8a9d91bdda9c407ef86d221f49266b6b3341"
+hash = "80c423d1d4774277c3a82c20dc9dda422e71c7fef2f5cd434d4b7e8bee9fc9cd"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "cde9239e8cf5a6e65e5317acb32648b15f731a4978fe591ebdfaef9bfbf32a88"
+hash = "a3588e47b0b9f95ffb216e532f8ad1081f0839f8799707ae360757dfd8fb6cfa"
 
 [[files]]
 file = "build-high.sh.premigration.bak"
@@ -3124,7 +3124,7 @@ metafile = true
 
 [[files]]
 file = "mods/azccobblerumble-1-0-0.pw.toml"
-hash = "057ec130e41c7194bfe802b9f55d27fb156ad0afc8a8decb243c0e462465c1a8"
+hash = "45e3a6dffb6b512eeb8db9f73f39d67c3e550b4af6730adaf0ec0f0eceb34f48"
 metafile = true
 
 [[files]]
@@ -3198,8 +3198,8 @@ hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerfrontier-1-0-4.pw.toml"
-hash = "43b5eed0ac03ed11d22e0dfb243246b5a4db95ea980c5aaf12c1e8a8abd254cc"
+file = "mods/azctrainerfrontier-1-0-5.pw.toml"
+hash = "023b6418668038dbf1a892715a7ca149dee20f2d57b5892b6c518e13df94fb0d"
 metafile = true
 
 [[files]]
