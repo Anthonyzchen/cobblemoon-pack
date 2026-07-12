@@ -1,0 +1,56 @@
+{
+  "enabled": true,
+  "arena": {
+    "dimension": "minecraft:overworld",
+    "pads": [
+      {
+        "p1": {
+          "x": 929.0,
+          "y": 52.0,
+          "z": -782.0,
+          "yaw": -90.0
+        },
+        "p2": {
+          "x": 939.0,
+          "y": 52.0,
+          "z": -782.0,
+          "yaw": 90.0
+        }
+      },
+      {
+        "p1": {
+          "x": 929.0,
+          "y": 52.0,
+          "z": -768.0,
+          "yaw": -90.0
+        },
+        "p2": {
+          "x": 939.0,
+          "y": 52.0,
+          "z": -768.0,
+          "yaw": 90.0
+        }
+      },
+      {
+        "p1": {
+          "x": 929.0,
+          "y": 52.0,
+          "z": -754.0,
+          "yaw": -90.0
+        },
+        "p2": {
+          "x": 939.0,
+          "y": 52.0,
+          "z": -754.0,
+          "yaw": 90.0
+        }
+      }
+    ]
+  },
+  "matchmaking": {
+    "baseRatingWindow": 100,
+    "windowGrowthPerSecond": 25,
+    "maxRatingWindow": 1200,
+    "matchTimeoutSeconds": 1200
+  }
+}
