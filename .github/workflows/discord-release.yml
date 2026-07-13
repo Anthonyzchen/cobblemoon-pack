@@ -1,0 +1,44 @@
+name: Announce patch notes to Discord
+
+# When a GitHub Release is published, post its notes to a Discord channel via webhook.
+# Setup (one-time): create a webhook in the target Discord channel, then store its URL as the
+# repo secret DISCORD_WEBHOOK (Settings > Secrets and variables > Actions, or `gh secret set`).
+on:
+  release:
+    types: [published]
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post release to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          TITLE: ${{ github.event.release.name }}
+          BODY: ${{ github.event.release.body }}
+          URL: ${{ github.event.release.html_url }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK" ]; then
+            echo "DISCORD_WEBHOOK secret is not set — skipping (add it to enable auto-posting)."
+            exit 0
+          fi
+          # Build the payload with jq so the notes are JSON-escaped safely. Discord embed
+          # descriptions cap at 4096 chars; truncate long notes and link out to the full page.
+          payload=$(jq -n \
+            --arg title "$TITLE" \
+            --arg body "$BODY" \
+            --arg url "$URL" \
+            '{
+              username: "Cobblemoon Patch Notes",
+              content: "A new Cobblemoon patch is live.",
+              allowed_mentions: { parse: [] },
+              embeds: [ {
+                title: $title,
+                url: $url,
+                color: 3447003,
+                description: (if ($body | length) > 4000
+                              then ($body[0:3900] + "\n\n…read the full notes on GitHub.")
+                              else $body end)
+              } ]
+            }')
+          curl -sf -X POST -H "Content-Type: application/json" -d "$payload" "$DISCORD_WEBHOOK"
