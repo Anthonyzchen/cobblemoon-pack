@@ -44,11 +44,14 @@ PY
 [ -n "$(ls /tmp/pwup 2>/dev/null)" ] && gcloud storage cp --cache-control="no-cache, max-age=0" /tmp/pwup/*.jar "$BUCKET/mods/" --project="$PROJ" --account="$ACCT" 2>&1 | tail -1
 rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' "$INST/config/" "$PACK/config/"
 cp "$INST/options.txt" "$PACK/options.txt" 2>/dev/null || true
-packwiz refresh
 # self-documenting patch notes: diff the pending .pw.toml version changes vs HEAD, write
 # PATCHNOTES-latest.md + append CHANGELOG.md so they land in this same commit. Fail-safe.
+# MUST run BEFORE `packwiz refresh`: refresh hashes the working tree into index.toml, so the
+# .md regen has to happen first or the index records the OLD .md hashes while the bucket serves
+# the NEW ones -> packwiz "hash invalid" for CHANGELOG/PATCHNOTES on every client launch.
 python3 ~/cobblemon-redeploy/gen-patch-notes.py --pack "$PACK" \
   --out "$PACK/PATCHNOTES-latest.md" --changelog "$PACK/CHANGELOG.md" 2>/dev/null || true
+packwiz refresh
 git add -A
 git -c user.email="anthonyzchen1@gmail.com" -c user.name="Anthonyzchen" commit -q -m "update pack $(date +%Y-%m-%d)" 2>/dev/null && git push -q origin main && echo "pushed to GitHub" || echo "no git changes"
 [ -s "$PACK/PATCHNOTES-latest.md" ] && { echo "--- patch notes ---"; cat "$PACK/PATCHNOTES-latest.md"; }

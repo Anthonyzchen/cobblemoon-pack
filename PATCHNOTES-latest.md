@@ -1,4 +1,4 @@
 ## Modpack update — 2026-07-13
 
 **Updated**
-- azctrainerfrontier: 1.0.6 → 1.0.7
+- azccobblerumble: 1.0.0 → 1.1.0
