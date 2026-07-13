@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/discord-release.yml"
+hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
+
+[[files]]
 file = "CHANGELOG.md"
-hash = "5a7d223b91b42f3a52c1eb721d29a659d4444ed05f96520f945116d0b48ef941"
+hash = "f7f03b8bdc36ac250198b644ea7db8f885f6b7fb783799e114aa22c758446364"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "30b2b78bda080f0b31a79c99229c736602c4970029ad0b0b33a5bf4ce121673e"
+hash = "64350d72904cee15fd5c40a4d74f8fc88cb8926701fae1739422b09f73e5f75f"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3123,8 +3127,8 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azccobblerumble-1-1-0.pw.toml"
-hash = "6c4206ab25b09dc105d5e0e0465a04b8d3576635960fd79be72a288ba1666bc2"
+file = "mods/azccobblerumble-1-2-0.pw.toml"
+hash = "6a3a33bff26807d1689c33b6981cd529b4f17d50355396e06930feb1559c556d"
 metafile = true
 
 [[files]]
