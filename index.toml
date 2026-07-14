@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f7f03b8bdc36ac250198b644ea7db8f885f6b7fb783799e114aa22c758446364"
+hash = "61df3a8beb8d27536b353707f66accab51f86c96dbdb28cdb0d9b3d8cd7aad3a"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "64350d72904cee15fd5c40a4d74f8fc88cb8926701fae1739422b09f73e5f75f"
+hash = "9d6eacf19daf333f98e5709d6b3c26b72dc2295d3524d8a0eea740b4e81cf110"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3127,8 +3127,8 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azccobblerumble-1-2-0.pw.toml"
-hash = "6c6438c9e51bba6f018180b67db04af36c5b49de0bb6d6c680c57f8bc050971b"
+file = "mods/azccobblerumble-1-3-0.pw.toml"
+hash = "480808bec30f5787a60a718f9f5b24716a51fcfd43a616a7079cbc184a751247"
 metafile = true
 
 [[files]]

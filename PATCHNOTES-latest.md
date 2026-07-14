@@ -1,4 +1,4 @@
-## Modpack update — 2026-07-13
+## Modpack update — 2026-07-14
 
 **Updated**
-- azccobblerumble: 1.1.0 → 1.2.0
+- azccobblerumble: 1.2.0 → 1.3.0
