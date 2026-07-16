@@ -10,7 +10,7 @@
   "resetStatistics": true,
   "healPlayers": false,
   "feedPlayers": false,
-  "clearWeather": true,
+  "clearWeather": false,
   "displaySettings": {
     "bossBar": {
       "enabled": false,

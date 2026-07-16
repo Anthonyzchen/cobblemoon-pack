@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a248a949d7fcf853da5a2d2477b051590805a3d012365f849eec9fc4191d4287"
+hash = "e2b81d534dae77a42df686a46eb431aec0dd24a43fc32a06af553d7849c2470d"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "9822f48551d740a259e0e8b9ad08e18f4a302efd91fc5a6a476794f535baf456"
+hash = "e5f8ada2f0c16bd144fea372b96834eba3579b2f838764b39ec0a6a695840535"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -62,7 +62,7 @@ hash = "f70d79753252659c5e02d3dbff9e6fcda35c2e3430e3465b3ccea35415b4950d"
 
 [[files]]
 file = "config/azctrainerfrontier.json"
-hash = "db3b5f230620e5e967ab325d37821221625f8973864c02559756366dec78a301"
+hash = "c74958b5485c65c364c0bb5f8cd51d4eb60d34dfe28f81da3da048984b86a783"
 
 [[files]]
 file = "config/azctrainerrotation.json"
@@ -858,7 +858,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "e8d4caa4937b3646f80053c56380c6a13048f79ee0c51d9d0fc1f99272968622"
+hash = "ac655af2cc391b8f2534c43259dfc61356d7908277d5d602c1e8e36f55a49207"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -2942,7 +2942,7 @@ hash = "db3a2a559ddbdb5a40c2e7e1b3afd88dd5def2fd35c0af17a1ba4bb967d9be88"
 
 [[files]]
 file = "config/vote2sleep/vote2sleep.json"
-hash = "1f1f16374c0320690d3da1450c8a36aaabe6b531f524ef814f8b97c5ca308de8"
+hash = "549c84e685fe96c8a467188854a9f1a1315f01850a7b557cdfd64157a36936a7"
 
 [[files]]
 file = "config/vote2sleep/worlds.json"
@@ -3127,8 +3127,8 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azccobblerumble-1-4-0.pw.toml"
-hash = "a74f020afa414d42f1ad421aac0e6e8527b3de7ae08e422c767119f3f4b7ee7d"
+file = "mods/azccobblerumble-1-4-1.pw.toml"
+hash = "e6ccd5776d63507c8732bb5d75f20b99544c1ce4cce9d1011e879fa8238fae9d"
 metafile = true
 
 [[files]]
@@ -3202,8 +3202,8 @@ hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerfrontier-1-0-7.pw.toml"
-hash = "15b0c809017fc90b6d1d45231dc8355518f2764cc99f42fa0c84aba5c69263bd"
+file = "mods/azctrainerfrontier-1-0-8.pw.toml"
+hash = "0acb0aca4e14eaaa60e51a74aeec8876604056df8971a5b113e4c5b133781304"
 metafile = true
 
 [[files]]

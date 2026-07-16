@@ -1,0 +1,8 @@
+name = "azccobblerumble-1.4.1"
+filename = "azccobblerumble-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azccobblerumble-1.4.1.jar"
+hash-format = "sha256"
+hash = "23c1d7de40b924f382da60c620862d1231e16c2ffcfe51e3e5ec2a74306ca731"

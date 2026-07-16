@@ -4294,6 +4294,261 @@
       "id": "ace_trainer_wilton_0133",
       "level": 95,
       "name": "Ace Trainer Wilton"
+    },
+    {
+      "id": "trainer_may_003d",
+      "level": 73,
+      "name": "Trainer May"
+    },
+    {
+      "id": "mega_trainer_ravonna_kangaskhan_1_05d3",
+      "level": 74,
+      "name": "Mega Trainer Ravonna"
+    },
+    {
+      "id": "pokemon_trainer_cedric_0580",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Cedric"
+    },
+    {
+      "id": "pokemon_trainer_cedric_0581",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Cedric"
+    },
+    {
+      "id": "pokemon_trainer_cedric_0582",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Cedric"
+    },
+    {
+      "id": "pokemon_trainer_dawn_059b",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Dawn"
+    },
+    {
+      "id": "pokemon_trainer_dawn_059c",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Dawn"
+    },
+    {
+      "id": "pokemon_trainer_dawn_059d",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Dawn"
+    },
+    {
+      "id": "pokemon_trainer_lucas_0595",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Lucas"
+    },
+    {
+      "id": "pokemon_trainer_lucas_0596",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Lucas"
+    },
+    {
+      "id": "pokemon_trainer_lucas_0597",
+      "level": 74,
+      "name": "Pok\u00e9mon Trainer Lucas"
+    },
+    {
+      "id": "breeder_annie_05a9",
+      "level": 75,
+      "name": "Breeder Annie"
+    },
+    {
+      "id": "breeder_annie_05d8",
+      "level": 75,
+      "name": "Breeder Annie"
+    },
+    {
+      "id": "breeder_annie_0604",
+      "level": 75,
+      "name": "Breeder Annie"
+    },
+    {
+      "id": "mega_trainer_krystal_05d0",
+      "level": 75,
+      "name": "Mega Trainer Krystal"
+    },
+    {
+      "id": "mega_trainer_ravonna_kangaskhan_2_05d4",
+      "level": 75,
+      "name": "Mega Trainer Ravonna"
+    },
+    {
+      "id": "mega_trainer_ravonna_kangaskhan_3_05d5",
+      "level": 75,
+      "name": "Mega Trainer Ravonna"
+    },
+    {
+      "id": "mega_trainer_ravonna_kangaskhan_4_05d6",
+      "level": 75,
+      "name": "Mega Trainer Ravonna"
+    },
+    {
+      "id": "mega_trainer_portia_05d2",
+      "level": 77,
+      "name": "Mega Trainer Portia"
+    },
+    {
+      "id": "mega_trainer_sterling_05d1",
+      "level": 77,
+      "name": "Mega Trainer Sterling"
+    },
+    {
+      "id": "title_defense_jax_05ee",
+      "level": 80,
+      "name": "Title Defense Jax"
+    },
+    {
+      "id": "title_defense_marlon_05eb",
+      "level": 80,
+      "name": "Title Defense Marlon"
+    },
+    {
+      "id": "title_defense_milo_05ed",
+      "level": 80,
+      "name": "Title Defense Milo"
+    },
+    {
+      "id": "title_defense_solenk_05ec",
+      "level": 80,
+      "name": "Title Defense Solenk"
+    },
+    {
+      "id": "title_defense_zeph_05ea",
+      "level": 81,
+      "name": "Title Defense Zeph"
+    },
+    {
+      "id": "trainer_brendan_001a",
+      "level": 82,
+      "name": "Trainer Brendan"
+    },
+    {
+      "id": "battleground_alice_05f4",
+      "level": 84,
+      "name": "Battleground Alice"
+    },
+    {
+      "id": "battleground_benjamin_05f9",
+      "level": 84,
+      "name": "Battleground Benjamin"
+    },
+    {
+      "id": "battleground_big_mo_05f7",
+      "level": 84,
+      "name": "Battleground Big Mo"
+    },
+    {
+      "id": "battleground_mel_05f5",
+      "level": 84,
+      "name": "Battleground Mel"
+    },
+    {
+      "id": "battleground_mirskle_05f2",
+      "level": 84,
+      "name": "Leader Mirskle"
+    },
+    {
+      "id": "battleground_tessy_05f8",
+      "level": 84,
+      "name": "Battleground Tessy"
+    },
+    {
+      "id": "battleground_vega_05f3",
+      "level": 84,
+      "name": "Battleground Vega"
+    },
+    {
+      "id": "light_of_ruin_aklove_3_05c5",
+      "level": 84,
+      "name": "Ruin Leader Aklove"
+    },
+    {
+      "id": "dumbass_jojo_fan_0028",
+      "level": 85,
+      "name": "Silly Jojo Fan"
+    },
+    {
+      "id": "friendly_thug_0015",
+      "level": 85,
+      "name": "Friendly Thug"
+    },
+    {
+      "id": "friendly_thug_0016",
+      "level": 85,
+      "name": "Friendly Thug"
+    },
+    {
+      "id": "aroma_lady_nikki_020b",
+      "level": 93,
+      "name": "Aroma Lady Nikki"
+    },
+    {
+      "id": "aroma_lady_violet_022e",
+      "level": 93,
+      "name": "Aroma Lady Violet"
+    },
+    {
+      "id": "dragon_tamer_ramiro_0134",
+      "level": 93,
+      "name": "Dragon Tamer Ramiro"
+    },
+    {
+      "id": "dumbass_gian_0023",
+      "level": 93,
+      "name": "Silly Gian"
+    },
+    {
+      "id": "gatekeeper_logan_0253",
+      "level": 93,
+      "name": "Gatekeeper Logan"
+    },
+    {
+      "id": "gatekeeper_owen_00b0",
+      "level": 93,
+      "name": "Gatekeeper Owen"
+    },
+    {
+      "id": "ranger_beth_0255",
+      "level": 93,
+      "name": "Ranger Beth"
+    },
+    {
+      "id": "trainer_77_05f6",
+      "level": 95,
+      "name": "Trainer Blue"
+    },
+    {
+      "id": "trainer_92_0605",
+      "level": 95,
+      "name": "Trainer Blue"
+    },
+    {
+      "id": "professor_oak_00c8",
+      "level": 99,
+      "name": "Professor Oak"
+    },
+    {
+      "id": "professor_oak_00d2",
+      "level": 99,
+      "name": "Professor Oak"
+    },
+    {
+      "id": "dumbass_creator_0018",
+      "level": 100,
+      "name": "Silly Creator"
+    },
+    {
+      "id": "friendly_teacher_0007",
+      "level": 100,
+      "name": "Friendly Teacher"
+    },
+    {
+      "id": "trainer_red_0003",
+      "level": 100,
+      "name": "Trainer Red"
     }
   ]
 }
