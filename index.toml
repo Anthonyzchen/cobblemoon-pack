@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e2b81d534dae77a42df686a46eb431aec0dd24a43fc32a06af553d7849c2470d"
+hash = "9569f99f5052a16dd7849561ee286a108ac515a3306e18a7ee635a92a833d832"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "e5f8ada2f0c16bd144fea372b96834eba3579b2f838764b39ec0a6a695840535"
+hash = "9af0451be6e586364b7f0c438a3f2c380ec4234d40d1b7c71af79fcebc140155"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -62,7 +62,7 @@ hash = "f70d79753252659c5e02d3dbff9e6fcda35c2e3430e3465b3ccea35415b4950d"
 
 [[files]]
 file = "config/azctrainerfrontier.json"
-hash = "c74958b5485c65c364c0bb5f8cd51d4eb60d34dfe28f81da3da048984b86a783"
+hash = "74f8f59a557f1cf0243f813289a2c6cc3f05589825dec616c6af77d1ba0b8d49"
 
 [[files]]
 file = "config/azctrainerrotation.json"
@@ -3127,8 +3127,8 @@ hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azccobblerumble-1-4-1.pw.toml"
-hash = "e6ccd5776d63507c8732bb5d75f20b99544c1ce4cce9d1011e879fa8238fae9d"
+file = "mods/azccobblerumble-1-4-2.pw.toml"
+hash = "2039c04232f4ad1a6055acbee3c5d0d1a53c592983161d6ccbd86f499df7fb9c"
 metafile = true
 
 [[files]]
@@ -3202,8 +3202,8 @@ hash = "4f24b691d085f790d6d3870eb4818b155058962fedf99963934aeb22d8af7a69"
 metafile = true
 
 [[files]]
-file = "mods/azctrainerfrontier-1-0-8.pw.toml"
-hash = "0acb0aca4e14eaaa60e51a74aeec8876604056df8971a5b113e4c5b133781304"
+file = "mods/azctrainerfrontier-1-0-9.pw.toml"
+hash = "8812c7deffbae91653cf2e2cbc9c714f3704451003bb61d1e19f60ed341fb243"
 metafile = true
 
 [[files]]
