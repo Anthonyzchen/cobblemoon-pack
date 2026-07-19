@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "810ce963c4a9f06c755f3bc6ca12d583fb48b3ca0199f8da25a93377258e73c0"
+hash = "b26397b4a65b3abe5281eaf6a13f65a189d118c0669a55909ae572511b40a0c7"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "1d686e7127530708a958c1e1415a625095bf5bf1f6c2d11a0b442ff9fa379701"
+hash = "1d6573ffe57f7de0dedc9f65bb8cc9fe630efd2a309e308f8ad1e6d908e0701d"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -58,7 +58,7 @@ hash = "06b9f80d369a50387fedeb258520a5c805d1113fe8bda86b1c489f56caac17f1"
 
 [[files]]
 file = "config/azcranked.json"
-hash = "f70d79753252659c5e02d3dbff9e6fcda35c2e3430e3465b3ccea35415b4950d"
+hash = "7d0956180515e5b1d3c2da8c4264be70030e301a27d14d5a27a75b04c19cd20b"
 
 [[files]]
 file = "config/azctrainerfrontier.json"
@@ -3122,13 +3122,18 @@ hash = "7d3efe0035e2a8cf5ba4cf4000de3336faf2ff1ee4b094016c38f4af984657b9"
 metafile = true
 
 [[files]]
+file = "mods/azcboosters-1-0-0.pw.toml"
+hash = "70462b2c1425944cedaffb85b6bc22868efc5ab8e8c6f639a51faa560bd4e737"
+metafile = true
+
+[[files]]
 file = "mods/azccmodelsilent-1-1-0.pw.toml"
 hash = "7a150d3dbfcb9bebe80ac7196c4395fb02b9d67017c9926bae61ab28dc990566"
 metafile = true
 
 [[files]]
-file = "mods/azccobblerumble-1-4-3.pw.toml"
-hash = "efa7065f9ad801d0dc39be516743f88abcfa31c37400fd97146572560370802a"
+file = "mods/azccobblerumble-1-4-4.pw.toml"
+hash = "15c5888a827d76c756be7f434e110ca80cf7654928f05ac20e2e9c6abaf49735"
 metafile = true
 
 [[files]]

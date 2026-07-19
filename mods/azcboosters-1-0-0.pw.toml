@@ -1,0 +1,8 @@
+name = "azcboosters-1.0.0"
+filename = "azcboosters-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcboosters-1.0.0.jar"
+hash-format = "sha256"
+hash = "e2eedda4cbd9aa13cceb4f757a3e8cb7b56448eddf08fffc1b2c760c9754fb28"
