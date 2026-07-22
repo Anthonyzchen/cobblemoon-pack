@@ -3054,7 +3054,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "datapacks/azc-riding-client.zip"
-hash = "832c20ca29d7edc603d110b126fb98720a7a69c7238bb971b0a7df98b47a4fb0"
+hash = "45b350115f290263c59c5e6669cc187d44434a6b2cb0fa93dcf7f4f6a3cbf982"
 
 [[files]]
 file = "mods/accessories-fabric-1-1-0-beta-53-1-21-1.pw.toml"
@@ -4702,6 +4702,10 @@ hash = "aded994a7de6e81229b60c780b486d85db9af4103b7b621c9289ef107ba177d8"
 file = "resourcepacks/rct-trainers-plus.pw.toml"
 hash = "164ffd62b40e02946123d27b5a727b9c65657195d5ab60b0566de9fc5eaec815"
 metafile = true
+
+[[files]]
+file = "scripts/gen-riding-client.py"
+hash = "8d38370395ea165d799541157c369a2b4da1eddc90ed2b1ba235530426c9346b"
 
 [[files]]
 file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
