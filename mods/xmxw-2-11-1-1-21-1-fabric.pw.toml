@@ -1,0 +1,8 @@
+name = "xmxw-2.11.1+1.21.1-fabric"
+filename = "xmxw-2.11.1+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/xmxw-2.11.1%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "6ff49e4bce08e74108dd9b9f489f9442606973f25ce3d1ff8659c09268984078"

@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b26397b4a65b3abe5281eaf6a13f65a189d118c0669a55909ae572511b40a0c7"
+hash = "e89eec88e27c669ba4658a95376e3cb123776163861a9d71464c68d17d55a9fa"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "1d6573ffe57f7de0dedc9f65bb8cc9fe630efd2a309e308f8ad1e6d908e0701d"
+hash = "be84949e946f41fb1e724ed7c0347a438cdeebced65c77be4949e613b2d3ceed"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3402,8 +3402,8 @@ hash = "6f34aaa2a7957ee89b0fba46e4807b69875afb7c35ea96976b23130e41e9b574"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons-3-0-3-b-1-21-1-fabric-neoforge.pw.toml"
-hash = "3da0f9c8a84534395d14ce51a4997c5cafa4b5d4022777cd7835e631046e6714"
+file = "mods/distanthorizons-3-2-0-b-1-21-1-fabric-neoforge.pw.toml"
+hash = "ee7a349813c56c70e746e9f35c60a95d84b3e2fd7d39d4160bebfc1edabc9032"
 metafile = true
 
 [[files]]
@@ -3922,18 +3922,18 @@ hash = "2c02af764188f2bef665408318fb08fbd1666951209ffbf93f6ded1b762aa6c0"
 metafile = true
 
 [[files]]
-file = "mods/xaerominimap-fabric-1-21-1-26-2-0.pw.toml"
-hash = "1b54daa8a057e0ed6d31dc418af6ff696f975d8c7609e738dd16761a9a3fb598"
+file = "mods/xaerominimap-fabric-1-21-1-26-4-2.pw.toml"
+hash = "a303e998aff58690beb8465a739451324768e40982a70a70262c18de4347b39a"
 metafile = true
 
 [[files]]
-file = "mods/xaeroworldmap-fabric-1-21-1-1-42-0.pw.toml"
-hash = "acc638b3599a847a63ce29b0e5d2d9028bab0b0c21dd53a1485f448f91feaa3d"
+file = "mods/xaeroworldmap-fabric-1-21-1-1-44-2.pw.toml"
+hash = "976a425c072be93563ba3bfbc9cee1b72e490660c5bbb75b8b59419aa24d9918"
 metafile = true
 
 [[files]]
-file = "mods/xmxw-2-10-1-1-21-1-fabric.pw.toml"
-hash = "84413f683fc2bd43845d32ca47694d440bf260142e8ac9abea4a71b4b652054d"
+file = "mods/xmxw-2-11-1-1-21-1-fabric.pw.toml"
+hash = "ea4254e22c2dae1e2f04e94b6812c49f22d0449fc3c9534f6ed7265422304ab4"
 metafile = true
 
 [[files]]

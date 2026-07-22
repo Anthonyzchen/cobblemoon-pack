@@ -1,0 +1,8 @@
+name = "xaerominimap-fabric-1.21.1-26.4.2"
+filename = "xaerominimap-fabric-1.21.1-26.4.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/xaerominimap-fabric-1.21.1-26.4.2.jar"
+hash-format = "sha256"
+hash = "85342f8f7c098e98f2f200fbba308a243af1204cb1afd7668360420e635aa2f8"
