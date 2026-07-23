@@ -1,8 +1,0 @@
-name = "jei-1.21.1-fabric-19.27.0.340"
-filename = "jei-1.21.1-fabric-19.27.0.340.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/jei-1.21.1-fabric-19.27.0.340.jar"
-hash-format = "sha256"
-hash = "80c35be9e42fca71eca577e538336902547c1fe3f5adedb2b79546ab01f66bbf"

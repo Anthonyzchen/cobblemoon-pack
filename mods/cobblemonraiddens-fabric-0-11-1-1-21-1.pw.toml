@@ -1,8 +1,0 @@
-name = "cobblemonraiddens-fabric-0.11.1+1.21.1"
-filename = "cobblemonraiddens-fabric-0.11.1+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/cobblemonraiddens-fabric-0.11.1%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "2ff1c07e82e084f00ed327663e59d0a8a9c2d3c41a8cc109d5f0fa37b643b4ad"

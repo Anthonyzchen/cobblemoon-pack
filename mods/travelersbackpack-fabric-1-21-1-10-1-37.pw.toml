@@ -1,0 +1,8 @@
+name = "travelersbackpack-fabric-1.21.1-10.1.37"
+filename = "travelersbackpack-fabric-1.21.1-10.1.37.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/travelersbackpack-fabric-1.21.1-10.1.37.jar"
+hash-format = "sha256"
+hash = "0799574b2c9a8960c980649072ecfa9d9c6f88a5835657d7dd433fbbffe7e0b3"

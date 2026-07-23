@@ -1,8 +1,0 @@
-name = "lithostitched-1.7.9-fabric-21.1"
-filename = "lithostitched-1.7.9-fabric-21.1.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/lithostitched-1.7.9-fabric-21.1.jar"
-hash-format = "sha256"
-hash = "850c69518d63a7dd26452121a63ad801ae89ce255f86a3361143527c56a2bb4f"

@@ -1,8 +1,0 @@
-name = "IronChests-2.0.3"
-filename = "IronChests-2.0.3.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/IronChests-2.0.3.jar"
-hash-format = "sha256"
-hash = "0b428ef756ff2b7f3e0ef8f584ed0663fde8375e18ec5560afc28938d7c9736a"

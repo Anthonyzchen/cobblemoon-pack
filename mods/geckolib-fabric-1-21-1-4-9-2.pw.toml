@@ -1,0 +1,8 @@
+name = "geckolib-fabric-1.21.1-4.9.2"
+filename = "geckolib-fabric-1.21.1-4.9.2.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/geckolib-fabric-1.21.1-4.9.2.jar"
+hash-format = "sha256"
+hash = "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e"

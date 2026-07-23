@@ -1,0 +1,8 @@
+name = "mru-1.0.31+1.21.1-fabric"
+filename = "mru-1.0.31+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/mru-1.0.31%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "b92bb8251eddc121ff5b326311ebabe7bc1f18165bdf9c6816e91adba64ddb72"

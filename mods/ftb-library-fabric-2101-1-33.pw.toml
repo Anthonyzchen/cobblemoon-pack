@@ -1,0 +1,8 @@
+name = "ftb-library-fabric-2101.1.33"
+filename = "ftb-library-fabric-2101.1.33.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/ftb-library-fabric-2101.1.33.jar"
+hash-format = "sha256"
+hash = "6c5a1831daef95c362fcdd4646674eb3179a4bdc8bd91e95323d465afeb72ef8"

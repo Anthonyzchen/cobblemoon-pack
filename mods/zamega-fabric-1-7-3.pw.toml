@@ -1,8 +1,0 @@
-name = "zamega-fabric-1.7.3"
-filename = "zamega-fabric-1.7.3.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/zamega-fabric-1.7.3.jar"
-hash-format = "sha256"
-hash = "0d134591a9db9834f5f2bffdce4bd4cd0976a1b7879aa7f52ce064c38199cfaa"

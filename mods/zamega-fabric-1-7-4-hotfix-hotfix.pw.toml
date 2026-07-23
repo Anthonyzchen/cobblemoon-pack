@@ -1,0 +1,8 @@
+name = "zamega-fabric-1.7.4-hotfix-hotfix"
+filename = "zamega-fabric-1.7.4-hotfix-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/zamega-fabric-1.7.4-hotfix-hotfix.jar"
+hash-format = "sha256"
+hash = "83338987263e97b59507d921f1d6f4692f78c34a87c6961bb964e71d17eaa8a8"

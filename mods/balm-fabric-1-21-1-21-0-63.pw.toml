@@ -1,0 +1,8 @@
+name = "balm-fabric-1.21.1-21.0.63"
+filename = "balm-fabric-1.21.1-21.0.63.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/balm-fabric-1.21.1-21.0.63.jar"
+hash-format = "sha256"
+hash = "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391"

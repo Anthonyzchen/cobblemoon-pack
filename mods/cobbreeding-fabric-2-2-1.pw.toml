@@ -1,8 +1,0 @@
-name = "Cobbreeding-fabric-2.2.1"
-filename = "Cobbreeding-fabric-2.2.1.jar"
-side = "both"
-
-[download]
-url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/Cobbreeding-fabric-2.2.1.jar"
-hash-format = "sha256"
-hash = "c34567d7e536d097df9afca68dc3d893056266064a920e781cacbcaf1517f8f1"

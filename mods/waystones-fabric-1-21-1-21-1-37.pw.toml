@@ -1,0 +1,8 @@
+name = "waystones-fabric-1.21.1-21.1.37"
+filename = "waystones-fabric-1.21.1-21.1.37.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/waystones-fabric-1.21.1-21.1.37.jar"
+hash-format = "sha256"
+hash = "1cef833ec178bc6ea92a221b8a75bc6637e9e4d38d23f3963610fd772f1b2f95"

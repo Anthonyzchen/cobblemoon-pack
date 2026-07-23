@@ -1,0 +1,8 @@
+name = "fightorflight-fabric-0.10.9"
+filename = "fightorflight-fabric-0.10.9.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/fightorflight-fabric-0.10.9.jar"
+hash-format = "sha256"
+hash = "7eee034d17281b43324cbdcc41a3836b6c44a93798d40a608538ed12a72279c1"
