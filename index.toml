@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "72fca1a827b43adfddb32ad403fb63ae248235d89e44015b2ee523cca1a2b8aa"
+hash = "59c1d9a0cc6007f60b593d55304c5e97ebae5349d15365ab8a1f33feefc53e0f"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "c979761899284a83d06bf35f83dfc4efe5bca435f2f12af8c98eb37845eaabd6"
+hash = "5f6a73051b98b554b034f0860ffa5e4a8a247fd03ec53d2f0c6dfba0fd92ef40"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3144,6 +3144,11 @@ metafile = true
 [[files]]
 file = "mods/azcdiveballfix-1-0-0.pw.toml"
 hash = "2b93c74fc0f87130ca18179a3f2943c1f32fe4351ca655c0721c79b259bacfed"
+metafile = true
+
+[[files]]
+file = "mods/azcflyinghitbox-1-0-0.pw.toml"
+hash = "958bf870840cdaf108285a6e4a6d382f5fda34cacda234058fa367c044c57c4e"
 metafile = true
 
 [[files]]

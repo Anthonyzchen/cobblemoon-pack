@@ -1,0 +1,8 @@
+name = "azcflyinghitbox-1.0.0"
+filename = "azcflyinghitbox-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcflyinghitbox-1.0.0.jar"
+hash-format = "sha256"
+hash = "831ba1b08dfb0d905f7bd047f6c96b5453b98a727c660b0d6aecf6f068e05a1b"

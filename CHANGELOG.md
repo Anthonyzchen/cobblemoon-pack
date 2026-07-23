@@ -132,3 +132,8 @@
 - travelersbackpack: 10.1.36 → 10.1.37
 - waystones: 21.1.34 → 21.1.37
 - zamega: 1.7.3 → 1.7.4-hotfix-hotfix
+
+## Modpack update — 2026-07-23
+
+**Added**
+- azcflyinghitbox 1.0.0
