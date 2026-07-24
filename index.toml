@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "59c1d9a0cc6007f60b593d55304c5e97ebae5349d15365ab8a1f33feefc53e0f"
+hash = "9252bece13067595a81f70ac9afb3b5e818563fd9b18e66e52ab50c625ece2fa"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "5f6a73051b98b554b034f0860ffa5e4a8a247fd03ec53d2f0c6dfba0fd92ef40"
+hash = "6f8b054f1a4f4a841ba79b0fe91c0150551b4db1903f7b8fd262024a0bdb8ba0"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -2882,7 +2882,7 @@ hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "9df6cdfdf9c3ab729bb3f8a0c00fdbf80c2d27c252b1e096c7a0c3b192777a58"
+hash = "4b1f800b44653668d5a1562a886a141dec2a8f87f7bab7c386fe965b2a19df24"
 
 [[files]]
 file = "config/treechop-client.toml"
@@ -3917,8 +3917,8 @@ hash = "f820c9344a12999b78e0c253878aae288d4c16279f181b38a4a8418e40c615cc"
 metafile = true
 
 [[files]]
-file = "mods/waystones-fabric-1-21-1-21-1-37.pw.toml"
-hash = "0fd95b416b40cd7e8c1053ce0c23a0872a7b3ec6114f06e379f7fc575b99efeb"
+file = "mods/waystones-fabric-1-21-1-21-1-34.pw.toml"
+hash = "298cd359b142ebcbf80f169a469f6371cdece1b0efe2ef260275af966aacfe58"
 metafile = true
 
 [[files]]
@@ -3937,8 +3937,8 @@ hash = "976a425c072be93563ba3bfbc9cee1b72e490660c5bbb75b8b59419aa24d9918"
 metafile = true
 
 [[files]]
-file = "mods/xmxw-2-11-1-1-21-1-fabric.pw.toml"
-hash = "ea4254e22c2dae1e2f04e94b6812c49f22d0449fc3c9534f6ed7265422304ab4"
+file = "mods/xmxw-2-10-1-1-21-1-fabric.pw.toml"
+hash = "84413f683fc2bd43845d32ca47694d440bf260142e8ac9abea4a71b4b652054d"
 metafile = true
 
 [[files]]

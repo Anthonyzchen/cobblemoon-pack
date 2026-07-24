@@ -1,4 +1,8 @@
-## Modpack update — 2026-07-23
+## Modpack update — 2026-07-24
 
-**Added**
-- azcflyinghitbox 1.0.0
+**Updated**
+- waystones: 21.1.37 → 21.1.34
+- xmxw: 2.11.1 → 2.10.1
+
+**Config**
+- travelersbackpack (M)

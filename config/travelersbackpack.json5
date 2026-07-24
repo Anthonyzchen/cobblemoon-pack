@@ -250,7 +250,10 @@
 	},
 	"slownessDebuff": {
 		// Player gets slowness effect, if carries too many backpacks in inventory
-		"tooManyBackpacksSlowness": true,
+		// DISABLED 2026-07-24: the 10.1.37 update regenerated this with maxNumberOfBackpacks=0 +
+		// slownessPerExcessedBackpack=2, so carrying a single spare backpack gave permanent Slowness II.
+		// We don't want a carry-weight debuff at all.
+		"tooManyBackpacksSlowness": false,
 		// Maximum number of backpacks, which can be carried in inventory, without slowness effect
 		"maxNumberOfBackpacks": 0,
 		"slownessPerExcessedBackpack": 2
