@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9252bece13067595a81f70ac9afb3b5e818563fd9b18e66e52ab50c625ece2fa"
+hash = "e3d52061145fdd4564c70e3ce188cd58e6ea72411694694e9990745f54ced592"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "6f8b054f1a4f4a841ba79b0fe91c0150551b4db1903f7b8fd262024a0bdb8ba0"
+hash = "e6af061913c08fa39514d7df720606a0f1d8f49fcac908b4daabf32778724bb6"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3054,7 +3054,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "datapacks/azc-riding-client.zip"
-hash = "45b350115f290263c59c5e6669cc187d44434a6b2cb0fa93dcf7f4f6a3cbf982"
+hash = "0e520a11ef3a9edfea59be281a1bc954d97b83a6c1d0b263a6992f42a592bd58"
 
 [[files]]
 file = "mods/accessories-fabric-1-1-0-beta-53-1-21-1.pw.toml"
@@ -3108,7 +3108,7 @@ metafile = true
 
 [[files]]
 file = "mods/azcbattleforfeit-1-0-0.pw.toml"
-hash = "dba55a521d28134437f33aecec8d321863cf7ca372ba13e2f6743fec7913a4e6"
+hash = "33ec9c8fb0297e7f449da0c8f0ae0b84f3a3d466492511976566a476ae623153"
 metafile = true
 
 [[files]]
@@ -4710,7 +4710,7 @@ metafile = true
 
 [[files]]
 file = "scripts/gen-riding-client.py"
-hash = "8d38370395ea165d799541157c369a2b4da1eddc90ed2b1ba235530426c9346b"
+hash = "069123caa2b4210bf66933e8e2601f6d959a8bff7cf02490bd7136064ca9f3aa"
 
 [[files]]
 file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
