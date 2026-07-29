@@ -194,3 +194,8 @@
 
 **Config**
 - mewtwo_layout (M)
+
+## Modpack update — 2026-07-28
+
+**Config**
+- customizablemenus (A)
