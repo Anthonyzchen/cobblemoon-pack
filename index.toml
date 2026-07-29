@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b13abe3ce5f3a73b0a32ae812cb05d337a28dcf746e9741e33e42b06ecbc4a59"
+hash = "507d7bfc83919ef3f75b4fcd08dcf5d4a348e7b19a31f069ac806011dcfc083e"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "a2586c9aaa5ccc697d42dd7158309d34041addac043fcaa3d3a52801a70e6810"
+hash = "69deb494b698d7340ab413cb66bfec3e4a3ec862e8d8b129f094fca57f9a02f3"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -438,7 +438,7 @@ hash = "dcdb33fda9713c93141a54ca5b389e09a9bf0b3ee8a13dea2ed7a798b2fceb52"
 
 [[files]]
 file = "config/fancymenu/customization/mewtwo_layout.txt"
-hash = "7eae81730bd8d809eeb4c9b4c12074f37b79d99f6ccd21a73d59340d6ce19e58"
+hash = "3c7fcf43f15c22d97fbcba47faf12ba65068c4c8d36f2ef5448c93bc59f21c8f"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"

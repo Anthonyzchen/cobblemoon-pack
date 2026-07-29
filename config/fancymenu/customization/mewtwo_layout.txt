@@ -379,9 +379,10 @@ element {
   auto_sizing_base_gui_width = 640
   auto_sizing_base_gui_height = 353
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = 106
-  y = -31
+  anchor_point = element
+  anchor_point_element = mc_titlescreen_multiplayer_button
+  x = 206
+  y = -5
   width = 25
   height = 30
   stay_on_screen = true
