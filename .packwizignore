@@ -3,4 +3,4 @@ build-lite.sh
 README.md
 .gitignore
 .packwizignore
-options.txt
+/options.txt
