@@ -52,7 +52,14 @@ rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' \
   --exclude='fancymenu/last_world.fmdata' --exclude='fancymenu/ffmpeg.zip' \
   --exclude='fancymenu/ffprobe.zip' --exclude='fancymenu/layout_editor/' \
   "$INST/config/" "$PACK/config/"
-cp "$INST/options.txt" "$PACK/options.txt" 2>/dev/null || true
+# options.txt is deliberately NOT shipped. It was, until 2026-07-28, and it was destructive:
+# packwiz RESTORES a managed file whenever the local copy differs from the index hash, so a player
+# changing any keybind or video setting had it reverted on their next launch. The file carries 191
+# key_ bindings plus render distance, gui scale, sound and fps cap. Publishing it also pushed this
+# instance's settings to everyone — that fired on all 7 publishes that touched the file.
+# Client defaults now come from the `defaultoptions` mod via config/defaultoptions/options.txt,
+# which seeds a FRESH install only and never overwrites an existing one. That is what it is for.
+# Do not re-add this cp, and keep options.txt in .packwizignore.
 # self-documenting patch notes: diff the pending .pw.toml version changes vs HEAD, write
 # PATCHNOTES-latest.md + append CHANGELOG.md so they land in this same commit. Fail-safe.
 # MUST run BEFORE `packwiz refresh`: refresh hashes the working tree into index.toml, so the

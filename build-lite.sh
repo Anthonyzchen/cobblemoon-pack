@@ -17,8 +17,11 @@ PY
 rm -f resourcepacks/*cobblesounds*.pw.toml
 rm -f shaderpacks/*.pw.toml 2>/dev/null; rmdir shaderpacks 2>/dev/null || true
 [ -f config/iris.properties ] && { grep -q '^enableShaders=' config/iris.properties && sed -i '' 's/^enableShaders=.*/enableShaders=false/' config/iris.properties || printf '\nenableShaders=false\n' >> config/iris.properties; }
-sed -i '' -e 's/^graphicsMode:.*/graphicsMode:0/' -e 's/^renderDistance:.*/renderDistance:6/' -e 's/^simulationDistance:.*/simulationDistance:6/' -e 's/^entityDistanceScaling:.*/entityDistanceScaling:0.5/' -e 's/^mipmapLevels:.*/mipmapLevels:2/' -e 's/^biomeBlendRadius:.*/biomeBlendRadius:1/' options.txt
-sed -i '' -e 's#,"file/CobbleSounds-Complete-v1.4.1.zip"##' -e 's#"file/CobbleSounds-Complete-v1.4.1.zip",##' options.txt
+# Lite's lower defaults are applied to the defaultoptions SEED, not to options.txt: the pack no
+# longer ships options.txt (packwiz would revert players' own settings every launch). Seeding via
+# defaultoptions gives fresh installs the lite defaults without touching an existing install.
+sed -i '' -e 's/^graphicsMode:.*/graphicsMode:0/' -e 's/^renderDistance:.*/renderDistance:6/' -e 's/^simulationDistance:.*/simulationDistance:6/' -e 's/^entityDistanceScaling:.*/entityDistanceScaling:0.5/' -e 's/^mipmapLevels:.*/mipmapLevels:2/' -e 's/^biomeBlendRadius:.*/biomeBlendRadius:1/' config/defaultoptions/options.txt
+sed -i '' -e 's#,"file/CobbleSounds-Complete-v1.4.1.zip"##' -e 's#"file/CobbleSounds-Complete-v1.4.1.zip",##' config/defaultoptions/options.txt
 sed -i '' 's/^name = "Cobblemoon"/name = "Cobblemoon Lite"/' pack.toml
 packwiz refresh
 git add -A
