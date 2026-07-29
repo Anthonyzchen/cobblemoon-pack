@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcsizesync-1.0.0.jar"
 hash-format = "sha256"
-hash = "7f47f7f616325e049feef5311c93b5874d6de81803e4227e746f50c0e1b8dfef"
+hash = "2df701a3ec3577fd2930225d2117f18f0bd1cd949be7516c425986402283c600"
