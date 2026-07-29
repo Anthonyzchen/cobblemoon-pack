@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "4c159cbe7a1575337fa34a485ab4ed091134822fd97cb0636d9762dbae3f1d83"
+hash = "8318fbb10b4789ae374629fee1948a05808e118029ec176b8929ce8975ff4a02"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "17da0eef5c08b087bfba33691fea8a44ee38399890893415320cc97ebd57d979"
+hash = "9edc6805efae4b906df06b2784528187e08cad394684a80754bfc2de3df8738f"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -435,10 +435,6 @@ hash = "4d062336e9d7ea45dc1c98189e11c024e2c85388469eabac9505536b28c8b0e1"
 [[files]]
 file = "config/fancymenu/assets/mewtwohover.gif"
 hash = "dcdb33fda9713c93141a54ca5b389e09a9bf0b3ee8a13dea2ed7a798b2fceb52"
-
-[[files]]
-file = "config/fancymenu/config.txt"
-hash = "feb44eafe9f329b677e08311f69bbe497d1106376219c0980d69a0ebc4af61ce"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
