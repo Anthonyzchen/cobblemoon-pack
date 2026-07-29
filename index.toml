@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a5d23b8780ad167f071d50bd6c6b69629eb9821e7de14cbd27783b2062362f63"
+hash = "fba470010da9c47cc82dd2009f20af8007514b9a17839ecb99d823b37c89c178"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "337a3dc7daf4961a6ad39ba557de1ec7efc3f019e6298675a0fac0b9b6211357"
+hash = "142dbcfac54c89d73bcad165ecd75e9eb9ba26ba51ee3c8d4089d9cc1490a23c"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -394,7 +394,7 @@ hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "79d218738e2c219a902b87018228b02fd52b95befe963b50a372c7eb9ef48df6"
+hash = "0940c40df440382824f27dfae14a3a5f3fcc210abcb7357db5638dac12dfce14"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"

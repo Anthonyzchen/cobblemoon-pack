@@ -52,7 +52,15 @@ rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' \
   --exclude='fancymenu/last_world.fmdata' --exclude='fancymenu/ffmpeg.zip' \
   --exclude='fancymenu/ffprobe.zip' --exclude='fancymenu/layout_editor/' \
   "$INST/config/" "$PACK/config/"
-# options.txt is deliberately NOT shipped. It was, until 2026-07-28, and it was destructive:
+# Derive the defaultoptions SEED from options.txt, so there is exactly one file a human edits.
+# These two drifted apart while options.txt was the shipped file: the seed was missing 18 keybinds
+# (Jade, Traveler's Backpack, Axiom), 2 resourcepacks (punchy, gyaradosjump), 5
+# incompatibleResourcePacks entries, and had togglePerspective on F instead of F5. The moment the
+# seed became the source of truth, every one of those became the client default. Regenerating it
+# here means editing options.txt is enough and the seed can never fall behind again.
+cp "$INST/options.txt" "$INST/config/defaultoptions/options.txt" 2>/dev/null || true
+
+# options.txt itself is deliberately NOT shipped. It was, until 2026-07-28, and it was destructive:
 # packwiz RESTORES a managed file whenever the local copy differs from the index hash, so a player
 # changing any keybind or video setting had it reverted on their next launch. The file carries 191
 # key_ bindings plus render distance, gui scale, sound and fps cap. Publishing it also pushed this

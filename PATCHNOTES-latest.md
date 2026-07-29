@@ -1,4 +1,4 @@
-## Modpack update — 2026-07-28
+## Modpack update — 2026-07-29
 
 **Config**
-- customizablemenus (A)
+- options (M)
