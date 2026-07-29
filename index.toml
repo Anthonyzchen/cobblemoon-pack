@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e3d52061145fdd4564c70e3ce188cd58e6ea72411694694e9990745f54ced592"
+hash = "1095bfa6775ec7dedbde9a43a2eb15e9721b9838232d85d6bc32ae7c29273427"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "e6af061913c08fa39514d7df720606a0f1d8f49fcac908b4daabf32778724bb6"
+hash = "dd5a24ffa165ec32b0889e957aa9da0ada001331c1c8ccf9687cbbc62712d671"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -394,7 +394,7 @@ hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1e5121e8082258f1b2f0f3c78fcb404c72ad685ab3dde6347f2455116a04b209"
+hash = "79d218738e2c219a902b87018228b02fd52b95befe963b50a372c7eb9ef48df6"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -427,6 +427,18 @@ hash = "24d97de693877f20c4c79a6c1b1e0a410ef42c551b1a5d423697c5432d804b15"
 [[files]]
 file = "config/fallingleaves.json"
 hash = "d3b1d95d9f4e7304d79202b0b26f51e5d33f461e1416ecda25cb9a2bc8effbe3"
+
+[[files]]
+file = "config/fancymenu/assets/mewtwo.gif"
+hash = "4d062336e9d7ea45dc1c98189e11c024e2c85388469eabac9505536b28c8b0e1"
+
+[[files]]
+file = "config/fancymenu/assets/mewtwohover.gif"
+hash = "dcdb33fda9713c93141a54ca5b389e09a9bf0b3ee8a13dea2ed7a798b2fceb52"
+
+[[files]]
+file = "config/fancymenu/customization/mewtwo_layout.txt"
+hash = "7eae81730bd8d809eeb4c9b4c12074f37b79d99f6ccd21a73d59340d6ce19e58"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -3457,6 +3469,11 @@ hash = "10c529b4db9b261295346ca5061e579f21a63dcdb05b8a1a02780754ab4439ab"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric-3-9-8-mc-1-21-1.pw.toml"
+hash = "68e966e0f6e8af95d063ae095be0887a0dbf4b57ac853deb08c534158409a155"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-7-0-3-fabric.pw.toml"
 hash = "0875ef3bfc47d53b64072bf26903069cad617b887cd8ef8b5b949074b452813d"
 metafile = true
@@ -3572,6 +3589,11 @@ hash = "3c6882b0d2275bc26296926d4dd45cd5439cb6f6d4941a782e9e67ca5edcb949"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric-1-9-9-mc-1-21.pw.toml"
+hash = "610a3df3cfa4047b6757e62e0c89a8dddc8c8df0df46923a52a087c4cc825c32"
+metafile = true
+
+[[files]]
 file = "mods/krypton-0-2-8.pw.toml"
 hash = "44c1b3456a6a615517d6f3177418fa864558605faa389bb847e8688c10d8aafb"
 metafile = true
@@ -3664,6 +3686,11 @@ metafile = true
 [[files]]
 file = "mods/mega-showdown-fabric-1-9-0-1-7-3-1-21-1-hotfix-v3.pw.toml"
 hash = "faa41e3844112ec2ca4cd6b618b28b6f6b5f779966a666b485812fb4f9b69b53"
+metafile = true
+
+[[files]]
+file = "mods/melody-fabric-1-0-10-mc-1-21.pw.toml"
+hash = "3ec2590154d362b72ec756145b3be1eba838c7772b0d31f661b97b0859d36752"
 metafile = true
 
 [[files]]
@@ -3998,7 +4025,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c721ecb9f1f493929cdd43365ce1e26a3dcc9e5efdc17867d2257ee3afc6c882"
+hash = "0940c40df440382824f27dfae14a3a5f3fcc210abcb7357db5638dac12dfce14"
 
 [[files]]
 file = "resourcepacks/AZC-Townsfolk/assets/cobblemon/bedrock/npcs/variations/townsfolk_alpine_herder.json"
@@ -4642,6 +4669,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-pokemon-icons.pw.toml"
 hash = "1264a473015f5179806617af3e67d8f692a51167eef5e9ec73f719f048c7e6c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemoontitlepage.pw.toml"
+hash = "187d2e7ec0c7991f7567cec0da0479eac7b91136a9591fb6c55ec3ec0af6ce38"
 metafile = true
 
 [[files]]

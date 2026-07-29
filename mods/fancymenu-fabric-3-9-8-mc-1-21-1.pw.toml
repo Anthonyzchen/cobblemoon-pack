@@ -1,0 +1,8 @@
+name = "fancymenu_fabric_3.9.8_MC_1.21.1"
+filename = "fancymenu_fabric_3.9.8_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "19e5faf15a769ba4841815fb2320f1efc9f97ddffbc24c95299b6480b50af201"

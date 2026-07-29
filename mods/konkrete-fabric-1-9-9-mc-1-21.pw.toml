@@ -1,0 +1,8 @@
+name = "konkrete_fabric_1.9.9_MC_1.21"
+filename = "konkrete_fabric_1.9.9_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+hash-format = "sha256"
+hash = "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841"

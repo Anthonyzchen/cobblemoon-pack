@@ -42,7 +42,16 @@ PY
 # no-cache on jars too: filenames are stable across rebuilds but contents change, so a cached
 # jar + freshly-published manifest hash = "hash invalid" for players. Mirror the manifest policy.
 [ -n "$(ls /tmp/pwup 2>/dev/null)" ] && gcloud storage cp --cache-control="no-cache, max-age=0" /tmp/pwup/*.jar "$BUCKET/mods/" --project="$PROJ" --account="$ACCT" 2>&1 | tail -1
-rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' "$INST/config/" "$PACK/config/"
+# FancyMenu writes runtime state into its OWN config dir (caches, decoded frames, a downloaded
+# ffmpeg/ffprobe). Without these excludes --delete would ship all of it to every client, and
+# packwiz would then keep reverting whatever the client regenerates locally. Ship only the
+# authored menu: customization/ (layouts), assets/, customguis/, ui_themes/, config.txt.
+rsync -a --delete --exclude='*.bak*' --exclude='resourceful-config-web.json' \
+  --exclude='fancymenu/fancymenu_temp/' --exclude='fancymenu/fancymenu_data/' \
+  --exclude='fancymenu/decoded_fma_images/' --exclude='fancymenu/decoded_afma_images/' \
+  --exclude='fancymenu/last_world.fmdata' --exclude='fancymenu/ffmpeg.zip' \
+  --exclude='fancymenu/ffprobe.zip' --exclude='fancymenu/layout_editor/' \
+  "$INST/config/" "$PACK/config/"
 cp "$INST/options.txt" "$PACK/options.txt" 2>/dev/null || true
 # self-documenting patch notes: diff the pending .pw.toml version changes vs HEAD, write
 # PATCHNOTES-latest.md + append CHANGELOG.md so they land in this same commit. Fail-safe.

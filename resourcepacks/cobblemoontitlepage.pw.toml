@@ -1,0 +1,8 @@
+name = "CobblemoonTitlePage"
+filename = "CobblemoonTitlePage.zip"
+side = "client"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/resourcepacks/CobblemoonTitlePage.zip"
+hash-format = "sha256"
+hash = "cd8cdc8f305dac917a8ec36526280069576c5f66145526750787099a3d5996af"

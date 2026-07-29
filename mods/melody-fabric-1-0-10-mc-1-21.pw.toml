@@ -1,0 +1,8 @@
+name = "melody_fabric_1.0.10_MC_1.21"
+filename = "melody_fabric_1.0.10_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/melody_fabric_1.0.10_MC_1.21.jar"
+hash-format = "sha256"
+hash = "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83"
