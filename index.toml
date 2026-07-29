@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8318fbb10b4789ae374629fee1948a05808e118029ec176b8929ce8975ff4a02"
+hash = "b13abe3ce5f3a73b0a32ae812cb05d337a28dcf746e9741e33e42b06ecbc4a59"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "9edc6805efae4b906df06b2784528187e08cad394684a80754bfc2de3df8738f"
+hash = "a2586c9aaa5ccc697d42dd7158309d34041addac043fcaa3d3a52801a70e6810"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -435,10 +435,6 @@ hash = "4d062336e9d7ea45dc1c98189e11c024e2c85388469eabac9505536b28c8b0e1"
 [[files]]
 file = "config/fancymenu/assets/mewtwohover.gif"
 hash = "dcdb33fda9713c93141a54ca5b389e09a9bf0b3ee8a13dea2ed7a798b2fceb52"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "d6959e42a3b48b6e791da6ce8dbeb25d6796f7eb5dee672599f3d212ea1de75b"
 
 [[files]]
 file = "config/fancymenu/customization/mewtwo_layout.txt"
