@@ -1,0 +1,8 @@
+name = "azcnbtguard-1.0.0"
+filename = "azcnbtguard-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcnbtguard-1.0.0.jar"
+hash-format = "sha256"
+hash = "0f1b9d6dd8de13c5e6851e929bd8029aea95d3166ea25f50a63c893fd7106dd3"

@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1095bfa6775ec7dedbde9a43a2eb15e9721b9838232d85d6bc32ae7c29273427"
+hash = "4cc74ef3e09f0dc7d926f2b1f61750d15fe9342626994c9d7f82a6b5d9098f37"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "dd5a24ffa165ec32b0889e957aa9da0ada001331c1c8ccf9687cbbc62712d671"
+hash = "ac5762257133142bbd16597937aee1d1f30ba20984801e3815184295f544188f"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -3066,7 +3066,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "datapacks/azc-riding-client.zip"
-hash = "0e520a11ef3a9edfea59be281a1bc954d97b83a6c1d0b263a6992f42a592bd58"
+hash = "57472364194dc272cc6d19f9e7f9d14041739a3e5042ddcbbd9ee08ba7454b58"
 
 [[files]]
 file = "mods/accessories-fabric-1-1-0-beta-53-1-21-1.pw.toml"
@@ -3189,6 +3189,11 @@ hash = "f47e2c31dc6ad292cf44ae03f7da5cea670776dab5a2e1822302c4ff5caef1bd"
 metafile = true
 
 [[files]]
+file = "mods/azcnbtguard-1-0-0.pw.toml"
+hash = "be63714c70e809a813f86573ebeafc06996c01ed020e2c569056125faae33dd0"
+metafile = true
+
+[[files]]
 file = "mods/azcnoendbook-1-0-0.pw.toml"
 hash = "9024381ff202391d4d80a45f4bcaf61a7ab7e19c35cf3d82a265b4907b937c3f"
 metafile = true
@@ -3211,6 +3216,11 @@ metafile = true
 [[files]]
 file = "mods/azcseasonhud-1-0-0.pw.toml"
 hash = "27e0aab46e89af1d17e5f80ac1c900a8a4de35c527b21adfaa1463fda63a9098"
+metafile = true
+
+[[files]]
+file = "mods/azcsizesync-1-0-0.pw.toml"
+hash = "becc420cb501aaf4214bc56703cd6ff2371f090dfcac23c6059a2e996099fb78"
 metafile = true
 
 [[files]]
