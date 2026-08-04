@@ -3195,7 +3195,6 @@
 			y: 18.5d
 		}
 		{
-			dependencies: ["5D4A0E1100000003"]
 			icon: {
 				id: "ad_astra:tier_4_rocket"
 			}
@@ -3237,7 +3236,6 @@
 			y: 18.5d
 		}
 		{
-			dependencies: ["482E97E6EE1BC0DD"]
 			icon: {
 				id: "ad_astra:tier_3_rocket"
 			}
@@ -3509,7 +3507,6 @@
 			y: 11.5d
 		}
 		{
-			dependencies: ["79B6E73C505B8909"]
 			icon: {
 				id: "ad_astra:tier_2_rocket"
 			}

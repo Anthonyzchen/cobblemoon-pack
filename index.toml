@@ -6,11 +6,11 @@ hash = "8b8b800df377ed96423316fd9f57a04f5a5528ab6583c031d70486830d927e21"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fba470010da9c47cc82dd2009f20af8007514b9a17839ecb99d823b37c89c178"
+hash = "c97c473c2f3a5b92d3b72ef992e6d7d6278ad5df3c5146ea08fae589824dad79"
 
 [[files]]
 file = "PATCHNOTES-latest.md"
-hash = "142dbcfac54c89d73bcad165ecd75e9eb9ba26ba51ee3c8d4089d9cc1490a23c"
+hash = "2d7b7eb9072068fb15bfb9563ae5f49fc1d343b955f6e98c13a29eb6e0224939"
 
 [[files]]
 file = "build-lite.sh.premigration.bak"
@@ -389,6 +389,10 @@ file = "config/defaultoptions-common.toml"
 hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
+file = "config/defaultoptions/extra/config/fancymenu/options.txt"
+hash = "ec024428f50996c46fb9177118404f38ba422ab3ded399bf17aea4ef491d5876"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "04f93b72e984b160385c3c730c03c09fd1b666902dff867cda9935e59a0c48f3"
 
@@ -486,7 +490,7 @@ hash = "4c560f78a0dae367bda8ba116debf92a2ad3897cfb39c0ce1c676e9e9c6227c7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure_exploration.snbt"
-hash = "ede45821ef67eb19b2e67d5e254b63d748eb678c1c2da48b7438c46be555fccd"
+hash = "81536b810559ee1395587ba0f01d78c8cbdbd0ed5adc4f94758e36bf99a7ca2f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure_exploration.snbt.bak-mewlevel-20260703"
@@ -3150,6 +3154,11 @@ metafile = true
 [[files]]
 file = "mods/azccobblerumble-1-4-4.pw.toml"
 hash = "15c5888a827d76c756be7f434e110ca80cf7654928f05ac20e2e9c6abaf49735"
+metafile = true
+
+[[files]]
+file = "mods/azcdespawnlog-1-0-0.pw.toml"
+hash = "a221aea7d61b54e57a9e0dea0f73e29240bec4d35d9a2526adf46b8e76c12679"
 metafile = true
 
 [[files]]

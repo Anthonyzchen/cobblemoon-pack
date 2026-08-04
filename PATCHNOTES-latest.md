@@ -1,4 +1,10 @@
-## Modpack update — 2026-07-29
+## Modpack update — 2026-08-04
+
+**Added**
+- azcdespawnlog 1.0.0
 
 **Config**
-- options (M)
+- options (A)
+
+**Quests**
+- ftbquests/quests/chapters/adventure_exploration.snbt

@@ -1,0 +1,8 @@
+name = "azcdespawnlog-1.0.0"
+filename = "azcdespawnlog-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://storage.googleapis.com/cobblemon-adastra-client-dl/pack/mods/azcdespawnlog-1.0.0.jar"
+hash-format = "sha256"
+hash = "63befba547b0f6424324608582834a08c04e060b0d23a0a24a2501b13871aeff"
